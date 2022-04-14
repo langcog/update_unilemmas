@@ -8,10 +8,10 @@ old_items <- get_item_data(language = language) %>%
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 548 British Sign Language items"
-# "129 missing uni_lemmas in original ( 0.24 % missing)"
+# "129 missing uni_lemmas in original ( 24 % missing)"
 # "99 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
-# "30 uni_lemmas still missing ( 0.05 % missing)"
+# "30 uni_lemmas still missing ( 5 % missing)"
 # "Review 0 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
 
 # now join and re-save in raw_data/instruments format, e.g.

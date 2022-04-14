@@ -8,7 +8,7 @@ language = "Croatian"
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 775 Croatian items"
-# "62 missing uni_lemmas in original ( 0.08 % missing)"
+# "62 missing uni_lemmas in original ( 8 % missing)"
 # "99 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
 # "1 uni_lemmas still missing ( 0 % missing)"

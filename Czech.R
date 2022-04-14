@@ -8,8 +8,8 @@ language = "Czech"
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 553 Czech items"
-# "75 missing uni_lemmas in original ( 0.14 % missing)"
+# "75 missing uni_lemmas in original ( 14 % missing)"
 # "47 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
-# "28 uni_lemmas still missing ( 0.05 % missing)"
+# "28 uni_lemmas still missing ( 5 % missing)"
 # "Review 0 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
