@@ -308,7 +308,7 @@ item_306	item_200	outside	nebo	sky	sky
 item_307		outside	oblak	cloud	cloud			
 item_308		outside	ograda	fence			fence	
 item_309	item_228	outside	park	park	park			
-item_310		outside	pješčanik	sandbox	sand			
+item_310		outside	pješčanik	sandbox	sand		sandbox	
 item_311		outside	pločnik	sidewalk			path	
 item_312	item_295	outside	snijeg	snow	snow			
 item_313		outside	snjegović	snowman	snowman			
@@ -604,7 +604,7 @@ item_602		pronouns	ono/onaj/ona	that	that
 item_603		pronouns	ovo/ovaj/ova	this	this			
 item_604		pronouns	ovi/ove	these	these			
 item_605		pronouns	sebe/se	myself	myself			
-item_606		pronouns	svoj	her/his own			her/his own	Belonging to one's self.
+item_606		pronouns	svoj	her/his own			hers	Belonging to one's self.
 item_607		pronouns	to/taj/ta	this	this			
 item_608		pronouns	tebe/te	you	you			
 item_609		pronouns	tebi/ti	to you	you			

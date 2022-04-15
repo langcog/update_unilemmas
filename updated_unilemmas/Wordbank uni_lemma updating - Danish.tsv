@@ -114,7 +114,7 @@ item_112		food_drink	chokolade	chocolate			chocolate
 item_113		food_drink	mælkesnitte	milk chop				
 item_114		food_drink	spegepølse	sausage			sausage	
 item_115		food_drink	cola	cola			soda	
-item_116		food_drink	nødder	nuts			nut	
+item_116		food_drink	nødder	nuts			nuts	
 item_117		food_drink	syltetøj	jam			jam	
 item_118	item_78	food_drink	cornflakes	cornflakes	cheerios			
 item_119	item_88	food_drink	ost	cheese	cheese			
@@ -632,7 +632,7 @@ item_630	item_378	question_words	hvor	where	where (question)
 item_631	item_382	question_words	hvornår	when	when (question)			
 item_632	item_380	question_words	hvem	who	who			
 item_633	item_381	question_words	hvordan	how	how			
-item_634		question_words	hvilken/hvilket	what / which			which	
+item_634		question_words	hvilken/hvilket	what / which			which (question)	
 item_635	item_379	question_words	hvorfor	why	why			
 item_636	item_383	locations	af	of	off			
 item_637		locations	hjemme	home				

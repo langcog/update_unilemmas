@@ -625,7 +625,7 @@ item_622							pronouns	zij(meisje)	she	she			623
 item_623	item_335					item_462	question_words	hoe	how	how			624	
 item_624	item_336	item_78				item_460	question_words	waar	where	where (question)			625	
 item_625					item_32		question_words	waarom	why	why			626	
-item_626							question_words	wanneer	when	when			627	
+item_626							question_words	wanneer	when	when		when (question)	627	
 item_627	item_337	item_79	item_101			item_461	question_words	wat	what	what			628	
 item_628						item_463	question_words	welke	which	which (question)			629	
 item_629	item_338	item_80				item_464	question_words	wie	who	who			630	
