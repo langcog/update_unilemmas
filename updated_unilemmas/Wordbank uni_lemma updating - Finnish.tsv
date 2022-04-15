@@ -126,7 +126,7 @@ item_124	item_79			food_drink	peruna	potato	potato
 item_125				food_drink	piimä	sour milk					
 item_126	item_95			food_drink	porkkana	carrot	carrots				
 item_127				food_drink	purukumi	chewing gum				Finnish word "purkka" is more used for "purukumi"	Agree, but that's the word on the parental report. (As an aside, I don't know how common chewing gum is with kids. I think ksylitolipastilli is more common. 
-item_128				food_drink	pähkinä	nut			nuts		
+item_128				food_drink	pähkinä	nut			nut		
 item_129	item_81			food_drink	rusina	raisin	raisin				
 item_130				food_drink	sokeria	sugar	sugar			Sokeri instead of "sokeria"	Yes, that's my mistake. I'm used to using the partitive and wrote it instead of the nominative. 
 item_131		item_24		food_drink	suola	salt			salt		

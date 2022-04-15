@@ -45,7 +45,7 @@ item_43	item_133	animals	Ördek	duck	duck
 item_44		animals	Örümcek	spider			spider	
 item_45		animals	Papağan	parrot			parrot	
 item_46		animals	Sincap	squirrel			squirrel	
-item_47		animals	Sinek	fly			fly	
+item_47		animals	Sinek	fly			fly (animal)	
 item_48	item_132	animals	Tavşan	rabbit/bunny	bunny			
 item_49	item_131	animals	Tavuk	chicken/hen	chicken (animal)			
 item_50		animals	Timsah	crocodile			crocodile	
@@ -105,7 +105,7 @@ item_103	item_104	food_drink	Ekmek	bread	bread
 item_104	item_103	food_drink	Elma	apple	apple			
 item_105	item_102	food_drink	Et	meat	meat			
 item_106		food_drink	Fasulye	beans			beans	
-item_107	item_101	food_drink	Fıstık	peanut	peanut			
+item_107	item_101	food_drink	Fıstık	peanut	nut			
 item_108		food_drink	Gazoz	soda			soda	
 item_109		food_drink	Ispanak	spinach			spinach	
 item_110		food_drink	Kahve	coffee			coffee	
@@ -266,7 +266,7 @@ item_264	item_162	furniture_rooms	Oda	room	room
 item_265		furniture_rooms	Salon	living room			living room	
 item_266	item_164	furniture_rooms	Sandalye/İskemle	chair	chair			
 item_267		furniture_rooms	Sehpa	coffee table			coffee table	
-item_268		furniture_rooms	Televizyon/TV	TV			tv	
+item_268		furniture_rooms	Televizyon/TV	TV			TV	
 item_269	item_166	furniture_rooms	Tuvalet	toilet	potty			
 item_270	item_167	furniture_rooms	Yatak	bed	bed			
 item_271	item_168	furniture_rooms	Yastık	pillow	pillow			

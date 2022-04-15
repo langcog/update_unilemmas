@@ -115,7 +115,7 @@ item_113		food_drink	kobasica	sausage			sausage
 item_114		food_drink	koka (piletina)	chicken	chicken (food)			
 item_115		food_drink	kokice	popcorn			popcorn	Other option would be snack. 
 item_116	item_133	food_drink	kolač	cake	cake			
-item_117		food_drink	krafna	donut	cake			
+item_117		food_drink	krafna	donut	cake		pastry	
 item_118		food_drink	krastavac	cucumber	cucumber			
 item_119	item_143	food_drink	kruh	bread	bread			
 item_120	item_144	food_drink	krumpir	potato	potato			
@@ -131,7 +131,7 @@ item_129	item_188	food_drink	mlijeko	milk	milk
 item_130		food_drink	mrkve	carrots	carrots			
 item_131	item_198	food_drink	naranča	orange	orange (food)			
 item_132		food_drink	njoke	gnocchi	pasta			
-item_133		food_drink	orasi	walnuts			walnuts	Or just 'nuts'.
+item_133		food_drink	orasi	walnuts			nut	Or just 'nuts'.
 item_134		food_drink	palačinka	pancake			pancake	
 item_135		food_drink	pecivo	rolls	pastry	bagel		
 item_136		food_drink	piće	drink	drink (beverage)			

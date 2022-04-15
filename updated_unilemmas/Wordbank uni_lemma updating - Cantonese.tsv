@@ -82,24 +82,24 @@ item_80	food_drink	雞(肉)		chicken (food)
 item_81	food_drink	豬(肉)		pork			
 item_82	food_drink	牛(肉)		beef			
 item_83	food_drink	魚		fish (food)			
-item_84	food_drink	蝦					
-item_85	food_drink	蟹					
-item_86	food_drink	魚蛋					
+item_84	food_drink	蝦			shrimp	shrimp	
+item_85	food_drink	蟹			crab	crab	
+item_86	food_drink	魚蛋			fish balls		
 item_87	food_drink	雞翼	chicken wing / chicken (food)	chicken (food)			
 item_88	food_drink	雞脾	chicken thigh / chicken (food)	chicken (food)			
 item_89	food_drink	腸仔		sausage			
 item_90	food_drink	火腿		ham			
 item_91	food_drink	叉燒	barbequed pork / char siu				
-item_92	food_drink	菜					
+item_92	food_drink	菜			vegetable	vegetable	
 item_93	food_drink	白菜	cabbage / bok choy, chinese cabbage	cabbage			
 item_94	food_drink	蕃茄		tomato			
-item_95	food_drink	粟米					
+item_95	food_drink	粟米			corn	corn	
 item_96	food_drink	蘿蔔	carrot / radish	carrots			
 item_97	food_drink	瓜		melon			
 item_98	food_drink	(冬/磨)菇		mushrooms			
 item_99	food_drink	豆		beans			
 item_100	food_drink	豆腐		tofu			
-item_101	food_drink	花生		peanut			
+item_101	food_drink	花生		peanut		nut	
 item_102	food_drink	水果/生果		fruit			
 item_103	food_drink	橙		orange (food)			
 item_104	food_drink	(香)蕉		banana			
@@ -256,9 +256,9 @@ item_254	action_words	綁/紮		tie
 item_255	action_words	爬		crawl			
 item_256	action_words	碌 (打滾)		roll (action)			
 item_257	action_words	擒		climb			
-item_258	action_words	趴					
+item_258	action_words	趴			bend		
 item_259	action_words	踎		squat			
-item_260	action_words	瞓低					
+item_260	action_words	瞓低			lower		
 item_261	action_words	斟(水)		pour			
 item_262	action_words	倒(水)		pour			
 item_263	action_words	滴		drip			
