@@ -1,10 +1,10 @@
 WS	WG	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes
-item_1	item_29	sounds	а-а-а		weee			
+item_1	item_29	sounds	а-а-а		weee			meaning?
 item_2	item_30	sounds	ав	Woof-woof	woof woof			
 item_3	item_31	sounds	алё	Ring-ring	hello			
 item_4	item_32	sounds	ам-ам/ням-ням	Yum-yum	yum yum			
 item_5	item_33	sounds	бе	Baa-baa	baa baa			
-item_6	item_34	sounds	биби	Beep-beep	beep beep			
+item_6	item_34	sounds	биби	Beep-beep	beep beep			(car) ?
 item_7	item_35	sounds	бл-бл	Gooble-gooble	gobble gobble			
 item_8	item_36	sounds	брр/ввв и т.п.	Vroom	vroom			
 item_9	item_37	sounds	бух/бах/бам	Thump	thump			
@@ -15,7 +15,7 @@ item_13	item_41	sounds	иа	E-haw	hee haw
 item_14	item_42	sounds	иго-го/цока-ющий звук	neigh-neigh	neigh			
 item_15	item_43	sounds	кап-кап	Pit-a-pat	drip drop			
 item_16	item_44	sounds	кар	Caw	caw			
-item_17	item_45	sounds	ква	Croak-croak	croak			
+item_17	item_45	sounds	ква	Croak-croak	croak		ribbit	
 item_18	item_46	sounds	ко-ко	Cluck-cluck	cluck			
 item_19	item_47	sounds	кря	quack -quack	quack quack			
 item_20	item_48	sounds	кукареку	Cock-a-doodle-do	cockadoodledoo			
@@ -581,34 +581,34 @@ item_579	item_390	descriptive_words (adjectives)	красный	red	red
 item_580	item_391	descriptive_words (adjectives)	оранжевый	orange	orange (description)			
 item_581	item_392	descriptive_words (adjectives)	синий	blue	blue			
 item_582	item_393	descriptive_words (adjectives)	черный	black	black			
-item_583	item_394	descriptive_words (adverbs)	больно	paintfully/boo-boo	painfully			
-item_584	item_395	descriptive_words (adverbs)	быстро	quick (quickly)	quickly	fast, quick, quckly	quick	
-item_585		descriptive_words (adverbs)	весело	cheerfully	cheerfully			
-item_586	item_396	descriptive_words (adverbs)	вкусно	tastefully	tastily			
+item_583	item_394	descriptive_words (adverbs)	больно	paintfully/boo-boo	painfully		painful	
+item_584	item_395	descriptive_words (adverbs)	быстро	quick (quickly)	quickly	fast, quick, quickly	quick	
+item_585		descriptive_words (adverbs)	весело	cheerfully	cheerfully		cheerful	
+item_586	item_396	descriptive_words (adverbs)	вкусно	tastefully	tastily	tasty	yummy	
 item_587		descriptive_words (adverbs)	вместе	together	together			
-item_588		descriptive_words (adverbs)	горько	bitterly	bitterly			
-item_589	item_397	descriptive_words (adverbs)	горячо	hot	hotly			
-item_590	item_398	descriptive_words (adverbs)	громко	loud (loudly)	loudly			
-item_591	item_399	descriptive_words (adverbs)	грязно	dirty	dirtily			
-item_592		descriptive_words (adverbs)	кисло	sour	sourly			
-item_593	item_400	descriptive_words (adverbs)	красиво	beautifully	beautifully			
-item_594	item_401	descriptive_words (adverbs)	мокро	wet	wetly			
-item_595		descriptive_words (adverbs)	мягко	softly	softly			
+item_588		descriptive_words (adverbs)	горько	bitterly	bitterly		bitter	
+item_589	item_397	descriptive_words (adverbs)	горячо	hot	hotly		hot	
+item_590	item_398	descriptive_words (adverbs)	громко	loud (loudly)	loudly		loud	
+item_591	item_399	descriptive_words (adverbs)	грязно	dirty	dirtily		dirt	
+item_592		descriptive_words (adverbs)	кисло	sour	sourly		sour	
+item_593	item_400	descriptive_words (adverbs)	красиво	beautifully	beautifully		beautiful	
+item_594	item_401	descriptive_words (adverbs)	мокро	wet	wetly		wet	
+item_595		descriptive_words (adverbs)	мягко	softly	softly		soft	
 item_596		descriptive_words (adverbs)	никак	in no way	in no way			
 item_597		descriptive_words (adverbs)	опять	again	again			
-item_598	item_402	descriptive_words (adverbs)	осторожно	carefully/be carefull	carefully			
-item_599	item_403	descriptive_words (adverbs)	плохо	badly/poorly	badly			
+item_598	item_402	descriptive_words (adverbs)	осторожно	carefully/be carefull	carefully		careful	
+item_599	item_403	descriptive_words (adverbs)	плохо	badly/poorly	badly		bad	
 item_600		descriptive_words (adverbs)	сильно	strongly/badly/hard	strongly		strong	
 item_601	item_404	descriptive_words (adverbs)	сладко	sweet	sweetly		sweet	
-item_602		descriptive_words (adverbs)	совсем	quite	totally			
+item_602		descriptive_words (adverbs)	совсем	quite	totally		very	
 item_603		descriptive_words (adverbs)	сухо	drily	dryly		dry	
 item_604	item_405	descriptive_words (adverbs)	темно	dark	darkly		dark	
 item_605	item_406	descriptive_words (adverbs)	тепло	warm	warmly		warm	
 item_606	item_407	descriptive_words (adverbs)	тихо/тише	quietly/shh	quietly		quiet	
 item_607	item_408	descriptive_words (adverbs)	тяжело	heavily	heavily		heavy	
-item_608	item_409	descriptive_words (adverbs)	холодно	cold	coldly			
-item_609	item_410	descriptive_words (adverbs)	хорошо	good	well (modifier)			
-item_610	item_411	descriptive_words (adverbs)	чисто	cleanly	cleanly			
+item_608	item_409	descriptive_words (adverbs)	холодно	cold	coldly		cold	
+item_609	item_410	descriptive_words (adverbs)	хорошо	good	well (modifier)		good	
+item_610	item_411	descriptive_words (adverbs)	чисто	cleanly	cleanly		clean	
 item_611		time_words	вечер	evening	evening			
 item_612		time_words	день	day	day			
 item_613		time_words	ночь	night	night			
@@ -625,7 +625,7 @@ item_623	item_420	time_words	сейчас	now	now
 item_624		time_words	поздно	late	late			
 item_625	item_418	time_words	рано	early	early			
 item_626		time_words	скоро	soon	soon			
-item_627	item_431	pronouns	я	I	i			
+item_627	item_431	pronouns	я	I	i		I	
 item_628		pronouns	ты	you	you			
 item_629	item_423	pronouns	мы	we	we			
 item_630		pronouns	вы	you	you (plural)			
@@ -725,7 +725,7 @@ item_723		connecting_words	но	but	but
 item_724		connecting_words	потому что	because	because			
 item_725		connecting_words	тоже	too	also			
 item_726		connecting_words	что	that	that			
-item_727		connecting_words	а то	or else/or	or else			
+item_727		connecting_words	а то	or else/or	or else		or	
 item_728		connecting_words	чтобы	in order to	in order to			
 	item_67	animals	баран/овечка	ram/sheep	sheep			
 	item_77	animals	кенгуру	kangaroo	kangaroo			

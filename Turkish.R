@@ -17,3 +17,4 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # item_629 item_383     pronouns        Ben                  I         i                       I  
 
 # ToDo
+new_items[which(new_items$definition=="i"),]$uni_lemma = "I"
