@@ -1,7 +1,7 @@
 WS	WG	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes
 item_1	item_1	sounds	Baa baa	Sheep	sheep		baa baa	sound
-item_2	item_2	sounds	chri chri chri	bird	bird			
-item_3		sounds	Giya	Dove				
+item_2	item_2	sounds	chri chri chri	bird	bird			cheep?
+item_3		sounds	Giya	Dove			coo	
 item_4		sounds	Ha ha ha	Duck	duck		quack quack	sound
 item_5	item_3	sounds	Hi hoo hihoo	Donkey	donkey		hee haw	sound
 item_6	item_4	sounds	Huu huu huu	Dog	dog		woof woof	sound
@@ -10,12 +10,12 @@ item_8	item_6	sounds	Kokoikoo	Cockerel			cockadoodledoo
 item_9		sounds	Kru kru kru	Chicken calling chicks			peep peep	
 item_10	item_8	sounds	Kunguru	Crow	crow			def is animal name; wrong category
 item_11	item_9	sounds	Lumira	Ouch	ouch			
-item_12	item_10	sounds	Mee mee	Goat	goat			
+item_12	item_10	sounds	Mee mee	Goat	goat		baa baa	
 item_13	item_11	sounds	Miau miau	Cat	cat		meow	sound
 item_14		sounds	Moo moo	Cow	cow		moo	sound
 item_15		sounds	Pikipiki/Honda	Motorbike			motorcycle	
 item_16	item_13	sounds	Simu	Phone			phone	wrong category
-item_17	item_14	sounds	Tamu tamu/Pamu pamu	Sweetness				
+item_17	item_14	sounds	Tamu tamu/Pamu pamu	Sweetness			yum yum	
 item_18		sounds	Vruum vruum	Car	car			
 item_19	item_16	animals	Batha	Duck	duck			
 item_20		animals	Batha muzinga	Turkey	turkey			
@@ -137,7 +137,7 @@ item_134	item_70	food_drink	Nazi	Coconut			coconut
 item_135	item_71	food_drink	Nyama	Meat	meat			
 item_136		food_drink	Nyanya/Tindi	Tomatoes			tomato	
 item_137	item_73	food_drink	Nzugu/Jugu	Groundnuts			nut	
-item_138		food_drink	Paipai/Papayu	Pawpaw				banana/papaya?
+item_138		food_drink	Paipai/Papayu	Pawpaw			papaya	
 item_139		food_drink	Pamu/Tamu	Something sweet			sweets	
 item_140		food_drink	Papa	Shark			shark	
 item_141	item_75	food_drink	Peremende	Sweets			candy	
@@ -473,7 +473,7 @@ item_470		action_words	Onyesa	Show	show
 item_471		action_words	Pashula	Spill	spill			
 item_472		action_words	Pata	Get	get			
 item_473	item_227	action_words	Piga makofi	Clap	clap			
-item_474		action_words	Piga rangi/ Haka rangi	Paint			paint	
+item_474		action_words	Piga rangi/ Haka rangi	Paint			paint (action)	
 item_475	item_231	action_words	Piga teke	Kick	kick			
 item_476	item_215	action_words	Reha	Bring	bring			
 item_477	item_229	action_words	Richa	Leave	leave			
@@ -716,7 +716,7 @@ item_705		connecting_words	Na	And	and
 	item_50	food_drink	Chapati	Chapati			bread	
 	item_51	food_drink	Madzi ga machungwa/juisi	Orange juice			orange juice	
 	item_53	food_drink	Kaimati	Bun	bun			
-	item_58	food_drink	Kumbi	Sardine			fish (food)	
+	item_58	food_drink	Kumbi	Sardine			sardine	
 	item_61	food_drink	Maembe	Mango			mango	
 	item_72	food_drink	Naynay/Tindi	Tomatoes			tomato	
 	item_74	food_drink	Pamu	Something sweet			sweets	
