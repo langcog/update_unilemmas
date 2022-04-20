@@ -693,7 +693,7 @@ item_690		descriptive_words (adverbs)	Nyinji	Many	many
 item_691		descriptive_words (adverbs)	Pia	Also	also			
 item_692		descriptive_words (adverbs)	Sana/Zhomu	very much			a lot	
 item_693		descriptive_words (adverbs)	Sawa/ Karakara	Same, correct			same	
-item_694		descriptive_words (adverbs)	Sozho/Soyo	Not that				
+item_694		descriptive_words (adverbs)	Sozho/Soyo	Not that			not	
 item_695		descriptive_words (adverbs)	Yosi	All of it			everything	
 item_696		descriptive_words (adverbs)	Yoyosi	Any	any			
 item_697		descriptive_words (adverbs)	Zaidi	More	more			
@@ -702,7 +702,7 @@ item_699		connecting_words	Ama/ Au	Or			or
 item_700		connecting_words	Angalau	At least				
 item_701		connecting_words	Hamwenga na	Together with			together	
 item_702		connecting_words	Kwa sababu	Because	because			
-item_703		connecting_words	Kwa vizho	So then				
+item_703		connecting_words	Kwa vizho	So then			so	
 item_704		connecting_words	Lakini	But			but	
 item_705		connecting_words	Na	And	and			
 	item_7	sounds	kru kru kru	Chicken calling chicks				not cockadoodledoo?
@@ -758,16 +758,16 @@ item_705		connecting_words	Na	And	and
 	item_270	descriptive_words	Ingine	Another	another			
 	item_271	descriptive_words	Kaheri	Again	again			
 	item_272	descriptive_words	Kongo	Sick/Ill			sick	
-	item_273	descriptive_words	Kululu/Lonzo	Noise			noise	
+	item_273	descriptive_words	Kululu/Lonzo	Noise			noisy	
 	item_274	descriptive_words	Lumira	Got hurt			hurt (description)	
 	item_275	descriptive_words	Moho	Quiet			quiet	
 	item_276	descriptive_words	Nyamala	Quiet			quiet	
 	item_277	descriptive_words	Nyinji	A lot	a lot			
 	item_278	descriptive_words	Nzala	Hunger			hungry	
-	item_279	descriptive_words	Pore	Slowly			slow	
+	item_279	descriptive_words	Pore	Slowly			slow	duplicate
 	item_280	descriptive_words	Raha	Happiness			happy	
 	item_281	descriptive_words	Tsukirwa	Anger			angry	
-	item_282	descriptive_words	Pore	Slowly			slow	
+	item_282	descriptive_words	Pore	Slowly			slow	duplicate
 	item_284	pronouns	ii	This one (thing) class 9				
 	item_285	pronouns	iryahu	That one (thing) class 9				
 	item_286	pronouns	iye	That one (person) class 1				
