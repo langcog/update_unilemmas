@@ -2,6 +2,7 @@ library(wordbankr)
 library(tidyverse)
 
 language = "Danish"
+outdir = "final_instruments/"
 
 #old_items <- get_item_data(language = language) %>%
 #  filter(type=="word")
