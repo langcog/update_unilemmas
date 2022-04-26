@@ -20,3 +20,31 @@ update_unilemmas <- function(language, show_conflicts=F) {
   uni <- new_uni %>% select(-new_gloss, -new_uni_lemma, -notes)
   return(uni)
 }
+
+# load original instrument(s) file, as get_item_data doesn't have all the needed columns
+update_instrument <- function(language, instrument, new_items) {
+  instr_name = paste0("[",language,"_",instrument,"].csv")
+  paste("Loading old",instr_name,"instrument...")
+  instr <- read_csv(paste0("old_instruments/",instr_name))
+  # get non-word items (to keep the same)
+  instr_nonwords <- instr %>% anti_join(new_items, by="itemID")
+  
+  # for words, remove old gloss and uni_lemma, and join updated ones
+  new_instr <- instr %>% filter(type=="word") %>%
+    select(-gloss, -uni_lemma) %>% 
+    left_join(new_items %>% select(itemID, gloss, uni_lemma), by="itemID") %>%
+    bind_rows(instr_nonwords) #%>% arrange(itemID)
+  
+  # testthat::expect_true()
+  # check that we have all itemIDs and definitions in new 
+  print(paste("All itemIDs accounted for in new file:",setequal(new_instr$itemID, instr$itemID)))
+  print(paste("All definitions accounted for in new file:",setequal(new_instr$definition, instr$definition)))
+  
+  new_unilemmas <- setdiff(new_instr$uni_lemma, instr$uni_lemma)
+  #setdiff(instr$uni_lemma, new_instr$uni_lemma)
+  print(paste(length(new_unilemmas),"new uni-lemmas defined for",language))
+  print(sort(new_unilemmas))
+  new_instr %>% write_csv(file=paste0(outdir,instr_name))
+  print(paste("Saved new instrument:",paste0(outdir,instr_name)))
+  return(new_instr)
+}

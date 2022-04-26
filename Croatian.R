@@ -51,3 +51,11 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # 32 item_707            helping_verbs               si       (you) are        be                              (you) are 
 # 33 item_709            helping_verbs              smo        (we) are        be                               (we) are 
 # 34 item_710            helping_verbs               su      (they) are        be                              (they) are
+
+# ToDo: choose which of these to change
+
+# save updated instrument(s)
+new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
+# yard
+new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
+# 238 new uni-lemmas defined for Croatian WS

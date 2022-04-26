@@ -20,28 +20,20 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # https://github.com/langcog/wordbank/blob/master/raw_data/BSL_WG/%5BBSL_WG%5D.csv
 
 # load original instrument(s) file, as get_item_data doesn't have all the needed columns
-instr_name = "[BSL_WG].csv"
-instr <- read_csv(paste0("old_instruments/",instr_name))
+#instr_name = "[BSL_WG].csv"
 
-# get non-word items (to keep the same)
-instr_nonwords <- instr %>% anti_join(new_items, by=c("itemID"="WG"))
-
-# for words, remove old gloss and uni_lemma, and join updated ones
-new_instr <- instr %>% filter(type=="word") %>%
-  select(-gloss, -uni_lemma) %>% 
-  left_join(new_items %>% select(WG, gloss, uni_lemma), by=c("itemID"="WG")) %>%
-  bind_rows(instr_nonwords) #%>% arrange(itemID)
-
-# testthat::expect_true()
-# check that we have all itemIDs and definitions in new 
-paste("All itemIDs accounted for in new file:",setequal(new_instr$itemID, instr$itemID))
-paste("All definitions accounted for in new file:",setequal(new_instr$definition, instr$definition))
-
-new_instr %>% write_csv(file=paste0(outdir,instr_name))
-
-new_unilemmas <- setdiff(new_instr$uni_lemma, instr$uni_lemma)
-#setdiff(instr$uni_lemma, new_instr$uni_lemma)
-
-paste(length(new_unilemmas),"new uni-lemmas defined for",language)
-print(sort(new_unilemmas))
-
+new_instr <- update_instrument("BSL", "WG", new_items %>% rename(itemID = WG))
+# ""               "and"            "bandaid"        "basement"       "basket"         "bat (object)"   "beans"         
+# "because"        "before"         "behind"         "belt"           "beside"         "brown"          "build"         
+# "but"            "camping"        "candy"          "chase"          "chips"          "choose"         "circus"        
+# "cook"           "corn"           "cowboy"         "cut"            "dryer"          "each"           "earring"       
+# "farm"           "firefighter"    "fit"            "fix"            "flag"           "forest"         "french fries"  
+# "game"           "gas station"    "gum"            "hamburger"      "hate"           "helicopter"     "hose"          
+# "ice"            "if"             "knock"          "last"           "lawn mower"     "like"           "lips"          
+# "long"           "mailman"        "mop (object)"   "napkin"         "need"           "noisy"          "nurse"         
+# "nut"            "pastry"         "peanut butter"  "pen/pencil"     "pick (action)"  "picnic"         "poor"          
+# "pour"           "puzzle"         "quiet"          "ride"           "robot"          "salad"          "salt"          
+# "share"          "shopping"       "shoulder"       "skate (action)" "sled"           "slide (action)" "snowman"       
+# "so"             "sorry"          "sticky"         "store"          "story"          "strawberry"     "stuck"         
+# "tape (object)"  "taste"          "their"          "then"           "think"          "town"           "vanilla"       
+# "vitamin"        "wake"           "want"           "will"           "windy"          "work (place)"   "yourself"  
