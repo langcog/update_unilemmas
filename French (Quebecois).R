@@ -31,7 +31,7 @@ new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
 
 
 subset(new_items, uni_lemma=="")
-# ToDo: change all to NA?
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 new_items[which(new_items$definition=="aller au magasin"),]$uni_lemma = "shopping"
 

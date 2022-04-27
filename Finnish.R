@@ -1,5 +1,6 @@
 library(wordbankr)
 library(tidyverse)
+source("update_unilemmas.R")
 
 language = "Finnish"
 outdir = "final_instruments/"
