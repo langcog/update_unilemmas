@@ -26,13 +26,8 @@ new_items[which(new_items$definition=="積木/Lego"),]$uni_lemma = "blocks"
 
 # save updated instrument(s)
 
-
-#instr_name = "[Cantonese_WS].csv"
-
 new_instr <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
+# "8 new uni-lemmas defined for Cantonese"
+# ""          "blocks"    "corn"      "crab"    "nut"     "shrimp"  "TV"  "vegetable"
 
-
-
-
-# ""          "blocks"    "corn"      "crab"      "nut"       "shrimp"    "vegetable"
 # should "" be NA? I think it's okay

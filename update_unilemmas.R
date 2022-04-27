@@ -25,7 +25,8 @@ update_unilemmas <- function(language, show_conflicts=F) {
 update_instrument <- function(language, instrument, new_items) {
   instr_name = paste0("[",language,"_",instrument,"].csv")
   paste("Loading old",instr_name,"instrument...")
-  instr <- read_csv(paste0("old_instruments/",instr_name))
+  instr <- read_csv(paste0("old_instruments/",instr_name)) %>% 
+    mutate(gloss = as.character(gloss)) # one of them was 'logical'...
   # get non-word items (to keep the same)
   instr_nonwords <- instr %>% anti_join(new_items, by="itemID")
   
@@ -48,3 +49,22 @@ update_instrument <- function(language, instrument, new_items) {
   print(paste("Saved new instrument:",paste0(outdir,instr_name)))
   return(new_instr)
 }
+
+# read all instrument files from given directory, tabulate all uni-lemmas
+tabulate_unilemmas <- function(directory) {
+  fnames = list.files(directory)
+  d <- tibble()
+  for(f in fnames) {
+    print(paste("loading",f))
+    tmp <- read_csv(paste0(directory, f)) %>%
+      mutate(form = f) %>% # str_split(f, ".csv")[[1]]
+      filter(type=="word")
+    d <- d %>% bind_rows(tmp %>%
+                           select(form,item,category,uni_lemma))
+  }
+  d
+  return(d)
+}
+
+#new_uni <- tabulate_unilemmas("final_instruments/")
+#sort(table(new_uni$uni_lemma))

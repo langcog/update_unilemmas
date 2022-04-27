@@ -1,5 +1,6 @@
 library(wordbankr)
 library(tidyverse)
+source("update_unilemmas.R")
 
 language = "Danish"
 outdir = "final_instruments/"
@@ -17,3 +18,14 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # WS       WG category        definition                  gloss            uni_lemma new_gloss     new_uni_lemma
 # item_377 item_246   people dagplejemors navn day care mother's name babysitter<92>s name           babysitter's name
 # item_623 item_368 pronouns               jeg                      I                    i                           I
+
+new_items[which(new_items$definition=="jeg"),]$uni_lemma = "I"
+new_items[which(new_items$definition=="dagplejemors navn"),]$uni_lemma = "babysitter's name"
+
+
+# save updated instrument(s)
+new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
+# "2 new uni-lemmas defined for Danish"
+# "I"  "TV"
+new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
+# "215 new uni-lemmas defined for Danish"

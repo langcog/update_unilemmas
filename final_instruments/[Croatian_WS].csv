@@ -286,7 +286,7 @@ stol,furniture_rooms,stol,word,produces,NA,item_284,table,table,table
 stolica,furniture_rooms,stolica,word,produces,NA,item_285,chair,chair,chair
 stroj za (pranje) rublja,furniture_rooms,stroj_za_(pranje)_rublja,word,produces,NA,item_286,NA,washing machine,washing machine
 štednjak,furniture_rooms,stednjak,word,produces,NA,item_287,stove,stove,stove
-televizor,furniture_rooms,televizor,word,produces,NA,item_288,tv,tv,tv
+televizor,furniture_rooms,televizor,word,produces,NA,item_288,tv,tv,TV
 tuš,furniture_rooms,tus,word,produces,NA,item_289,NA,shower,bath
 tuta,furniture_rooms,tuta,word,produces,NA,item_290,potty,potty,potty
 umivaonik,furniture_rooms,umivaonik,word,produces,NA,item_291,sink,sink,sink

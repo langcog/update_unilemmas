@@ -217,7 +217,7 @@ umivaonik,furniture_rooms,umivaonik,word,understands; produces,item_352,NA,sink,
 stepenice,furniture_rooms,stepenice,word,understands; produces,item_307,NA,stairs,stairs
 štednjak,furniture_rooms,stednjak,word,understands; produces,item_306,NA,stove,stove
 stol,furniture_rooms,stol,word,understands; produces,item_309,NA,table,table
-televizor,furniture_rooms,televizor,word,understands; produces,item_329,NA,tv,tv
+televizor,furniture_rooms,televizor,word,understands; produces,item_329,NA,tv,TV
 ormar,furniture_rooms,ormar,word,understands; produces,item_220,NA,closet,wardrobe
 prozor,furniture_rooms,prozor,word,understands; produces,item_259,NA,window,window
 kupanje,games_routines,kupanje,word,understands; produces,item_151,NA,bath,bath

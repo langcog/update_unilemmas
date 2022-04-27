@@ -289,7 +289,7 @@ item_287		furniture_rooms	sofa	sofa	sofa
 item_288	item_187	furniture_rooms	stairs	stairs	stairs			
 item_289	item_188	furniture_rooms	stove	stove	stove			
 item_290	item_189	furniture_rooms	table	table	table			
-item_291	item_190	furniture_rooms	TV	TV	TV		tv	most languages have it lower-cased
+item_291	item_190	furniture_rooms	TV	TV	TV			
 item_292	item_191	furniture_rooms	window	window	window			
 item_293		furniture_rooms	washing machine	washing machine	washing machine			
 item_294	item_228	outside	backyard	backyard	yard			

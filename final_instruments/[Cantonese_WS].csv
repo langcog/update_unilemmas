@@ -644,7 +644,7 @@ item_642,F14COUCC,word,furniture_rooms,produces,梳化,NA,,couch
 item_643,F14CLOSE,word,furniture_rooms,produces,櫃,NA,closet / cupboard,closet
 item_644,F14DRAWC,word,furniture_rooms,produces,櫃桶,NA,,drawer
 item_645,F14MIRRO,word,furniture_rooms,produces,鏡,NA,,mirror
-item_646,F14TV,word,furniture_rooms,produces,電視,NA,,tv
+item_646,F14TV,word,furniture_rooms,produces,電視,NA,,TV
 item_647,F14COMPU,word,furniture_rooms,produces,電腦,NA,,computer
 item_648,F14PIANO,word,furniture_rooms,produces,鋼琴,NA,,piano
 item_649,F14FRIDC,word,furniture_rooms,produces,雪櫃,NA,,refrigerator
