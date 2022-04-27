@@ -120,7 +120,7 @@ item_118	item_37	food_drink	jus	juice	juice
 item_119	item_36	food_drink	lait	milk	milk			
 item_120		food_drink	melon	melon	melon			
 item_121		food_drink	muffin	muffin	muffin			
-item_122		food_drink	noix	nuts	nut		nut	
+item_122		food_drink	noix	nuts	nut		nuts	
 item_123	item_35	food_drink	nouilles/pâtes	noodles / pasta	pasta			
 item_124	item_34	food_drink	nourriture	food	food			
 item_125	item_33	food_drink	oeuf	egg	egg			
@@ -594,7 +594,7 @@ item_592		pronouns	il	he	he
 item_593		pronouns	ils	they	they			
 item_594	item_386	pronouns	je	I	i		I	
 item_595		pronouns	le mien	mine	mine			
-item_596		pronouns	le tien	yours				
+item_596		pronouns	le tien	yours			yours	
 item_597		pronouns	lui	him	him			
 item_598		pronouns	me	Moi				I wonder if this is a typo and should be "ma". "me" (or often "m' ")  is the 1st person singular clitic, its not really a word and there are no other items that are clitics, while the counterpart of the possessive determiner "ma", "mon" is included in the items. So I wonder if we can double check what was on the original form for this item. 
 item_599	item_388	pronouns	moi	me	me			

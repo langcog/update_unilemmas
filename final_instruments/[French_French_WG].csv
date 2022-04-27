@@ -91,7 +91,7 @@ item_123,item_123,word,food_drink,understands; produces,œuf,item_105,Nourriture
 item_124,item_124,word,food_drink,understands; produces,orange,item_93,Nourriture et boisson,orange (fruit),orange (food)
 item_125,item_125,word,food_drink,understands; produces,pain,item_107,Nourriture et boisson,bread,bread
 item_126,item_126,word,food_drink,understands; produces,pâtes,item_123,Nourriture et boisson,pasta,pasta
-item_127,item_127,word,food_drink,understands; produces,petits gâteaux,item_100,Nourriture et boisson,small cake,
+item_127,item_127,word,food_drink,understands; produces,petits gâteaux,item_100,Nourriture et boisson,small cake,muffin
 item_128,item_128,word,food_drink,understands; produces,petits pois,item_120,Nourriture et boisson,peas,peas
 item_129,item_129,word,food_drink,understands; produces,pizza,item_97,Nourriture et boisson,pizza,pizza
 item_130,item_130,word,food_drink,understands; produces,poisson,item_106,Nourriture et boisson,fish (food),fish (food)
@@ -116,7 +116,7 @@ item_148,item_148,word,body_parts,understands; produces,bouche,item_205,Parties 
 item_149,item_149,word,body_parts,understands; produces,bras,item_192,Parties du corps,arm,arm
 item_150,item_150,word,body_parts,understands; produces,cheveux,item_200,Parties du corps,hair,hair
 item_151,item_151,word,body_parts,understands; produces,cœur,item_218,Parties du corps,heart,heart
-item_152,item_152,word,body_parts,understands; produces,dent,item_209,Parties du corps,,
+item_152,item_152,word,body_parts,understands; produces,dent,item_209,Parties du corps,,tooth
 item_153,item_153,word,body_parts,understands; produces,doigt,item_199,Parties du corps,finger,finger
 item_154,item_154,word,body_parts,understands; produces,doigt de pied,item_210,Parties du corps,,toe
 item_155,item_155,word,body_parts,understands; produces,figure,item_197,Parties du corps,,face
@@ -221,7 +221,7 @@ item_252,item_252,word,household,understands; produces,poubelle,item_497,Petits 
 item_253,item_253,word,household,understands; produces,radio,item_490,Petits objets ménagers,radio,radio
 item_254,item_254,word,household,understands; produces,savon,item_492,Petits objets ménagers,soap,soap
 item_255,item_255,word,household,understands; produces,serviette,item_496,Petits objets ménagers,towel,towel
-item_256,item_256,word,household,understands; produces,sirop,item_502,Petits objets ménagers,syrop,
+item_256,item_256,word,household,understands; produces,sirop,item_502,Petits objets ménagers,syrop,syrup
 item_257,item_257,word,household,understands; produces,sous/pièces,item_485,Petits objets ménagers,change,
 item_258,item_258,word,household,understands; produces,sucette,item_505,Petits objets ménagers,,pacifier
 item_259,item_259,word,household,understands; produces,tasse,item_473,Petits objets ménagers,cup,cup
@@ -478,7 +478,7 @@ item_558,item_558,word,food_drink,understands; produces,yaourt,item_140,Nourritu
 item_559,item_559,word,food_drink,understands; produces,sucette,item_141,Nourriture et boisson,,lollipop
 item_560,item_560,word,food_drink,understands; produces,melon,item_142,Nourriture et boisson,melon,melon
 item_561,item_561,word,food_drink,understands; produces,madeleine,item_143,Nourriture et boisson,madeleine,muffin
-item_562,item_562,word,food_drink,understands; produces,noisettes,item_144,Nourriture et boisson,hazelnut,nut
+item_562,item_562,word,food_drink,understands; produces,noisettes,item_144,Nourriture et boisson,hazelnut,nuts
 item_563,item_563,word,food_drink,understands; produces,crêpe,item_145,Nourriture et boisson,crepe,pancake
 item_564,item_564,word,food_drink,understands; produces,nutella,item_146,Nourriture et boisson,nutella,nutella
 item_565,item_565,word,food_drink,understands; produces,mayonnaise,item_147,Nourriture et boisson,mayonnaise,mayonnaise
@@ -507,7 +507,7 @@ item_587,item_587,word,body_parts,understands; produces,pénis/zizi…,item_217,
 item_588,item_588,word,body_parts,understands; produces,vagin/zezette…,item_219,Parties du corps,,vagina
 item_589,item_589,word,furniture_rooms,understands; produces,cuisine,item_232,Meubles et pièces,kitchen,kitchen
 item_590,item_590,word,furniture_rooms,understands; produces,étendage,item_245,Meubles et pièces,,dryer
-item_591,item_591,word,furniture_rooms,understands; produces,entrée,item_246,Meubles et pièces,entrance,
+item_591,item_591,word,furniture_rooms,understands; produces,entrée,item_246,Meubles et pièces,entrance,hallway
 item_592,item_592,word,furniture_rooms,understands; produces,douche,item_247,Meubles et pièces,shower,shower
 item_593,item_593,word,furniture_rooms,understands; produces,pièce,item_248,Meubles et pièces,room,room
 item_594,item_594,word,furniture_rooms,understands; produces,cave,item_249,Meubles et pièces,cellar,basement
@@ -608,7 +608,7 @@ item_688,item_688,word,people,understands; produces,nom de l'animal domestique,i
 item_689,item_689,word,helping_verbs,understands; produces,suis,item_447,Auxiliaires,am,am
 item_690,item_690,word,helping_verbs,understands; produces,sont,item_448,Auxiliaires,are,are
 item_691,item_691,word,helping_verbs,understands; produces,être,item_449,Auxiliaires,to be,be
-item_692,item_692,word,helping_verbs,understands; produces,est,item_450,Auxiliaires,is,
+item_692,item_692,word,helping_verbs,understands; produces,est,item_450,Auxiliaires,is,is
 item_693,item_693,word,helping_verbs,understands; produces,peux,item_451,Auxiliaires,can,can
 item_694,item_694,word,helping_verbs,understands; produces,pourrait,item_452,Auxiliaires,could,could
 item_695,item_695,word,helping_verbs,understands; produces,a fait,item_453,Auxiliaires,did,did
@@ -627,7 +627,7 @@ item_707,item_707,word,household,understands; produces,seau,item_507,Petits obje
 item_708,item_708,word,household,understands; produces,ordures,item_509,Petits objets ménagers,trash,trash
 item_709,item_709,word,household,understands; produces,pot,item_510,Petits objets ménagers,,jar
 item_710,item_710,word,household,understands; produces,couteau,item_511,Petits objets ménagers,knife,knife
-item_711,item_711,word,household,understands; produces,serpillière,item_512,Petits objets ménagers,,
+item_711,item_711,word,household,understands; produces,serpillière,item_512,Petits objets ménagers,,mop
 item_712,item_712,word,household,understands; produces,clou,item_513,Petits objets ménagers,nail (object),nail (object)
 item_713,item_713,word,household,understands; produces,serviette de table,item_514,Petits objets ménagers,,napkin
 item_714,item_714,word,household,understands; produces,cassette,item_515,Petits objets ménagers,cassette,tape (object)

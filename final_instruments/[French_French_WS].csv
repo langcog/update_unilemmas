@@ -1,7 +1,7 @@
 itemID,item,type,category,choices,definition,gloss,uni_lemma
 item_1,item_1,word,sounds,produces,aie,ouch,ouch
-item_2,item_2,word,sounds,produces,allo,hello,
-item_3,item_3,word,sounds,produces,bêê bêê,baa baa,
+item_2,item_2,word,sounds,produces,allo,hello,hello
+item_3,item_3,word,sounds,produces,bêê bêê,baa baa,baa baa
 item_4,item_4,word,sounds,produces,cocorico,cockadoodledoo,cockadoodledoo
 item_5,item_5,word,sounds,produces,coin coin,quack quack,quack quack
 item_6,item_6,word,sounds,produces,grrrr,grrr,grrr
@@ -9,7 +9,7 @@ item_7,item_7,word,sounds,produces,meuh,moo,moo
 item_8,item_8,word,sounds,produces,miam miam,yum yum,yum yum
 item_9,item_9,word,sounds,produces,miaou,meow,meow
 item_10,item_10,word,sounds,produces,oh oh,uh oh,uh oh
-item_11,item_11,word,sounds,produces,ouaf ouaf,woof woof,
+item_11,item_11,word,sounds,produces,ouaf ouaf,woof woof,woof woof
 item_12,item_12,word,sounds,produces,tchou tchou,choo choo,choo choo
 item_13,item_13,word,sounds,produces,vroum,vroom,vroom
 item_14,item_14,word,games_routines,produces,ainsi font font,??,
@@ -259,7 +259,7 @@ item_245,item_245,word,household,produces,seau,bucket,bucket
 item_246,item_246,word,household,produces,serpillère,swab,mop
 item_247,item_247,word,household,produces,serviette,towel,towel
 item_248,item_248,word,household,produces,serviette de table,,napkin
-item_249,item_249,word,household,produces,sirop,syrop,
+item_249,item_249,word,household,produces,sirop,syrop,syrup
 item_250,item_250,word,household,produces,sous/pièces,change,
 item_251,item_251,word,household,produces,sucette,,pacifier
 item_252,item_252,word,household,produces,tasse,cup,cup
@@ -336,14 +336,14 @@ item_322,item_322,word,food_drink,produces,madeleine,madeleine,muffin
 item_323,item_323,word,food_drink,produces,maïs,corn,
 item_324,item_324,word,food_drink,produces,mayonnaise,mayonnaise,mayonnaise
 item_325,item_325,word,food_drink,produces,melon,melon,melon
-item_326,item_326,word,food_drink,produces,noisettes,hazelnut,nut
+item_326,item_326,word,food_drink,produces,noisettes,hazelnut,nuts
 item_327,item_327,word,food_drink,produces,nourriture,food,food
 item_328,item_328,word,food_drink,produces,nutella,nutella,nutella
 item_329,item_329,word,food_drink,produces,œuf,egg,egg
 item_330,item_330,word,food_drink,produces,orange,orange (fruit),orange (food)
 item_331,item_331,word,food_drink,produces,pain,bread,bread
 item_332,item_332,word,food_drink,produces,pâtes,pasta,pasta
-item_333,item_333,word,food_drink,produces,petits gâteaux,small cake,
+item_333,item_333,word,food_drink,produces,petits gâteaux,small cake,muffin
 item_334,item_334,word,food_drink,produces,petits pois,peas,peas
 item_335,item_335,word,food_drink,produces,petits pots,peas,peas
 item_336,item_336,word,food_drink,produces,pizza,pizza,pizza
@@ -379,7 +379,7 @@ item_365,item_365,word,furniture_rooms,produces,chambre,bedroom,bedroom
 item_366,item_366,word,furniture_rooms,produces,cuisine,kitchen,kitchen
 item_367,item_367,word,furniture_rooms,produces,cuisinière,cooker,
 item_368,item_368,word,furniture_rooms,produces,douche,shower,shower
-item_369,item_369,word,furniture_rooms,produces,entrée,entrance,
+item_369,item_369,word,furniture_rooms,produces,entrée,entrance,hallway
 item_370,item_370,word,furniture_rooms,produces,escalier,stairs,stairs
 item_371,item_371,word,furniture_rooms,produces,étendage,,dryer
 item_372,item_372,word,furniture_rooms,produces,évier,sink,sink
@@ -613,7 +613,7 @@ item_599,item_599,word,helping_verbs,produces,avoir à faire,have to do,
 item_600,item_600,word,helping_verbs,produces,avoir besoin de,I need,
 item_601,item_601,word,helping_verbs,produces,devoir faire,have to do,need
 item_602,item_602,word,helping_verbs,produces,essayer de,try to,try
-item_603,item_603,word,helping_verbs,produces,est,is,
+item_603,item_603,word,helping_verbs,produces,est,is,is
 item_604,item_604,word,helping_verbs,produces,était,was,was
 item_605,item_605,word,helping_verbs,produces,être,to be,be
 item_606,item_606,word,helping_verbs,produces,faire,,do

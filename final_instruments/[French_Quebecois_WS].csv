@@ -261,7 +261,7 @@ item_259,chambre,word,produces,furniture_rooms,chambre,NA,bedroom,bedroom
 item_260,cuisine,word,produces,furniture_rooms,cuisine,NA,kitchen room,kitchen
 item_261,divan/sofa,word,produces,furniture_rooms,divan/sofa,NA,couch / sofa,couch
 item_262,douche,word,produces,furniture_rooms,douche,NA,shower,shower
-item_263,entr'ee,word,produces,furniture_rooms,entrée,NA,Entrance,
+item_263,entr'ee,word,produces,furniture_rooms,entrée,NA,Entrance,NA
 item_264,escalier,word,produces,furniture_rooms,escalier,NA,staircase,stairs
 item_265,'evier/lavabo,word,produces,furniture_rooms,évier/lavabo,NA,sink / sink,sink
 item_266,fen^etre,word,produces,furniture_rooms,fenêtre,NA,window,window
@@ -379,13 +379,13 @@ item_377,coucou,word,produces,games_routines,coucou,NA,Hello,peekaboo
 item_378,d'ejeuner,word,produces,games_routines,déjeuner,NA,lunch,lunch
 item_379,d^iner,word,produces,games_routines,dîner,NA,having dinner,dinner
 item_380,dodo,word,produces,games_routines,dodo,NA,nap,nap
-item_381,donne_moi/tape_,word,produces,games_routines,donne moi/tape dedans,NA,gives me / tape in,
+item_381,donne_moi/tape_,word,produces,games_routines,donne moi/tape dedans,NA,gives me / tape in,NA
 item_382,faire_caca/fair,word,produces,games_routines,faire caca/faire pipi,NA,poop / pee,go potty
 item_383,faire_le_tour_d,word,produces,games_routines,faire le tour de la maison,NA,go around the house,go around the house
-item_384,gros_comme_ca,word,produces,games_routines,gros comme ça,NA,this big,
-item_385,je_te_tiens_par,word,produces,games_routines,je te tiens par la barbichette,NA,I hold you by the goatee,
+item_384,gros_comme_ca,word,produces,games_routines,gros comme ça,NA,this big,NA
+item_385,je_te_tiens_par,word,produces,games_routines,je te tiens par la barbichette,NA,I hold you by the goatee,NA
 item_386,j'vais_t'attrap,word,produces,games_routines,j'vais t'attraper,NA,I'm gonna catch you,gonna get you
-item_387,menouche_menouc,word,produces,games_routines,menouche menouche,NA,menouche menouche,
+item_387,menouche_menouc,word,produces,games_routines,menouche menouche,NA,menouche menouche,NA
 item_388,merci,word,produces,games_routines,merci,NA,thank you,thank you
 item_389,non,word,produces,games_routines,non,NA,no,no
 item_390,okay,word,produces,games_routines,okay,NA,okay,ok
@@ -578,25 +578,25 @@ item_576,matin,word,produces,time_words,matin,NA,morning,morning
 item_577,nuit,word,produces,time_words,nuit,NA,night,night
 item_578,plus_tard,word,produces,time_words,plus tard,NA,later,later
 item_579,tant^ot,word,produces,time_words,tantôt,NA,sometimes,sometimes
-item_580,tout_`a_l'heure,word,produces,time_words,tout à l'heure,NA,see you later,
+item_580,tout_`a_l'heure,word,produces,time_words,tout à l'heure,NA,see you later,NA
 item_581,`a_eux,word,produces,pronouns,à eux,NA,their,theirs
 item_582,`a_lui,word,produces,pronouns,à lui,NA,his,his
 item_583,`a_moi,word,produces,pronouns,à moi,NA,to me,mine
 item_584,`a_nous,word,produces,pronouns,à nous,NA,ours,ours
 item_585,`a_toi,word,produces,pronouns,à toi,NA,yours,yours
-item_586,`a_vous,word,produces,pronouns,à vous,NA,to you,
+item_586,`a_vous,word,produces,pronouns,à vous,NA,to you,NA
 item_587,ca,word,produces,pronouns,ça,NA,it,that
 item_588,ce,word,produces,pronouns,ce,NA,this,this
-item_589,celui-l`a,word,produces,pronouns,celui-là,NA,that one,
+item_589,celui-l`a,word,produces,pronouns,celui-là,NA,that one,NA
 item_590,elle,word,produces,pronouns,elle,NA,she,she
 item_591,elles,word,produces,pronouns,elles,NA,they,they
 item_592,il,word,produces,pronouns,il,NA,he,he
 item_593,ils,word,produces,pronouns,ils,NA,they,they
 item_594,je,word,produces,pronouns,je,NA,I,I
 item_595,le_mien,word,produces,pronouns,le mien,NA,mine,mine
-item_596,le_tien,word,produces,pronouns,le tien,NA,yours,
+item_596,le_tien,word,produces,pronouns,le tien,NA,yours,yours
 item_597,lui,word,produces,pronouns,lui,NA,him,him
-item_598,me,word,produces,pronouns,me,NA,Moi,
+item_598,me,word,produces,pronouns,me,NA,Moi,NA
 item_599,moi,word,produces,pronouns,moi,NA,me,me
 item_600,mon,word,produces,pronouns,mon,NA,my,my
 item_601,nous,word,produces,pronouns,nous,NA,we,we
@@ -624,7 +624,7 @@ item_622,avec,word,produces,locations,avec,NA,with,with
 item_623,comme,word,produces,locations,comme,NA,as,as
 item_624,dans,word,produces,locations,dans,NA,in,in
 item_625,de,word,produces,locations,de,NA,of,of
-item_626,de_l'autre_c^ot,word,produces,locations,de l'autre côté,NA,on the other side,
+item_626,de_l'autre_c^ot,word,produces,locations,de l'autre côté,NA,on the other side,NA
 item_627,devant/en_avant,word,produces,locations,devant/en avant,NA,front / forward,in front
 item_628,en,word,produces,locations,en,NA,in,in
 item_629,en_arri`ere,word,produces,locations,en arrière,NA,backward,behind

@@ -1,7 +1,7 @@
 WS	WG	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes
 item_1		sounds	aie	ouch	ouch			
-item_2		sounds	allo			hello		
-item_3		sounds	bêê bêê			baa baa		
+item_2		sounds	allo			hello	hello	
+item_3		sounds	bêê bêê			baa baa	baa baa	
 item_4	item_39	sounds	cocorico	cockadoodledoo	cockadoodledoo			
 item_5		sounds	coin coin	quack quack	quack quack			
 item_6	item_41	sounds	grrrr	grrr	grrr			
@@ -9,7 +9,7 @@ item_7	item_42	sounds	meuh	moo	moo
 item_8		sounds	miam miam	yum yum	yum yum			
 item_9	item_44	sounds	miaou	meow	meow			
 item_10		sounds	oh oh	uh oh	uh oh			
-item_11		sounds	ouaf ouaf			woof woof		
+item_11		sounds	ouaf ouaf			woof woof	woof woof	
 item_12	item_47	sounds	tchou tchou	choo choo	choo choo			
 item_13	item_48	sounds	vroum	vroom	vroom			
 item_14	item_49	games_routines	ainsi font font	??				
@@ -25,7 +25,7 @@ item_23	item_600	games_routines	coup de fil	phone call
 item_24	item_58	games_routines	déjeuner	lunch	lunch			
 item_25	item_59	games_routines	dîner	dinner	dinner			
 item_26		games_routines	faire les courses	go shopping		shopping	shopping	
-item_27	item_599	games_routines	goûter			taste	taste	
+item_27	item_599	games_routines	goûter			taste	taste	snacktime?
 item_28	item_602	games_routines	je vais t'attraper	I will catch you				
 item_29	item_60	games_routines	merci	thank you	thank you			
 item_30	item_61	games_routines	ne fais pas	don’t do		don't	don't	
@@ -247,7 +247,7 @@ item_245	item_707	household	seau	bucket	bucket
 item_246		household	serpillère	swab			mop	
 item_247	item_255	household	serviette	towel	towel			
 item_248	item_713	household	serviette de table				napkin	
-item_249	item_256	household	sirop	syrop				
+item_249	item_256	household	sirop	syrop			syrup	
 item_250	item_257	household	sous/pièces	change				
 item_251	item_258	household	sucette				pacifier	or lollipop
 item_252	item_259	household	tasse	cup	cup			
@@ -324,14 +324,14 @@ item_322	item_561	food_drink	madeleine	madeleine			muffin
 item_323	item_548	food_drink	maïs			corn		
 item_324	item_565	food_drink	mayonnaise	mayonnaise			mayonnaise	
 item_325	item_560	food_drink	melon	melon			melon	
-item_326	item_562	food_drink	noisettes	hazelnut			nut	
+item_326	item_562	food_drink	noisettes	hazelnut			nuts	
 item_327	item_122	food_drink	nourriture	food	food			
 item_328	item_564	food_drink	nutella	nutella			nutella	
 item_329	item_123	food_drink	œuf	egg	egg			
 item_330	item_124	food_drink	orange			orange (fruit)	orange (food)	
 item_331	item_125	food_drink	pain	bread	bread			
 item_332	item_126	food_drink	pâtes	pasta	pasta			
-item_333	item_127	food_drink	petits gâteaux	small cake				
+item_333	item_127	food_drink	petits gâteaux	small cake			muffin	
 item_334	item_128	food_drink	petits pois	peas	peas			
 item_335	item_541	food_drink	petits pots	peas	peas			
 item_336	item_129	food_drink	pizza	pizza	pizza			
@@ -367,7 +367,7 @@ item_365	item_268	furniture_rooms	chambre	bedroom	bedroom
 item_366	item_589	furniture_rooms	cuisine	kitchen	kitchen			
 item_367	item_269	furniture_rooms	cuisinière	cooker				
 item_368	item_592	furniture_rooms	douche	shower	shower			
-item_369	item_591	furniture_rooms	entrée	entrance				
+item_369	item_591	furniture_rooms	entrée	entrance			hallway	
 item_370	item_270	furniture_rooms	escalier	stairs	stairs			
 item_371	item_590	furniture_rooms	étendage				dryer	
 item_372	item_271	furniture_rooms	évier	sink	sink			
@@ -601,7 +601,7 @@ item_599	item_700	helping_verbs	avoir à faire	have to do
 item_600	item_702	helping_verbs	avoir besoin de	I need				
 item_601	item_699	helping_verbs	devoir faire	have to do			need	
 item_602	item_703	helping_verbs	essayer de	try to			try	
-item_603	item_692	helping_verbs	est	is				
+item_603	item_692	helping_verbs	est	is			is	
 item_604	item_705	helping_verbs	était	was			was	
 item_605	item_691	helping_verbs	être	to be			be	
 item_606	item_696	helping_verbs	faire				do	
@@ -701,10 +701,10 @@ item_690	item_661	connecting_words	si	if	if
 	item_68	games_routines	veux					
 	item_97	animals	pingouin		penguin			
 	item_111	food_drink	carotte		carrots			
-	item_152	body_parts	dent					
+	item_152	body_parts	dent				tooth	
 	item_154	body_parts	doigt de pied		toe			
 	item_155	body_parts	figure		face			
-	item_234	household	dent					
+	item_234	household	dent					tooth?
 	item_287	outside_places	arbre		tree			
 	item_288	outside_places	balançoire		swing (object)			
 	item_289	outside_places	caillou		rock (object)			
@@ -757,7 +757,7 @@ item_690	item_661	connecting_words	si	if	if
 	item_676	outside	bâton		stick			
 	item_684	people	copain/ine		friend			
 	item_688	people	nom de l'animal domestique		pet's name			
-	item_711	household	serpillière					
+	item_711	household	serpillière				mop	
 	item_719	household	sac		bag			
 	item_725	descriptive_words	plein/ne				full	
 	item_732	descriptive_words	fou/folle				crazy	

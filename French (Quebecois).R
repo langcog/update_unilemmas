@@ -1,5 +1,6 @@
 library(wordbankr)
 library(tidyverse)
+source("update_unilemmas.R")
 
 language = "French (Quebecois)"
 outdir = "final_instruments/"
@@ -7,9 +8,9 @@ outdir = "final_instruments/"
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 700 French (Quebecois) items"
 # "23 missing uni_lemmas in original ( 3 % missing)"
-# "31 uni_lemmas added/modified"
+# "32 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
-# "12 uni_lemmas still missing ( 2 % missing)"
+# "11 uni_lemmas still missing ( 2 % missing)"
 # "Review 4 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
 #  WS       WG   category definition gloss      uni_lemma new_gloss new_uni_lemma notes
 #  item_82                toys       lego  lego           lego                  blocks      
@@ -39,4 +40,4 @@ new_items[which(new_items$definition=="aller au magasin"),]$uni_lemma = "shoppin
 new_wg <- update_instrument("French_Quebecois", "WG", new_items %>% rename(itemID = WG))
 # "6 new uni-lemmas defined for French_Quebecois"
 new_ws <- update_instrument("French_Quebecois", "WS", new_items %>% rename(itemID = WS))
-# "24 new uni-lemmas defined for French_Quebecois"
+# "23 new uni-lemmas defined for French_Quebecois"
