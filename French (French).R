@@ -2,6 +2,7 @@ library(wordbankr)
 library(tidyverse)
 
 language = "French (French)"
+outdir = "final_instruments/"
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 764 French (French) items"
@@ -19,3 +20,12 @@ new_items[which(new_items$definition=="compote"),]$uni_lemma = "jam"
 
 # capitalization
 new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
+
+subset(new_items, uni_lemma=="")
+# ToDo: go back to spreadsheet -- missing e.g. 'baa baa' and 'woof woof'
+
+# save updated instrument(s)
+new_wg <- update_instrument("French_French", "WG", new_items %>% rename(itemID = WG))
+# "128 new uni-lemmas defined for French_French"
+new_ws <- update_instrument("French_French", "WS", new_items %>% rename(itemID = WS))
+# "129 new uni-lemmas defined for French_French"

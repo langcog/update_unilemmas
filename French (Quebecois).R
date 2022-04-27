@@ -2,6 +2,7 @@ library(wordbankr)
 library(tidyverse)
 
 language = "French (Quebecois)"
+outdir = "final_instruments/"
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 700 French (Quebecois) items"
@@ -27,3 +28,15 @@ new_items[which(new_items$definition=="balançoire"),]$uni_lemma = "swing (objec
 
 # capitalization
 new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
+
+
+subset(new_items, uni_lemma=="")
+# ToDo: change all to NA?
+
+new_items[which(new_items$definition=="aller au magasin"),]$uni_lemma = "shopping"
+
+# save updated instrument(s)
+new_wg <- update_instrument("French_Quebecois", "WG", new_items %>% rename(itemID = WG))
+# "6 new uni-lemmas defined for French_Quebecois"
+new_ws <- update_instrument("French_Quebecois", "WS", new_items %>% rename(itemID = WS))
+# "24 new uni-lemmas defined for French_Quebecois"

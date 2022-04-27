@@ -2,6 +2,7 @@ library(wordbankr)
 library(tidyverse)
 
 language = "English (British)"
+outdir = "final_instruments/"
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 541 English (British) items"
@@ -25,8 +26,8 @@ new_items[which(new_items$definition=="kate"),]$uni_lemma = NA # ??? ..skate? no
 
 # save updated instrument(s)
 new_oxford <- update_instrument("EnglishBritish", "Oxford", new_items %>% rename(itemID = Oxford))
-# "12 new uni-lemmas defined for EnglishBritish"
-# ""        "bye"     "call"    "chase"   "cuddle"  "cut"     "I"       "know"    "like"    "nasty"   "scratch" "store" 
+# "13 new uni-lemmas defined for EnglishBritish"
+# "bye"     "call"    "chase"   "cuddle"  "cut"  "french fries"   "I"       "know"    "like"    "nasty"   "scratch" "store" "sweets"
 new_twos <- update_instrument("English_British", "TEDS_Twos", new_items %>% rename(itemID = TEDS_Twos))
 # "25 new uni-lemmas defined for English_British"
 # "beside"            "chase"             "comb (object)"     "could"             "fish (animal)"     "fish (food)"      
@@ -35,7 +36,7 @@ new_twos <- update_instrument("English_British", "TEDS_Twos", new_items %>% rena
 # "taste"             "think"             "tray"              "wet (description)" "where (question)"  "wish"       "would"   
 new_threes <- update_instrument("English_British", "TEDS_Threes", new_items %>% rename(itemID = TEDS_Threes))
 # "58 new uni-lemmas defined for English_British"
-# ""           "about"      "accident"   "although"   "band-aid"   "because"    "before"     "blade"      "bored"     
+# "about"      "accident"   "although"   "band-aid"   "because"    "before"     "blade"      "bored"     
 # "camping"    "castle"     "circle"     "cowboy"     "deep"       "dinosaur"   "each"       "elbow"      "expensive" 
 # "farmer"     "fasten"     "fence"      "forget"     "furniture"  "half"       "hate"       "hose"       "however"   
 # "idea"       "kite"       "long"       "lost"       "material"   "measure"    "microscope" "might"      "need"      
