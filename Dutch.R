@@ -15,3 +15,6 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "Adding uncontested new_uni_lemmas..."
 # "44 uni_lemmas still missing ( 4 % missing)"
 # "Review 19 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
+
+
+# ToDo: review changes, and output all various forms

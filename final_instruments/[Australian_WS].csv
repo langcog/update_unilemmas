@@ -33,12 +33,12 @@ item_31,owl,word,animals,produces,owl,NA,owl,owl
 item_32,penguin,word,animals,produces,penguin,NA,penguin,penguin
 item_33,pig,word,animals,produces,pig,NA,pig,pig
 item_34,pony,word,animals,produces,pony,NA,pony,pony
-item_35,possum,word,animals,produces,possum,NA,possum,
+item_35,possum,word,animals,produces,possum,NA,possum,possum
 item_36,puppy,word,animals,produces,puppy,NA,puppy,puppy
 item_37,sheep,word,animals,produces,sheep,NA,sheep,sheep
 item_38,snake,word,animals,produces,snake,NA,snake,snake
 item_39,spider,word,animals,produces,spider,NA,spider,spider
-item_40,cockroach,word,animals,produces,cockroach,NA,cockroach,
+item_40,cockroach,word,animals,produces,cockroach,NA,cockroach,cockroach
 item_41,cow,word,animals,produces,cow,NA,cow,cow
 item_42,crocodile,word,animals,produces,crocodile,NA,crocodile,crocodile
 item_43,deer,word,animals,produces,deer,NA,deer,deer
@@ -65,7 +65,7 @@ item_63,pram,word,vehicles,produces,pram,NA,pram,stroller
 item_64,stroller,word,vehicles,produces,stroller,NA,stroller,stroller
 item_65,tractor,word,vehicles,produces,tractor,NA,tractor,tractor
 item_66,train,word,vehicles,produces,train,NA,train,train
-item_67,three_wheeler_tricycle,word,vehicles,produces,three wheeler/tricycle,NA,three wheeler/tricycle,
+item_67,three_wheeler_tricycle,word,vehicles,produces,three wheeler/tricycle,NA,three wheeler/tricycle,tricycle
 item_68,truck,word,vehicles,produces,truck,NA,truck,truck
 item_69,ball,word,toys,produces,ball,NA,ball,ball
 item_70,balloon,word,toys,produces,balloon,NA,balloon,balloon
@@ -108,7 +108,7 @@ item_106,hamburger,word,food_drink,produces,hamburger,NA,hamburger,hamburger
 item_107,ice,word,food_drink,produces,ice,NA,ice,ice
 item_108,ice_cream,word,food_drink,produces,ice cream,NA,ice cream,ice cream
 item_109,jam,word,food_drink,produces,jam,NA,jam,jam
-item_110,jelly,word,food_drink,produces,jelly,NA,jelly,
+item_110,jelly,word,food_drink,produces,jelly,NA,jelly,jam
 item_111,juice,word,food_drink,produces,juice,NA,juice,juice
 item_112,lolly,word,food_drink,produces,lolly,NA,lolly,lollipop
 item_113,mango,word,food_drink,produces,mango,NA,mango,mango
@@ -143,7 +143,7 @@ item_141,pancake,word,food_drink,produces,pancake,NA,pancake,pancake
 item_142,pasta,word,food_drink,produces,pasta,NA,pasta,pasta
 item_143,peanut_butter,word,food_drink,produces,peanut butter,NA,peanut butter,peanut butter
 item_144,peas,word,food_drink,produces,peas,NA,peas,peas
-item_145,vegemite,word,food_drink,produces,vegemite,NA,vegemite,
+item_145,vegemite,word,food_drink,produces,vegemite,NA,vegemite,NA
 item_146,vitamins,word,food_drink,produces,vitamins,NA,vitamins,vitamin
 item_147,water,word,food_drink,produces,water,NA,water,water (beverage)
 item_148,yoghurt,word,food_drink,produces,yoghurt,NA,yoghurt,yogurt
@@ -167,7 +167,7 @@ item_165,shoes,word,clothing,produces,shoe(s),NA,shoe(s),shoe
 item_166,shorts,word,clothing,produces,shorts,NA,shorts,shorts
 item_167,slippers,word,clothing,produces,slipper(s),NA,slipper(s),slipper
 item_168,socks,word,clothing,produces,sock(s),NA,sock(s),sock
-item_169,sunglasses_sunnies,word,clothing,produces,sunglasses/sunnies,NA,sunglasses/sunnies,
+item_169,sunglasses_sunnies,word,clothing,produces,sunglasses/sunnies,NA,sunglasses/sunnies,sunglasses
 item_170,thongs,word,clothing,produces,thongs,NA,thongs,sandals
 item_171,underpants_undies,word,clothing,produces,underpants/undies,NA,underpants/undies,underpants
 item_172,zipper,word,clothing,produces,zipper,NA,zipper,zipper
@@ -309,7 +309,7 @@ item_307,wall,word,outside,produces,wall,NA,wall,wall
 item_308,water,word,outside,produces,water,NA,water,water (not beverage)
 item_309,waves,word,outside,produces,waves,NA,waves,waves
 item_310,wind,word,outside,produces,wind,NA,wind,wind
-item_311,barbecue,word,places,produces,barbecue,NA,barbecue,
+item_311,barbecue,word,places,produces,barbecue,NA,barbecue,NA
 item_312,beach,word,places,produces,beach,NA,beach,beach
 item_313,bush,word,places,produces,bush,NA,bush,country
 item_314,church_mosque,word,places,produces,church/mosque,NA,church/mosque,church

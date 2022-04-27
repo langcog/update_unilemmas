@@ -18,10 +18,21 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # fix error
 new_items[which(new_items$definition=="puzzle"),]$uni_lemma = "puzzle"
 
+new_items[which(new_items$definition=="three wheeler/tricycle"),]$uni_lemma = "tricycle"
+new_items[which(new_items$definition=="jelly"),]$uni_lemma = "jam"
+new_items[which(new_items$definition=="cockroach"),]$uni_lemma = "cockroach"
+new_items[which(new_items$definition=="possum"),]$uni_lemma = "possum"
+new_items[which(new_items$definition=="sunglasses/sunnies"),]$uni_lemma = "sunglasses"
+
+#subset(new_items, uni_lemma=="")
+
+new_items[which(new_items$definition=="vegemite"),]$uni_lemma = NA
+new_items[which(new_items$definition=="barbecue"),]$uni_lemma = NA
+
 # save updated instrument(s)
 new_ws <- update_instrument("Australian", "WS", new_items %>% rename(itemID = WS))
-# "97 new uni-lemmas defined for Australian"
-# ""               "ankle"          "awake"          "basket"         "bat (object)"   "belt"           "bench"         
+# "100 new uni-lemmas defined for Australian"
+# "ankle"          "awake"          "basket"         "bat (object)"   "belt"           "bench"         
 # "better"         "brown"          "build"          "call"           "call on phone"  "chase"          "chips"         
 # "cook"           "corn"           "cowboy"         "cuddle"         "cut"            "farm"           "firefighter"   
 # "first"          "fit"            "fix"            "flag"           "game"           "gas station"    "give me five"  
