@@ -1,5 +1,6 @@
 library(wordbankr)
 library(tidyverse)
+source("update_unilemmas.R")
 
 language = "Turkish"
 
@@ -16,5 +17,21 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # item_542 item_342 action_words        Yat lie down/go to bed       lie                lie down      
 # item_629 item_383     pronouns        Ben                  I         i                       I  
 
-# ToDo
-new_items[which(new_items$definition=="i"),]$uni_lemma = "I"
+new_items[which(new_items$definition=="Çıkar"),]$uni_lemma = "remove"
+new_items[which(new_items$definition=="Kaldır"),]$uni_lemma = "lift (action)" # disambiguate
+new_items[which(new_items$definition=="Yat"),]$uni_lemma = "lie down"
+new_items[which(new_items$definition=="Ben"),]$uni_lemma = "I" # capitalize
+
+
+# some empty
+new_items[which(new_items$definition=="Oku"),]$uni_lemma = "read"
+new_items[which(new_items$definition=="Pişir"),]$uni_lemma = "cook"
+
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
+
+# save updated instruments
+new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
+# "249 new uni-lemmas defined for Turkish"
+new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
+# "7 new uni-lemmas defined for Turkish"
+# "I"             "lie down"      "lift (action)" "nut"           "open"          "remove"        "shh" 

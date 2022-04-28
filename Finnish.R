@@ -26,6 +26,6 @@ new_items[which(new_items$definition=="viili"),]$uni_lemma = NA # buttermilk? ("
 
 new_ws <- update_instrument("Finnish", "WS", new_items %>% rename(itemID = WS))
 # "37 new uni-lemmas defined for Finnish"
-new_ws <- update_instrument("Finnish", "WS_Short", new_items %>% rename(itemID = WS_short))
+new_ws_short <- update_instrument("Finnish", "WS_Short", new_items %>% rename(itemID = WS_short))
 # "7 new uni-lemmas defined for Finnish"
 # "boat"    "but"     "few"     "open"    "present" "puzzle"  "then"  
