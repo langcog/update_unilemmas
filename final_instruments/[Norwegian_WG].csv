@@ -61,7 +61,7 @@ item_90,i_7_3,word,toys,understands; produces,bok,NA,book,book
 item_91,i_7_4,word,toys,understands; produces,klosser,NA,bricks,blocks
 item_92,i_7_5,word,toys,understands; produces,dukke,NA,baby doll,doll
 item_93,i_7_6,word,toys,understands; produces,leke (object),NA,play,toy (object)
-item_94,i_7_7,word,toys,understands; produces,(farge)blyant,NA,(Color) pencil,pen/pencil
+item_94,i_7_7,word,toys,understands; produces,(farge)blyant,NA,(Color) pencil,crayon
 item_95,i_7_8,word,toys,understands; produces,såpebobler,NA,soap bubbles,bubbles
 item_96,i_8_1,word,food_drink,understands; produces,appelsin,NA,orange,orange (food)
 item_97,i_8_2,word,food_drink,understands; produces,banan,NA,banana,banana
@@ -273,7 +273,7 @@ item_302,i_17_15,word,action_words,understands; produces,hente,NA,fetch,get
 item_303,i_17_16,word,action_words,understands; produces,hjelpe,NA,help,help
 item_304,i_17_17,word,action_words,understands; produces,holde øye med,NA,keep an eye on,watch (action)
 item_305,i_17_18,word,action_words,understands; produces,hoppe,NA,jump,jump
-item_306,i_17_19,word,action_words,understands; produces,huske (action),NA,remember,swing (action)
+item_306,i_17_19,word,action_words,understands; produces,huske (action),NA,remember,remember
 item_307,i_17_20,word,action_words,understands; produces,kaste,NA,throw,throw
 item_308,i_17_21,word,action_words,understands; produces,kile,NA,wedge,tickle
 item_309,i_17_22,word,action_words,understands; produces,kjøre,NA,driving,drive
@@ -318,7 +318,7 @@ item_347,i_18_7,word,descriptive_words,understands; produces,fort,NA,fast,fast
 item_348,i_18_8,word,descriptive_words,understands; produces,frekk,NA,rude,bad
 item_349,i_18_9,word,descriptive_words,understands; produces,gammel,NA,old,old
 item_350,i_18_10,word,descriptive_words,understands; produces,glad,NA,happy,happy
-item_351,i_18_11,word,descriptive_words,understands; produces,grei,NA,easy,easy
+item_351,i_18_11,word,descriptive_words,understands; produces,grei,NA,easy,kind
 item_352,i_18_12,word,descriptive_words,understands; produces,hard,NA,hard,hard
 item_353,i_18_13,word,descriptive_words,understands; produces,kald,NA,cold,cold
 item_354,i_18_14,word,descriptive_words,understands; produces,liten,NA,small,little (description)
@@ -332,7 +332,7 @@ item_361,i_18_21,word,descriptive_words,understands; produces,rød,NA,red,red
 item_362,i_18_22,word,descriptive_words,understands; produces,skitten,NA,filthy,dirty
 item_363,i_18_23,word,descriptive_words,understands; produces,skjønn,NA,discretion,beautiful
 item_364,i_18_24,word,descriptive_words,understands; produces,slem,NA,naughty,naughty
-item_365,i_18_25,word,descriptive_words,understands; produces,sliten,NA,sleepy,sleepy
+item_365,i_18_25,word,descriptive_words,understands; produces,sliten,NA,sleepy,tired
 item_366,i_18_26,word,descriptive_words,understands; produces,søt,NA,soot,cute
 item_367,i_18_27,word,descriptive_words,understands; produces,stor,NA,large,big
 item_368,i_18_28,word,descriptive_words,understands; produces,sulten,NA,hungry,hungry
@@ -369,7 +369,7 @@ item_398,i_21_3,word,question_words,understands; produces,hvor,NA,where,where (q
 item_399,i_21_4,word,question_words,understands; produces,hvordan,NA,how to,how
 item_400,i_21_5,word,question_words,understands; produces,hvorfor,NA,how come,why
 item_401,i_21_6,word,question_words,understands; produces,når,NA,what time,when (question)
-item_402,i_22_1,word,locations,understands; produces,av,NA,of the,off
+item_402,i_22_1,word,locations,understands; produces,av,NA,of the,of
 item_403,i_22_2,word,locations,understands; produces,bak,NA,behind,back (location)
 item_404,i_22_3,word,locations,understands; produces,bort,NA,away,away
 item_405,i_22_4,word,locations,understands; produces,der,NA,there,there
@@ -384,14 +384,14 @@ item_413,i_22_12,word,locations,understands; produces,oppe,NA,up,up
 item_414,i_22_13,word,locations,understands; produces,på,NA,on the,on
 item_415,i_22_14,word,locations,understands; produces,under,NA,under,under
 item_416,i_22_15,word,locations,understands; produces,ut,NA,out,out
-item_417,i_22_16,word,locations,understands; produces,ute (location),NA,out,out
+item_417,i_22_16,word,locations,understands; produces,ute (location),NA,out,outside
 item_418,i_23_1,word,quantifiers,understands; produces,alle,NA,all of them,all
 item_419,i_23_2,word,quantifiers,understands; produces,en annen,NA,another one,another
 item_420,i_23_3,word,quantifiers,understands; produces,ikke (amount),NA,do not,not
 item_421,i_23_4,word,quantifiers,understands; produces,ingen,NA,no one,none
 item_422,i_23_5,word,quantifiers,understands; produces,ingenting,NA,nothing,nothing
 item_423,i_23_6,word,quantifiers,understands; produces,mer,NA,more,more
-item_424,i_23_7,word,quantifiers,understands; produces,noe,NA,something,some
+item_424,i_23_7,word,quantifiers,understands; produces,noe,NA,something,something
 item_425,i_23_8,word,quantifiers,understands; produces,noen,NA,a few,any
 item_426,i_23_9,word,quantifiers,understands; produces,samme,NA,same,same
 item_1,i_1_1,first_signs,NA,yes; no,Reagerer når han/hun hører navnet sitt (ved f.eks. å snu seg mot den som snakker),NA,NA,NA

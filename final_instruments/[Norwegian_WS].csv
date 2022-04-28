@@ -442,7 +442,7 @@ item_440,i_14_27,word,action_words,produces,hjelpe,NA,help,help,help
 item_441,i_14_28,word,action_words,produces,holde,NA,NA,hold,hold 
 item_442,i_14_29,word,action_words,produces,holde øye med,NA,watch (action),keep an eye on,watch (action)
 item_443,i_14_30,word,action_words,produces,hoppe,NA,jump,jump,jump
-item_444,i_14_31,word,action_words,produces,huske (action),NA,swing (action),remember,swing (action)
+item_444,i_14_31,word,action_words,produces,huske (action),NA,swing (action),remember,remember
 item_445,i_14_32,word,action_words,produces,høre,NA,NA,hear,hear
 item_446,i_14_33,word,action_words,produces,høre etter,NA,NA,listen,listen 
 item_447,i_14_34,word,action_words,produces,følge etter,NA,NA,follow,follow 
@@ -636,7 +636,7 @@ item_634,i_18_4,word,question_words,produces,hvor,NA,where (question),where,wher
 item_635,i_18_5,word,question_words,produces,hvordan,NA,how,how to,how
 item_636,i_18_6,word,question_words,produces,hvorfor,NA,why,how come,why
 item_637,i_18_7,word,question_words,produces,når,NA,when (question),what time,when (question)
-item_638,i_19_1,word,locations,produces,av,NA,off,of the,off
+item_638,i_19_1,word,locations,produces,av,NA,off,of the,of
 item_639,i_19_2,word,locations,produces,bak,NA,back (location),behind,back (location)
 item_640,i_19_3,word,locations,produces,bort,NA,away,away,away
 item_641,i_19_4,word,locations,produces,borte,NA,NA,away,away
@@ -672,7 +672,7 @@ item_670,i_19_33,word,locations,produces,til,NA,NA,to the,to
 item_671,i_19_34,word,locations,produces,tilbake,NA,NA,in return,back 
 item_672,i_19_35,word,locations,produces,under,NA,under,under,under
 item_673,i_19_36,word,locations,produces,ut,NA,out,out,out
-item_674,i_19_37,word,locations,produces,ute (location),NA,out,out,out
+item_674,i_19_37,word,locations,produces,ute (location),NA,out,out,outside
 item_675,i_19_38,word,locations,produces,utenfor,NA,NA,outside,outside
 item_676,i_19_39,word,locations,produces,utenpå,NA,NA,surface,on the outside
 item_677,i_19_40,word,locations,produces,ved siden av,NA,NA,adjacent to,beside
@@ -695,7 +695,7 @@ item_693,i_20_15,word,quantifiers,produces,litt,NA,NA,a little,little (amount)
 item_694,i_20_16,word,quantifiers,produces,mange,NA,NA,many,many
 item_695,i_20_17,word,quantifiers,produces,mer,NA,more,more,more
 item_696,i_20_18,word,quantifiers,produces,mye,NA,NA,a lot,a lot 
-item_697,i_20_19,word,quantifiers,produces,noe,NA,some,something,some
+item_697,i_20_19,word,quantifiers,produces,noe,NA,some,something,something
 item_698,i_20_20,word,quantifiers,produces,noen,NA,any,a few,any
 item_699,i_20_21,word,quantifiers,produces,også,NA,NA,as well,also 
 item_700,i_20_22,word,quantifiers,produces,samme,NA,same,same,same

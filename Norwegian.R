@@ -7,10 +7,10 @@ language = "Norwegian"
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 745 Norwegian items"
 # "333 missing uni_lemmas in original ( 45 % missing)"
-# "389 uni_lemmas added/modified"
+# "388 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
-# "3 uni_lemmas still missing ( 0 % missing)"
-# "Review 54 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
+# "8 uni_lemmas still missing ( 1 % missing)"
+# "Review 44 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
 
 # ToDo: reject a lot of the new uni-lemmas that don't match old (e.g. bunny, not rabbit)
 new_items[which(new_items$definition=="kanin"),]$uni_lemma = "bunny"
@@ -33,8 +33,30 @@ new_items[which(new_items$definition=="TV"),]$uni_lemma = "TV"
 new_items[which(new_items$definition=="butikk"),]$uni_lemma = "store"
 new_items[which(new_items$definition=="jeg"),]$uni_lemma = "I"
 new_items[which(new_items$definition=="pappa"),]$uni_lemma = "daddy"
-
-# ToDo: finish...so many of them :/
+new_items[which(new_items$definition=="mennesker"),]$uni_lemma = "person"
+new_items[which(new_items$definition=="bade"),]$uni_lemma = "bath"
+new_items[which(new_items$definition=="sovetid"),]$uni_lemma = "nap" # or 'bedtime'
+new_items[which(new_items$definition=="hente"),]$uni_lemma = "get" # or 'fetch'
+new_items[which(new_items$definition=="huske (action)"),]$uni_lemma = "remember" # not 'swing'
+new_items[which(new_items$definition=="legge"),]$uni_lemma = "put" # or lay
+new_items[which(new_items$definition=="rydde"),]$uni_lemma = "clean (action)" 
+new_items[which(new_items$definition=="dra"),]$uni_lemma = "go" # or leave
+new_items[which(new_items$definition=="ødelegge"),]$uni_lemma = "break"
+new_items[which(new_items$definition=="ekkelt"),]$uni_lemma = "yucky" # or disgusting
+new_items[which(new_items$definition=="frekk"),]$uni_lemma = "bad" # or rude
+new_items[which(new_items$definition=="hard"),]$uni_lemma = "hard"
+new_items[which(new_items$definition=="ødelagt"),]$uni_lemma = "broken"
+new_items[which(new_items$definition=="slem"),]$uni_lemma = "naughty" # or mean
+new_items[which(new_items$definition=="varm"),]$uni_lemma = "hot"
+new_items[which(new_items$definition=="min"),]$uni_lemma = "my"
+new_items[which(new_items$definition=="av"),]$uni_lemma = "of"
+new_items[which(new_items$definition=="ute (location)"),]$uni_lemma = "outside" # or out
+new_items[which(new_items$definition=="alle"),]$uni_lemma = "all"
+new_items[which(new_items$definition=="noe"),]$uni_lemma = "something" # or anything
+new_items[which(new_items$definition=="noen"),]$uni_lemma = "any" # some or any
+new_items[which(new_items$definition=="(farge)blyant"),]$uni_lemma = "crayon" # (color) pencil
+new_items[which(new_items$definition=="grei"),]$uni_lemma = "kind"
+new_items[which(new_items$definition=="sliten"),]$uni_lemma = "tired"
 
 new_items[which(new_items$definition=="plastilina"),]$uni_lemma = "play dough"
 new_items[which(new_items$definition=="matpakke"),]$uni_lemma = "lunchbox"
@@ -43,7 +65,8 @@ new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instruments
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
-# "302 new uni-lemmas defined for Norwegian"
+# "305 new uni-lemmas defined for Norwegian"
 new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
-# "8 new uni-lemmas defined for Norwegian"
-# "blocks" "boot"   "carrot" "I"      "mitten" "TV"     "wallet" "wasp"  
+# "13 new uni-lemmas defined for Norwegian"
+# "blocks"    "boot"      "carrot"    "crayon"    "I"         "kind"      "mitten"    "of"        "remember"  "something"
+# "TV"        "wallet"    "wasp"   

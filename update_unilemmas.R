@@ -67,4 +67,4 @@ tabulate_unilemmas <- function(directory) {
 }
 
 #new_uni <- tabulate_unilemmas("final_instruments/")
-#sort(table(new_uni$uni_lemma))
+#new_uni_tab <- sort(table(new_uni$uni_lemma))
