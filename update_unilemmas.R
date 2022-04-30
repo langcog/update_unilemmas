@@ -26,7 +26,8 @@ update_instrument <- function(language, instrument, new_items) {
   instr_name = paste0("[",language,"_",instrument,"].csv")
   paste("Loading old",instr_name,"instrument...")
   instr <- read_csv(paste0("old_instruments/",instr_name)) %>% 
-    mutate(gloss = as.character(gloss)) # one of them was 'logical'...
+    mutate(gloss = as.character(gloss), # one of them was 'logical'...
+           uni_lemma = as.character(uni_lemma)) # one of them was 'logical'...
   # get non-word items (to keep the same)
   instr_nonwords <- instr %>% anti_join(new_items, by="itemID")
   
