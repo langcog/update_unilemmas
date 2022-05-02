@@ -12,11 +12,6 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "Adding uncontested new_uni_lemmas..."
 # "27 uni_lemmas still missing ( 4 % missing)"
 # "Review 4 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
-#       WS       WG     category definition              gloss uni_lemma new_gloss new_uni_lemma notes
-# item_440 item_278 action_words      Çıkar           take off  take off                  remove      
-# item_478 item_306 action_words     Kaldır       lift/pick up      lift           lift (action)      
-# item_542 item_342 action_words        Yat lie down/go to bed       lie                lie down      
-# item_629 item_383     pronouns        Ben                  I         i                       I  
 
 new_items[which(new_items$definition=="Çıkar"),]$uni_lemma = "remove"
 new_items[which(new_items$definition=="Kaldır"),]$uni_lemma = "lift (action)" # disambiguate
