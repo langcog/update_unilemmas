@@ -69,3 +69,13 @@ tabulate_unilemmas <- function(directory) {
 
 #new_uni <- tabulate_unilemmas("final_instruments/")
 #new_uni_tab <- sort(table(new_uni$uni_lemma))
+length(new_uni_tab) # 1879 uni-lemmas
+length(new_uni_tab[which(new_uni_tab==1)]) # 605 hapaxes
+length(unique(new_uni$form)) # 36 forms
+
+# attempt -> try
+
+#subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
+#subset(new_uni, uni_lemma=="(hair)brush") # Dutch_WS - changed to brush (object)
+
+subset(new_uni, uni_lemma=="(hair)brush")

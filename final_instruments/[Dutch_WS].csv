@@ -246,7 +246,7 @@ item_244,household,geld/centen/centjes,understands;produces,geld/centen/centjes,
 item_245,household,glas,understands;produces,glas,word,glass,glass
 item_246,household,hamer,understands;produces,hamer,word,hammer,hammer
 item_247,household,handdoek,understands;produces,handdoek,word,towel,towel
-item_248,household,kam/borstel,understands;produces,kam/borstel,word,(hair)brush,(hair)brush
+item_248,household,kam/borstel,understands;produces,kam/borstel,word,(hair)brush,brush (object)
 item_249,household,kan,understands;produces,kan,word,jug,jug
 item_250,household,kom/schaal,understands;produces,kom/schaal,word,bowl,bowl
 item_251,household,krant,understands;produces,krant,word,newspaper,newspaper

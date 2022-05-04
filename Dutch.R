@@ -76,6 +76,8 @@ new_items[which(new_items$definition=="dadadoen/daaag"),]$uni_lemma = "bye"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
+new_items[which(new_items$uni_lemma=="(hair)brush"),]$uni_lemma = "brush (object)"
+
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))
 # "22 new uni-lemmas defined for Dutch"

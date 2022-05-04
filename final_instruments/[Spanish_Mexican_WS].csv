@@ -71,7 +71,7 @@ item_69,autobus,word,vehicles,produces,autobús,NA,NA,bus,bus
 item_70,agua,word,food_drink,produces,agua,NA,water (beverage),water,water (beverage)
 item_71,arroz,word,food_drink,produces,arroz,NA,rice,rice,rice
 item_72,atole,word,food_drink,produces,atole,NA,atole,porridge,atole
-item_73,atun,word,food_drink,produces,atún,NA,NA,tuna fish,tuna (food)
+item_73,atun,word,food_drink,produces,atún,NA,NA,tuna fish,tuna
 item_74,azucar,word,food_drink,produces,azúcar,NA,NA,sugar,sugar
 item_75,cafe,word,food_drink,produces,café,NA,coffee,coffee,coffee
 item_76,calabaza,word,food_drink,produces,calabaza,NA,NA,pumpkin,pumpkin
