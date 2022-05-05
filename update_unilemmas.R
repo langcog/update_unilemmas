@@ -63,7 +63,7 @@ tabulate_unilemmas <- function(directory) {
     d <- d %>% bind_rows(tmp %>%
                            select(form,item,category,uni_lemma))
   }
-  d
+  
   return(d)
 }
 

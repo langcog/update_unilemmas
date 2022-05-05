@@ -1,0 +1,819 @@
+itemID,item,type,category,choices,definition,complexity_category,gloss,uni_lemma
+item_1,S1_OUCH,word,sounds,produces,άου,NA,ouch,awoo
+item_2,S2_FROG_SO,word,sounds,produces,βρεκεκέξ κουάξ κουάξ,NA,frog sound,ribbit
+item_3,S3_WOOF_WO,word,sounds,produces,γαβ γαβ,NA,woof woof,woof woof
+item_4,S4_YUMMY,word,sounds,produces,γιάμι,NA,yummy,yum yum
+item_5,S5_CHICKEN,word,sounds,produces,κοκοκό,NA,chicken sound,
+item_6,S6_COOCKAD,word,sounds,produces,κικιρίκου,NA,coockadoodledoo,cockadoodledoo
+item_7,S7_OWL_SOU,word,sounds,produces,κουκουβά,NA,owl sound,hoot
+item_8,S8_YUM_YUM,word,sounds,produces,μιαμ μιαμ,NA,yum yum,yum yum
+item_9,S9_MEOW,word,sounds,produces,μιάου,NA,meow,meow
+item_10,S10_MOO,word,sounds,produces,μουουου,NA,moo,moo
+item_11,S11_SHEEP_,word,sounds,produces,μπεεε,NA,sheep sound,baa baa
+item_12,S12_WATER__CG,word,sounds,produces,μπουά,NA,water CG,
+item_13,S13_BLOOM,word,sounds,produces,μπλουμ,NA,bloom,
+item_14,S14_SOUND__CG,word,sounds,produces,ουφ(φου),NA,sound when getting tired/bored CG,
+item_15,S15_QUACK_,word,sounds,produces,παπαπά,NA,quack quack,quack quack
+item_16,S16_SOUND__CG,word,sounds,produces,πουφ(φου),NA,sound indicating bad smell CG,
+item_17,S17_BIRD_S,word,sounds,produces,τσίου,NA,bird sound,tweet tweet
+item_18,A1_COW,word,animals,produces,αγελάδα,NA,cow,cow
+item_19,A2_HORSE,word,animals,produces,άλογο,NA,horse,horse
+item_20,A3_SPIDER,word,animals,produces,αράχνη,NA,spider,spider
+item_21,A4_BEAR,word,animals,produces,αρκούδα,NA,bear,bear
+item_22,A5_LAMB,word,animals,produces,αρνί,NA,lamb,lamb
+item_23,A6_FROG,word,animals,produces,βάτραχος,NA,frog,frog
+item_24,A7_DONKEY,word,animals,produces,γάιδαρος,NA,donkey,donkey
+item_25,A8_CAT,word,animals,produces,γάτα,NA,cat,cat
+item_26,A9_PIG,word,animals,produces,γουρούνι,NA,pig,pig
+item_27,A10_DOLPHI,word,animals,produces,δελφίνι,NA,dolphin,dolphin
+item_28,A11_DEER,word,animals,produces,ελάφι,NA,deer,deer
+item_29,A12_ELEPHA,word,animals,produces,ελέφαντας,NA,elephant,elephant
+item_30,A13_INSECT,word,animals,produces,έντομο,NA,insect,bug
+item_31,A14_ANIMAL,word,animals,produces,ζώο,NA,animal,animal
+item_32,A15_CAMEL,word,animals,produces,καμήλα,NA,camel,camel
+item_33,A16_GIRAFF,word,animals,produces,καμηλοπάρδαλη,NA,giraffe,giraffe
+item_34,A17_SNAIL__CG,word,animals,produces,καράολος,NA,snail CG,snail
+item_35,A18_COCKRO,word,animals,produces,κατσαρίδα,NA,cockroach,cockroach
+item_36,A19_GOAT,word,animals,produces,κατσίκα,NA,goat,goat
+item_37,A20_ROOSTE,word,animals,produces,κόκορας,NA,rooster,rooster
+item_38,A21_CHICKE,word,animals,produces,κότα,NA,chicken,chicken (animal)
+item_39,A22_OWL,word,animals,produces,κουκουβάγια,NA,owl,owl
+item_40,A23_RABBIT,word,animals,produces,κουνέλι,NA,rabbit,bunny
+item_41,A24_MOSQUI,word,animals,produces,κουνούπι,NA,mosquito,mosquito
+item_42,A25_TYPE_O_CG,word,animals,produces,κουρκουτάς,NA,type of lizard CG,lizard
+item_43,A26_PUPPY,word,animals,produces,κουτάβι,NA,puppy,puppy
+item_44,A27_SNAKE__CG,word,animals,produces,κουφή,NA,snake CG,snake
+item_45,A28_CROCOD,word,animals,produces,κροκόδειλος,NA,crocodile,crocodile
+item_46,A29_HARE,word,animals,produces,λαγός,NA,hare,hare
+item_47,A30_LION,word,animals,produces,λιοντάρι,NA,lion,lion
+item_48,A31_MONKEY,word,animals,produces,μαϊμού,NA,monkey,monkey
+item_49,A32_BEE,word,animals,produces,μέλισσα,NA,bee,bee
+item_50,A33_FLY,word,animals,produces,μύγα,NA,fly,fly (animal)
+item_51,A34_ANT,word,animals,produces,μυρμήγκι,NA,ant,ant
+item_52,A25_BAT,word,animals,produces,νυχτερίδα,NA,bat,bat (animal)
+item_53,A26_LADYBU_CG,word,animals,produces,παπαρούνα,NA,ladybug CG,ladybug
+item_54,A27_DUCK,word,animals,produces,πάπια,NA,duck,duck
+item_55,A38_LADYBU,word,animals,produces,πασχαλίτσα,NA,ladybug,ladybug
+item_56,A39_BUTTER,word,animals,produces,πεταλούδα,NA,butterfly,butterfly
+item_57,A40_ROOSTE_CG,word,animals,produces,πετεινός,NA,rooster CG,rooster
+item_58,A41_PENGUI,word,animals,produces,πιγκουίνος,NA,penguin,penguin
+item_59,A42_MONKEY,word,animals,produces,πίθηκος,NA,monkey,monkey
+item_60,A43_MOUSE,word,animals,produces,ποντίκι,NA,mouse,mouse
+item_61,A44_BIRD,word,animals,produces,πουλί,NA,bird,bird
+item_62,A45_SHEEP,word,animals,produces,πρόβατο,NA,sheep,sheep
+item_63,A46_SNAIL,word,animals,produces,σαλιγκάρι,NA,snail,snail
+item_64,A47_LIZARD,word,animals,produces,σαύρα,NA,lizard,lizard
+item_65,A48_SQUIRR,word,animals,produces,σκίουρος,NA,squirrel,squirrel
+item_66,A49_DOG,word,animals,produces,σκύλος,NA,dog,dog
+item_67,A50_WASP,word,animals,produces,σφήκα,NA,wasp,wasp
+item_68,A51_TIGER,word,animals,produces,τίγρη,NA,tiger,tiger
+item_69,A52_WHALE,word,animals,produces,φάλαινα,NA,whale,whale
+item_70,A53_SNAKE,word,animals,produces,φίδι,NA,snake,snake
+item_71,A54_TURTLE,word,animals,produces,χελώνα,NA,turtle,turtle
+item_72,A55_GOOSE,word,animals,produces,χήνα,NA,goose,goose
+item_73,A56_FISH,word,animals,produces,ψάρι,NA,fish,fish (animal)
+item_74,T1_TEDDY_B,word,toys,produces,αρκουδάκι,NA,teddy bear,teddybear
+item_75,T2_CAR,word,toys,produces,αυτοκινητάκι,NA,car,car
+item_76,T3_BOOK,word,toys,produces,βιβλίο,NA,book,book
+item_77,T4_GLUE_CG_CG,word,toys,produces,γόμμα,NA,glue CG,glue
+item_78,T5_GIFT,word,toys,produces,δώρο,NA,gift,present
+item_79,T6_GLUE,word,toys,produces,κόλλα,NA,glue,glue
+item_80,T7_DOLL,word,toys,produces,κούκλα,NA,doll,doll
+item_81,T8_CUBE,word,toys,produces,κύβος,NA,cube,block
+item_82,T9_BALL_CG_CG,word,toys,produces,μάππα,NA,ball CG,ball
+item_83,T10_MARKER,word,toys,produces,μαρκαδόρος,NA,marker,crayon
+item_84,T11_BALL,word,toys,produces,μπάλα,NA,ball,ball
+item_85,T12_BALLOO,word,toys,produces,μπαλόνι,NA,balloon,balloon
+item_86,T13_TEDDY__CG,word,toys,produces,μπούλουκκος,NA,teddy bear CG,teddybear
+item_87,T14_PENCIL,word,toys,produces,μολύβι,NA,pencil,pencil
+item_88,T15_PUZZLE,word,toys,produces,παζλ,NA,puzzle,puzzle
+item_89,T16_TOY_GA,word,toys,produces,παιχνίδι,NA,toy/game,toy (object)
+item_90,T17_STORY_,word,toys,produces,παραμύθι,NA,story/fairytale,story
+item_91,T18_PEN_CG_CG,word,toys,produces,πέννα,NA,pen CG,pen/pencil
+item_92,T19_PLAY_D,word,toys,produces,πλαστελίνη,NA,play doh,play dough
+item_93,T20_PLAY_D_CG,word,toys,produces,πλαστισίνη,NA,play doh CG,play dough
+item_94,T21_TOY_SO,word,toys,produces,στρατιωτάκι,NA,toy soldier,
+item_95,T22_PEN,word,toys,produces,στυλό,NA,pen,pen
+item_96,T23_BLOCK,word,toys,produces,τούβλο,NA,block,block
+item_97,T14_BALLOO_CG,word,toys,produces,φούσκα,NA,balloon CG,balloon
+item_98,FD1_SALT,word,food_drink,produces,αλάτι,NA,salt,salt
+item_99,FD2_EGG,word,food_drink,produces,αυγό,NA,egg,egg
+item_100,FD3_AUBERG_CG,word,food_drink,produces,βαζάνι,NA,aubergine CG,eggplant
+item_101,FD4_BUTTER,word,food_drink,produces,βούτυρος,NA,butter,butter
+item_102,FD5_MILK,word,food_drink,produces,γάλα,NA,milk,milk
+item_103,FD6_YOGURT,word,food_drink,produces,γιαούρτι,NA,yogurt,yogurt
+item_104,FD7_SWEET,word,food_drink,produces,γλυκό/γλύκισμα,NA,sweet,sweet
+item_105,FD8_LOLLIP,word,food_drink,produces,γλειφιτζούρι,NA,lollipop,lollipop
+item_106,FD9_CEREAL,word,food_drink,produces,δημητριακά*,NA,cereal,cereal
+item_107,FD10_HAM,word,food_drink,produces,ζαμπόν,NA,ham,ham
+item_108,FD11_SUGAR,word,food_drink,produces,ζάχαρη,NA,sugar,sugar
+item_109,FD12_CONFE,word,food_drink,produces,ζαχαρωτά,NA,confectionery,candy
+item_110,FD13_JELLO,word,food_drink,produces,ζελέ,NA,jello,
+item_111,FD14_JELLY,word,food_drink,produces,ζελεδάκια,NA,jelly beans,
+item_112,FD15_CORN,word,food_drink,produces,καλαμπόκι,NA,corn,corn
+item_113,FD16_TOAST_CG,word,food_drink,produces,καπίρα,NA,toasted bread CG,toast
+item_114,FD17_CANDY,word,food_drink,produces,καραμέλα,NA,candy,candy
+item_115,FD18_CARRO,word,food_drink,produces,καρότο,NA,carrot,carrots
+item_116,FD19_WATER,word,food_drink,produces,καρπούζι,NA,watermelon,watermelon
+item_117,FD20_COFFE,word,food_drink,produces,καφές,NA,coffee,coffee
+item_118,DF21_CAKE,word,food_drink,produces,κέϊκ,NA,cake,cake
+item_119,FD22_KETCH,word,food_drink,produces,κέτσαπ,NA,ketchup,ketchup
+item_120,FD23_CHICK,word,food_drink,produces,κοτόπουλο,NA,chicken,chicken (food)
+item_121,FD24_STUFF_CG,word,food_drink,produces,κουπέπι,NA,stuffed grape leaves CG,
+item_122,FD25_CANDY_CG,word,food_drink,produces,κουφέττα,NA,candy CG,candy
+item_123,FD26_MEAT__CG,word,food_drink,produces,κρέας,NA,meat CG,meat
+item_124,FD27_CREAM,word,food_drink,produces,κρέμα,NA,cream,cream
+item_125,FD28_NUTS__CG,word,food_drink,produces,κούννες,NA,nuts CG,nut
+item_126,FD29_GREEK,word,food_drink,produces,λουκουμάδες,NA,greek donuts,pastry
+item_127,FD30_MAYON,word,food_drink,produces,μαγιονέζα,NA,mayonaise,
+item_128,FD31_PASTA,word,food_drink,produces,μακαρόνια,NA,pasta,pasta
+item_129,FD32_JAM,word,food_drink,produces,μαρμελάδα,NA,jam,jam
+item_130,FD33_AUBER,word,food_drink,produces,μελιτζάνα,NA,aubergine,eggplant
+item_131,FD34_APPLE,word,food_drink,produces,μήλο,NA,apple,apple
+item_132,FD35_LOLLI_CG,word,food_drink,produces,μηλούιν,NA,lollipop CG,lollipop
+item_133,FD36_BANAN,word,food_drink,produces,μπανάνα,NA,banana,banana
+item_134,FD37_PEAS,word,food_drink,produces,μπιζέλι,NA,peas,peas
+item_135,FD38_BISCU,word,food_drink,produces,μπισκότο,NA,biscuit,biscuit
+item_136,FD39_BURGE,word,food_drink,produces,μπιφτέκι,NA,burger,hamburger
+item_137,FD40_NUGGE,word,food_drink,produces,νάγκετς,NA,nuggets,
+item_138,FD41_WATER,word,food_drink,produces,νερό,NA,water,water (beverage)
+item_139,FD42_NUTS,word,food_drink,produces,ξηροί καρποί,NA,nuts,nut
+item_140,FD43_ICE_C,word,food_drink,produces,παγάκι,NA,ice cube,ice
+item_141,FD44_ICE_C,word,food_drink,produces,παγωτό,NA,ice cream,ice cream
+item_142,FD45_CRISP,word,food_drink,produces,πατατάκια,NA,crisps,chips
+item_143,FD46_POTAT,word,food_drink,produces,πατάτα,NA,potato,potato
+item_144,FD47_MELON,word,food_drink,produces,πεπόνι,NA,melon,melon
+item_145,FD48_GUM_C_CG,word,food_drink,produces,πίσσα,NA,gum CG,gum
+item_146,FD49_PIZZA,word,food_drink,produces,πίτσα,NA,pizza,pizza
+item_147,FD50_POP_C,word,food_drink,produces,ποπ κορν,NA,pop corn,
+item_148,FD51_ORANG,word,food_drink,produces,πορτοκάλι,NA,orange,orange (food)
+item_149,FD52_RICE,word,food_drink,produces,ρύζι,NA,rice,rice
+item_150,FD53_SANDW,word,food_drink,produces,σάντουιτς,NA,sandwich,sandwich
+item_151,FD54_CYPRI,word,food_drink,produces,σιάμισι,NA,cypriot sweet,
+item_152,FD55_CYPRI,word,food_drink,produces,σιεφταλιά,NA,cypriot crépinette,
+item_153,FD56_SYRUP,word,food_drink,produces,σιρόπι,NA,syrup,syrup
+item_154,FD57_CORN__CG,word,food_drink,produces,σιταροπούλα,NA,corn CG,corn
+item_155,FD58_CORN__CG,word,food_drink,produces,σίταρος,NA,corn CG,corn
+item_156,FD59_CHOCO,word,food_drink,produces,σοκολάτα,NA,chocolate,chocolate
+item_157,FD60_GREEK,word,food_drink,produces,σούβλα,NA,greek skewer,spit
+item_158,FD61_GREEK,word,food_drink,produces,σουβλάκι,NA,greek skewer,
+item_159,FD62_SOUP,word,food_drink,produces,σούπα,NA,soup,soup
+item_160,FD63_RAISI,word,food_drink,produces,σταφύδα,NA,raisin,raisin
+item_161,FD64_GRAPE,word,food_drink,produces,σταφύλι,NA,grape,grapes
+item_162,FD65_JELLO_CG,word,food_drink,produces,τζέλλι,NA,jello CG,
+item_163,FD66_TOAST,word,food_drink,produces,τοστ,NA,toast,toast
+item_164,FD67_TEA,word,food_drink,produces,τσάι,NA,tea,tea
+item_165,FD68_CRISP_CG,word,food_drink,produces,τσιπς,NA,crisps CG,chips
+item_166,FD69_GUM,word,food_drink,produces,τσίχλα,NA,gum,gum
+item_167,FD70_CHEES,word,food_drink,produces,τυρί,NA,cheese,cheese
+item_168,FD71_FOOD,word,food_drink,produces,φαγητό/φαΐ,NA,food,food
+item_169,FD72_LENTI,word,food_drink,produces,φακές,NA,lentils,lentil
+item_170,FD73_GREEN,word,food_drink,produces,φασολάκι,NA,green beans,green beans
+item_171,FD74_BEANS,word,food_drink,produces,φασόλια,NA,beans,beans
+item_172,FD75_FISH_,word,food_drink,produces,φίσφιγκερς,NA,fish fingers,
+item_173,FD76_STRAW,word,food_drink,produces,φράουλα,NA,strawberry,strawberry
+item_174,FD77_JELLY_CG,word,food_drink,produces,φρουτάκια,NA,jelly beans CG,
+item_175,FD78_TOAST,word,food_drink,produces,φρυγανιά,NA,toasted bread,cracker
+item_176,FD79_HAM_C_CG,word,food_drink,produces,χαμ,NA,ham CG,ham
+item_177,FD80_HAMBU,word,food_drink,produces,χάμπουργκερ,NA,hamburger,hamburger
+item_178,FD81_JUICE,word,food_drink,produces,χυμός,NA,juice,juice
+item_179,FD82_CONE_,word,food_drink,produces,χωνάκι,NA,cone (ice cream),ice cream
+item_180,FD83_FISH,word,food_drink,produces,ψάρι,NA,fish,fish (food)
+item_181,FD84_BREAD,word,food_drink,produces,ψωμί,NA,bread,bread
+item_182,V1_AIRPLAN,word,vehicles,produces,αεροπλάνο,NA,airplane,airplane
+item_183,V2_CAR,word,vehicles,produces,αμάξι,NA,car,car
+item_184,V3_PUSHCHA_CG,word,vehicles,produces,αμαξούα,NA,pushchair CG,stroller
+item_185,V4_CAR_CG_CG,word,vehicles,produces,αυτοκίνητο,NA,car CG,car
+item_186,V5_BOAT,word,vehicles,produces,βάρκα,NA,boat,boat
+item_187,V6_SHIP,word,vehicles,produces,καράβι,NA,ship,ship
+item_188,V7_PUSHCHA,word,vehicles,produces,καροτσάκι,NA,pushchair,stroller
+item_189,V8_BUS,word,vehicles,produces,λεωφορείο,NA,bus,bus
+item_190,V9_MOTORCY,word,vehicles,produces,μοτοσικλέτα,NA,motorcycle,motorcycle
+item_191,V10_MOTORC_CG,word,vehicles,produces,μοτόρα,NA,motorcycle CG,motorcycle
+item_192,V11_BULLDO,word,vehicles,produces,μπουλντόζα,NA,bulldozer,digger
+item_193,V12_SHIP,word,vehicles,produces,πλοίο,NA,ship,ship
+item_194,V13_BICYCL,word,vehicles,produces,ποδήλατο,NA,bicycle,bicycle
+item_195,V14_FIREEN,word,vehicles,produces,πυροσβεστική,NA,fireengine,firetruck
+item_196,V15_BULLDO_CG,word,vehicles,produces,σιοίρος,NA,bulldozer CG,digger
+item_197,V16_TRACTO,word,vehicles,produces,τρακτέρ,NA,tractor,tractor
+item_198,V17_TRAIN,word,vehicles,produces,τρένο,NA,train,train
+item_199,V18_LORRY,word,vehicles,produces,φορτηγό,NA,lorry,truck
+item_200,OH1_RUBBIS,word,household,produces,άχρηστα,NA,rubbish,rag
+item_201,OH2_BRUSH,word,household,produces,βούρτσα,NA,brush,brush (object)
+item_202,OH3_FLOWER,word,household,produces,γλάστρα,NA,(flower) pot,flowerpot
+item_203,OH4_TRAY,word,household,produces,δίσκος,NA,tray,tray
+item_204,OH5_VACUUM,word,household,produces,ηλεκτρική σκούπα*,NA,vacuum cleaner,vacuum
+item_205,OH6_PAINTI_CG,word,household,produces,κάδρο,NA,painting CG,painting
+item_206,OH7_RUBBIS_CG,word,household,produces,κάλαθος,NA,rubbish bin CG,trash
+item_207,OH8_CAMERA,word,household,produces,κάμερα,NA,camera,camera
+item_208,OH9_COIN,word,household,produces,κέρμα,NA,coin,money
+item_209,OH10_MOBIL,word,household,produces,κινητό,NA,mobile,cell phone
+item_210,OH11_KEYS,word,household,produces,κλειδιά,NA,keys,keys
+item_211,OH12_ADHES,word,household,produces,κολλητική ταινία*,NA,adhesive tape,tape (object)
+item_212,OH13_BUCKE,word,household,produces,κουβάς,NA,bucket,bucket
+item_213,OH14_BLANK,word,household,produces,κουβέρτα,NA,blanket,blanket
+item_214,OH15_BOWL,word,household,produces,κούπα,NA,bowl,cup
+item_215,OH16_SPOON,word,household,produces,κουτάλι,NA,spoon,spoon
+item_216,OH17_BOX,word,household,produces,κουτί,NA,box,box
+item_217,OH18_LAMP,word,household,produces,λάμπα,NA,lamp,lamp
+item_218,OH19_MONEY,word,household,produces,λεφτά,NA,money,money
+item_219,OH20_KITCH_CG,word,household,produces,μαντηλιά,NA,kitchen towel CG,towel
+item_220,OH21_PILLO,word,household,produces,μαξιλάρι,NA,pillow,pillow
+item_221,OH22_KNIFE,word,household,produces,μαχαίρι,NA,knife,knife
+item_222,OH23_MOBIL_CG,word,household,produces,μόμπαϊλ,NA,mobile CG,cell phone
+item_223,OH24_FEEDI_CG,word,household,produces,μπιμπερό,NA,feeding bottle CG,bottle
+item_224,OH25_BOWL__CG,word,household,produces,μπολ,NA,bowl CG,bowl
+item_225,OH26_BOTTL,word,household,produces,μπουκάλι,NA,bottle,bottle
+item_226,OH27_COIN,word,household,produces,νόμισμα,NA,coin,money
+item_227,OH28_TOOTH,word,household,produces,οδοντόβουρτσα,NA,toothbrush,toothbrush
+item_228,OH29_TOOTH,word,household,produces,οδοντόκρεμα,NA,toothpaste,toothpaste
+item_229,OH30_BABY__CG,word,household,produces,περπατούσα,NA,baby walker CG,
+item_230,OH31_TOWL,word,household,produces,πετσέτα,NA,towl,towel
+item_231,OH32_PLATE,word,household,produces,πιάτο,NA,plate,plate
+item_232,OH33_PAINT,word,household,produces,πίνακας,NA,painting,painting
+item_233,OH34_FORK,word,household,produces,πιρούνι,NA,fork,fork
+item_234,OH35_HAIR__CG,word,household,produces,πιστολάκι,NA,hair dryer CG,hair dryer
+item_235,OH36_WALLE,word,household,produces,πορτοφόλι,NA,wallet,purse
+item_236,OH37_RADIO,word,household,produces,ραδιόφωνο,NA,radio,radio
+item_237,OH38_WATCH,word,household,produces,ρολόι,NA,watch,clock
+item_238,OH39_SOAP,word,household,produces,σαπούνι,NA,soap,soap
+item_239,OH40_HAIR_,word,household,produces,σεσουάρ,NA,hair dryer,hair dryer
+item_240,OH41_BUCKE_CG,word,household,produces,σίκλα,NA,bucket CG,bucket
+item_241,OH42_BROOM,word,household,produces,σκούπα,NA,broom,broom
+item_242,OH43_RUBBI,word,household,produces,σκουπίδια,NA,rubbish,trash
+item_243,OH44_HAIR_,word,household,produces,στεγνωτήρας,NA,hair dryer,dryer
+item_244,OH45_MOP,word,household,produces,σφουγγαρίστρα,NA,mop,
+item_245,OH46_HAMME,word,household,produces,σφυρί,NA,hammer,hammer
+item_246,OH47_TABLE,word,household,produces,τάμπλετ,NA,tablet,
+item_247,OH48_TOWEL_CG,word,household,produces,τόρος,NA,towel CG,towel
+item_248,OH49_MEDIC,word,household,produces,φάρμακο,NA,medicine,medicine
+item_249,OH50_ADHES_CG,word,household,produces,τέλλα,NA,adhesive tape CG,tape (object)
+item_250,OH51_TIN,word,household,produces,τενεκεδάκι,NA,tin,
+item_251,OH52_PHONE,word,household,produces,τηλέφωνο,NA,phone,telephone
+item_252,OH53_BAG,word,household,produces,τσάντα,NA,bag,bag
+item_253,OH54_MOP_C_CG,word,household,produces,φλόκκος,NA,mop CG,mop (object)
+item_254,OH55_CUP_C_CG,word,household,produces,φλιτζάνι,NA,cup CG,cup
+item_255,OH56_LIGHT,word,household,produces,φως,NA,light,light (object)
+item_256,OH57_PHOTO,word,household,produces,φωτογραφία,NA,photograph,picture
+item_257,OH58_PHOTO,word,household,produces,φωτογραφική,NA,photo camera,camera
+item_258,OH59_PHOTO,word,household,produces,φωτογραφοθήκη,NA,photo frame,
+item_259,OH60_PAPER,word,household,produces,χαρτί,NA,paper,paper
+item_260,OH61_TISSU,word,household,produces,χαρτομάντηλο,NA,tissue,tissue
+item_261,OH62_COMB,word,household,produces,χτενιά,NA,comb,comb (object)
+item_262,OH63_SCISS,word,household,produces,ψαλίδι,NA,scissors,scissors
+item_263,OH63_SINK__CG,word,household,produces,βούρνα,NA,3 sink CG,sink (object)
+item_264,F2_WARDROB_CG,word,furniture_rooms,produces,ερμάρι,NA,wardrobe CG,wardrobe
+item_265,F3_CUPBOAR_CG,word,furniture_rooms,produces,ερμαράκι,NA,cupboard CG,cabinet
+item_266,F4_POTTY,word,furniture_rooms,produces,γιογιό,NA,potty,potty
+item_267,F5_GARAGE,word,furniture_rooms,produces,γκαράζ,NA,garage,garage
+item_268,F6_ROOM,word,furniture_rooms,produces,δωμάτιο,NA,room,room
+item_269,F7_HEATER,word,furniture_rooms,produces,θερμάστρα,NA,heater,stove
+item_270,F8_POTTY_C_CG,word,furniture_rooms,produces,καθικούιν,NA,potty CG,potty
+item_271,F9_CAR_SEA,word,furniture_rooms,produces,καθισματάκι,NA,car seat,chair
+item_272,F10_LIVING,word,furniture_rooms,produces,καθιστικό,NA,living room,living room
+item_273,F11_SOFA,word,furniture_rooms,produces,καναπές,NA,sofa,couch
+item_274,F12_CAR_SE_CG,word,furniture_rooms,produces,καρ σιτ,NA,car seat CG,car seat
+item_275,F13_CHAIR,word,furniture_rooms,produces,καρέκλα,NA,chair,chair
+item_276,F14_HIGH_C_CG,word,furniture_rooms,produces,καρεκλίν,NA,high chair CG,high chair
+item_277,F15_BED_CG_CG,word,furniture_rooms,produces,καρκόλα,NA,bed CG,bed
+item_278,F16_KITCHE,word,furniture_rooms,produces,κουζίνα,NA,kitchen,kitchen
+item_279,F17_BED,word,furniture_rooms,produces,κρεβάτι,NA,bed,bed
+item_280,F18_BATHTU,word,furniture_rooms,produces,μπανιέρα,NA,bathtub,bathtub
+item_281,F19_BATHRO,word,furniture_rooms,produces,μπάνιο,NA,bathroom,bathroom
+item_282,F20_SINK,word,furniture_rooms,produces,νεροχύτης,NA,sink,sink
+item_283,F21_WASHBA,word,furniture_rooms,produces,νιπτήρας,NA,washbasin,sink
+item_284,F22_SHOWER,word,furniture_rooms,produces,ντουζ,NA,shower,shower
+item_285,F23_WARDRO,word,furniture_rooms,produces,ντουλάπα,NA,wardrobe,wardrobe
+item_286,F24_CUPBOA,word,furniture_rooms,produces,ντουλάπι,NA,cupboard,cupboard
+item_287,F25_KITCHE,word,furniture_rooms,produces,πάγκος,NA,kitchen board,stand
+item_288,F26_WINDOW,word,furniture_rooms,produces,παράθυρο,NA,window,window
+item_289,F27_PARKIN,word,furniture_rooms,produces,πάρκινγκ,NA,parking,
+item_290,F28_WASHIN,word,furniture_rooms,produces,πλυντήριο,NA,washing machine,washing machine
+item_291,F29_ARMCHA,word,furniture_rooms,produces,πολυθρόνα,NA,armchair,armchair
+item_292,F30_DOOR,word,furniture_rooms,produces,πόρτα,NA,door,door
+item_293,F31_BOUNCE_CG,word,furniture_rooms,produces,ριλάξ,NA,bouncer CG,
+item_294,F32_SEATIN,word,furniture_rooms,produces,σαλόνι,NA,seating room,living room
+item_295,F33_STAIRC,word,furniture_rooms,produces,σκάλα,NA,staircase,stairs
+item_296,F34_HEATER,word,furniture_rooms,produces,σόμπα,NA,heater,radiator
+item_297,F35_DRAWER,word,furniture_rooms,produces,συρτάρι,NA,drawer,drawer
+item_298,F36_ROOFTO,word,furniture_rooms,produces,ταράτσα,NA,rooftop,roof
+item_299,F37_TELEVI,word,furniture_rooms,produces,τηλεόραση,NA,television,TV
+item_300,F38_TABLE,word,furniture_rooms,produces,τραπέζι,NA,table,table
+item_301,F39_BASEME,word,furniture_rooms,produces,υπόγειο,NA,basement,basement
+item_302,F40_OVEN,word,furniture_rooms,produces,φούρνος,NA,oven,oven
+item_303,C1_PANTIES,word,clothing,produces,βρακί,NA,panties,underpants
+item_304,C2_GLOVES,word,clothing,produces,γάντια,NA,gloves,gloves
+item_305,C3_GLASSES,word,clothing,produces,γυαλιά,NA,glasses,glasses
+item_306,C4_CARDIGA,word,clothing,produces,ζακέτα,NA,cardigan,sweater
+item_307,C5_BELT,word,clothing,produces,ζώνη,NA,belt,belt
+item_308,C6_STOCKIN,word,clothing,produces,καλσόν,NA,stockings,tights
+item_309,C7_SOCKS,word,clothing,produces,κάλτσες,NA,socks,sock
+item_310,C8_HAT,word,clothing,produces,καπέλο,NA,hat,hat
+item_311,C9_NEKLACE,word,clothing,produces,κολιέ,NA,neklace,necklace
+item_312,C10_BODYSU_CG,word,clothing,produces,κορμάκι,NA,bodysuit CG,
+item_313,C11_BUTTON,word,clothing,produces,κουμπί,NA,button,button
+item_314,C12_SWIMSU,word,clothing,produces,μαγιό,NA,swimsuit,swimsuit
+item_315,C13_BIKINI,word,clothing,produces,μπικίνι,NA,bikini,bikini
+item_316,C14_T_SHIR,word,clothing,produces,μπλούζα,NA,t-shirt/blouse,t-shirt
+item_317,C15_BOOT,word,clothing,produces,μπότα,NA,boot,boots
+item_318,C16_JACKET,word,clothing,produces,μπουφάν,NA,jacket,jacket
+item_319,C17_SLIPPE,word,clothing,produces,παντόφλα,NA,slipper,slipper
+item_320,C18_SHOE,word,clothing,produces,παπούτσι,NA,shoe,shoe
+item_321,C19_BIB_CG_CG,word,clothing,produces,ποθκιά,NA,bib CG,bib
+item_322,C20_SHIRT,word,clothing,produces,πουκάμισο,NA,shirt,shirt
+item_323,C21_PULLOV,word,clothing,produces,πουλόβερ,NA,pullover,sweater
+item_324,C22_PYJAMA,word,clothing,produces,πυτζάμες,NA,pyjamas,pajamas
+item_325,C23_FLIP_F,word,clothing,produces,σαγιονάρες,NA,flip flops,sandal
+item_326,C24_JACKET_CG,word,clothing,produces,σακάκι,NA,jacket CG,jacket
+item_327,C25_BIB,word,clothing,produces,σαλιαρίτσα,NA,bib,bib
+item_328,C26_SYRUP,word,clothing,produces,σκούφος,NA,syrup,cap
+item_329,C27_JEANS,word,clothing,produces,τζην,NA,jeans,jeans
+item_330,C28_PULLOV_CG,word,clothing,produces,τρικό,NA,pullover CG,sweater
+item_331,C29_T_SHIR,word,clothing,produces,φανέλα,NA,t-shirt,t-shirt
+item_332,C30_ZIP,word,clothing,produces,φερμουάρ,NA,zip,zipper
+item_333,C31_FLIP_F_CG,word,clothing,produces,φλι φλο,NA,flip flops CG,sandal
+item_334,C32_DRESS,word,clothing,produces,φόρεμα,NA,dress,dress (object)
+item_335,C33_BODYSU,word,clothing,produces,φορμάκι,NA,bodysuit,
+item_336,C34_TRAINI,word,clothing,produces,φόρμα,NA,training trousers,tracksuit
+item_337,OT1_WIND,word,outside,produces,αέρας,NA,wind,wind
+item_338,OT2_SAND,word,outside,produces,άμμος,NA,sand,sand
+item_339,OT3_STAR,word,outside,produces,αστέρι,NA,star,star
+item_340,OT4_ROCK,word,outside,produces,βράχος,NA,rock,rock (object)
+item_341,OT5_RAIN,word,outside,produces,βροχή,NA,rain,rain
+item_342,OT6_GRASS,word,outside,produces,γρασίδι,NA,grass,grass
+item_343,OT7_TREE,word,outside,produces,δέντρο,NA,tree,tree
+item_344,OT8_ROAD,word,outside,produces,δρόμος,NA,road,street
+item_345,OT9_SUN,word,outside,produces,ήλιος,NA,sun,sun
+item_346,OT10_SLIDE_CG,word,outside,produces,κατρατζύλι,NA,slide CG,slide (object)
+item_347,OT11_BEACH,word,outside,produces,κουβαδάκια,NA,beach toys,
+item_348,OT12_SWING,word,outside,produces,κούνια,NA,swing,swing (object)
+item_349,OT13_HOSE,word,outside,produces,λάστιχο,NA,hose,hose
+item_350,OT14_FLOWE,word,outside,produces,λουλούδι,NA,flower,flower
+item_351,OT15_WATER,word,outside,produces,νερό,NA,water,water (not beverage)
+item_352,OT16_UMBRE,word,outside,produces,ομπρέλα,NA,umbrella,umbrella
+item_353,OT17_SKY,word,outside,produces,ουρανός,NA,sky,sky
+item_354,OT18_RAINB,word,outside,produces,ουράνιο τόξο,NA,rainbow,rainbow
+item_355,OT19_PAVEM,word,outside,produces,πεζοδρόμιο,NA,pavement,
+item_356,OT20_STONE,word,outside,produces,πέτρα,NA,stone,stone
+item_357,OT21_WATER,word,outside,produces,ποτιστήρι,NA,watering can,pot
+item_358,OT22_FLAG,word,outside,produces,σημαία,NA,flag,flag
+item_359,OT23_SWING_CG,word,outside,produces,σούσα,NA,swing CG,swing (object)
+item_360,OT24_HOUSE,word,outside,produces,σπίτι,NA,house,house
+item_361,OT25_CLOUD,word,outside,produces,σύννεφο,NA,cloud,cloud
+item_362,OT26_LIFE_,word,outside,produces,σωσίβιο,NA,life vest,
+item_363,OT27_WALL,word,outside,produces,τοίχος,NA,wall,wall
+item_364,OT28_SEESA,word,outside,produces,τραμπάλα,NA,seesaw,seesaw
+item_365,OT29_WHEEL,word,outside,produces,τροχός,NA,wheel,wheel
+item_366,OT30_SLIDE,word,outside,produces,τσουλήθρα,NA,slide,slide (object)
+item_367,OT31_MOON,word,outside,produces,φεγγάρι,NA,moon,moon
+item_368,OT32_SHOVE,word,outside,produces,φτυάρι,NA,shovel,shovel
+item_369,OT33_SNOWM,word,outside,produces,χιονάνθρωπος,NA,snowman,snowman
+item_370,OT34_SNOW,word,outside,produces,χιόνι,NA,snow,snow
+item_371,P1_BOY,word,people,produces,αγόρι,NA,boy,boy
+item_372,P2_SISTER_,word,people,produces,αδελφή/ός,NA,sister/brother,sibling
+item_373,P3_PERSON_,word,people,produces,άνθρωπος,NA,person/human,man
+item_374,P4_MAN,word,people,produces,άντρας,NA,man,man
+item_375,P5_POLICE_,word,people,produces,αστυνομικός,NA,police officer,policeman
+item_376,P6_OLD_MAN,word,people,produces,γέρος,NA,old man,old
+item_377,P7_GRANDMO,word,people,produces,γιαγιά,NA,grandmother,grandma
+item_378,P8_DOCTOR,word,people,produces,γιατρός,NA,doctor,doctor
+item_379,P9_MERMAID,word,people,produces,γοργόνα,NA,mermaid,mermaid
+item_380,P10_OLD_WO,word,people,produces,γριά,NA,old woman,old
+item_381,P11_WOMAN,word,people,produces,γυναίκα,NA,woman,woman
+item_382,P12_TEACHE,word,people,produces,δασκάλα/ος,NA,teacher,teacher
+item_383,P13_AUNT_U,word,people,produces,θεία/ος,NA,aunt/uncle,uncle
+item_384,P14_COWBOY,word,people,produces,καουμπόυ,NA,cowboy,cowboy
+item_385,P15_CLOWN,word,people,produces,κλόουν,NA,clown,clown
+item_386,P16_GIRL,word,people,produces,κορίτσι,NA,girl,girl
+item_387,P17_PEOPLE,word,people,produces,κόσμος,NA,people,people
+item_388,P18_OLD_WO_CG,word,people,produces,κοτζιάκαρη,NA,old woman CG,
+item_389,P19_SIR_MA,word,people,produces,κυρία/ος,NA,sir/madame,lady
+item_390,P20_MOTHER,word,people,produces,μαμά*,NA,mother,mommy
+item_391,P21_FATHER,word,people,produces,μπαμπάς,NA,father,daddy
+item_392,P22_BABY,word,people,produces,μωρό,NA,baby,baby
+item_393,P23_GODMOT,word,people,produces,νονά*,NA,godmother,godmother
+item_394,P24_GODFAT,word,people,produces,νονός*,NA,godfather,godfather
+item_395,P25_NURSE,word,people,produces,νοσοκόμα,NA,nurse,nurse
+item_396,P26_HOUSE_,word,people,produces,οικιακή βοηθός*,NA,house maid,maid
+item_397,P27_CHILD,word,people,produces,όνομα παιδιού,NA,child's name,child's own name
+item_398,P28_PETS_,word,people,produces,όνομα κατοικίδιου,NA,pet's name,pet's name
+item_399,P29_CHILD,word,people,produces,παιδί,NA,child,child
+item_400,P30_CLOWN,word,people,produces,παλιάτσος,NA,clown,clown
+item_401,P31_GRANDF,word,people,produces,παππούς,NA,grandfather,grandpa
+item_402,P32_PIRATE,word,people,produces,πειρατής,NA,pirate,pirate
+item_403,P33_PRINCE,word,people,produces,πρίγκηπας,NA,prince,prince
+item_404,P34_PRINCE,word,people,produces,πριγκήπισσα,NA,princess,princess
+item_405,P35_FIREPE,word,people,produces,πυροσβέστης,NA,fireperson,firefighter
+item_406,P36_SOLDIE,word,people,produces,στρατιώτης,NA,soldier,soldier
+item_407,P37_POSTPE,word,people,produces,ταχυδρόμος,NA,postperson,mailman
+item_408,P38_SINGER,word,people,produces,τραγουδιστής,NA,singer,singer
+item_409,P39_FRIEND,word,people,produces,φίλη/ος,NA,friend,friend
+item_410,BP1_ANKLE,word,body_parts,produces,αστράγαλος,NA,ankle,ankle
+item_411,BP2_EARS,word,body_parts,produces,αυτιά,NA,ears,ear
+item_412,BP3_CHEEK__CG,word,body_parts,produces,βούκκα,NA,cheek CG,cheek
+item_413,BP4_TONGUE,word,body_parts,produces,γλώσσα,NA,tongue,tongue
+item_414,BP5_KNEE,word,body_parts,produces,γόνατο,NA,knee,knee
+item_415,BP6_FINGER,word,body_parts,produces,δάχτυλο,NA,finger,finger
+item_416,BP7_TOOTH,word,body_parts,produces,δόντι,NA,tooth,tooth
+item_417,BP8_THIGH__CG,word,body_parts,produces,ζάμπα,NA,thigh CG,thigh
+item_418,BP9_HEAD,word,body_parts,produces,κεφάλι,NA,head,head
+item_419,BP10_HEAD__CG,word,body_parts,produces,κελλέ,NA,head CG,head
+item_420,BP11_TUMMY,word,body_parts,produces,κοιλιά,NA,tummy,tummy
+item_421,BP12_BUTTO,word,body_parts,produces,κολί*,NA,buttocks,butt
+item_422,BP13_CHEEK,word,body_parts,produces,μάγουλο,NA,cheek,cheek
+item_423,BP14_HAIR,word,body_parts,produces,μαλλιά,NA,hair,hair
+item_424,BP15_EYE,word,body_parts,produces,μάτι,NA,eye,eye
+item_425,BP16_THIGH,word,body_parts,produces,μπούτι,NA,thigh,thigh
+item_426,BP17_NOSE,word,body_parts,produces,μύτη,NA,nose,nose
+item_427,BP18_NAIL,word,body_parts,produces,νύχι,NA,nail,nail (body part)
+item_428,BP19_BELLY,word,body_parts,produces,ομφαλός*,NA,belly button,belly button
+item_429,BP20_OWIE_,word,body_parts,produces,ουββά,NA,owie/boo boo,
+item_430,BP21_PALM,word,body_parts,produces,παλάμη,NA,palm,hand
+item_431,BP22_SOLE_,word,body_parts,produces,πατούσα,NA,Sole/foot,foot
+item_432,BP23_CHIN,word,body_parts,produces,πηγούνι,NA,chin,chin
+item_433,BP24_LEG,word,body_parts,produces,πόδι,NA,leg,leg
+item_434,BP25_VAGIN,word,body_parts,produces,πουλλί/πουλλού*,NA,vagina/penis,penis
+item_435,BP26_FACE,word,body_parts,produces,πρόσωπο,NA,face,face
+item_436,BP27_MOUTH,word,body_parts,produces,στόμα,NA,mouth,mouth
+item_437,BP28_LIPS,word,body_parts,produces,χείλη,NA,lips,lips
+item_438,BP29_HAND,word,body_parts,produces,χέρι,NA,hand,arm
+item_439,BP30_SHOUL,word,body_parts,produces,ώμος,NA,shoulder,shoulder
+item_440,GR1_BABIES_CG,word,games_routines,produces,άλλαϊλι,NA,babies' singing game CG,
+item_441,GR2_YEAH_S,word,games_routines,produces,αμέ,NA,yeah/sure (informal),yes
+item_442,GR3_MEALTI_CG,word,games_routines,produces,άμμου,NA,mealtime - baby word CG,
+item_443,GR4_BABIES,word,games_routines,produces,αχ κουνελλάκι,NA,babies' singing game,
+item_444,GR5_HELLO,word,games_routines,produces,γεια,NA,hello,hi
+item_445,GR6_CHILD,word,games_routines,produces,γύρω γύρω όλοι,NA,child's singing game,
+item_446,GR7_COME,word,games_routines,produces,έλα,NA,come,come on
+item_447,GR8_THANK_,word,games_routines,produces,ευχαριστώ,NA,thank you,thank you
+item_448,GR9_PEEKAB_CG,word,games_routines,produces,ιτά,NA,peekaboo CG,peekaboo
+item_449,GR10_POO_P,word,games_routines,produces,κακά,NA,poo poo,bad
+item_450,GR11_GOOD_,word,games_routines,produces,καλημέρα,NA,good morning,good morning
+item_451,GR12_GOOD_,word,games_routines,produces,καληνύχτα,NA,good night,good night
+item_452,GR13_YEAH__CG,word,games_routines,produces,καλό,NA,yeah/sure (informal) CG,
+item_453,GR14_HIGH_,word,games_routines,produces,κόλλα το,NA,high five,high five
+item_454,GR15_BANGI_CG,word,games_routines,produces,κούτουλλο,NA,banging heads as a game CG,
+item_455,GR16_KISS__CG,word,games_routines,produces,μάκια,NA,kiss CG,
+item_456,GR17_MEALT,word,games_routines,produces,μαμ,NA,mealtime - baby word,
+item_457,GR18_DONT,word,games_routines,produces,μη,NA,don't,don't
+item_458,GR19_BATH,word,games_routines,produces,μπάνιο,NA,bath,bathroom
+item_459,GR20_YES,word,games_routines,produces,ναι,NA,yes,yes
+item_460,GR21_BABY_,word,games_routines,produces,νάνι,NA,baby word for sleep,
+item_461,GR22_BABY_,word,games_routines,produces,ντα,NA,baby word for naughty,naughty
+item_462,GR23_HOLD__CG,word,games_routines,produces,όπα,NA,hold me/up CG,
+item_463,GR24_NO,word,games_routines,produces,όχι,NA,no,no
+item_464,GR25_CLAP,word,games_routines,produces,παλαμάκια,NA,clap,clap
+item_465,GR26_BYE_B,word,games_routines,produces,πά παι,NA,bye bye,bye bye
+item_466,GR27_ALL_G_CG,word,games_routines,produces,πάππαλλα,NA,all gone CG,all gone
+item_467,GR28_PLEAS,word,games_routines,produces,παρακαλώ,NA,please,please
+item_468,GR28_HOLD_,word,games_routines,produces,πιάσε με,NA,hold me/up,
+item_469,GR30_WEE_W,word,games_routines,produces,πιπί,NA,wee wee,pee
+item_470,GR31_CLAP__CG,word,games_routines,produces,πίσκαλα,NA,clap CG,
+item_471,GR32_WEE_W_CG,word,games_routines,produces,πισσιά,NA,wee wee CG,
+item_472,GR33_WATCH,word,games_routines,produces,πρόσεχε,NA,watch it,watch out
+item_473,GR34_BREAK,word,games_routines,produces,πρωινό,NA,breakfast,breakfast
+item_474,GR35_SNACK,word,games_routines,produces,σνακ,NA,snack,snack
+item_475,GR36_SHHH,word,games_routines,produces,σσσ!,NA,shhh,shh
+item_476,GR37_ALL_G,word,games_routines,produces,τέλειωσε,NA,all gone,finished
+item_477,GR38_BABY__CG,word,games_routines,produces,τέττε,NA,baby word for naughty CG,
+item_478,GR39_TELEP,word,games_routines,produces,τηλέφωνο,NA,(telephone) call,telephone
+item_479,GR40_PEEKA,word,games_routines,produces,τσα,NA,peekaboo,peekaboo
+item_480,GR41_FOOD_,word,games_routines,produces,φαγητό,NA,food/meal,food
+item_481,GR42_KISS,word,games_routines,produces,φιλάκι,NA,kiss,kiss
+item_482,GR43_HELLO,word,games_routines,produces,χαλόου,NA,hello,hello
+item_483,GR44_UP,word,games_routines,produces,ψηλά,NA,up,high
+item_484,GR45_SHOPP,word,games_routines,produces,ψώνια,NA,shopping,shopping
+item_485,V1_LOVE,word,action_words,produces,αγαπώ,NA,love,love
+item_486,V1_HUG,word,action_words,produces,αγκαλιάζω,NA,hug,hug
+item_487,V3_HEAR_LI,word,action_words,produces,ακούω,NA,hear/listen,hear
+item_488,V4_OPEN,word,action_words,produces,ανοίγω,NA,open,open (action)
+item_489,V5_LIKE,word,action_words,produces,αρέσω,NA,like,like
+item_490,V6_CATCH,word,action_words,produces,αρπάζω,NA,catch,catch
+item_491,V7_PUT,word,action_words,produces,βάζω,NA,put,put
+item_492,V8_HURRY,word,action_words,produces,βιάζομαι,NA,hurry,hurry
+item_493,V9_SEE,word,action_words,produces,βλέπω,NA,see,see
+item_494,V10_HELP,word,action_words,produces,βοηθώ,NA,help,help
+item_495,V11_RUN_CG_CG,word,action_words,produces,βουρώ,NA,run CG,run
+item_496,V12_FIND,word,action_words,produces,βρίσκω,NA,find,find
+item_497,V13_STINK,word,action_words,produces,βρωμώ,NA,stink,
+item_498,V14_TICKLE,word,action_words,produces,γαργαλιέμαι,NA,tickle-PASSIVE,tickle
+item_499,V15_SCRATC,word,action_words,produces,γδέρνω,NA,scratch,scratch
+item_500,V16_SCRATC,word,action_words,produces,γρατσουνώ,NA,scratch,scratch
+item_501,V17_WRITE,word,action_words,produces,γράφω,NA,write,write
+item_502,V18_BITE,word,action_words,produces,δαγκώνω,NA,bite,bite
+item_503,V19_SHOW,word,action_words,produces,δείχνω,NA,show,show
+item_504,V20_READ,word,action_words,produces,διαβάζω,NA,read,read
+item_505,V21_GIVE,word,action_words,produces,δίνω,NA,give,give
+item_506,V22_FEEL_T,word,action_words,produces,διψώ,NA,feel thirsty,thirsty
+item_507,V23_FEEL_H,word,action_words,produces,ζεσταίνομαι,NA,feel hot,
+item_508,V24_PAINT,word,action_words,produces,ζωγραφίζω,NA,paint,draw
+item_509,V25_WANT,word,action_words,produces,θέλω,NA,want,want
+item_510,V26_SEE_CG_CG,word,action_words,produces,θορώ,NA,see CG,see
+item_511,V27_DO_MAK,word,action_words,produces,κάνω,NA,do/make,do
+item_512,V28_CLEAN,word,action_words,produces,καθαρίζω,NA,clean,clean (action)
+item_513,V29_BURN,word,action_words,produces,καίω,NA,burn,burn
+item_514,V30_CRY,word,action_words,produces,κλαίω,NA,cry,cry
+item_515,V31_CLOSE,word,action_words,produces,κλείνω,NA,close,close
+item_516,V32_KICK,word,action_words,produces,κλωτσώ,NA,kick,kick
+item_517,V33_CUT,word,action_words,produces,κόβω,NA,cut,cut
+item_518,V34_SLEEP,word,action_words,produces,κοιμάμαι,NA,sleep,sleep
+item_519,V35_PUT_SO,word,action_words,produces,κοιμίζω,NA,put someone to sleep,
+item_520,V36_SWIM,word,action_words,produces,κολυμπώ,NA,swim,swim
+item_521,V37_MOVE_P,word,action_words,produces,κουνιέμαι,NA,move-PASSIVE,shake
+item_522,V38_PUSH_C_CG,word,action_words,produces,κουντώ,NA,push CG,push
+item_523,V39_MOVE,word,action_words,produces,κουνώ,NA,move,swing (action)
+item_524,V40_FEEL_T,word,action_words,produces,κουράζομαι,NA,feel tired,tired
+item_525,V41_BANG_H,word,action_words,produces,κουτουλλώ,NA,bang head,
+item_526,V42_BURN_C_CG,word,action_words,produces,κρούζω,NA,burn CG,burn
+item_527,V43_HIDE,word,action_words,produces,κρύβομαι,NA,hide,hide
+item_528,V44_CHASE,word,action_words,produces,κυνηγώ,NA,chase,chase
+item_529,V45_SAY_CG_CG,word,action_words,produces,λαλώ,NA,say CG,say
+item_530,V46_SAY,word,action_words,produces,λέω,NA,say,say
+item_531,V47_FEEL_S,word,action_words,produces,λυπάμαι,NA,feel sorry,commiserate
+item_532,V48_SMELL_,word,action_words,produces,μυρίζομαι,NA,smell something,smell
+item_533,V49_SMELL_,word,action_words,produces,μυρίζω,NA,smell/give out odour,smell
+item_534,V50_FEEL_S,word,action_words,produces,νυστάζω,NA,feel sleepy,sleepy
+item_535,V51_KNOW,word,action_words,produces,ξέρω,NA,know,know
+item_536,V52_FORGET,word,action_words,produces,ξεχνώ,NA,forget,forget
+item_537,V53_WAKE,word,action_words,produces,ξυπνώ,NA,wake,wake
+item_538,V54_DRIVE,word,action_words,produces,οδηγώ,NA,drive,drive
+item_539,V55_PLAY,word,action_words,produces,παίζω,NA,play,play
+item_540,V56_GET,word,action_words,produces,παίρνω,NA,get,take
+item_541,V57_GO,word,action_words,produces,πάω,NA,go,go
+item_542,V58_FEEL_H,word,action_words,produces,πεινώ,NA,feel hungry,hungry
+item_543,V59_WALK,word,action_words,produces,περπατώ,NA,walk,walk
+item_544,V60_FLY,word,action_words,produces,πετώ,NA,fly,fly (action)
+item_545,V61_FALL,word,action_words,produces,πέφτω,NA,fall,fall
+item_546,V62_JUMP,word,action_words,produces,πηδώ,NA,jump,jump
+item_547,V63_DRINK,word,action_words,produces,πίνω,NA,drink,drink (action)
+item_548,V64_WASH_P,word,action_words,produces,πλένομαι,NA,wash-PASSIVE,wash
+item_549,V65_WASH,word,action_words,produces,πλένω,NA,wash,wash
+item_550,V66_WASH_P_CG,word,action_words,produces,πλυνίσκουμαι,NA,wash-PASSIVE CG,
+item_551,V67_WASH_C_CG,word,action_words,produces,πλυνίσκω,NA,wash CG,wash
+item_552,V68_FEEL_P,word,action_words,produces,πονώ,NA,feel pain/hurt,hurt (action)
+item_553,V69_FEEL_H_CG,word,action_words,produces,πυρώννω,NA,feel hot CG,
+item_554,V70_THROW,word,action_words,produces,ρίχνω,NA,throw,throw
+item_555,V71_WIPE_P,word,action_words,produces,σκουπίζομαι,NA,wipe-PASSIVE,wipe
+item_556,V72_WIPE,word,action_words,produces,σκουπίζω,NA,wipe,wipe
+item_557,V73_SWING_,word,action_words,produces,σούζομαι,NA,swing-PASSIVE,swing
+item_558,V74_SWING,word,action_words,produces,σούζω,NA,swing,swing
+item_559,V75_BREAK,word,action_words,produces,σπάζω,NA,break,break
+item_560,V76_PUSH,word,action_words,produces,σπρώχνω,NA,push,push
+item_561,V77_STOP,word,action_words,produces,σταματώ,NA,stop,stop
+item_562,V78_THROW__CG,word,action_words,produces,σύρνω,NA,throw CG,throw
+item_563,V79_FEED,word,action_words,produces,ταΐζω,NA,feed,feed
+item_564,V80_FINISH,word,action_words,produces,τελειώνω,NA,finish,finish
+item_565,V81_CALL_P,word,action_words,produces,τηλεφωνώ,NA,call (phone),call on phone
+item_566,V82_PULL,word,action_words,produces,τραβώ,NA,pull,pull
+item_567,V83_SING,word,action_words,produces,τραγουδώ,NA,sing,sing
+item_568,V84_RUN,word,action_words,produces,τρέχω,NA,run,run
+item_569,V85_EAT,word,action_words,produces,τρώω,NA,eat,eat
+item_570,V86_SCRATC_CG,word,action_words,produces,τσανιάζω,NA,scratch CG,scratch
+item_571,V87_HIT_CG_CG,word,action_words,produces,φακκώ,NA,hit CG,hit
+item_572,V88_KISS,word,action_words,produces,φιλώ,NA,kiss,kiss
+item_573,V89_BRING,word,action_words,produces,φέρνω,NA,bring,bring
+item_574,V90_LEAVE,word,action_words,produces,φεύγω,NA,leave,leave
+item_575,V91_FEEL_A,word,action_words,produces,φοβάμαι,NA,feel afraid,be scared
+item_576,V92_SHOUT,word,action_words,produces,φωνάζω,NA,shout,shout
+item_577,V93_DANCE,word,action_words,produces,χορεύω,NA,dance,dance
+item_578,V94_HIT,word,action_words,produces,χτυπώ,NA,hit,hit
+item_579,V95_HIDE_P_CG,word,action_words,produces,χώνουμαι,NA,hide-PASSIVE CG,hide
+item_580,V96_HIDE_C_CG,word,action_words,produces,χώνω,NA,hide CG,hide
+item_581,D1_EMPTY,word,descriptive_words,produces,άδειο,NA,empty,empty
+item_582,D2_SLOW,word,descriptive_words,produces,αργό,NA,slow,slow
+item_583,D3_HORRIBLE,word,descriptive_words,produces,απαίσιο,NA,horrible,horrible
+item_584,D4_SICK,word,descriptive_words,produces,άρρωστο,NA,sick,sick
+item_585,D5_NAUGHTY,word,descriptive_words,produces,άταχτο,NA,naughty,naughty
+item_586,D6_HEAVY,word,descriptive_words,produces,βαρύ,NA,heavy,heavy
+item_587,D7_HEAVY_C_CG,word,descriptive_words,produces,βαρετό,NA,heavy CG,heavy
+item_588,D8_HOT_CG_CG,word,descriptive_words,produces,βραστό,NA,hot CG,hot
+item_589,D9_WET,word,descriptive_words,produces,βρεγμένο,NA,wet,wet (description)
+item_590,D10_DIRTY,word,descriptive_words,produces,βρώμικο,NA,dirty,dirty
+item_591,D11_FULL,word,descriptive_words,produces,γεμάτο,NA,full,full
+item_592,D12_SWEET,word,descriptive_words,produces,γλυκό,NA,sweet,sweet
+item_593,D13_QUICK_,word,descriptive_words,produces,γρήγορο,NA,quick/fast,fast
+item_594,D14_HARD,word,descriptive_words,produces,δύσκολο,NA,hard,hard
+item_595,D15_STRONG,word,descriptive_words,produces,δυνατό,NA,strong,hard
+item_596,D16_KIND,word,descriptive_words,produces,ευγενικό,NA,kind,gentle
+item_597,D17_HOT,word,descriptive_words,produces,ζεστό,NA,hot,hot
+item_598,D18_QUIET,word,descriptive_words,produces,ήσυχο,NA,quiet,quiet
+item_599,D19_CLEAN,word,descriptive_words,produces,καθαρό,NA,clean,clean (description)
+item_600,D20_NEW,word,descriptive_words,produces,καινούριο,NA,new,new
+item_601,D21_BAD,word,descriptive_words,produces,κακό,NA,bad,bad
+item_602,D22_GOOD,word,descriptive_words,produces,καλό,NA,good,good
+item_603,D23_TIRED,word,descriptive_words,produces,κουρασμένο,NA,tired,tired
+item_604,D24_COLD,word,descriptive_words,produces,κρύο,NA,cold,cold
+item_605,D25_THIN,word,descriptive_words,produces,λεπτό,NA,thin,thin
+item_606,D26_DIRTY,word,descriptive_words,produces,λερωμένο,NA,dirty,dirty
+item_607,D27_SAD,word,descriptive_words,produces,λυπημένο,NA,sad,sad
+item_608,D28_SOFT,word,descriptive_words,produces,μαλακό,NA,soft,soft
+item_609,D29_BIG,word,descriptive_words,produces,μεγάλο,NA,big,big
+item_610,D30_SMALL,word,descriptive_words,produces,μικρό,NA,small,small
+item_611,D31_SMALL__CG,word,descriptive_words,produces,μιτσί,NA,small CG,small
+item_612,D32_NEW,word,descriptive_words,produces,νέο,NA,new,new
+item_613,D33_DELICI,word,descriptive_words,produces,νόστιμο,NA,delicious,tasty
+item_614,D34_DIRTY__CG,word,descriptive_words,produces,ξιμαρισμένο,NA,dirty CG,dirty
+item_615,D35_BEAUTI,word,descriptive_words,produces,όμορφο,NA,beautiful,nice
+item_616,D36_EMPTY__CG,word,descriptive_words,produces,όφκερο,NA,empty CG,empty
+item_617,D37_FROZEN,word,descriptive_words,produces,παγωμένο,NA,frozen,frozen
+item_618,D38_OLD,word,descriptive_words,produces,παλιό,NA,old,old
+item_619,D39_FAT,word,descriptive_words,produces,παχύ,NA,fat,fat
+item_620,D40_CRAZY__CG,word,descriptive_words,produces,πελλό,NA,crazy CG,crazy
+item_621,D41_FIRST,word,descriptive_words,produces,πρώτο,NA,first,hard
+item_622,D42_HARD,word,descriptive_words,produces,σκληρό,NA,hard,hard
+item_623,D43_DARK,word,descriptive_words,produces,σκοτεινό,NA,dark,dark
+item_624,D44_BROKEN,word,descriptive_words,produces,σπασμένο,NA,broken,broken
+item_625,D45_DRY,word,descriptive_words,produces,στεγνό,NA,dry,dry (description)
+item_626,D46_LAST,word,descriptive_words,produces,τελευταίο,NA,last,last
+item_627,D47_CRAZY,word,descriptive_words,produces,τρελό,NA,crazy,crazy
+item_628,D48_HAPPY,word,descriptive_words,produces,χαρούμενο,NA,happy,happy
+item_629,D49_TALL,word,descriptive_words,produces,ψηλό,NA,tall,tall
+item_630,D50_NICE,word,descriptive_words,produces,ωραίο,NA,nice,beautiful
+item_631,P1_YARD,word,places,produces,αυλή,NA,yard,garden
+item_632,P2_GAZ_STA,word,places,produces,βενζινάδικο,NA,gaz station,gas station
+item_633,P3_MOUNTAI,word,places,produces,βουνό,NA,mountain,mountain
+item_634,P4_BIRTHDA,word,places,produces,γενέθλια,NA,birthday (party),party
+item_635,P5_WORK,word,places,produces,δουλειά,NA,work,work (place)
+item_636,P6_CHURCH,word,places,produces,εκκλησία,NA,church,church
+item_637,P7_RESTAUR,word,places,produces,εστιατόριο,NA,restaurant,restaurant
+item_638,P8_ZOO,word,places,produces,ζωολογικός κήπος,NA,zoo,zoo
+item_639,P9_SEA,word,places,produces,θάλασσα,NA,sea,sea
+item_640,P10_SHOP,word,places,produces,κατάστημα,NA,shop,store
+item_641,P11_RESTAU_CG,word,places,produces,κέντρο,NA,restaurant CG,restaurant
+item_642,P12_GARDEN,word,places,produces,κήπος,NA,garden,garden
+item_643,P13_FUN_PA,word,places,produces,λούνα παρκ,NA,fun park,
+item_644,P14_SHOP_C_CG,word,places,produces,μαγαζί,NA,shop CG,store
+item_645,P15_BEACH,word,places,produces,παραλία,NA,beach,beach
+item_646,P16_PARK,word,places,produces,πάρκο,NA,park,park
+item_647,P17_PARTY,word,places,produces,πάρτυ,NA,party,party
+item_648,P18_GAZ_ST_CG,word,places,produces,πεζίνα,NA,gaz station CG,gas station
+item_649,P19_POOL,word,places,produces,πισίνα,NA,pool,pool
+item_650,P20_CINEMA,word,places,produces,σινεμά,NA,cinema,movie
+item_651,P21_HOUSE,word,places,produces,σπίτι,NA,house,house
+item_652,P22_SCHOOL,word,places,produces,σχολείο,NA,school,school
+item_653,P23_CIRCUS,word,places,produces,τσίρκο,NA,circus,circus
+item_654,P24_VILLAG,word,places,produces,χωριό,NA,village,village
+item_655,AQ1_OTHER_,word,articles,produces,άλλη,NA,other (female singular),another
+item_656,AQ2_OTHER_,word,articles,produces,άλλο,NA,other (neutral singular),another
+item_657,AQ3_OTHER_,word,articles,produces,άλλος,NA,other (male singular),another
+item_658,AQ4_THE_FE,word,articles,produces,η,NA,the (female singular - definite article),the
+item_659,AQ5_A_NEUT,word,articles,produces,ένα,NA,a (neutral singular - indefinite article),a
+item_660,AQ6_A_MALE,word,articles,produces,ένας,NA,a (male singular - indefinite article),a
+item_661,AQ7_EVERY,word,articles,produces,κάθε,NA,every,every
+item_662,AQ8_MORE,word,articles,produces,κι άλλο,NA,more,some more
+item_663,AQ9_A_LITT,word,articles,produces,λίγο,NA,a little,little (amount)
+item_664,AQ10_A_FEM,word,articles,produces,μια,NA,a (female singular - indefinite article),a
+item_665,AQ11_THE_M,word,articles,produces,ο,NA,the (male singular - definite article),the
+item_666,AQ12_WHOLE,word,articles,produces,όλη,NA,whole (female singular),all
+item_667,AQ13_WHOLE,word,articles,produces,όλο,NA,whole (neutral singular),all
+item_668,AQ14_WHOLE,word,articles,produces,όλος,NA,whole (male singular),all
+item_669,AQ15_AGAIN,word,articles,produces,πάλι,NA,again,again
+item_670,AQ16_MANY_,word,articles,produces,πολλά,NA,many (neutral plural),many
+item_671,AQ17_MANY_,word,articles,produces,πολλές,NA,many (female singular),many
+item_672,AQ18_MANY_,word,articles,produces,πολλοί,NA,many (male singular),many
+item_673,AQ19_A_LOT,word,articles,produces,πολύ,NA,a lot/very,a lot
+item_674,AQ20_THE_N,word,articles,produces,το,NA,the (neutral singular - definite article),the
+item_675,AQ21_THE_N,word,articles,produces,τα,NA,the (neutral plural - definite article),the
+item_676,P1_THIS_FE,word,pronouns,produces,αυτή,NA,this (female singular),this
+item_677,P2_THIS_NE,word,pronouns,produces,αυτό,NA,this (neutral singular),this
+item_678,P3_THIS_MA,word,pronouns,produces,αυτός,NA,this (male singular),this
+item_679,P4_MINE,word,pronouns,produces,δικό μου,NA,mine,mine
+item_680,P5_YOURS,word,pronouns,produces,δικό σου,NA,yours,mine
+item_681,P6_HIS,word,pronouns,produces,δικό του,NA,his,mine
+item_682,P7_I,word,pronouns,produces,εγώ,NA,I,I
+item_683,P8_THAT_FE,word,pronouns,produces,εκείνη,NA,that (female singular),that
+item_684,P9_THAT_NE,word,pronouns,produces,εκείνο,NA,that (neutral singular),that
+item_685,P10_THAT_M,word,pronouns,produces,εκείνος,NA,that (male singular),that
+item_686,P11_WE,word,pronouns,produces,εμείς,NA,we,we
+item_687,P12_YOU_PL,word,pronouns,produces,εσείς,NA,you (plural),
+item_688,P13_YOU_SI,word,pronouns,produces,εσύ,NA,you (singular),you
+item_689,P14_ME_ACC,word,pronouns,produces,με (αγαπά),NA,me (accusative),me
+item_690,P15_ME_GEN,word,pronouns,produces,μου (λέει),NA,me (genitive),me
+item_691,P16_YOU_AC,word,pronouns,produces,σε (αγαπώ),NA,you (accusative),you
+item_692,P17_YOU_GE,word,pronouns,produces,σου (μιλώ),NA,you (genitive),you
+item_693,P18_HER_AC,word,pronouns,produces,την (αγαπώ),NA,her (accusative),her
+item_694,P19_IT_ACC,word,pronouns,produces,το (αγαπώ),NA,it (accusative),it
+item_695,P20_HIM_AC,word,pronouns,produces,τον (αγαπώ),NA,him (accusative),him
+item_696,P21_HIM_IT,word,pronouns,produces,του (μιλώ),NA,him/it (genitive),him
+item_697,P22_THAT_C_CG,word,pronouns,produces,τζείνη,NA,that CG (female singular),
+item_698,P23_THAT_C_CG,word,pronouns,produces,τζείνο,NA,that CG (neutral singular),
+item_699,P24_THAT_C_CG,word,pronouns,produces,τζείνος,NA,that CG (male singular),
+item_700,P25_THIS_C_CG,word,pronouns,produces,τούτη,NA,this CG (female singular),that
+item_701,P26_THIS_C_CG,word,pronouns,produces,τούτο,NA,this CG (neutral singular),that
+item_702,P27_THIS_C_CG,word,pronouns,produces,τούτος,NA,this CG (male singular),that
+item_703,P1_OVER_HE,word,locations,produces,απ'εκεί,NA,over here,here
+item_704,P2_OVER_TH,word,locations,produces,απο'δώ,NA,over there,there
+item_705,P3_FOR,word,locations,produces,για,NA,for,for
+item_706,P4_AROUND,word,locations,produces,γύρω,NA,around,around
+item_707,P5_AROUND_,word,locations,produces,γύρω από/που,NA,around (of),around
+item_708,P6_HERE_CG_CG,word,locations,produces,δαμέ,NA,here CG,here
+item_709,P7_NEXT,word,locations,produces,δίπλα,NA,next,next
+item_710,P8_NEXT_TO,word,locations,produces,δίπλα από/που,NA,next to,next to
+item_711,P9_HERE,word,locations,produces,εδώ,NA,here,here
+item_712,P10_THERE,word,locations,produces,εκεί,NA,there,there
+item_713,P11_OUTSID,word,locations,produces,έξω,NA,outside,out
+item_714,P12_OUT_OF,word,locations,produces,έξω από/που,NA,out of,outside
+item_715,P13_UNDER,word,locations,produces,κάτω,NA,under,down
+item_716,P14_UNDER_,word,locations,produces,κάτω από/που,NA,under (of),under
+item_717,P15_TOGETH,word,locations,produces,μαζί,NA,together,together
+item_718,P16_TOGETH,word,locations,produces,μαζί με,NA,together with,together
+item_719,P17_FAR,word,locations,produces,μακρυά,NA,far,away
+item_720,P18_FAR_FR,word,locations,produces,μακρυά από/που,NA,far from,far
+item_721,P19_WITH,word,locations,produces,με,NA,with,with
+item_722,P20_INSIDE,word,locations,produces,μέσα,NA,inside,in
+item_723,P21_INSIDE,word,locations,produces,μέσα σε,NA,inside of,inside
+item_724,P22_ABOVE,word,locations,produces,πάνω,NA,above,above
+item_725,P23_ABOVE_,word,locations,produces,πάνω από,NA,above (of),above
+item_726,P24_ON_TOP,word,locations,produces,πάνω σε,NA,on top of,on top
+item_727,P25_BEHIND,word,locations,produces,πίσω,NA,behind,back (location)
+item_728,P26_BEHIND,word,locations,produces,πίσω από/που,NA,behind (of),behind
+item_729,P27_OVER_H_CG,word,locations,produces,ποδά,NA,over here CG,here
+item_730,P28_OVER_T_CG,word,locations,produces,ποτζεί,NA,over there CG,there
+item_731,P29_IN_AT,word,locations,produces,σε,NA,in/at,at
+item_732,P30_THERE__CG,word,locations,produces,τζιαμέ,NA,there CG,there
+item_733,CS1_WHITE,word,descriptive_words,produces,άσπρο,NA,white,white
+item_734,CS2_LIGHT_,word,descriptive_words,produces,γαλάζιο,NA,light blue,light blue
+item_735,CS3_BROWN,word,descriptive_words,produces,καφέ,NA,brown,brown
+item_736,CS4_YELLOW,word,descriptive_words,produces,κίτρινο,NA,yellow,yellow
+item_737,CS5_RED,word,descriptive_words,produces,κόκκινο,NA,red,red
+item_738,CS6_CIRCLE,word,descriptive_words,produces,κύκλος,NA,circle,circle
+item_739,CS7_BLACK,word,descriptive_words,produces,μαύρο,NA,black,black
+item_740,CS8_BLUE,word,descriptive_words,produces,μπλε,NA,blue,blue
+item_741,CS9_PURPLE,word,descriptive_words,produces,μωβ,NA,purple,purple
+item_742,CS10_ORANG,word,descriptive_words,produces,πορτοκαλί,NA,orange,orange (description)
+item_743,CS11_GREEN,word,descriptive_words,produces,πράσινο,NA,green,green
+item_744,CS12_PINK,word,descriptive_words,produces,ροζ,NA,pink,pink
+item_745,CS13_SQUAR,word,descriptive_words,produces,τετράγωνο,NA,square,square
+item_746,CS14_TRIAN,word,descriptive_words,produces,τρίγωνο,NA,triangle,triangle
+item_747,N1_TEN,word,quantifiers,produces,δέκα,NA,ten,
+item_748,N2_TENTH,word,quantifiers,produces,δέκατος,NA,tenth,
+item_749,N3_SECOND,word,quantifiers,produces,δεύτερος,NA,second,
+item_750,N4_TWO,word,quantifiers,produces,δύο,NA,two,two
+item_751,N5_SEVENTH,word,quantifiers,produces,έβδομος,NA,seventh,
+item_752,N6_SIXTH,word,quantifiers,produces,έκτος,NA,sixth,
+item_753,N7_ONE,word,quantifiers,produces,ένα,NA,one,one
+item_754,N8_NINTH,word,quantifiers,produces,ένατος,NA,ninth,
+item_755,N9_NINE,word,quantifiers,produces,εννιά,NA,nine,
+item_756,N10_SIX,word,quantifiers,produces,έξι,NA,six,
+item_757,N11_SEVEN,word,quantifiers,produces,εφτά,NA,seven,
+item_758,N12_ZERO,word,quantifiers,produces,μηδέν,NA,zero,
+item_759,N13_EIGHTH,word,quantifiers,produces,όγδοος,NA,eighth,
+item_760,N14_EIGHT,word,quantifiers,produces,οχτώ,NA,eight,
+item_761,N15_FIFTH,word,quantifiers,produces,πέμπτος,NA,fifth,
+item_762,N16_FIVE,word,quantifiers,produces,πέντε,NA,five,
+item_763,N17_FIRST,word,quantifiers,produces,πρώτος,NA,first,first
+item_764,N18_FOURTH,word,quantifiers,produces,τέταρτος,NA,fourth,
+item_765,N19_FOUR,word,quantifiers,produces,τέσσερα,NA,four,
+item_766,N20_THREE,word,quantifiers,produces,τρία,NA,three,three
+item_767,N21_THIRD,word,quantifiers,produces,τρίτος,NA,third,
+item_768,MV1_I_AM,word,helping_verbs,produces,είμαι,NA,(I) am,be
+item_769,MV2_WE_ARE,word,helping_verbs,produces,είμαστε,NA,(We) are,be
+item_770,MV3_HE_SHE,word,helping_verbs,produces,είναι,NA,(he/she/it) is/ (they) are,be
+item_771,MV4_YOU_AR,word,helping_verbs,produces,είσαι,NA,(You) are (singular),be
+item_772,MV5_YOU_AR,word,helping_verbs,produces,είσαστε,NA,(You) are (plural),
+item_773,MV6_I_HAD,word,helping_verbs,produces,είχα,NA,(I) had,have
+item_774,MV7_WE_HAD,word,helping_verbs,produces,είχαμε,NA,(We) had,have
+item_775,MV8_YOU_HA,word,helping_verbs,produces,είχατε,NA,(You) had (plural),have
+item_776,MV9_HE_SHE,word,helping_verbs,produces,είχε,NA,(he/she/it) had,have
+item_777,MV10_YOU_H,word,helping_verbs,produces,είχες,NA,(You) had (singular),have
+item_778,MV11_HE_SH_CG,word,helping_verbs,produces,εν/ένι,NA,(he/she/it) is/ (they) are CG,
+item_779,MV12_I_HAV,word,helping_verbs,produces,έχω,NA,(I) have,have
+item_780,MV13_I_DID,word,helping_verbs,produces,έκανα,NA,(I) did,make
+item_781,MV14_I_WAS,word,helping_verbs,produces,ήμουν,NA,(I) was,
+item_782,MV15_YOU_W,word,helping_verbs,produces,ήσουν,NA,(You) were (singular),
+item_783,MV16_HE_SH,word,helping_verbs,produces,ήταν,NA,(he/she/it) was/ (they) were,
+item_784,MV17_I_CAN,word,helping_verbs,produces,μπορώ,NA,(I) can,can (auxiliary)
+item_785,MV18_MUST_,word,helping_verbs,produces,πρέπει,NA,must/should,should
+item_786,C1_BUT,word,connecting_words,produces,αλλά,NA,but,but
+item_787,C2_IF,word,connecting_words,produces,αν,NA,if,if
+item_788,C3_WILL_CG_CG,word,connecting_words,produces,εννά,NA,will CG,will
+item_789,C4_OR,word,connecting_words,produces,ή,NA,or,or
+item_790,C5_WILL,word,connecting_words,produces,θα,NA,will,wanna
+item_791,C6_AND,word,connecting_words,produces,και,NA,and,and
+item_792,C7_SUBJECT,word,connecting_words,produces,να,NA,subjective particle,
+item_793,C8_BUT,word,connecting_words,produces,όμως,NA,but,but
+item_794,C9_OR_CG_CG,word,connecting_words,produces,όξα,NA,or CG,or
+item_795,TW1_TONIGH,word,time_words,produces,απόψε,NA,tonight,tonight
+item_796,TW2_TOMORR,word,time_words,produces,αύριο,NA,tomorrow,tomorrow
+item_797,TW3_DAY,word,time_words,produces,μέρα,NA,day,day
+item_798,TW4_NOON,word,time_words,produces,μεσημέρι,NA,noon,noon
+item_799,TW5_NIGHT,word,time_words,produces,νύχτα,NA,night,night
+item_800,TW6_BEFORE,word,time_words,produces,πριν,NA,before,before
+item_801,TW7_MORNIN,word,time_words,produces,πρωί,NA,morning,morning
+item_802,TW8_TODAY,word,time_words,produces,σήμερα,NA,today,today
+item_803,TW9_NOW,word,time_words,produces,τώρα,NA,now,now
+item_804,TW10_YESTE,word,time_words,produces,χθες,NA,yesterday,yesterday
+item_805,TW11_LATER,word,time_words,produces,ύστερα,NA,later,later
+item_806,TW12_TIME,word,time_words,produces,ώρα,NA,time,time
+item_807,Q1_WHY,word,question_words,produces,γιατί,NA,why,why
+item_808,Q2_WHAT_CG_CG,word,question_words,produces,είντα,NA,what CG,what
+item_809,Q3_HOW_CG_CG,word,question_words,produces,είνταλος,NA,how CG,how
+item_810,Q4_WHAT_CG_CG,word,question_words,produces,είνταμπου,NA,what CG,what
+item_811,Q5_WHO_FEM,word,question_words,produces,ποια,NA,who (female singular),who
+item_812,Q6_WHAT_SI,word,question_words,produces,ποιο,NA,what (singular),who
+item_813,Q7_WHO_MAL,word,question_words,produces,ποιος,NA,who (male singular),who
+item_814,Q8_WHERE_F_CG,word,question_words,produces,πόθεν,NA,where from CG,where (question)
+item_815,Q9_WHEN,word,question_words,produces,πότε,NA,when,when (question)
+item_816,Q10_WHERE,word,question_words,produces,πού,NA,where,where (question)
+item_817,Q11_HOW,word,question_words,produces,πώς,NA,how,how
+item_818,Q12_WHAT,word,question_words,produces,τι,NA,what,what
