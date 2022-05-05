@@ -85,7 +85,7 @@ item_83,salchch,word,food_drink,understands; produces,salchicha,NA,hot dog,hot d
 item_84,soda,word,food_drink,understands; produces,soda/refresco,NA,soda water,soda
 item_85,sopa,word,food_drink,understands; produces,sopa,NA,soup,soup
 item_86,tortila,word,food_drink,understands; produces,tortilla,NA,tortilla,tortilla
-item_87,uvas,word,food_drink,understands; produces,uvas,NA,grapes,grape
+item_87,uvas,word,food_drink,understands; produces,uvas,NA,grapes,grapes
 item_88,aretes,word,clothing,understands; produces,aretes,NA,earrings,earrings
 item_89,babera,word,clothing,understands; produces,babero,NA,bib,bib
 item_90,botas,word,clothing,understands; produces,botas,NA,boots,boots

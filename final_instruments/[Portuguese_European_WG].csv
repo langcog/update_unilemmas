@@ -211,7 +211,7 @@ item_209,adeus,word,games_routines,understands; produces,Adeus / Xau!,NA,adeus,G
 item_210,anda,word,games_routines,understands; produces,Anda!,NA,anda,Come on!,come on,NA
 item_211,assim,word,games_routines,understands; produces,Assim.,NA,assim,Like this,like this,NA
 item_212,beijinho,word,games_routines,understands; produces,Beijinho!,NA,beijinho,Kisses,kiss,NA
-item_213,coco,word,games_routines,understands; produces,Cocó!,NA,cocó,Poo!,potty,NA
+item_213,coco,word,games_routines,understands; produces,Cocó!,NA,cocó,Poo!,go potty,NA
 item_214,colo,word,games_routines,understands; produces,Colo!,NA,colo,Lap!,,NA
 item_215,doi,word,games_routines,understands; produces,Dói / Dói-dói.,NA,dói,It hurts!,ouch,NA
 item_216,espera,word,games_routines,understands; produces,Espera!,NA,espera,Wait!,wait,NA

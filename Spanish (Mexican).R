@@ -34,7 +34,10 @@ new_items[which(new_items$definition=="tuyas"),]$uni_lemma = "yours"
 new_items[which(new_items$definition=="tuyo"),]$uni_lemma = "yours" 
 new_items[which(new_items$definition=="tuyos"),]$uni_lemma = "yours" 
 
-new_items[which(new_items$uni_lemma=="tuna (food)"),]$uni_lemma = "tuna" # to match other forms, no need to dismbiguate
+new_items[which(new_items$uni_lemma=="tuna (food)"),]$uni_lemma = "tuna" # to match other forms, no need to disambiguate
+
+new_items[which(new_items$definition=="uvas"),]$uni_lemma = "grapes" # most forms use plural 
+
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_Mexican", "WS", new_items %>% rename(itemID = WS))

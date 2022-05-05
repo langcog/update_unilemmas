@@ -19,6 +19,8 @@ new_items[which(new_items$definition=="pendientes"),]$uni_lemma = "earring" # pl
 new_items[which(new_items$definition=="zapatilla/s"),]$uni_lemma = "sneaker" # plural->singular
 new_items[which(new_items$definition=="yo"),]$uni_lemma = "I" # uppercase 
 
+new_items[which(new_items$definition=="uvas"),]$uni_lemma = "grapes" # most forms use plural 
+
 new_items[which(new_items$uni_lemma==""),] # 31 undefined uni-lemmas
 # many of which are games/routines (e.g., palmas palmitas -> high five?? is 'pupa' go potty?)
 # sounds (e.g., we need a siren noise (wee-ooo?): Spanish: "nino-nino (sirena)"),

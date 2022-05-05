@@ -18,10 +18,10 @@ new_items[which(new_items$WS=="item_439"),]$uni_lemma = "lie down" # disambig 'l
 new_items[which(new_items$WS=="item_561"),]$uni_lemma = "I" # capitalize
 
 # ToDo: look at blanks
-subset(new_items, uni_lemma=="")
+subset(new_items, uni_lemma=="") # revisit some of the games_routines 
 
 # save updated instrument(s)
 new_wg <- update_instrument("Portuguese_European", "WG", new_items %>% rename(itemID = WG))
-# "287 new uni-lemmas defined for Portuguese_European"
+# "288 new uni-lemmas defined for Portuguese_European"
 new_ws <- update_instrument("Portuguese_European", "WS", new_items %>% rename(itemID = WS))
-# "525 new uni-lemmas defined for Portuguese_European"
+# "526 new uni-lemmas defined for Portuguese_European"
