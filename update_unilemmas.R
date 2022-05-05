@@ -67,15 +67,28 @@ tabulate_unilemmas <- function(directory) {
   return(d)
 }
 
-#new_uni <- tabulate_unilemmas("final_instruments/")
-#new_uni_tab <- sort(table(new_uni$uni_lemma))
-length(new_uni_tab) # 1879 uni-lemmas
-length(new_uni_tab[which(new_uni_tab==1)]) # 605 hapaxes
-length(unique(new_uni$form)) # 36 forms
+examine_new_unilemmas <- function() {
+  # how it started: 1380 uni-lemmas
+  # how it's going: 2136 uni-lemmas
+  old_uni <- wordbankr::get_crossling_items()
 
-# attempt -> try
+  new_uni <- tabulate_unilemmas("final_instruments/")
+  new_uni_tab <- sort(table(new_uni$uni_lemma))
+  length(new_uni_tab) # 2136 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 704 hapaxes
+  length(unique(new_uni$form)) # 47 forms
 
-#subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
-#subset(new_uni, uni_lemma=="(hair)brush") # Dutch_WS - changed to brush (object)
+  length(new_uni_tab[which(new_uni_tab>2)]) # 1143 used in 3+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 697 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 513 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 323 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 147 on 40+ forms
+  # attempt -> try
 
-subset(new_uni, uni_lemma=="(hair)brush")
+  #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
+  #subset(new_uni, uni_lemma=="(hair)brush") # Dutch_WS - changed to brush (object)
+  
+  tail(new_uni_tab, 100)
+  
+  subset(new_uni, uni_lemma=="(hair)brush")
+}
