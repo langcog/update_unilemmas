@@ -26,12 +26,11 @@ new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how 
 new_items[which(new_items$definition=="kto to je?"),]$uni_lemma = "who" # was 'who's there?'
 new_items[which(new_items$definition=="Dzdz (včela)"),]$uni_lemma = "buzz" # was 'bzzz' 
 
+new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how much'
 
 new_items[which(new_items$uni_lemma==""),] 
 # ToDo: many undefined uni-lemmas, many sounds we need a native speaker to go back over!
 # (and action_words, people, household, toys, vehicles...)
-
-new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 
 # save updated instruments
