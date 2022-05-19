@@ -74,9 +74,9 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2136 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 704 hapaxes
-  length(unique(new_uni$form)) # 47 forms
+  length(new_uni_tab) # 2237 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 717 hapaxes
+  length(unique(new_uni$form)) # 51 forms
 
   length(new_uni_tab[which(new_uni_tab>2)]) # 1143 used in 3+ forms
   length(new_uni_tab[which(new_uni_tab>=10)]) # 697 on 10+ forms
@@ -87,6 +87,26 @@ examine_new_unilemmas <- function() {
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="(hair)brush") # Dutch_WS - changed to brush (object)
+  subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
+  subset(new_uni, uni_lemma=="soda") # 28
+  subset(new_uni, uni_lemma=="coke") # 4 - (EN WS has both)
+  subset(new_uni, uni_lemma=="garbage") # change Dutch WS and Eng WS to trash (Norwegian "trash can" to trash?)
+  subset(new_uni, uni_lemma=="soil") # Turkish forms, but 6 forms have "earth" (terra Italian/Port/Spanish) - change all to soil
+  subset(new_uni, uni_lemma=="rock") # change to 'stone' ?
+  subset(new_uni, uni_lemma=="poop") # change games_routines poop to 'go potty' 
+  subset(new_uni, uni_lemma=="well") # change to "well (modifier)"?
+  subset(new_uni, uni_lemma=="little") # change to "little (amount)"
+  subset(new_uni, uni_lemma=="police") # 16 forms, but 14 have 'policeman' -> change
+  subset(new_uni, uni_lemma=="which (question)") # change Spanish question word "which"
+  subset(new_uni, uni_lemma=="take out") # Russian -> "remove"
+  subset(new_uni, uni_lemma=="put in") # change to "insert"
+  subset(new_uni, uni_lemma=="fireman") # change Dutch & Irish to firefighter
+  subset(new_uni, uni_lemma=="yummy") # Cantonese, but Dutch 'lekker' = delicious
+  # kind vs. nice?
+  subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
+  subset(new_uni, uni_lemma=="bzzz") # Hebrew -> "buzz"
+  subset(new_uni, uni_lemma=="thanks") # Dutch -> "thank you"
+  subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
   
   tail(new_uni_tab, 100)
   
