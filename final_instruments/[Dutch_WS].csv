@@ -277,7 +277,7 @@ item_275,household,telefoon,understands;produces,telefoon,word,telephone,telepho
 item_276,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch
 item_277,household,vork,understands;produces,vork,word,fork,fork
 item_278,household,vuilbak/vuilnisemmer,understands;produces,vuilbak/vuilnisemmer,word,bin,bin
-item_279,household,vuilnis/afval,understands;produces,vuilnis/afval,word,garbage,garbage
+item_279,household,vuilnis/afval,understands;produces,vuilnis/afval,word,garbage,trash
 item_280,household,vuur,understands;produces,vuur,word,cooker/stove,stove
 item_281,household,washandje,understands;produces,washandje,word,washcloth,washcloth
 item_282,household,zakdoek(papier),understands;produces,zakdoek(papier),word,tissue,tissue
@@ -330,7 +330,7 @@ item_328,outside,schommel,understands;produces,schommel,word,swing,swing (object
 item_329,outside,schop/schup/schepje,understands;produces,schop/schup/schepje,word,shovel,shovel
 item_330,outside,sneeuw,understands;produces,sneeuw,word,snow,snow
 item_331,outside,sneeuwman/sneeuwpop,understands;produces,sneeuwman/sneeuwpop,word,snowman,snowman
-item_332,outside,steen/kei/kiezelsteen,understands;produces,steen/kei/kiezelsteen,word,stone/rock,rock
+item_332,outside,steen/kei/kiezelsteen,understands;produces,steen/kei/kiezelsteen,word,stone/rock,stone
 item_333,outside,stoep/trottoir,understands;produces,stoep/trottoir,word,sidewalk,sidewalk
 item_334,outside,stok,understands;produces,stok,word,stick,stick
 item_335,outside,straat,understands;produces,straat,word,street,street
@@ -367,7 +367,7 @@ item_365,places,winkel,understands;produces,winkel,word,shop,store
 item_366,places,zee/strand,understands;produces,zee/strand,word,beach,beach
 item_367,people,baby,understands;produces,baby,word,baby,baby
 item_368,people,babysitter,understands;produces,babysitter,word,nanny/babysitter,nanny
-item_369,people,brandweerman,understands;produces,brandweerman,word,fireman,fireman
+item_369,people,brandweerman,understands;produces,brandweerman,word,fireman,firefighter
 item_370,people,broer(tje),understands;produces,broer(tje),word,(little) brother,brother
 item_371,people,clown/Pippo,understands;produces,clown/Pippo,word,clown,clown
 item_372,people,cowboy,understands;produces,cowboy,word,cowboy,cowboy
@@ -388,7 +388,7 @@ item_386,people,oma,understands;produces,oma,word,grandma,grandma
 item_387,people,oom/nonkel,understands;produces,oom/nonkel,word,uncle,uncle
 item_388,people,opa,understands;produces,opa,word,granddad,grandpa
 item_389,people,papa,understands;produces,papa,word,papa,daddy
-item_390,people,politie/agent,understands;produces,politie/agent,word,policeman,policeman
+item_390,people,politie/agent,understands;produces,politie/agent,word,policeman,police
 item_391,people,postbode,understands;produces,postbode,word,postman,postman
 item_392,people,tante,understands;produces,tante,word,aunt,aunt
 item_393,people,verpleegster/zuster,understands;produces,verpleegster/zuster,word,(female) nurse,nurse

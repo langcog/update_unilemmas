@@ -22,6 +22,10 @@ new_items[which(new_items$WS=="item_170"),]$uni_lemma = "green beans" # form als
 new_items[which(new_items$WS=="item_299"),]$uni_lemma = "TV" # capitalize
 new_items[which(new_items$WS=="item_682"),]$uni_lemma = "I" # capitalize
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
+
 # save updated instrument(s)
 new_ws <- update_instrument("Greek_Cypriot", "WS", new_items %>% rename(itemID = WS))
 # "132 new uni-lemmas defined for Greek_Cypriot"

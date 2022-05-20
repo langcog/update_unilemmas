@@ -287,7 +287,7 @@ item_285,resbadla,word,outside,produces,resbaladilla,NA,slide (object),slide,sli
 item_286,sol,word,outside,produces,sol,NA,sun,sun,sun
 item_287,tanque,word,outside,produces,tanque,NA,NA,tank,
 item_288,techo,word,outside,produces,techo,NA,roof,ceiling,roof
-item_289,tierra,word,outside,produces,tierra,NA,NA,earth,earth
+item_289,tierra,word,outside,produces,tierra,NA,NA,earth,soil
 item_290,timbre,word,outside,produces,timbre,NA,NA,doorbell,doorbell
 item_291,vientair,word,outside,produces,viento/aire,NA,NA,wind,wind
 item_292,bacinica,word,furniture_rooms,produces,bacinica,NA,potty,potty,potty
@@ -646,7 +646,7 @@ item_644,una,word,prepositions,produces,una,NA,NA,a,a
 item_645,unas,word,prepositions,produces,unas,NA,NA,some,some
 item_646,unos,word,prepositions,produces,unos,NA,NA,some,some
 item_647,asi,word,quantifiers,produces,así,NA,NA,so,so
-item_648,bien,word,quantifiers,produces,bien,NA,NA,all right,well
+item_648,bien,word,quantifiers,produces,bien,NA,NA,all right,well (modifier)
 item_649,despacio,word,quantifiers,produces,despacio,NA,NA,slowly,slowly
 item_650,mal,word,quantifiers,produces,mal,NA,NA,wrong,wrong
 item_651,mas,word,quantifiers,produces,más,NA,more,more,more

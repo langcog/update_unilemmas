@@ -4,7 +4,7 @@ item_2,item_2,brekeke,word,produces,sounds,NA,ribbit (frog),ribbit
 item_3,item_3,brumm,word,produces,sounds,NA,grrr (bear),grrr
 item_4,item_4,cin,word,produces,sounds,NA,squeak (mouse),squeak
 item_5,item_5,csihuhu,word,produces,sounds,NA,choo-choo (train),choo choo
-item_6,item_6,gá-gá,word,produces,sounds,NA,honk (goose),
+item_6,item_6,gá-gá,word,produces,sounds,NA,honk (goose),NA
 item_7,item_7,háp-háp,word,produces,sounds,NA,quack quack (duck),quack quack
 item_8,item_8,ham-ham,word,produces,sounds,NA,yum yum,yum yum
 item_9,item_9,hoppá,word,produces,sounds,NA,oops,oops
@@ -12,15 +12,15 @@ item_10,item_10,hu-hu,word,produces,sounds,NA,whoo-whoo (owl),hoot
 item_11,item_11,jaj,word,produces,sounds,NA,ouch,ouch
 item_12,item_12,kukurikú,word,produces,sounds,NA,cockadoodledoo (rooster),cockadoodledoo
 item_13,item_13,mak,word,produces,sounds,NA,squeak (rabbit),squeak
-item_14,item_14,mek,word,produces,sounds,NA,naa (goat),
+item_14,item_14,mek,word,produces,sounds,NA,naa (goat),NA
 item_15,item_15,miaú,word,produces,sounds,NA,meow (cat),meow
 item_16,item_16,mú,word,produces,sounds,NA,moo (cow),moo
 item_17,item_17,nyamm,word,produces,sounds,NA,yum yum,yum yum
 item_18,item_18,nyihaha,word,produces,sounds,NA,neigh (horse),neigh
-item_19,item_19,nínó,word,produces,sounds,NA,wee-woo (ambulance),
-item_20,item_20,pá-pá,word,produces,sounds,NA,bye-bye (goodbye),
-item_21,item_21,pi-pi,word,produces,sounds,NA,chirp (chicken),
-item_22,item_22,tü-tű,word,produces,sounds,NA,honk (car horn),
+item_19,item_19,nínó,word,produces,sounds,NA,wee-woo (ambulance),NA
+item_20,item_20,pá-pá,word,produces,sounds,NA,bye-bye (goodbye),NA
+item_21,item_21,pi-pi,word,produces,sounds,NA,chirp (chicken),NA
+item_22,item_22,tü-tű,word,produces,sounds,NA,honk (car horn),NA
 item_23,item_23,röf-röf,word,produces,sounds,NA,oink (pig),oink
 item_24,item_24,vaú-vaú,word,produces,sounds,NA,woof woof,woof woof
 item_25,item_25,állat,word,produces,animals,NA,animal,animal
@@ -54,7 +54,7 @@ item_52,item_52,mókus,word,produces,animals,NA,squirrel,squirrel
 item_53,item_53,nyuszi,word,produces,animals,NA,bunny,bunny
 item_54,item_54,oroszlán,word,produces,animals,NA,lion,lion
 item_55,item_55,őzike,word,produces,animals,NA,roe,deer
-item_56,item_56,paci,word,produces,animals,NA,foal,
+item_56,item_56,paci,word,produces,animals,NA,foal,NA
 item_57,item_57,pingvin,word,produces,animals,NA,penguin,penguin
 item_58,item_58,póni,word,produces,animals,NA,pony,pony
 item_59,item_59,pulyka,word,produces,animals,NA,turkey,turkey
@@ -138,7 +138,7 @@ item_136,item_136,kenyér,word,produces,food_drink,NA,bread,bread
 item_137,item_137,kifli,word,produces,food_drink,NA,croissant,croissant
 item_138,item_138,kóla,word,produces,food_drink,NA,coke,soda
 item_139,item_139,kolbász,word,produces,food_drink,NA,sausage,sausage
-item_140,item_140,konzerv,word,produces,food_drink,NA,canned food,
+item_140,item_140,konzerv,word,produces,food_drink,NA,canned food,NA
 item_141,item_141,körte,word,produces,food_drink,NA,pear,pear
 item_142,item_142,krumpli,word,produces,food_drink,NA,potato,potato
 item_143,item_143,kukorica,word,produces,food_drink,NA,corn,corn
@@ -377,7 +377,7 @@ item_375,item_375,központ,word,produces,places,NA,downtown,downtown
 item_376,item_376,kő,word,produces,outside,NA,stone,stone
 item_377,item_377,létra,word,produces,outside,NA,ladder,ladder
 item_378,item_378,locsoló,word,produces,outside,NA,hose/sprinkler,hose
-item_379,item_379,mászóka,word,produces,outside,NA,playground climber,
+item_379,item_379,mászóka,word,produces,outside,NA,playground climber,NA
 item_380,item_380,mozi,word,produces,places,NA,movie,movie
 item_381,item_381,nap,word,produces,outside,NA,sun,sun
 item_382,item_382,otthon,word,produces,places,NA,home,home
@@ -386,7 +386,7 @@ item_384,item_384,piac,word,produces,places,NA,market,market
 item_385,item_385,pláza,word,produces,places,NA,plaza,plaza
 item_386,item_386,strand,word,produces,places,NA,beach,beach
 item_387,item_387,szél,word,produces,outside,NA,wind,wind
-item_388,item_388,szikla,word,produces,outside,NA,rock,rock
+item_388,item_388,szikla,word,produces,outside,NA,rock,stone
 item_389,item_389,templom,word,produces,places,NA,church,church
 item_390,item_390,tető,word,produces,outside,NA,roof,roof
 item_391,item_391,udvar,word,produces,outside,NA,yard/backyard,yard
@@ -420,7 +420,7 @@ item_418,item_418,orvos / doktor,word,produces,people,NA,doctor,doctor
 item_419,item_419,**óvónéni,word,produces,people,NA,kindergarten teacher,teacher
 item_420,item_420,** az óvónéni neve,word,produces,people,NA,name of the child's kindergarten teacher,teacher's name
 item_421,item_421,postás,word,produces,people,NA,mailman,mailman
-item_422,item_422,rendőr,word,produces,people,NA,police,policeman
+item_422,item_422,rendőr,word,produces,people,NA,police,police
 item_423,item_423,tanár,word,produces,people,NA,teacher,teacher
 item_424,item_424,tűzoltó,word,produces,people,NA,fireman,firefighter
 item_425,item_425,*bújócska / kukucs,word,produces,games_routines,NA,peekaboo,peekaboo
@@ -435,7 +435,7 @@ item_433,item_433,helló,word,produces,games_routines,NA,hello,hello
 item_434,item_434,igen,word,produces,games_routines,NA,yes,yes
 item_435,item_435,jó éjt!,word,produces,games_routines,NA,night night,good night
 item_436,item_436,jó estét!,word,produces,games_routines,NA,good night,good night
-item_437,item_437,jó étvágyat!,word,produces,games_routines,NA,good appetite,
+item_437,item_437,jó étvágyat!,word,produces,games_routines,NA,good appetite,NA
 item_438,item_438,jó napot!,word,produces,games_routines,NA,good morning (during the day),good morning
 item_439,item_439,jó reggelt!,word,produces,games_routines,NA,good morning (during the morning),good morning
 item_440,item_440,kérem,word,produces,games_routines,NA,please,please
@@ -446,7 +446,7 @@ item_444,item_444,pisilni kell,word,produces,games_routines,NA,go potty,go potty
 item_445,item_445,psszt,word,produces,games_routines,NA,shh/shush/hush,shh
 item_446,item_446,reggeli,word,produces,games_routines,NA,breakfast,breakfast
 item_447,item_447,szia,word,produces,games_routines,NA,hi,hi
-item_448,item_448,szívesen,word,produces,games_routines,NA,you're welcome,
+item_448,item_448,szívesen,word,produces,games_routines,NA,you're welcome,NA
 item_449,item_449,*szundi,word,produces,games_routines,NA,nap,nap
 item_450,item_450,telefon!,word,produces,games_routines,NA,call (on phone),call on phone
 item_451,item_451,tízórai,word,produces,games_routines,NA,mid-morning snack,snack
@@ -486,11 +486,11 @@ item_484,item_484,épít,word,produces,action_words,NA,build,build
 item_485,item_485,eszik,word,produces,action_words,NA,eat,eat
 item_486,item_486,etet,word,produces,action_words,NA,feed,feed
 item_487,item_487,fáj,word,produces,action_words,NA,hurt (as a feeling),hurt
-item_488,item_488,fázik,word,produces,action_words,NA,feel cold,
-item_489,item_489,fél,word,produces,action_words,NA,feel scared,
+item_488,item_488,fázik,word,produces,action_words,NA,feel cold,NA
+item_489,item_489,fél,word,produces,action_words,NA,feel scared,NA
 item_490,item_490,felébred,word,produces,action_words,NA,wake,wake
 item_491,item_491,felkel,word,produces,action_words,NA,get up,get up
-item_492,item_492,figyel,word,produces,action_words,NA,pay attention / listen,
+item_492,item_492,figyel,word,produces,action_words,NA,pay attention / listen,NA
 item_493,item_493,főz,word,produces,action_words,NA,cook,cook
 item_494,item_494,fröcsköl,word,produces,action_words,NA,splash,splash
 item_495,item_495,fúj,word,produces,action_words,NA,blow,blow
@@ -507,7 +507,7 @@ item_505,item_505,hoz,word,produces,action_words,NA,bring,bring
 item_506,item_506,hozzányúl/ér,word,produces,action_words,NA,touch,touch
 item_507,item_507,húz,word,produces,action_words,NA,pull,pull
 item_508,item_508,ír,word,produces,action_words,NA,write,write
-item_509,item_509,itat,word,produces,action_words,NA,water (= give drink),
+item_509,item_509,itat,word,produces,action_words,NA,water (= give drink),NA
 item_510,item_510,jár,word,produces,action_words,NA,walk,walk
 item_511,item_511,iszik,word,produces,action_words,NA,drink,drink
 item_512,item_512,játszik,word,produces,action_words,NA,play,play
@@ -515,38 +515,38 @@ item_513,item_513,jön,word,produces,action_words,NA,come,come
 item_514,item_514,kakil,word,produces,action_words,NA,poop,poop
 item_515,item_515,kap,word,produces,action_words,NA,get,get
 item_516,item_516,kapcsol,word,produces,action_words,NA,switch,switch
-item_517,item_517,kér,word,produces,action_words,NA,ask (to do sg),
-item_518,item_518,kerget,word,produces,action_words,NA,chase,
+item_517,item_517,kér,word,produces,action_words,NA,ask (to do sg),NA
+item_518,item_518,kerget,word,produces,action_words,NA,chase,NA
 item_519,item_519,kinyit,word,produces,action_words,NA,open,open
-item_520,item_520,kopog,word,produces,action_words,NA,knock,
-item_521,item_521,kóstol,word,produces,action_words,NA,taste,
-item_522,item_522,labdázik,word,produces,action_words,NA,play ball,
+item_520,item_520,kopog,word,produces,action_words,NA,knock,NA
+item_521,item_521,kóstol,word,produces,action_words,NA,taste,NA
+item_522,item_522,labdázik,word,produces,action_words,NA,play ball,NA
 item_523,item_523,lát,word,produces,action_words,NA,see,see
-item_524,item_524,lesz,word,produces,action_words,NA,will' (future tense of verb 'be'),
-item_525,item_525,lép,word,produces,action_words,NA,step,
+item_524,item_524,lesz,word,produces,action_words,NA,will' (future tense of verb 'be'),NA
+item_525,item_525,lép,word,produces,action_words,NA,step,NA
 item_526,item_526,lovagol,word,produces,action_words,NA,ride,ride
 item_527,item_527,lök,word,produces,action_words,NA,bump,bump (action)
-item_528,item_528,marad,word,produces,action_words,NA,stay,
+item_528,item_528,marad,word,produces,action_words,NA,stay,NA
 item_529,item_529,mászik,word,produces,action_words,NA,climb,climb
 item_530,item_530,megáll,word,produces,action_words,NA,stop (moving),stop
-item_531,item_531,megcsinál,word,produces,action_words,NA,make/do (perfective),
+item_531,item_531,megcsinál,word,produces,action_words,NA,make/do (perfective),NA
 item_532,item_532,megfog,word,produces,action_words,NA,catch,catch
-item_533,item_533,megnő,word,produces,action_words,NA,grow,
+item_533,item_533,megnő,word,produces,action_words,NA,grow,NA
 item_534,item_534,megölel,word,produces,action_words,NA,hug,hug
 item_535,item_535,megüt,word,produces,action_words,NA,hit,hit
 item_536,item_536,megy,word,produces,action_words,NA,go,go
 item_537,item_537,mos,word,produces,action_words,NA,wash,wash
 item_538,item_538,mosogat,word,produces,action_words,NA,wash (dishes),wash
-item_539,item_539,mesél,word,produces,action_words,NA,tell a story,
+item_539,item_539,mesél,word,produces,action_words,NA,tell a story,NA
 item_540,item_540,mond,word,produces,action_words,NA,say,say
 item_541,item_541,mosolyog,word,produces,action_words,NA,smile,smile
 item_542,item_542,mutat,word,produces,action_words,NA,show,show
 item_543,item_543,nevet,word,produces,action_words,NA,laugh,laugh
-item_544,item_544,néz,word,produces,action_words,NA,look/watch,
+item_544,item_544,néz,word,produces,action_words,NA,look/watch,NA
 item_545,item_545,nyal,word,produces,action_words,NA,lick,lick
 item_546,item_546,olvas,word,produces,action_words,NA,read,read
-item_547,item_547,önt,word,produces,action_words,NA,pour,
-item_548,item_548,nincs,word,produces,action_words,NA,not exist (negative of verb 'be'),
+item_547,item_547,önt,word,produces,action_words,NA,pour,NA
+item_548,item_548,nincs,word,produces,action_words,NA,not exist (negative of verb 'be'),NA
 item_549,item_549,pisil,word,produces,action_words,NA,pee,pee
 item_550,item_550,puszil,word,produces,action_words,NA,kiss,kiss
 item_551,item_551,rajzol,word,produces,action_words,NA,draw,draw
@@ -556,43 +556,43 @@ item_554,item_554,rúg,word,produces,action_words,NA,kick,kick
 item_555,item_555,segít,word,produces,action_words,NA,help,help
 item_556,item_556,sétál,word,produces,action_words,NA,walk,walk
 item_557,item_557,siet,word,produces,action_words,NA,hurry,hurry
-item_558,item_558,sikerül,word,produces,action_words,NA,succeed,
+item_558,item_558,sikerül,word,produces,action_words,NA,succeed,NA
 item_559,item_559,sír,word,produces,action_words,NA,cry,cry
 item_560,item_560,söpör,word,produces,action_words,NA,sweep,sweep
-item_561,item_561,szakít,word,produces,action_words,NA,rip,
+item_561,item_561,szakít,word,produces,action_words,NA,rip,NA
 item_562,item_562,szalad,word,produces,action_words,NA,run,run
-item_563,item_563,szárít,word,produces,action_words,NA,dry,
+item_563,item_563,szárít,word,produces,action_words,NA,dry,NA
 item_564,item_564,takar,word,produces,action_words,NA,cover,cover
-item_565,item_565,takarít,word,produces,action_words,NA,clean,
+item_565,item_565,takarít,word,produces,action_words,NA,clean,NA
 item_566,item_566,szeret,word,produces,action_words,NA,love,love
 item_567,item_567,talál,word,produces,action_words,NA,find,find
 item_568,item_568,táncol,word,produces,action_words,NA,dance,dance
 item_569,item_569,tapsol,word,produces,action_words,NA,clap,clap
 item_570,item_570,tart,word,produces,action_words,NA,hold,hold
 item_571,item_571,tesz,word,produces,action_words,NA,put,put
-item_572,item_572,tetszik,word,produces,action_words,NA,like,
-item_573,item_573,tisztít,word,produces,action_words,NA,clean,
+item_572,item_572,tetszik,word,produces,action_words,NA,like,NA
+item_573,item_573,tisztít,word,produces,action_words,NA,clean,NA
 item_574,item_574,tol,word,produces,action_words,NA,push,push
 item_575,item_575,tör,word,produces,action_words,NA,break,break
 item_576,item_576,töröl,word,produces,action_words,NA,wipe,wipe
 item_577,item_577,ugrik,word,produces,action_words,NA,jump,jump
 item_578,item_578,ül,word,produces,action_words,NA,sit,sit
-item_579,item_579,üldöz,word,produces,action_words,NA,chase,
+item_579,item_579,üldöz,word,produces,action_words,NA,chase,NA
 item_580,item_580,úszik,word,produces,action_words,NA,swim,swim
 item_581,item_581,üt,word,produces,action_words,NA,hit,hit
-item_582,item_582,vág,word,produces,action_words,NA,cut,
-item_583,item_583,válaszol,word,produces,action_words,NA,answer,
-item_584,item_584,választ,word,produces,action_words,NA,choose,
+item_582,item_582,vág,word,produces,action_words,NA,cut,NA
+item_583,item_583,válaszol,word,produces,action_words,NA,answer,NA
+item_584,item_584,választ,word,produces,action_words,NA,choose,NA
 item_585,item_585,van,word,produces,action_words,NA,be (present tense),be
 item_586,item_586,vár,word,produces,action_words,NA,wait,wait
 item_587,item_587,vásárol,word,produces,action_words,NA,buy,buy
-item_588,item_588,vesz,word,produces,action_words,NA,buy/take,
+item_588,item_588,vesz,word,produces,action_words,NA,buy/take,NA
 item_589,item_589,vezet,word,produces,action_words,NA,drive,drive
 item_590,item_590,visz,word,produces,action_words,NA,carry,carry
-item_591,item_591,zúg,word,produces,action_words,NA,roar,
-item_592,item_592,át-,word,produces,verb_modifiers,NA,through,
+item_591,item_591,zúg,word,produces,action_words,NA,roar,NA
+item_592,item_592,át-,word,produces,verb_modifiers,NA,through,NA
 item_593,item_593,be-,word,produces,verb_modifiers,NA,in,in
-item_594,item_594,bele-,word,produces,verb_modifiers,NA,into,
+item_594,item_594,bele-,word,produces,verb_modifiers,NA,into,NA
 item_595,item_595,el-,word,produces,verb_modifiers,NA,away,away
 item_596,item_596,fel-,word,produces,verb_modifiers,NA,up,up
 item_597,item_597,haza-,word,produces,verb_modifiers,NA,home,home
@@ -600,15 +600,15 @@ item_598,item_598,ide-,word,produces,verb_modifiers,NA,here,here
 item_599,item_599,ki-,word,produces,verb_modifiers,NA,out,out
 item_600,item_600,le-,word,produces,verb_modifiers,NA,down,down
 item_601,item_601,neki-,word,produces,verb_modifiers,NA,to,to
-item_602,item_602,meg-,word,produces,verb_modifiers,NA,(perfective),
+item_602,item_602,meg-,word,produces,verb_modifiers,NA,(perfective),NA
 item_603,item_603,oda-,word,produces,verb_modifiers,NA,there,there
-item_604,item_604,össze-,word,produces,verb_modifiers,NA,together,
-item_605,item_605,rá-,word,produces,verb_modifiers,NA,onto,
-item_606,item_606,szét-,word,produces,verb_modifiers,NA,apart,
+item_604,item_604,össze-,word,produces,verb_modifiers,NA,together,NA
+item_605,item_605,rá-,word,produces,verb_modifiers,NA,onto,NA
+item_606,item_606,szét-,word,produces,verb_modifiers,NA,apart,NA
 item_607,item_607,vissza-,word,produces,verb_modifiers,NA,back,back
 item_608,item_608,álmos,word,produces,descriptive_words,NA,sleepy,sleepy
 item_609,item_609,aranyos,word,produces,descriptive_words,NA,cute,cute
-item_610,item_610,barna,word,produces,descriptive_words,NA,brown,
+item_610,item_610,barna,word,produces,descriptive_words,NA,brown,NA
 item_611,item_611,beteg,word,produces,descriptive_words,NA,sick,sick
 item_612,item_612,boldog,word,produces,descriptive_words,NA,happy,happy
 item_613,item_613,büdös,word,produces,descriptive_words,NA,smelly,smelly
@@ -697,7 +697,7 @@ item_695,item_695,idő,word,produces,time_words,NA,time,time
 item_696,item_696,később,word,produces,time_words,NA,later,later
 item_697,item_697,ma,word,produces,time_words,NA,today,today
 item_698,item_698,majd,word,produces,time_words,NA,later,later
-item_699,item_699,mindjárt,word,produces,time_words,NA,in a minute,
+item_699,item_699,mindjárt,word,produces,time_words,NA,in a minute,NA
 item_700,item_700,most,word,produces,time_words,NA,now,now
 item_701,item_701,nap,word,produces,time_words,NA,day,day
 item_702,item_702,reggel,word,produces,time_words,NA,morning,morning
@@ -714,41 +714,41 @@ item_712,item_712,ezek,word,produces,pronouns,NA,these,these
 item_713,item_713,mi,word,produces,pronouns,NA,we,we
 item_714,item_714,mienk,word,produces,pronouns,NA,our,our
 item_715,item_715,minket,word,produces,pronouns,NA,us,us
-item_716,item_716,nála,word,produces,pronouns,NA,at her/him,
-item_717,item_717,neki,word,produces,pronouns,NA,to her/him,
+item_716,item_716,nála,word,produces,pronouns,NA,at her/him,NA
+item_717,item_717,neki,word,produces,pronouns,NA,to her/him,NA
 item_718,item_718,övé,word,produces,pronouns,NA,his/hers,his
 item_719,item_719,ő,word,produces,pronouns,NA,he/she,he
 item_720,item_720,ők,word,produces,pronouns,NA,they,they
 item_721,item_721,őket,word,produces,pronouns,NA,them,them
 item_722,item_722,őt,word,produces,pronouns,NA,him/her,him
-item_723,item_723,rajta,word,produces,pronouns,NA,on him/her,
+item_723,item_723,rajta,word,produces,pronouns,NA,on him/her,NA
 item_724,item_724,te,word,produces,pronouns,NA,you,you
 item_725,item_725,téged,word,produces,pronouns,NA,you (accusative),you
 item_726,item_726,tiéd,word,produces,pronouns,NA,your,your
 item_727,item_727,ti,word,produces,pronouns,NA,you (plural),you
 item_728,item_728,titeket,word,produces,pronouns,NA,you (plural & accusative),you
-item_729,item_729,vele,word,produces,pronouns,NA,with her/him,
+item_729,item_729,vele,word,produces,pronouns,NA,with her/him,NA
 item_730,item_730,hogy,word,produces,question_words,NA,how/that,how
 item_731,item_731,hogyan,word,produces,question_words,NA,how,how
 item_732,item_732,hol,word,produces,question_words,NA,where,where (question)
-item_733,item_733,honnan,word,produces,question_words,NA,from where,
+item_733,item_733,honnan,word,produces,question_words,NA,from where,NA
 item_734,item_734,hova,word,produces,question_words,NA,where to,where (question)
 item_735,item_735,ki,word,produces,question_words,NA,who,who
 item_736,item_736,kié,word,produces,question_words,NA,whose,whose
 item_737,item_737,kik,word,produces,question_words,NA,who (plural),who
-item_738,item_738,kinek,word,produces,question_words,NA,to whom,
-item_739,item_739,kiről,word,produces,question_words,NA,about who,
+item_738,item_738,kinek,word,produces,question_words,NA,to whom,NA
+item_739,item_739,kiről,word,produces,question_words,NA,about who,NA
 item_740,item_740,kit,word,produces,question_words,NA,who (accusative),who
-item_741,item_741,kivel,word,produces,question_words,NA,with whom,
+item_741,item_741,kivel,word,produces,question_words,NA,with whom,NA
 item_742,item_742,melyik,word,produces,question_words,NA,which,which (question)
-item_743,item_743,merre,word,produces,question_words,NA,which way,
+item_743,item_743,merre,word,produces,question_words,NA,which way,NA
 item_744,item_744,mi,word,produces,question_words,NA,what,what
 item_745,item_745,miért,word,produces,question_words,NA,why,why
 item_746,item_746,mik,word,produces,question_words,NA,what (plural),what
 item_747,item_747,mikor,word,produces,question_words,NA,when,when (question)
-item_748,item_748,miről,word,produces,question_words,NA,about what,
+item_748,item_748,miről,word,produces,question_words,NA,about what,NA
 item_749,item_749,mit,word,produces,question_words,NA,what (accusative),what
-item_750,item_750,mivel,word,produces,question_words,NA,with what,
+item_750,item_750,mivel,word,produces,question_words,NA,with what,NA
 item_751,item_751,ugye,word,produces,question_words,NA,right?,right (question)
 item_752,item_752,alá,word,produces,locations,NA,under (as goal),under
 item_753,item_753,alatt,word,produces,locations,NA,under (as place),under
@@ -781,7 +781,7 @@ item_779,item_779,sok,word,produces,quantifiers,NA,a lot / much /many,many
 item_780,item_780,több,word,produces,quantifiers,NA,more,more
 item_781,item_781,túl,word,produces,quantifiers,NA,too,too
 item_782,item_782,valami,word,produces,quantifiers,NA,something,something
-item_783,item_783,valamilyen,word,produces,quantifiers,NA,some kind of,
+item_783,item_783,valamilyen,word,produces,quantifiers,NA,some kind of,NA
 item_784,item_784,fog (valamit csinálni),word,produces,helping_verbs,NA,will,will
 item_785,item_785,kell,word,produces,helping_verbs,NA,must/have to,need to
 item_786,item_786,lehet,word,produces,helping_verbs,NA,might,might
@@ -800,4 +800,4 @@ item_798,item_798,hanem,word,produces,connecting_words,NA,but,but
 item_799,item_799,hogy,word,produces,connecting_words,NA,that,that
 item_800,item_800,inkább,word,produces,connecting_words,NA,rather,rather
 item_801,item_801,mert,word,produces,connecting_words,NA,because,because
-item_802,item_802,pedig,word,produces,connecting_words,NA,even though,
+item_802,item_802,pedig,word,produces,connecting_words,NA,even though,NA

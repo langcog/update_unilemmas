@@ -22,6 +22,9 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 new_items[which(new_items$definition=="jeg"),]$uni_lemma = "I"
 new_items[which(new_items$definition=="dagplejemors navn"),]$uni_lemma = "babysitter's name"
 
+new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
+
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))

@@ -6,7 +6,7 @@ item_4,4_crrr,word,sounds,produces,crrr,NA,ring,ring ring
 item_5,5_haf,word,sounds,produces,haf,NA,bark,woof woof
 item_6,6_hop,word,sounds,produces,hop,NA,hop,hop
 item_7,7_iiaa,word,sounds,produces,íí áá,NA,hee-haw,neigh
-item_8,8_jupi,word,sounds,produces,jupí,NA,yippie,
+item_8,8_jupi,word,sounds,produces,jupí,NA,yippie,NA
 item_9,9_kvakva,word,sounds,produces,kvá kvá,NA,quack,quack quack
 item_10,10_kykyryky,word,sounds,produces,kykyryký,NA,cock-a-doodle-doo,cockadoodledoo
 item_11,11_meme,word,sounds,produces,mé mé,NA,baa,baa baa
@@ -44,7 +44,7 @@ item_42,42_tygr,word,animals,produces,tygr,NA,tiger,tiger
 item_43,43_tucnak,word,animals,produces,tučňák,NA,penguin,penguin
 item_44,44_vcela,word,animals,produces,včela,NA,bee,bee
 item_45,45_vlk,word,animals,produces,vlk,NA,wolf,wolf
-item_46,46_vosa,word,animals,produces,vosa,NA,wasp,
+item_46,46_vosa,word,animals,produces,vosa,NA,wasp,NA
 item_47,47_zvire,word,animals,produces,zvíře,NA,animal,animal
 item_48,48_zaba,word,animals,produces,žába,NA,frog,frog
 item_49,49_zelva,word,animals,produces,želva,NA,turtle,turtle
@@ -57,7 +57,7 @@ item_55,55_kralik,word,animals,produces,králik,NA,rabbit,bunny
 item_56,56_krava,word,animals,produces,kráva,NA,cow,cow
 item_57,57_auto1,word,vehicles,produces,auto,NA,car,car
 item_58,58_autobus,word,vehicles,produces,autobus,NA,bus,bus
-item_59,59_bagr,word,vehicles,produces,bagr,NA,excavator,
+item_59,59_bagr,word,vehicles,produces,bagr,NA,excavator,NA
 item_60,60_hasici,word,vehicles,produces,hasiči,NA,firefighters,firetruck
 item_61,61_kocarek,word,vehicles,produces,kočárek,NA,pram,stroller
 item_62,62_kolo,word,vehicles,produces,kolo,NA,bicycle,bicycle
@@ -65,19 +65,19 @@ item_63,63_letadlo,word,vehicles,produces,letadlo,NA,airplane,airplane
 item_64,64_lod,word,vehicles,produces,loď,NA,ship,boat
 item_65,65_motorka,word,vehicles,produces,motorka,NA,motorbike,motorcycle
 item_66,66_nakladak,word,vehicles,produces,náklaďák,NA,van,truck
-item_67,67_policajti,word,vehicles,produces,policajti,NA,policemen,policeman
+item_67,67_policajti,word,vehicles,produces,policajti,NA,policemen,police car
 item_68,68_sanitka,word,vehicles,produces,sanitka,NA,ambulance,ambulance
 item_69,69_traktor,word,vehicles,produces,traktor,NA,tractor,tractor
 item_70,70_vlak,word,vehicles,produces,vlak,NA,train,train
 item_71,71_vrtulnik,word,vehicles,produces,vrtulník,NA,helicopter,helicopter
-item_72,72_babovicka,word,toys,produces,bábovička,NA,sandcake,
+item_72,72_babovicka,word,toys,produces,bábovička,NA,sandcake,NA
 item_73,73_bubinek,word,toys,produces,bubínek,NA,drum,drum
 item_74,74_darek,word,toys,produces,dárek,NA,gift,present
 item_75,75_fotak,word,toys,produces,foťák,NA,camera,camera
-item_76,76_fotbal,word,toys,produces,fotbal,NA,football,
+item_76,76_fotbal,word,toys,produces,fotbal,NA,football,NA
 item_77,77_hracka,word,toys,produces,hračka,NA,toy,toy (object)
 item_78,78_knizka,word,toys,produces,knížka,NA,book,book
-item_79,79_kostka,word,toys,produces,kostka,NA,dice,
+item_79,79_kostka,word,toys,produces,kostka,NA,dice,NA
 item_80,80_krabice,word,toys,produces,krabice,NA,box,box
 item_81,81_kytara,word,toys,produces,kytara,NA,guitar,guitar
 item_82,82_lepidlo,word,toys,produces,lepidlo,NA,glue,glue
@@ -94,7 +94,7 @@ item_92,92_hrasek,word,food_drink,produces,hrášek,NA,pea,peas
 item_93,93_hruska,word,food_drink,produces,hruška,NA,pear,pear
 item_94,94_chleba,word,food_drink,produces,chleba,NA,bread,bread
 item_95,95_jablko,word,food_drink,produces,jablko,NA,apple,apple
-item_96,96_kase,word,food_drink,produces,kaše,NA,mash,
+item_96,96_kase,word,food_drink,produces,kaše,NA,mash,NA
 item_97,97_knedlik,word,food_drink,produces,knedlík,NA,dumpling,dumpling
 item_98,98_kukurice,word,food_drink,produces,kukuřice,NA,corn,corn
 item_99,99_lizatko,word,food_drink,produces,lízátko,NA,lolipop,candy
@@ -105,7 +105,7 @@ item_103,103_okurka,word,food_drink,produces,okurka,NA,cucumber,cucumber
 item_104,104_cokolada,word,food_drink,produces,čokoláda,NA,chocolate,chocolate
 item_105,105_dort,word,food_drink,produces,dort,NA,cake,cake
 item_106,106_dzus,word,food_drink,produces,džus,NA,juice,juice
-item_107,107_hlad,word,food_drink,produces,hlad,NA,hunger,
+item_107,107_hlad,word,food_drink,produces,hlad,NA,hunger,NA
 item_108,108_jahoda,word,food_drink,produces,jahoda,NA,strawberry,strawberry
 item_109,109_jidlo,word,food_drink,produces,jídlo,NA,food,food
 item_110,110_jogurt,word,food_drink,produces,jogurt,NA,yogurt,yogurt
@@ -119,7 +119,7 @@ item_117,117_orisky,word,food_drink,produces,oříšky,NA,nuts,nut
 item_118,118_ovoce,word,food_drink,produces,ovoce,NA,fruit,fruit
 item_119,119_palacinka,word,food_drink,produces,palačinka,NA,pancake,pancake
 item_120,120_houby,word,food_drink,produces,houby,NA,mushrooms,mushrooms
-item_121,121_kakao,word,food_drink,produces,kakao,NA,cocoa,
+item_121,121_kakao,word,food_drink,produces,kakao,NA,cocoa,NA
 item_122,122_med,word,food_drink,produces,med,NA,honey,honey
 item_123,123_parek,word,food_drink,produces,párek,NA,frankfurter,hot dog
 item_124,124_piskot,word,food_drink,produces,piškot,NA,biscuit,biscuit
@@ -185,7 +185,7 @@ item_183,183_noha,word,body_parts,produces,noha,NA,leg,leg
 item_184,184_nos,word,body_parts,produces,nos,NA,nose,nose
 item_185,185_oblicej,word,body_parts,produces,obličej,NA,face,face
 item_186,186_oko,word,body_parts,produces,oko,NA,eye,eye
-item_187,187_piha,word,body_parts,produces,piha,NA,freckle,
+item_187,187_piha,word,body_parts,produces,piha,NA,freckle,NA
 item_188,188_pindik,word,body_parts,produces,pindík (i jiné označení),NA,penis (any name),penis
 item_189,189_pipinka,word,body_parts,produces,pipinka (i jiné označení),NA,vagina (any name),vagina
 item_190,190_prsa,word,body_parts,produces,prsa,NA,breasts,breast
@@ -195,7 +195,7 @@ item_193,193_pusa,word,body_parts,produces,pusa,NA,mouth,mouth
 item_194,194_rameno,word,body_parts,produces,rameno,NA,shoulder,shoulder
 item_195,195_ruka,word,body_parts,produces,ruka,NA,hand/arm,arm
 item_196,196_baterka,word,household,produces,baterka,NA,flashlight/battery,light (object)
-item_197,197_cedecko,word,household,produces,cédéčko,NA,CD,
+item_197,197_cedecko,word,household,produces,cédéčko,NA,CD,NA
 item_198,198_dudlik,word,household,produces,dudlík,NA,dummy,pacifier
 item_199,199_hodinky,word,household,produces,hodinky,NA,watch,watch (object)
 item_200,200_hrnek,word,household,produces,hrnek,NA,cup,cup
@@ -224,7 +224,7 @@ item_222,222_penize,word,household,produces,peníze,NA,money,money
 item_223,223_perina,word,household,produces,peřina,NA,blanket,blanket
 item_224,224_pocitac,word,household,produces,počitáč,NA,computer,computer
 item_225,225_polstar,word,household,produces,polštář,NA,pillow,pillow
-item_226,226_prasek,word,household,produces,prášek,NA,powder,
+item_226,226_prasek,word,household,produces,prášek,NA,powder,NA
 item_227,227_radio,word,household,produces,rádio,NA,radio,radio
 item_228,228_svetlo,word,household,produces,světlo,NA,light,light (object)
 item_229,229_suplik,word,household,produces,šuplík,NA,drawer,drawer
@@ -272,7 +272,7 @@ item_270,270_louze,word,outside_places,produces,louže,NA,puddle,puddle
 item_271,271_mesic,word,outside_places,produces,měsíc,NA,moon,moon
 item_272,272_mesto,word,outside_places,produces,město,NA,city,town
 item_273,273_mrak,word,outside_places,produces,mrak,NA,cloud,cloud
-item_274,274_navsteva,word,outside_places,produces,návštěva,NA,visit,
+item_274,274_navsteva,word,outside_places,produces,návštěva,NA,visit,NA
 item_275,275_nebe,word,outside_places,produces,nebe,NA,sky,sky
 item_276,276_obchod,word,outside_places,produces,obchod,NA,shop,store
 item_277,277_park,word,outside_places,produces,park,NA,park,park
@@ -285,7 +285,7 @@ item_283,283_snehulak,word,outside_places,produces,sněhulák,NA,snowman,snowman
 item_284,284_snih,word,outside_places,produces,sníh,NA,snow,snow
 item_285,285_strom,word,outside_places,produces,strom,NA,tree,tree
 item_286,286_strecha,word,outside_places,produces,střecha,NA,roof,roof
-item_287,287_skolka,word,outside_places,produces,školka,NA,kindergarten/daycare,
+item_287,287_skolka,word,outside_places,produces,školka,NA,kindergarten/daycare,NA
 item_288,288_trava,word,outside_places,produces,tráva,NA,grass,grass
 item_289,289_venku1,word,outside_places,produces,venku,NA,outside,outside
 item_290,290_vetev,word,outside_places,produces,větev,NA,branch,branch
@@ -303,11 +303,11 @@ item_301,301_kamaradka,word,people,produces,kamarád/ka,NA,friend,friend
 item_302,302_kluk,word,people,produces,kluk,NA,boy,boy
 item_303,303_lidi,word,people,produces,lidi,NA,people,people
 item_304,304_mama,word,people,produces,máma,NA,mommy,mommy
-item_305,305_Mikulas,word,people,produces,Mikuláš,NA,st. Nicolas,
+item_305,305_Mikulas,word,people,produces,Mikuláš,NA,st. Nicolas,NA
 item_306,306_miminko,word,people,produces,miminko,NA,baby,baby
-item_307,307_pan,word,people,produces,pán,NA,mister,
-item_308,308_pani,word,people,produces,paní,NA,miss/ms.,
-item_309,309_policajt,word,people,produces,policajt,NA,police officer,policeman
+item_307,307_pan,word,people,produces,pán,NA,mister,NA
+item_308,308_pani,word,people,produces,paní,NA,miss/ms.,NA
+item_309,309_policajt,word,people,produces,policajt,NA,police officer,police
 item_310,310_postacka,word,people,produces,pošťačka,NA,mailwoman,mailman
 item_311,311_strejda,word,people,produces,strejda,NA,uncle,uncle
 item_312,312_sestrickasourozenec,word,people,produces,sestrička (sourozenec),NA,sister,sister
@@ -315,7 +315,7 @@ item_313,313_tata,word,people,produces,táta,NA,dad,daddy
 item_314,314_teta,word,people,produces,teta,NA,aunt,aunt
 item_315,315_vlastnijmenoditete,word,people,produces,vlastní jméno dítěte,NA,[child's own name],child's own name
 item_316,316_jmenozviretenaprFik,word,people,produces,jméno zvířete napr. Fík,NA,[a pet's name],pet's name
-item_317,317_jmenojineosoby,word,people,produces,jméno jiné osoby,NA,[someone else's name],
+item_317,317_jmenojineosoby,word,people,produces,jméno jiné osoby,NA,[someone else's name],NA
 item_318,318_batse,word,action_words,produces,bát se,NA,fear/be afraid,scared
 item_319,319_behat,word,action_words,produces,běhat,NA,run,run
 item_320,320_bezet,word,action_words,produces,běžet,NA,run,run
@@ -323,7 +323,7 @@ item_321,321_bolet,word,action_words,produces,bolet,NA,ache/hurt,hurt (action)
 item_322,322_bouchnout,word,action_words,produces,bouchnout,NA,hit/punch,hit
 item_323,323_brat,word,action_words,produces,brát,NA,take,take
 item_324,324_brecet,word,action_words,produces,brečet,NA,cry,cry
-item_325,325_bydlet,word,action_words,produces,bydlet,NA,live/stay,
+item_325,325_bydlet,word,action_words,produces,bydlet,NA,live/stay,NA
 item_326,326_cakat,word,action_words,produces,cákat,NA,splah,splash
 item_327,327_cekat,word,action_words,produces,čekat,NA,wait,wait
 item_328,328_cist,word,action_words,produces,čist,NA,read,read
@@ -351,7 +351,7 @@ item_349,349_kakat,word,action_words,produces,kakat,NA,poop,poop
 item_350,350_kopat,word,action_words,produces,kopat,NA,dig,kick
 item_351,351_koukat,word,action_words,produces,koukat,NA,watch,watch (action)
 item_352,352_koupit,word,action_words,produces,koupit,NA,buy,buy
-item_353,353_kousat,word,action_words,produces,kousat,NA,bite,
+item_353,353_kousat,word,action_words,produces,kousat,NA,bite,NA
 item_354,354_kousnout,word,action_words,produces,kousnout,NA,bite,bite
 item_355,355_krmit,word,action_words,produces,krmit,NA,feed,feed
 item_356,356_kricet,word,action_words,produces,kříčet,NA,shout,shout
@@ -368,7 +368,7 @@ item_366,366_napit,word,action_words,produces,napít,NA,drink up,drink (action)
 item_367,367_nest,word,action_words,produces,nést,NA,carry,carry
 item_368,368_opravovat,word,action_words,produces,opravovat,NA,repair,fix
 item_369,369_otevrit,word,action_words,produces,otevřít,NA,open,open (action)
-item_370,370_palit,word,action_words,produces,pálit,NA,burn,
+item_370,370_palit,word,action_words,produces,pálit,NA,burn,NA
 item_371,371_pit,word,action_words,produces,pít,NA,drink,drink (action)
 item_372,372_plakat,word,action_words,produces,plakat,NA,cry,cry
 item_373,373_plavat,word,action_words,produces,plavat,NA,swimm,swim
@@ -418,20 +418,20 @@ item_416,416_zpivat,word,action_words,produces,zpívat,NA,sing,sing
 item_417,417_zustat1,word,action_words,produces,zůstat,NA,stay,stay
 item_418,418_ahoj,word,games_routines,produces,ahoj!,NA,hi,hello
 item_419,419_ano,word,games_routines,produces,ano,NA,yes,yes
-item_420,420_basnicka,word,games_routines,produces,básnička,NA,[any rhyme],
+item_420,420_basnicka,word,games_routines,produces,básnička,NA,[any rhyme],NA
 item_421,421_cakycaky,word,games_routines,produces,cákycáky,NA,splashsplash,splash
 item_422,422_dejpusinku,word,games_routines,produces,dej pusinku,NA,kiss me,kiss
 item_423,423_dekuji,word,games_routines,produces,děkuji,NA,thankyou,thank you
 item_424,424_dobrounoc,word,games_routines,produces,dobrou noc,NA,goodnight,good night
-item_425,425_dobryden,word,games_routines,produces,dobrý den,NA,good day,
+item_425,425_dobryden,word,games_routines,produces,dobrý den,NA,good day,NA
 item_426,426_eezachod,word,games_routines,produces,ee [záchod],NA,peepee/poop,poop
 item_427,427_haci,word,games_routines,produces,hači,NA,sit [babyword],sit
 item_428,428_haji,word,games_routines,produces,haji,NA,sleep [babyword],sleep
-item_429,429_halohalo,word,games_routines,produces,halóhaló,NA,hello [on the phone],
+item_429,429_halohalo,word,games_routines,produces,halóhaló,NA,hello [on the phone],NA
 item_430,430_ham,word,games_routines,produces,ham,NA,"num nums [eat,swallow]",eat
 item_431,431_hotovo,word,games_routines,produces,hotovo,NA,alldone,finished
 item_432,432_jdeme,word,games_routines,produces,jdeme,NA,let's go,come
-item_433,433_kolokolomlynsky,word,games_routines,produces,kolo kolo mlýnský,NA,ring-around-the-rosie,
+item_433,433_kolokolomlynsky,word,games_routines,produces,kolo kolo mlýnský,NA,ring-around-the-rosie,NA
 item_434,434_malamala,word,games_routines,produces,malá malá,NA,hush-hush [little],shhh
 item_435,435_nashledanou,word,games_routines,produces,nashledanou,NA,bye bye,bye
 item_436,436_ne1,word,games_routines,produces,ne,NA,no,no
@@ -442,8 +442,8 @@ item_440,440_pohadka,word,games_routines,produces,pohádka,NA,fairytale,story
 item_441,441_prosim,word,games_routines,produces,prosím,NA,please,please
 item_442,442_pst,word,games_routines,produces,pšt!,NA,shh,quiet
 item_443,443_ukaz,word,games_routines,produces,ukaž,NA,show me,show
-item_444,444_varilamysicka,word,games_routines,produces,vařila myšička,NA,mouse-cooked-porridge [finger game],
-item_445,445_zetechytim,word,games_routines,produces,že tě cghytím,NA,I'll catch you,
+item_444,444_varilamysicka,word,games_routines,produces,vařila myšička,NA,mouse-cooked-porridge [finger game],NA
+item_445,445_zetechytim,word,games_routines,produces,že tě cghytím,NA,I'll catch you,NA
 item_446,446_bily,word,descriptive_words,produces,bílý,NA,white,white
 item_447,447_cerny,word,descriptive_words,produces,černý,NA,black,black
 item_448,448_cerveny,word,descriptive_words,produces,červený,NA,red,red
@@ -484,7 +484,7 @@ item_482,482_rano,word,time_words,produces,ráno,NA,morning,morning
 item_483,483_ted,word,time_words,produces,teď,NA,now,now
 item_484,484_vcera,word,time_words,produces,včera,NA,yesterday,yesterday
 item_485,485_vecer,word,time_words,produces,večer,NA,evening,evening
-item_486,486_zachvilku,word,time_words,produces,za chvilku,NA,in a while,
+item_486,486_zachvilku,word,time_words,produces,za chvilku,NA,in a while,NA
 item_487,487_zitra,word,time_words,produces,zítra,NA,tomorrow,tomorrow
 item_488,488_ja1,word,pronouns,produces,já,NA,I,i
 item_489,489_ty1,word,pronouns,produces,ty,NA,you,you

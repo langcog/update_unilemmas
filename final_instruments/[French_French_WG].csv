@@ -478,7 +478,7 @@ item_558,item_558,word,food_drink,understands; produces,yaourt,item_140,Nourritu
 item_559,item_559,word,food_drink,understands; produces,sucette,item_141,Nourriture et boisson,,lollipop
 item_560,item_560,word,food_drink,understands; produces,melon,item_142,Nourriture et boisson,melon,melon
 item_561,item_561,word,food_drink,understands; produces,madeleine,item_143,Nourriture et boisson,madeleine,muffin
-item_562,item_562,word,food_drink,understands; produces,noisettes,item_144,Nourriture et boisson,hazelnut,nuts
+item_562,item_562,word,food_drink,understands; produces,noisettes,item_144,Nourriture et boisson,hazelnut,nut
 item_563,item_563,word,food_drink,understands; produces,crêpe,item_145,Nourriture et boisson,crepe,pancake
 item_564,item_564,word,food_drink,understands; produces,nutella,item_146,Nourriture et boisson,nutella,nutella
 item_565,item_565,word,food_drink,understands; produces,mayonnaise,item_147,Nourriture et boisson,mayonnaise,mayonnaise

@@ -97,7 +97,7 @@ calógarbhair,item_189,FOOD AND DRINK,produces; doesn't produce,word,calógarbha
 caorafínúna,item_191,FOOD AND DRINK,produces; doesn't produce,word,caorafínúna,0,food_drink,nouns,grapes,grapes
 ceapaire,item_193,FOOD AND DRINK,produces; doesn't produce,word,ceapaire,0,food_drink,nouns,sandwich,sandwich
 cnaipínísicín,item_195,FOOD AND DRINK,produces; doesn't produce,word,cnaipínísicín,0,food_drink,nouns,chicken nuggets,chicken nuggets
-cnónna,item_197,FOOD AND DRINK,produces; doesn't produce,word,cnónna,0,food_drink,nouns,nuts,nuts
+cnónna,item_197,FOOD AND DRINK,produces; doesn't produce,word,cnónna,0,food_drink,nouns,nuts,nut
 coke,item_199,FOOD AND DRINK,produces; doesn't produce,word,coke_cóc,1,food_drink,nouns,coke,soda
 criospaí,item_200,FOOD AND DRINK,produces; doesn't produce,word,criospaí_téiteo,0,food_drink,nouns,crisps,crisps
 deoch,item_203,FOOD AND DRINK,produces; doesn't produce,word,deoch,0,food_drink,nouns,drink,drink (liquid)
@@ -183,7 +183,7 @@ gruaig,item_360,BODY PARTS,produces; doesn't produce,word,gruaig,0,body_parts,no
 gualainn,item_362,BODY PARTS,produces; doesn't produce,word,gualainn,0,body_parts,nouns,shoulder(s),shoulder
 lámh,item_364,BODY PARTS,produces; doesn't produce,word,lámh,0,body_parts,nouns,hand,hand
 leiceann,item_366,BODY PARTS,produces; doesn't produce,word,leiceann,0,body_parts,nouns,cheek,cheek
-lúidín,item_368,BODY PARTS,produces; doesn't produce,word,lúidín,0,body_parts,nouns,little finger,
+lúidín,item_368,BODY PARTS,produces; doesn't produce,word,lúidín,0,body_parts,nouns,little finger,NA
 mala,item_369,BODY PARTS,produces; doesn't produce,word,mala,0,body_parts,nouns,eyebrow,eyebrows
 méar,item_371,BODY PARTS,produces; doesn't produce,word,méar,0,body_parts,nouns,finger,finger
 muineál,item_373,BODY PARTS,produces; doesn't produce,word,muineál,0,body_parts,nouns,neck,neck
@@ -284,7 +284,7 @@ bothán,item_560,OUTSIDE THINGS,produces; doesn't produce,word,bothán_sciobóil
 bóthar,item_562,OUTSIDE THINGS,produces; doesn't produce,word,bóthar,0,outside,nouns,road,road
 brat(ach),item_564,OUTSIDE THINGS,produces; doesn't produce,word,brat(ach),0,outside,nouns,flag,flag
 buicéad,item_566,OUTSIDE THINGS,produces; doesn't produce,word,buicéad,0,outside,nouns,bucket,bucket
-carraig,item_568,OUTSIDE THINGS,produces; doesn't produce,word,carraig,0,outside,nouns,rock,rock
+carraig,item_568,OUTSIDE THINGS,produces; doesn't produce,word,carraig,0,outside,nouns,rock,stone
 ceo,item_570,OUTSIDE THINGS,produces; doesn't produce,word,ceo,0,outside,nouns,fog,fog
 claí,item_572,OUTSIDE THINGS,produces; doesn't produce,word,claí_sconsa,0,outside,nouns,fence,ditch
 cloch,item_574,OUTSIDE THINGS,produces; doesn't produce,word,cloch,0,outside,nouns,stone,stone
@@ -305,7 +305,7 @@ grian,item_602,OUTSIDE THINGS,produces; doesn't produce,word,grian,0,outside,nou
 laí,item_604,OUTSIDE THINGS,produces; doesn't produce,word,laí_sluasaid,0,outside,nouns,shovel,shovel
 linnsnámha,item_606,OUTSIDE THINGS,produces; doesn't produce,word,linnsnámha,0,outside,nouns,(swimming) pool,pool
 loch,item_608,OUTSIDE THINGS,produces; doesn't produce,word,loch_lochán,0,outside,nouns,pond,lake
-luascán,item_610,OUTSIDE THINGS,produces; doesn't produce,word,luascán,0,outside,nouns,swings,
+luascán,item_610,OUTSIDE THINGS,produces; doesn't produce,word,luascán,0,outside,nouns,swings,NA
 réalta,item_612,OUTSIDE THINGS,produces; doesn't produce,word,réalta,0,outside,nouns,stars,star
 scamall,item_614,OUTSIDE THINGS,produces; doesn't produce,word,scamall,0,outside,nouns,cloud,cloud
 sceach,item_616,OUTSIDE THINGS,produces; doesn't produce,word,sceach,0,outside,nouns,bush,bush
@@ -352,12 +352,12 @@ deirfiúr,item_697,PEOPLE *or words used in your family,produces; doesn't produc
 dochtúir,item_699,PEOPLE *or words used in your family,produces; doesn't produce,word,dochtúir,0,people,other,doctor,doctor
 duine,item_701,PEOPLE *or words used in your family,produces; doesn't produce,word,duine,0,people,other,person,person
 fear,item_703,PEOPLE *or words used in your family,produces; doesn't produce,word,fear,0,people,other,man,man
-feardóiteáin,item_705,PEOPLE *or words used in your family,produces; doesn't produce,word,feardóiteáin,0,people,other,fireman,fireman
+feardóiteáin,item_705,PEOPLE *or words used in your family,produces; doesn't produce,word,feardóiteáin,0,people,other,fireman,firefighter
 feargrinn,item_707,PEOPLE *or words used in your family,produces; doesn't produce,word,feargrinn,0,people,other,clown,clown
 fearanphoist,item_709,PEOPLE *or words used in your family,produces; doesn't produce,word,fearanphoist,0,people,other,postman,postman 
 feirmeoir,item_711,PEOPLE *or words used in your family,produces; doesn't produce,word,feirmeoir,0,people,other,farmer,farmer
 fiaclóir,item_713,PEOPLE *or words used in your family,produces; doesn't produce,word,fiaclóir,0,people,other,dentist,dentist
-garda,item_715,PEOPLE *or words used in your family,produces; doesn't produce,word,garda,0,people,other,policeman,policeman
+garda,item_715,PEOPLE *or words used in your family,produces; doesn't produce,word,garda,0,people,other,policeman,police
 gruagaire,item_717,PEOPLE *or words used in your family,produces; doesn't produce,word,gruagaire,0,people,other,hairdresser,hairdresser
 leanbh,item_719,PEOPLE *or words used in your family,produces; doesn't produce,word,leanbh_babaí,0,people,other,baby ,baby
 mamaí,item_721,PEOPLE *or words used in your family,produces; doesn't produce,word,mamaí_mammy,1,people,other,mommy,mommy
@@ -392,7 +392,7 @@ no,item_775,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,no_neó
 oíchemaith,item_776,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,oíchemaith,0,games_routines,other,good night,good night
 póigín,item_778,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,póigín,0,games_routines,other,kiss,kiss
 yea,item_780,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,yea_sea,1,games_routines,other,yea,yes
-seachain,item_781,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,seachain,0,games_routines,other,look out,
+seachain,item_781,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,seachain,0,games_routines,other,look out,NA
 shh,item_783,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,shh_shush_ie,1,games_routines,other,shh,shh
 siopadóireacht,item_784,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,siopadóireacht,0,games_routines,other,shopping,shopping
 slán,item_786,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,slán,0,games_routines,other,bye,bye
@@ -586,16 +586,16 @@ sibh,item_1164,PRONOUNS,produces; doesn't produce,word,sibh_sibhse,0,pronouns,fu
 sin,item_1166,PRONOUNS,produces; doesn't produce,word,sin_san,0,pronouns,function_words,that,that
 tú,item_1168,PRONOUNS,produces; doesn't produce,word,tú,0,pronouns,function_words,you,you
 tusa,item_1170,PRONOUNS,produces; doesn't produce,word,tusa,0,pronouns,function_words,hey you,you
-agam,item_1171,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,agam,0,pronouns,function_words,at me,
-agat,item_1172,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,agat,0,pronouns,function_words,at you,
-aige,item_1173,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,aige,0,pronouns,function_words,at him,
-aici,item_1174,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,aici,0,pronouns,function_words,at her,
-againn,item_1175,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,againn,0,pronouns,function_words,at us,
-dom,item_1176,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,dom,0,pronouns,function_words,to me,
-duit,item_1177,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,duit,0,pronouns,function_words,to you,
-dúinn,item_1178,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,dúinn,0,pronouns,function_words,to us,
-liom,item_1179,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,liom,0,pronouns,function_words,with me,
-leat,item_1180,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,leat,0,pronouns,function_words,with you,
+agam,item_1171,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,agam,0,pronouns,function_words,at me,NA
+agat,item_1172,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,agat,0,pronouns,function_words,at you,NA
+aige,item_1173,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,aige,0,pronouns,function_words,at him,NA
+aici,item_1174,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,aici,0,pronouns,function_words,at her,NA
+againn,item_1175,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,againn,0,pronouns,function_words,at us,NA
+dom,item_1176,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,dom,0,pronouns,function_words,to me,NA
+duit,item_1177,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,duit,0,pronouns,function_words,to you,NA
+dúinn,item_1178,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,dúinn,0,pronouns,function_words,to us,NA
+liom,item_1179,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,liom,0,pronouns,function_words,with me,NA
+leat,item_1180,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,leat,0,pronouns,function_words,with you,NA
 leis,item_1181,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,leis,0,pronouns,function_words,with him,with him
 leí,item_1182,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,leí,0,pronouns,function_words,with her,with her
 linn,item_1183,PREPOSITIONAL PRONOUNS (IRISH ONLY),produces; doesn't produce,word,linn,0,pronouns,function_words,with us,with us

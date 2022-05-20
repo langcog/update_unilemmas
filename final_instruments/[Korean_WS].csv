@@ -272,7 +272,7 @@ item_270,item_270,word,outside,understands; produces,해/햇빛,NA,sun,sun
 item_271,item_271,word,outside,understands; produces,흙,NA,soil,soil
 item_272,item_272,word,games_routines,understands; produces,고마워,NA,thank you,thank you
 item_273,item_273,word,games_routines,understands; produces,네/응,NA,yes,yes
-item_274,item_274,word,games_routines,understands; produces,돼,NA,NA,NA
+item_274,item_274,word,games_routines,understands; produces,돼,NA,yes (can do),NA
 item_275,item_275,word,games_routines,understands; produces,만세,NA,yay,yay
 item_276,item_276,word,games_routines,understands; produces,목욕,NA,bath,bath
 item_277,item_277,word,games_routines,understands; produces,빠이빠이,NA,bye bye,bye
@@ -400,7 +400,7 @@ item_398,item_398,word,action_words,understands; produces,놀아,NA,play,play
 item_399,item_399,word,action_words,understands; produces,(물건을)놓아,NA,put down,put down
 item_400,item_400,word,action_words,understands; produces,누워,NA,lie,lie down
 item_401,item_401,word,action_words,understands; produces,(무엇을)눌러,NA,push,push
-item_402,item_402,word,action_words,understands; produces,(무엇에)눌려,NA,NA,NA
+item_402,item_402,word,action_words,understands; produces,(무엇에)눌려,NA,be pushed,NA
 item_403,item_403,word,action_words,understands; produces,다녀,NA,go around,go
 item_404,item_404,word,action_words,understands; produces,다쳐,NA,get hurt,hurt (action)
 item_405,item_405,word,action_words,understands; produces,닦아,NA,wipe,wipe
@@ -428,7 +428,7 @@ item_426,item_426,word,action_words,understands; produces,만들어,NA,make,make
 item_427,item_427,word,action_words,understands; produces,(빨래/싸움)말려,NA,dry,dry (action)
 item_428,item_428,word,action_words,understands; produces,말해,NA,speak/talk,say
 item_429,item_429,word,action_words,understands; produces,맛봐,NA,taste,taste (action)
-item_430,item_430,word,action_words,understands; produces,(주사를)맞아,NA,NA,NA
+item_430,item_430,word,action_words,understands; produces,(주사를)맞아,NA,have an injection,NA
 item_431,item_431,word,action_words,understands; produces,(음식을)먹어,NA,eat,eat
 item_432,item_432,word,action_words,understands; produces,(음식을)먹여,NA,feed,feed
 item_433,item_433,word,action_words,understands; produces,멈춰,NA,stop,stop
@@ -436,7 +436,7 @@ item_434,item_434,word,action_words,understands; produces,몰라,NA,I don't know
 item_435,item_435,word,action_words,understands; produces,물어,NA,ask,ask
 item_436,item_436,word,action_words,understands; produces,미워해,NA,hate,hate
 item_437,item_437,word,action_words,understands; produces,밀어,NA,push,push
-item_438,item_438,word,action_words,understands; produces,(약)발라,NA,NA,NA
+item_438,item_438,word,action_words,understands; produces,(약)발라,NA,put on (medicine),NA
 item_439,item_439,word,action_words,understands; produces,박수쳐,NA,clap,clap
 item_440,item_440,word,action_words,understands; produces,버려,NA,throw away,dump
 item_441,item_441,word,action_words,understands; produces,벗어,NA,take off,take off
@@ -444,7 +444,7 @@ item_442,item_442,word,action_words,understands; produces,보여,NA,see,see
 item_443,item_443,word,action_words,understands; produces,봐,NA,look,look
 item_444,item_444,word,action_words,understands; produces,부딪쳐,NA,bump,bump
 item_445,item_445,word,action_words,understands; produces,부숴,NA,smash,smash
-item_446,item_446,word,action_words,understands; produces,(물을)부어,NA,NA,NA
+item_446,item_446,word,action_words,understands; produces,(물을)부어,NA,pour,NA
 item_447,item_447,word,action_words,understands; produces,불러,NA,call,sing
 item_448,item_448,word,action_words,understands; produces,(풍선을)불어,NA,blow,blow
 item_449,item_449,word,action_words,understands; produces,붙여,NA,paste,glue (action)
@@ -476,7 +476,7 @@ item_474,item_474,word,action_words,understands; produces,(총을)쏴,NA,shoot,s
 item_475,item_475,word,action_words,understands; produces,쓰러져,NA,fall down,fall down
 item_476,item_476,word,action_words,understands; produces,씻어,NA,wash,wash
 item_477,item_477,word,action_words,understands; produces,안아,NA,hug,hug
-item_478,item_478,word,action_words,understands; produces,안해,NA,NA,NA
+item_478,item_478,word,action_words,understands; produces,안해,NA,I won't do it,NA
 item_479,item_479,word,action_words,understands; produces,앉아,NA,sit,sit
 item_480,item_480,word,action_words,understands; produces,알아,NA,know,know
 item_481,item_481,word,action_words,understands; produces,열어,NA,open,open (action)
@@ -569,36 +569,36 @@ item_567,item_567,word,descriptive_words,understands; produces,커,NA,big,big
 item_568,item_568,word,descriptive_words,understands; produces,(색이)파래,NA,blue,blue
 item_569,item_569,word,descriptive_words,understands; produces,(색이)하얘,NA,white,white
 item_570,item_570,word,descriptive_words,understands; produces,힘들어,NA,tired,tired
-item_571,item_571,word,verb_endings,understands; produces,-구나,NA,NA,NA
-item_572,item_572,word,verb_endings,understands; produces,-께,NA,NA,NA
-item_573,item_573,word,verb_endings,understands; produces,-네,NA,NA,NA
-item_574,item_574,word,verb_endings,understands; produces,-는다,NA,NA,NA
-item_575,item_575,word,verb_endings,understands; produces,-니?,NA,NA,NA
-item_576,item_576,word,verb_endings,understands; produces,-다,NA,NA,NA
-item_577,item_577,word,verb_endings,understands; produces,-대,NA,NA,NA
-item_578,item_578,word,verb_endings,understands; produces,-ㄹ거야/테야,NA,NA,NA
-item_579,item_579,word,verb_endings,understands; produces,-ㄹ까?,NA,NA,NA
-item_580,item_580,word,verb_endings,understands; produces,-ㄹ래,NA,NA,NA
-item_581,item_581,word,verb_endings,understands; produces,-어(아),NA,NA,NA
-item_582,item_582,word,verb_endings,understands; produces,-어야 돼,NA,NA,NA
-item_583,item_583,word,verb_endings,understands; produces,-요,NA,NA,NA
-item_584,item_584,word,verb_endings,understands; produces,-자,NA,NA,NA
-item_585,item_585,word,verb_endings,understands; produces,-지,NA,NA,NA
-item_586,item_586,word,other,understands; produces,-가(이),NA,NA,NA
-item_587,item_587,word,other,understands; produces,-는(은),NA,NA,NA
-item_588,item_588,word,other,understands; produces,-도,NA,NA,NA
-item_589,item_589,word,other,understands; produces,-랑,NA,NA,NA
-item_590,item_590,word,other,understands; produces,-로,NA,NA,NA
-item_591,item_591,word,other,understands; produces,-를(을),NA,NA,NA
-item_592,item_592,word,other,understands; produces,-만,NA,NA,NA
-item_593,item_593,word,other,understands; produces,-야,NA,NA,NA
+item_571,item_571,word,verb_endings,understands; produces,-구나,NA,,NA
+item_572,item_572,word,verb_endings,understands; produces,-께,NA,,NA
+item_573,item_573,word,verb_endings,understands; produces,-네,NA,,NA
+item_574,item_574,word,verb_endings,understands; produces,-는다,NA,,NA
+item_575,item_575,word,verb_endings,understands; produces,-니?,NA,,NA
+item_576,item_576,word,verb_endings,understands; produces,-다,NA,,NA
+item_577,item_577,word,verb_endings,understands; produces,-대,NA,,NA
+item_578,item_578,word,verb_endings,understands; produces,-ㄹ거야/테야,NA,,NA
+item_579,item_579,word,verb_endings,understands; produces,-ㄹ까?,NA,,NA
+item_580,item_580,word,verb_endings,understands; produces,-ㄹ래,NA,,NA
+item_581,item_581,word,verb_endings,understands; produces,-어(아),NA,,NA
+item_582,item_582,word,verb_endings,understands; produces,-어야 돼,NA,,NA
+item_583,item_583,word,verb_endings,understands; produces,-요,NA,,NA
+item_584,item_584,word,verb_endings,understands; produces,-자,NA,,NA
+item_585,item_585,word,verb_endings,understands; produces,-지,NA,,NA
+item_586,item_586,word,other,understands; produces,-가(이),NA,subject case marker,NA
+item_587,item_587,word,other,understands; produces,-는(은),NA,topic case marker,NA
+item_588,item_588,word,other,understands; produces,-도,NA,comitative,NA
+item_589,item_589,word,other,understands; produces,-랑,NA,comitative,NA
+item_590,item_590,word,other,understands; produces,-로,NA,instrumental,NA
+item_591,item_591,word,other,understands; produces,-를(을),NA,accusative,NA
+item_592,item_592,word,other,understands; produces,-만,NA,-,NA
+item_593,item_593,word,other,understands; produces,-야,NA,verb ending,NA
 item_594,item_594,word,other,understands; produces,-에,NA,dative,at/in/on
 item_595,item_595,word,other,understands; produces,-에서,NA,dative,at
 item_596,item_596,word,other,understands; produces,-하고,NA,verb ending,with
-item_597,item_597,word,other,understands; produces,-한테/에게,NA,NA,NA
-item_598,item_598,word,connecting_words,understands; produces,그리고,NA,NA,NA
-item_599,item_599,word,connecting_words,understands; produces,그런데,NA,NA,NA
-item_600,item_600,word,connecting_words,understands; produces,그래서,NA,NA,NA
+item_597,item_597,word,other,understands; produces,-한테/에게,NA,locative,NA
+item_598,item_598,word,connecting_words,understands; produces,그리고,NA,and,NA
+item_599,item_599,word,connecting_words,understands; produces,그런데,NA,but,NA
+item_600,item_600,word,connecting_words,understands; produces,그래서,NA,so,NA
 item_601,item_601,word,connecting_words,understands; produces,-고,and,verb ending,and
 item_602,item_602,word,connecting_words,understands; produces,-는데,by the way,verb ending,but
 item_603,item_603,word,connecting_words,understands; produces,-서,NA,verb ending,so
@@ -634,46 +634,12 @@ item_632,item_632,word,pronouns,understands; produces,여기,NA,here,here
 item_633,item_633,word,pronouns,understands; produces,우리,NA,we,we
 item_634,item_634,word,pronouns,understands; produces,이거,NA,this,this
 item_635,item_635,word,pronouns,understands; produces,저기,NA,over there,there
-item_636,item_636,word,helping_verbs,understands; produces,-고 있다,NA,NA,NA
+item_636,item_636,word,helping_verbs,understands; produces,-고 있다,NA,-ing,NA
 item_637,item_637,word,helping_verbs,understands; produces,-놓다,NA,put,put
 item_638,item_638,word,helping_verbs,understands; produces,-말다,NA,roll,roll
 item_639,item_639,word,helping_verbs,understands; produces,-보다,NA,see,see
 item_640,item_640,word,helping_verbs,understands; produces,-싶다,NA,hope to,wanna
 item_641,item_641,word,helping_verbs,understands; produces,-주다,NA,give,give
-item_274,item_274,word,games_routines,understands; produces,돼,NA,yes (can do),NA
-item_402,item_402,word,action_words,understands; produces,(무엇에)눌려,NA,be pushed,NA
-item_430,item_430,word,action_words,understands; produces,(주사를)맞아,NA,have an injection,NA
-item_438,item_438,word,action_words,understands; produces,(약)발라,NA,put on (medicine),NA
-item_446,item_446,word,action_words,understands; produces,(물을)부어,NA,pour,NA
-item_478,item_478,word,action_words,understands; produces,안해,NA,I won't do it,NA
-item_571,item_571,word,verb_endings,understands; produces,-구나,NA,NA,NA
-item_572,item_572,word,verb_endings,understands; produces,-께,NA,NA,NA
-item_573,item_573,word,verb_endings,understands; produces,-네,NA,NA,NA
-item_574,item_574,word,verb_endings,understands; produces,-는다,NA,NA,NA
-item_575,item_575,word,verb_endings,understands; produces,-니?,NA,NA,NA
-item_576,item_576,word,verb_endings,understands; produces,-다,NA,NA,NA
-item_577,item_577,word,verb_endings,understands; produces,-대,NA,NA,NA
-item_578,item_578,word,verb_endings,understands; produces,-ㄹ거야/테야,NA,NA,NA
-item_579,item_579,word,verb_endings,understands; produces,-ㄹ까?,NA,NA,NA
-item_580,item_580,word,verb_endings,understands; produces,-ㄹ래,NA,NA,NA
-item_581,item_581,word,verb_endings,understands; produces,-어(아),NA,NA,NA
-item_582,item_582,word,verb_endings,understands; produces,-어야 돼,NA,NA,NA
-item_583,item_583,word,verb_endings,understands; produces,-요,NA,NA,NA
-item_584,item_584,word,verb_endings,understands; produces,-자,NA,NA,NA
-item_585,item_585,word,verb_endings,understands; produces,-지,NA,NA,NA
-item_586,item_586,word,other,understands; produces,-가(이),NA,subject case marker,NA
-item_587,item_587,word,other,understands; produces,-는(은),NA,topic case marker,NA
-item_588,item_588,word,other,understands; produces,-도,NA,comitative,NA
-item_589,item_589,word,other,understands; produces,-랑,NA,comitative,NA
-item_590,item_590,word,other,understands; produces,-로,NA,instrumental,NA
-item_591,item_591,word,other,understands; produces,-를(을),NA,accusative,NA
-item_592,item_592,word,other,understands; produces,-만,NA,-,NA
-item_593,item_593,word,other,understands; produces,-야,NA,verb ending,NA
-item_597,item_597,word,other,understands; produces,-한테/에게,NA,locative,NA
-item_598,item_598,word,connecting_words,understands; produces,그리고,NA,and,NA
-item_599,item_599,word,connecting_words,understands; produces,그런데,NA,but,NA
-item_600,item_600,word,connecting_words,understands; produces,그래서,NA,so,NA
-item_636,item_636,word,helping_verbs,understands; produces,-고 있다,NA,-ing,NA
 item_642,item_642,combine,combine,not yet; sometimes; often,낱말 조합 여부,NA,combine,NA
 item_643,item_643,sentence_structure,NA,not yet; sometimes; often,조사 사용,NA,case marker,NA
 item_644,item_644,sentence_structure,NA,not yet; sometimes; often,어미 변화,NA,verb inflection,NA

@@ -24,6 +24,10 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 new_items[which(new_items$definition=="花生"),]$uni_lemma = "nut" # or nuts?
 new_items[which(new_items$definition=="積木/Lego"),]$uni_lemma = "blocks"
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
+
 # save updated instrument(s)
 
 new_instr <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

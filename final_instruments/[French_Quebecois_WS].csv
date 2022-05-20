@@ -120,7 +120,7 @@ item_118,jus,word,produces,food_drink,jus,NA,juice,juice
 item_119,lait,word,produces,food_drink,lait,NA,milk,milk
 item_120,melon,word,produces,food_drink,melon,NA,melon,melon
 item_121,muffin,word,produces,food_drink,muffin,NA,muffin,muffin
-item_122,noix,word,produces,food_drink,noix,NA,nuts,nuts
+item_122,noix,word,produces,food_drink,noix,NA,nuts,nut
 item_123,nouilles/p^ates,word,produces,food_drink,nouilles/pâtes,NA,noodles / pasta,pasta
 item_124,nourriture,word,produces,food_drink,nourriture,NA,food,food
 item_125,oeuf,word,produces,food_drink,oeuf,NA,egg,egg

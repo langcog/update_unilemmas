@@ -217,7 +217,7 @@ item_248,scivolo,word,outside,understands; produces,scivolo,slide,slide (object)
 item_249,sole,word,outside,understands; produces,sole,sun,sun
 item_250,stella,word,outside,understands; produces,stella,star,star
 item_251,strada,word,outside,understands; produces,strada,street,street
-item_252,terra,word,outside,understands; produces,terra,earth,earth
+item_252,terra,word,outside,understands; produces,terra,earth,soil
 item_253,vento,word,outside,understands; produces,vento,wind,wind
 item_254,zoo,word,outside,understands; produces,zoo,zoo,zoo
 item_255,babysitter/tata,word,people,understands; produces,babysitter/tata,babysitter,babysitter
@@ -247,7 +247,7 @@ item_278,bum (cade),word,games_routines,understands; produces,bum (cade),,boom
 item_279,buonanotte/buongiorno,word,games_routines,understands; produces,buonanotte/buongiorno,nightnight/good morning,good night
 item_280,ciao,word,games_routines,understands; produces,ciao,hi,hi
 item_281,cuccu-settete,word,games_routines,understands; produces,cuccù-settete,peekaboo,peekaboo
-item_282,dare le totto,word,games_routines,understands; produces,dare le tottò,to slap,
+item_282,dare le totto,word,games_routines,understands; produces,dare le tottò,to slap,NA
 item_283,fare il bagno,word,games_routines,understands; produces,fare il bagno,bath,bath
 item_284,fare la popo/pipi,word,games_routines,understands; produces,fare la popò/pipì,to poop/go potty,go potty
 item_285,grazie/prego,word,games_routines,understands; produces,grazie/prego,thankyou,thank you

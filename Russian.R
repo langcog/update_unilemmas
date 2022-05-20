@@ -53,7 +53,7 @@ new_items[which(new_items$uni_lemma=="eyelashes"),]$uni_lemma = "eyelash"
 
 # ToDo: check empty uni-lemmas ("")
 subset(new_items, uni_lemma=="")
-new_items[which(new_items$uni_lemma==""),] = NA
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

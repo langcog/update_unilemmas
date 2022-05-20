@@ -19,6 +19,8 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # jam close enough to compote for George
 new_items[which(new_items$definition=="compote"),]$uni_lemma = "jam"
 
+new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
+
 # capitalization
 new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
 

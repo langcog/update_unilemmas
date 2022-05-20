@@ -22,7 +22,7 @@ new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil"
 
 # ToDo: look at blanks
 subset(new_items, uni_lemma=="") # revisit some of the games_routines 
-new_items[which(new_items$uni_lemma==""),] = NA
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 new_wg <- update_instrument("Portuguese_European", "WG", new_items %>% rename(itemID = WG))

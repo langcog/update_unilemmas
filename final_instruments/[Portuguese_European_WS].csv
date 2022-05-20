@@ -4,7 +4,7 @@ item_2,ai,word,sounds,produces,Ai!,NA,Ai,"Ai (interjection, hurting)",ouch,NA
 item_3,au_au,word,sounds,produces,Au Au / Ão Ão (cão),NA,Au_Au,Au_Au (dog barking),woof woof,NA
 item_4,chiu,word,sounds,produces,Chiu!,NA,Chiu,"Chiu (interjection, asking silence)",shh,NA
 item_5,cocoro,word,sounds,produces,Cocoró (galo / galinha),NA,Cócóró,Cócóró (cock singing),cockadoodledoo,NA
-item_6,cu_cu,word,sounds,produces,Cu-cu,NA,Cu_cu,NA,NA,NA
+item_6,cu_cu,word,sounds,produces,Cu-cu,NA,Cu_cu,Cu_cu (playing Peekaboo),NA,NA
 item_7,eh,word,sounds,produces,Eh!,NA,Eh,Eh (interjection),oh,NA
 item_8,ena,word,sounds,produces,Ena!,NA,Ena,"Ena (interjection, surprise)",oh,NA
 item_9,hi_hi,word,sounds,produces,Hi-hi (cavalo),NA,Hi_hi,Hi_hi (horse's sound),neigh,NA
@@ -13,14 +13,14 @@ item_11,me_me,word,sounds,produces,Mé mé (ovelha),NA,Mé_mé,Mé_mé (sheep's 
 item_12,miau,word,sounds,produces,Miau miau (gato),NA,Miau,Miau (cat's sound),meow,NA
 item_13,mu_muuu,word,sounds,produces,Mu-Muuu (vaca),NA,Mu_muuu,Mu_muuu (cow's sound),moo,NA
 item_14,oh,word,sounds,produces,Oh!,NA,Oh,Oh (interjection),oh,NA
-item_15,piu_piu,word,sounds,produces,Piu-piu (pintainho),NA,Piu_piu,NA,NA,NA
+item_15,piu_piu,word,sounds,produces,Piu-piu (pintainho),NA,Piu_piu,Piu_piu (baby chicken sound),NA,NA
 item_16,pumba_pum,word,sounds,produces,Pumba! / Pum!,NA,Pumba_pum,"Pumba_pum (interjection, used to indicate that something or someone fell)",uh oh,NA
 item_17,qua_qua,word,sounds,produces,Quá-Quá (pato),NA,Quá_quá,Quá_quá (duck's sound),quack quack,NA
 item_18,vrum_vrum,word,sounds,produces,Vrum-vrum (carro),NA,Vrum_vrum,Vrum_vrum (car's sound),vroom vroom,NA
-item_19,tinoni,word,sounds,produces,Tinoni (ambulância),NA,Tinoni,NA,NA,NA
+item_19,tinoni,word,sounds,produces,Tinoni (ambulância),NA,Tinoni,Tinoni (ambulance's sound),NA,NA
 item_20,ui,word,sounds,produces,Ui!,NA,Ui,"Ui (interjection, hurting)",ouch,NA
 item_21,uau,word,sounds,produces,Uau!,NA,Uau,"Uau (interjection, surprise)",oh,NA
-item_22,upa_upa,word,sounds,produces,"Upa, upa (levantar)",NA,Upa_Upa,NA,NA,NA
+item_22,upa_upa,word,sounds,produces,"Upa, upa (levantar)",NA,Upa_Upa,"Upa_Upa (interjection, usually used when asking for or being lifted up)",NA,NA
 item_23,abelha,word,animals,produces,Abelha,NA,Abelha,Bee,bee,NA
 item_24,aranha,word,animals,produces,Aranha,NA,Aranha,Spider,spider,NA
 item_25,baleia,word,animals,produces,Baleia,NA,Baleia,Whale,whale,NA
@@ -93,7 +93,7 @@ item_91,lapis,word,toys,produces,Lápis,NA,Lápis,Pencil,pen/pencil,NA
 item_92,legos,word,toys,produces,Legos,NA,Legos,Legos,blocks,NA
 item_93,livro,word,toys,produces,Livro,NA,Livro,Book,book,NA
 item_94,peluche,word,toys,produces,Peluche / Urso de Peluche,NA,Peluche,Teddy bear,bear,NA
-item_95,piao,word,toys,produces,Pião,NA,Pião,NA,NA,NA
+item_95,piao,word,toys,produces,Pião,NA,Pião,Spinning top,NA,NA
 item_96,puzzle,word,toys,produces,Puzzle,NA,Puzzle,Puzzle,puzzle,NA
 item_97,roda,word,toys,produces,Roda,NA,Roda,Wheel,wheel,NA
 item_98,agua,word,food_drink,produces,Água,NA,Água,Water,water (beverage),NA
@@ -128,7 +128,7 @@ item_126,fiambre,word,food_drink,produces,Fiambre,NA,Fiambre,Ham,ham,NA
 item_127,frango,word,food_drink,produces,Frango,NA,Frango,Chicken,chicken (food),NA
 item_128,fruta,word,food_drink,produces,Fruta,NA,Fruta,Fruit,fruit,NA
 item_129,gelado,word,food_drink,produces,Gelado,NA,Gelado,Icecream,ice cream,NA
-item_130,gelatina,word,food_drink,produces,Gelatina,NA,Gelatina,NA,NA,NA
+item_130,gelatina,word,food_drink,produces,Gelatina,NA,Gelatina,Gelatin dessert/ Jelly,NA,NA
 item_131,iogurte,word,food_drink,produces,Iogurte,NA,Iogurte,Yogurt,yogurt,NA
 item_132,kiwi,word,food_drink,produces,Kiwi,NA,Kiwi,Kiwi,kiwi,NA
 item_133,laranja,word,food_drink,produces,Laranja,NA,Laranja,Orange,orange (food),NA
@@ -162,7 +162,7 @@ item_160,vinho,word,food_drink,produces,Vinho,NA,Vinho,Wine,wine,NA
 item_161,anel,word,clothing,produces,Anel,NA,Anel,Ring,ring (object),NA
 item_162,babete,word,clothing,produces,Babete,NA,Babete,Bib,bib,NA
 item_163,bata,word,clothing,produces,Bata,NA,Bata,Smock,smock,NA
-item_164,bibe,word,clothing,produces,Bibe,NA,Bibe,NA,NA,NA
+item_164,bibe,word,clothing,produces,Bibe,NA,Bibe,?????????????????????????????????????????,NA,NA
 item_165,bone,word,clothing,produces,Boné,NA,Boné,Cap,hat,NA
 item_166,botao,word,clothing,produces,Botão,NA,Botão,Button,button,NA
 item_167,botas,word,clothing,produces,Botas,NA,Botas,Boots,boots,NA
@@ -261,7 +261,7 @@ item_259,lencois,word,household,produces,Lençóis,NA,Lençóis,(Bed) sheet,shee
 item_260,lixo,word,household,produces,Lixo,NA,Lixo,Garbage,trash,NA
 item_261,luz,word,household,produces,Luz,NA,Luz,Light,light,NA
 item_262,manta,word,household,produces,Manta,NA,Manta,Wrap,blanket,NA
-item_263,mola,word,household,produces,Mola (roupa),NA,Mola,NA,NA,NA
+item_263,mola,word,household,produces,Mola (roupa),NA,Mola,Clothespin/ clothespeg,NA,NA
 item_264,moeda,word,household,produces,Moeda / Tostão,NA,Moeda,Coin,coin,NA
 item_265,oculos,word,household,produces,Óculos,NA,Óculos,Eyeglasses,glasses,NA
 item_266,panela,word,household,produces,Panela,NA,Panela,(Cooking) pot,pot,NA
@@ -339,13 +339,13 @@ item_337,escolinha,word,places,produces,Jardim / Escolinha,NA,Escolinha,Kinderga
 item_338,loja,word,places,produces,Loja,NA,Loja,Store/ shop,store,NA
 item_339,mar,word,places,produces,Mar,NA,Mar,Sea,sea,NA
 item_340,medico,word,places,produces,Médico / Doutor,NA,Médico,Doctor's (office),doctor,NA
-item_341,musica,word,places,produces,(Aula de) Música,NA,Música,NA,NA,NA
+item_341,musica,word,places,produces,(Aula de) Música,NA,Música,Music class,NA,NA
 item_342,parque,word,places,produces,Parque,NA,Parque,Park,park,NA
 item_343,piscina,word,places,produces,Piscina,NA,Piscina,Pool (Swimming),pool,NA
 item_344,praia,word,places,produces,Praia,NA,Praia,Beach,beach,NA
 item_345,rio,word,places,produces,Rio,NA,Rio,River,river,NA
 item_346,rua,word,places,produces,Rua,NA,Rua,Street,street,NA
-item_347,shopping,word,places,produces,Shopping / Centro comercial,NA,Shopping,NA,NA,NA
+item_347,shopping,word,places,produces,Shopping / Centro comercial,NA,Shopping,Mall/ shopping center,NA,NA
 item_348,amiga,word,people,produces,Amiga,NA,Amiga,Friend (female),friend,NA
 item_349,amigo,word,people,produces,Amigo,NA,Amigo,Friend (male),friend,NA
 item_350,avo_1,word,people,produces,Avó,NA,Avó,Grandmother,grandma,NA
@@ -361,7 +361,7 @@ item_359,mae,word,people,produces,Mãe,NA,Mãe,Mother,mommy,NA
 item_360,menina,word,people,produces,Menina,NA,Menina,Girl,girl,NA
 item_361,menino,word,people,produces,Menino,NA,Menino,Boy,boy,NA
 item_362,mulher,word,people,produces,Mulher,NA,Mulher,Woman,woman,NA
-item_363,nome_boneco,word,people,produces,Nome do boneco,NA,Nome_boneco,NA,NA,NA
+item_363,nome_boneco,word,people,produces,Nome do boneco,NA,Nome_boneco,Doll's name,NA,NA
 item_364,nome_proprio_pessoa,word,people,produces,Nome própio de pessoa,NA,Nome_próprio_pessoa,Children's own name,child's own name,NA
 item_365,padrinho,word,people,produces,Padrinho,NA,Padrinho,Godfather,godfather,NA
 item_366,palhaco,word,people,produces,Palhaço,NA,Palhaço,Clown,clown,NA
@@ -375,7 +375,7 @@ item_373,tia,word,people,produces,Tia,NA,Tia,Aunt,aunt,NA
 item_374,tio,word,people,produces,Tio,NA,Tio,Uncle,uncle,NA
 item_375,adeus,word,games_routines,produces,Adeus / Xau!,NA,Adeus,Goodbye,bye,NA
 item_376,anda,word,games_routines,produces,Anda!,NA,Anda,Come on!,come on,NA
-item_377,anda_ca,word,games_routines,produces,Anda cá!,NA,Anda_cá,NA,NA,NA
+item_377,anda_ca,word,games_routines,produces,Anda cá!,NA,Anda_cá,Come here!,NA,NA
 item_378,assim,word,games_routines,produces,Assim.,NA,Assim,Like this,like this,NA
 item_379,ate_amanha,word,games_routines,produces,Até amanhã!,NA,Até_amanhã,See you tomorrow,bye,NA
 item_380,ate_logo,word,games_routines,produces,Até logo!,NA,Até_logo,See you later,bye,NA
@@ -383,31 +383,31 @@ item_381,beijinho,word,games_routines,produces,Beijinho!,NA,Beijinho,Kisses,kiss
 item_382,bem,word,games_routines,produces,Bem!,NA,Bem,"Well, well!",ok,NA
 item_383,bom_dia,word,games_routines,produces,Bom dia!,NA,Bom_dia,Good morning,good morning,NA
 item_384,coco,word,games_routines,produces,Cocó!,NA,Cocó,Poo!,go potty,NA
-item_385,colo,word,games_routines,produces,Colo!,NA,Colo,NA,NA,NA
+item_385,colo,word,games_routines,produces,Colo!,NA,Colo,Lap!,NA,NA
 item_386,doi,word,games_routines,produces,Dói / Dói-dói.,NA,Dói,It hurts!,ouch,NA
 item_387,dorme_bem,word,games_routines,produces,Dorme bem!,NA,Dorme_bem,Sleep tight!,good night,NA
 item_388,espera,word,games_routines,produces,Espera!,NA,Espera,Wait!,wait,NA
 item_389,esta_bem,word,games_routines,produces,Está bem!,NA,Está_bem,ok!,ok,NA
 item_390,golo,word,games_routines,produces,Golo!,NA,Golo,Goal!,goal,NA
-item_391,ja_esta,word,games_routines,produces,Já está!,NA,Já_está,NA,NA,NA
+item_391,ja_esta,word,games_routines,produces,Já está!,NA,Já_está,It is done!,NA,NA
 item_392,nao,word,games_routines,produces,Não,NA,Não,No,no,NA
 item_393,nao_ha,word,games_routines,produces,Não há.,NA,Não_há,There is no.. (something),all gone,NA
-item_394,nao_mexe,word,games_routines,produces,Não mexe!,NA,Não_mexe,NA,NA,NA
+item_394,nao_mexe,word,games_routines,produces,Não mexe!,NA,Não_mexe,Do not touch!,NA,NA
 item_395,obrigado,word,games_routines,produces,Obrigado / a!,NA,Obrigado,Thank you,thank you,NA
 item_396,ola,word,games_routines,produces,Olá!,NA,Olá,Hello/ Hi,hi,NA
-item_397,ole,word,games_routines,produces,Olé!,NA,Olé,NA,NA,NA
+item_397,ole,word,games_routines,produces,Olé!,NA,Olé,Olé,NA,NA
 item_398,olha,word,games_routines,produces,Olha!,NA,Olha,Look!,look,NA
 item_399,para,word,games_routines,produces,Para (verbo parar)!,NA,Para,Stop!,stop,NA
 item_400,palminhas,word,games_routines,produces,Palminhas!,NA,Palminhas,Clap hands,clap,NA
 item_401,para_banho,word,games_routines,produces,Para o banho!,NA,Para_banho,Let's go to the bath,bath,NA
 item_402,por_favor,word,games_routines,produces,Por favor!,NA,Por_favor,Please,please,NA
 item_403,sim,word,games_routines,produces,Sim,NA,Sim,Yes,yes,NA
-item_404,toca_dormir,word,games_routines,produces,Toca a dormir / Vamos nanar / Fazer ó-ó!,NA,Toca_dormir,NA,NA,NA
-item_405,vamos,word,games_routines,produces,Vamos,NA,Vamos,NA,NA,NA
-item_406,vamos_rua,word,games_routines,produces,Vamos á rua!,NA,Vamos_rua,NA,NA,NA
-item_407,vamos_parque,word,games_routines,produces,Vamos ao parque!,NA,Vamos_parque,NA,NA,NA
-item_408,vamos_comer,word,games_routines,produces,Vamos comer!,NA,Vamos_comer,NA,NA,NA
-item_409,vamos_passear,word,games_routines,produces,Vamos passear!,NA,Vamos_passear,NA,NA,NA
+item_404,toca_dormir,word,games_routines,produces,Toca a dormir / Vamos nanar / Fazer ó-ó!,NA,Toca_dormir,Let's sleep!,NA,NA
+item_405,vamos,word,games_routines,produces,Vamos,NA,Vamos,Let's go!,NA,NA
+item_406,vamos_rua,word,games_routines,produces,Vamos á rua!,NA,Vamos_rua,Let's go to the street!,NA,NA
+item_407,vamos_parque,word,games_routines,produces,Vamos ao parque!,NA,Vamos_parque,Let's go to the park!,NA,NA
+item_408,vamos_comer,word,games_routines,produces,Vamos comer!,NA,Vamos_comer,Let's eat!,NA,NA
+item_409,vamos_passear,word,games_routines,produces,Vamos passear!,NA,Vamos_passear,Let's go for a walk!,NA,NA
 item_410,xixi,word,games_routines,produces,Xixi!,NA,Xixi,Pee,pee,NA
 item_411,abrir,word,action_words,produces,Abrir,NA,Abrir,(To) Open,open (action),NA
 item_412,acabar,word,action_words,produces,Acabar,NA,Acabar,(To) Finish,finish,NA
@@ -415,15 +415,15 @@ item_413,ajudar,word,action_words,produces,Ajudar,NA,Ajudar,(To) Help,help,NA
 item_414,andar,word,action_words,produces,Andar,NA,Andar,(To) Walk,walk,NA
 item_415,apagar,word,action_words,produces,Apagar,NA,Apagar,(To) Erase,erase,NA
 item_416,apanhar,word,action_words,produces,Apanhar,NA,Apanhar,(To) Catch,catch,NA
-item_417,arrefecer,word,action_words,produces,Arrefecer,NA,Arrefecer,NA,NA,NA
+item_417,arrefecer,word,action_words,produces,Arrefecer,NA,Arrefecer,(To) Cool down,NA,NA
 item_418,arrumar,word,action_words,produces,Arrumar,NA,Arrumar,(To) Arrange,clean (action),NA
-item_419,assoar,word,action_words,produces,Assoar,NA,Assoar,NA,NA,NA
+item_419,assoar,word,action_words,produces,Assoar,NA,Assoar,(To) Wipe or blow the nose,NA,NA
 item_420,beber,word,action_words,produces,Beber,NA,Beber,(To) Drink,drink (action),NA
 item_421,brincar,word,action_words,produces,Brincar,NA,Brincar,(To) Play,play,NA
 item_422,buscar,word,action_words,produces,Buscar,NA,Buscar,(To) Go get,get,NA
 item_423,cair,word,action_words,produces,Cair,NA,Cair,(To) Fall,fall,NA
 item_424,calar,word,action_words,produces,Calar,NA,Calar,(To) Shut up,quiet (action),NA
-item_425,calcar,word,action_words,produces,Calçar,NA,Calçar,NA,NA,NA
+item_425,calcar,word,action_words,produces,Calçar,NA,Calçar,(To)  put on shoes,NA,NA
 item_426,cantar,word,action_words,produces,Cantar,NA,Cantar,(To) Sing,sing,NA
 item_427,chamar,word,action_words,produces,Chamar,NA,Chamar,(To) Call,call,NA
 item_428,chorar,word,action_words,produces,Chorar,NA,Chorar,(To) Cry,cry,NA
@@ -438,7 +438,7 @@ item_436,cortar,word,action_words,produces,Cortar,NA,Cortar,(To)  Cut,cut,NA
 item_437,dancar,word,action_words,produces,Dançar,NA,Dançar,(To) Dance,dance,NA
 item_438,dar,word,action_words,produces,Dar,NA,Dar,(To) Give,give,NA
 item_439,deitar,word,action_words,produces,Deitar,NA,Deitar,(To) Lay down,lie down,NA
-item_440,descer,word,action_words,produces,Descer,NA,Descer,NA,NA,NA
+item_440,descer,word,action_words,produces,Descer,NA,Descer,(To) Descend/ go down,NA,NA
 item_441,doer,word,action_words,produces,Doer,NA,Doer,Hurt,hurt (action),NA
 item_442,dormir,word,action_words,produces,Dormir,NA,Dormir,(To) Sleep,sleep,NA
 item_443,ensinar,word,action_words,produces,Ensinar,NA,Ensinar,(To) Teach,teach,NA
@@ -530,7 +530,7 @@ item_528,partido,word,descriptive_words,produces,Partido,NA,Partido,Broken,broke
 item_529,pequeno,word,descriptive_words,produces,Pequeno,NA,Pequeno,Small,little (description),NA
 item_530,preto,word,descriptive_words,produces,Preto,NA,Preto,Black,black,NA
 item_531,quente,word,descriptive_words,produces,Quente,NA,Quente,Hot,hot,NA
-item_532,querido,word,descriptive_words,produces,Querido,NA,Querido,NA,NA,NA
+item_532,querido,word,descriptive_words,produces,Querido,NA,Querido,Dear/ beloved/ darling/ sweet,NA,NA
 item_533,quieto,word,descriptive_words,produces,Quieto,NA,Quieto,Quiet,quiet,NA
 item_534,rasgado,word,descriptive_words,produces,Rasgado,NA,Rasgado,Ripped,broken,NA
 item_535,roxo,word,descriptive_words,produces,Roxo,NA,Roxo,Purple,purple,NA
@@ -553,8 +553,8 @@ item_551,noite,word,time_words,produces,Noite,NA,Noite,Night,night,NA
 item_552,tarde,word,time_words,produces,Tarde (parte do dia),NA,Tarde,Afternoon,afternoon,NA
 item_553,aquele,word,pronouns,produces,Aquele(a),NA,Aquele,That,that,NA
 item_554,aquilo,word,pronouns,produces,Aquilo,NA,Aquilo,That,that,NA
-item_555,comigo,word,pronouns,produces,Comigo,NA,Comigo,NA,NA,NA
-item_556,contigo,word,pronouns,produces,Contigo,NA,Contigo,NA,NA,NA
+item_555,comigo,word,pronouns,produces,Comigo,NA,Comigo,With me,NA,NA
+item_556,contigo,word,pronouns,produces,Contigo,NA,Contigo,With you,NA,NA
 item_557,desse,word,pronouns,produces,Desse(a),NA,Desse,This/ That,that,NA
 item_558,ele,word,pronouns,produces,Ele(a),NA,Ele,He,he,NA
 item_559,esse,word,pronouns,produces,Esse(a),NA,Esse,That,that,NA
@@ -569,7 +569,7 @@ item_567,minha,word,pronouns,produces,Minha,NA,Minha,Mine,mine,NA
 item_568,nosso,word,pronouns,produces,Nosso(a),NA,Nosso,Ours,our,NA
 item_569,outro,word,pronouns,produces,Outro(a),NA,Outro,Other/ another,another,NA
 item_570,teu,word,pronouns,produces,Teu,NA,Teu,Yours,your,NA
-item_571,ti,word,pronouns,produces,Ti,NA,Ti,NA,NA,NA
+item_571,ti,word,pronouns,produces,Ti,NA,Ti,You (as in important to you),NA,NA
 item_572,tu,word,pronouns,produces,Tu,NA,Tu,You,you,NA
 item_573,tua,word,pronouns,produces,Tua,NA,Tua,Yours,your,NA
 item_574,aonde,word,question_words,produces,Aonde?,NA,Aonde,Where?,where (question),NA
@@ -585,10 +585,10 @@ item_583,qual,word,question_words,produces,Qual?,NA,Qual,Which?/ what?,which (qu
 item_584,que_foi,word,question_words,produces,Que foi?,NA,Que_foi,What is it?,what,NA
 item_585,quem,word,question_words,produces,Quem?,NA,Quem,Who?,who,NA
 item_586,quem_e,word,question_words,produces,Quem é?,NA,Quem_é,Who is it?,who,NA
-item_587,queres,word,question_words,produces,Queres?,NA,Queres,NA,NA,NA
-item_588,vamos_pa,word,question_words,produces,Vamos?,NA,Vamos_pa,NA,NA,NA
+item_587,queres,word,question_words,produces,Queres?,NA,Queres,Do you want?,NA,NA
+item_588,vamos_pa,word,question_words,produces,Vamos?,NA,Vamos_pa,Let's go?,NA,NA
 item_589,a,word,prepositions,produces,À (à),NA,À,At (as in at night= à noite) or to the (as in we go to the fairy=vamos à feira),at,NA
-item_590,a_beira,word,prepositions,produces,À beira (de) / Ao pè (de),NA,À_beira,NA,NA,NA
+item_590,a_beira,word,prepositions,produces,À beira (de) / Ao pè (de),NA,À_beira,Near to (something),NA,NA
 item_591,a_frente,word,prepositions,produces,À frente,NA,À_frente,In front of (something),in front,NA
 item_592,acola,word,prepositions,produces,Acolá,NA,Acolá,Over there,there,NA
 item_593,ai,word,prepositions,produces,Aí,NA,Aí,There,there,NA
@@ -627,50 +627,14 @@ item_625,tanto,word,quantifiers,produces,Tanto / tantos,NA,Tanto,So much/ so man
 item_626,todo,word,quantifiers,produces,Todo(a) / todos(as),NA,Todo,All/ entire/ whole,all,NA
 item_627,tres,word,quantifiers,produces,Três,NA,Três,Three,three,NA
 item_628,um,word,quantifiers,produces,Um / Uma,NA,Um,One,one,NA
-item_629,tao,word,quantifiers,produces,Tão (tão grande),NA,Tão,NA,NA,NA
+item_629,tao,word,quantifiers,produces,Tão (tão grande),NA,Tão,So/ such/ that/ so much,NA,NA
 item_630,estar_a,word,helping_verbs,produces,Estar a (ex: estás a dormir),NA,Estar_a,To be (verb)+ing,be,NA
 item_631,haver_ve,word,helping_verbs,produces,Haver (ex: hei de comer),NA,Haver_ve,,have,NA
-item_632,ir_ve,word,helping_verbs,produces,Ir (ex: vou fazer),NA,Ir_ve,NA,NA,NA
+item_632,ir_ve,word,helping_verbs,produces,Ir (ex: vou fazer),NA,Ir_ve,Will (+verb),NA,NA
 item_633,poder_ve,word,helping_verbs,produces,Poder (ex: podemos apanhar),NA,Poder_ve,Can/ may/ might (+verb),can (auxiliary),NA
-item_634,ter_ve,word,helping_verbs,produces,Ter (ex: tenho de / que comer),NA,Ter_ve,NA,NA,NA
+item_634,ter_ve,word,helping_verbs,produces,Ter (ex: tenho de / que comer),NA,Ter_ve,Have to (+verb),NA,NA
 item_635,depois_pa,word,connecting_words,produces,Depois,NA,Depois_pa,After,after,NA
 item_636,e,word,connecting_words,produces,E,NA,E,And,and,NA
 item_637,mas,word,connecting_words,produces,Mas,NA,Mas,But,but,NA
 item_638,porque,word,connecting_words,produces,Porque,NA,Porque,Because,because,NA
 item_639,tambem,word,connecting_words,produces,Também,NA,Também,Also,also,NA
-item_6,cu_cu,word,sounds,produces,Cu-cu,NA,NA,Cu_cu (playing Peekaboo),NA,Cu_cu
-item_15,piu_piu,word,sounds,produces,Piu-piu (pintainho),NA,NA,Piu_piu (baby chicken sound),NA,Piu_piu
-item_19,tinoni,word,sounds,produces,Tinoni (ambulância),NA,NA,Tinoni (ambulance's sound),NA,Tinoni
-item_22,upa_upa,word,sounds,produces,"Upa, upa (levantar)",NA,NA,"Upa_Upa (interjection, usually used when asking for or being lifted up)",NA,Upa_Upa
-item_95,piao,word,toys,produces,Pião,NA,NA,Spinning top,NA,Pião
-item_130,gelatina,word,food_drink,produces,Gelatina,NA,NA,Gelatin dessert/ Jelly,NA,Gelatina
-item_164,bibe,word,clothing,produces,Bibe,NA,NA,?????????????????????????????????????????,NA,Bibe
-item_263,mola,word,household,produces,Mola (roupa),NA,NA,Clothespin/ clothespeg,NA,Mola
-item_341,musica,word,places,produces,(Aula de) Música,NA,NA,Music class,NA,Música
-item_347,shopping,word,places,produces,Shopping / Centro comercial,NA,NA,Mall/ shopping center,NA,Shopping
-item_363,nome_boneco,word,people,produces,Nome do boneco,NA,NA,Doll's name,NA,Nome_boneco
-item_377,anda_ca,word,games_routines,produces,Anda cá!,NA,NA,Come here!,NA,Anda_cá
-item_385,colo,word,games_routines,produces,Colo!,NA,NA,Lap!,NA,Colo
-item_391,ja_esta,word,games_routines,produces,Já está!,NA,NA,It is done!,NA,Já_está
-item_394,nao_mexe,word,games_routines,produces,Não mexe!,NA,NA,Do not touch!,NA,Não_mexe
-item_397,ole,word,games_routines,produces,Olé!,NA,NA,Olé,NA,Olé
-item_404,toca_dormir,word,games_routines,produces,Toca a dormir / Vamos nanar / Fazer ó-ó!,NA,NA,Let's sleep!,NA,Toca_dormir
-item_405,vamos,word,games_routines,produces,Vamos,NA,NA,Let's go!,NA,Vamos
-item_406,vamos_rua,word,games_routines,produces,Vamos á rua!,NA,NA,Let's go to the street!,NA,Vamos_rua
-item_407,vamos_parque,word,games_routines,produces,Vamos ao parque!,NA,NA,Let's go to the park!,NA,Vamos_parque
-item_408,vamos_comer,word,games_routines,produces,Vamos comer!,NA,NA,Let's eat!,NA,Vamos_comer
-item_409,vamos_passear,word,games_routines,produces,Vamos passear!,NA,NA,Let's go for a walk!,NA,Vamos_passear
-item_417,arrefecer,word,action_words,produces,Arrefecer,NA,NA,(To) Cool down,NA,Arrefecer
-item_419,assoar,word,action_words,produces,Assoar,NA,NA,(To) Wipe or blow the nose,NA,Assoar
-item_425,calcar,word,action_words,produces,Calçar,NA,NA,(To)  put on shoes,NA,Calçar
-item_440,descer,word,action_words,produces,Descer,NA,NA,(To) Descend/ go down,NA,Descer
-item_532,querido,word,descriptive_words,produces,Querido,NA,NA,Dear/ beloved/ darling/ sweet,NA,Querido
-item_555,comigo,word,pronouns,produces,Comigo,NA,NA,With me,NA,Comigo
-item_556,contigo,word,pronouns,produces,Contigo,NA,NA,With you,NA,Contigo
-item_571,ti,word,pronouns,produces,Ti,NA,NA,"You (as in ""important to you"")",NA,Ti
-item_587,queres,word,question_words,produces,Queres?,NA,NA,Do you want?,NA,Queres
-item_588,vamos_pa,word,question_words,produces,Vamos?,NA,NA,Let's go?,NA,Vamos_pa
-item_590,a_beira,word,prepositions,produces,À beira (de) / Ao pè (de),NA,NA,Near to (something),NA,À_beira
-item_629,tao,word,quantifiers,produces,Tão (tão grande),NA,NA,So/ such/ that/ so much,NA,Tão
-item_632,ir_ve,word,helping_verbs,produces,Ir (ex: vou fazer),NA,NA,Will (+verb),NA,Ir_ve
-item_634,ter_ve,word,helping_verbs,produces,Ter (ex: tenho de / que comer),NA,NA,Have to (+verb),NA,Ter_ve

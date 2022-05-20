@@ -18,9 +18,14 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "Review 0 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
 
 
+new_items[which(new_items$definition=="policajti"),]$uni_lemma = "police car" 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
+
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
-# "44 new uni-lemmas defined for Czech"
+# "46 new uni-lemmas defined for Czech"
 # ""              "around"        "beard"         "beer"          "behind"        "branch"        "bun"          
 # "by"            "dishwasher"    "dumpling"      "earring"       "fish (animal)" "fish (food)"   "for"          
 # "forest"        "from"          "glue"          "guitar"        "gum"           "helicopter"    "hose"         

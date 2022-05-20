@@ -37,6 +37,8 @@ new_items[which(new_items$definition=="tuyos"),]$uni_lemma = "yours"
 new_items[which(new_items$uni_lemma=="tuna (food)"),]$uni_lemma = "tuna" # to match other forms, no need to disambiguate
 
 new_items[which(new_items$definition=="uvas"),]$uni_lemma = "grapes" # most forms use plural 
+new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil" 
+new_items[which(new_items$uni_lemma=="well"),]$uni_lemma = "well (modifier)" 
 
 
 # save updated instruments

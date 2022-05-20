@@ -29,7 +29,7 @@ new_items[which(new_items$definition=="Dzdz (včela)"),]$uni_lemma = "buzz" # wa
 new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how much'
 
 subset(new_items, uni_lemma=="")
-new_items[which(new_items$uni_lemma==""),] = NA
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 # ToDo: many undefined uni-lemmas, many sounds we need a native speaker to go back over!
 # (and action_words, people, household, toys, vehicles...)
 

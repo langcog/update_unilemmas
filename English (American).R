@@ -12,6 +12,9 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "Adding uncontested new_uni_lemmas..."
 # "0 uni_lemmas still missing ( 0 % missing)"
 
+new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
+new_items[which(new_items$uni_lemma=="garbage"),]$uni_lemma = "trash" 
+
 # save updated instrument(s)
 new_ws <- update_instrument("English", "WS", new_items %>% rename(itemID = WS))
 # "1 new uni-lemmas defined for English"

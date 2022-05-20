@@ -66,7 +66,7 @@ motor,vehicles,motor,word,produces,NA,item_64,motorcycle,motorcycle,motorcycle
 sanjke,vehicles,sanjke,word,produces,NA,item_65,NA,sled,sled
 traktor,vehicles,traktor,word,produces,NA,item_66,NA,tractor,tractor
 tramvaj,vehicles,tramvaj,word,produces,NA,item_67,tram,tram,tram
-vatrogasci,vehicles,vatrogasci,word,produces,NA,item_68,NA,firetruck,
+vatrogasci,vehicles,vatrogasci,word,produces,NA,item_68,NA,firetruck,NA
 vlak,vehicles,vlak,word,produces,NA,item_69,train,train,train
 balon,toys,balon,word,produces,NA,item_70,balloon,balloon,balloon
 bojica,toys,bojica,word,produces,NA,item_71,NA,crayon,crayon/marker
@@ -361,7 +361,7 @@ klaun,people,klaun,word,produces,NA,item_359,NA,clown,clown
 kum/kuma,people,kum/kuma,word,produces,NA,item_360,godfather,aunt,godfather
 ljudi,people,ljudi,word,produces,NA,item_361,people,people,people
 mama,people,mama,word,produces,NA,item_362,mommy,mommy,mommy
-policajac,people,policajac,word,produces,NA,item_363,NA,police,policeman
+policajac,people,policajac,word,produces,NA,item_363,NA,police,police
 poštar,people,postar,word,produces,NA,item_364,NA,mailman,mailman
 prijatelj,people,prijatelj,word,produces,NA,item_365,NA,friend,friend
 sestra,people,sestra,word,produces,NA,item_366,sister,sister,sister

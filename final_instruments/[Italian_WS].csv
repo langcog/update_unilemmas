@@ -104,7 +104,7 @@ ciliegie,food_drink,ciliegie,word,produces,NA,item_102,NA,cherry,cherry
 carote,food_drink,carote,word,produces,NA,item_103,carrots,carrots,carrots
 carne,food_drink,carne,word,produces,NA,item_104,meat,meat,meat
 caramella,food_drink,caramella,word,produces,NA,item_105,candy,candy,candy
-camomilla,food_drink,camomilla,word,produces,NA,item_106,NA,chamomile tea,
+camomilla,food_drink,camomilla,word,produces,NA,item_106,NA,chamomile tea,NA
 caffe,food_drink,caffe,word,produces,NA,item_107,NA,coffee,coffee
 cacao,food_drink,cacao,word,produces,NA,item_108,NA,cocoa,cocoa
 burro,food_drink,burro,word,produces,NA,item_109,NA,butter,butter
@@ -118,7 +118,7 @@ trottola,toys,trottola,word,produces,NA,item_116,top,spinning top,top
 pongo/Didò,toys,pongo/Dido,word,produces,NA,item_117,NA,play dogh,play dough
 tromba,toys,tromba,word,produces,NA,item_118,NA,trumpet,trumpet
 tamburo,toys,tamburo,word,produces,NA,item_119,NA,drum,drum
-soldatini,toys,soldatini,word,produces,NA,item_120,NA,toy soldier,
+soldatini,toys,soldatini,word,produces,NA,item_120,NA,toy soldier,NA
 secchiello,toys,secchiello,word,produces,NA,item_121,bucket,bucket,bucket
 pupazzi,toys,pupazzi,word,produces,NA,item_122,NA,puppet,puppet
 pistola,toys,pistola,word,produces,NA,item_123,NA,gun,gun
@@ -130,7 +130,7 @@ favola/storia,toys,favola/storia,word,produces,NA,item_128,book,book/story,book
 cubi,toys,cubi,word,produces,NA,item_129,block,block,block
 costruzioni,toys,costruzioni,word,produces,NA,item_130,NA,building blocks,blocks
 casetta,toys,casetta,word,produces,NA,item_131,NA,playhouse,playhouse
-birilli,toys,birilli,word,produces,NA,item_132,NA,pin,
+birilli,toys,birilli,word,produces,NA,item_132,NA,pin,NA
 bambola,toys,bambola,word,produces,NA,item_133,doll,doll,doll
 treno,vehicles,treno,word,produces,NA,item_134,train,train,train
 trattore,vehicles,trattore,word,produces,NA,item_135,NA,tractor,tractor
@@ -178,7 +178,7 @@ formica,animals,formica,word,produces,NA,item_176,ant,ant,ant
 foca,animals,foca,word,produces,NA,item_177,NA,seal,seal (animal)
 farfalla,animals,farfalla,word,produces,NA,item_178,butterfly,butterfly,butterfly
 elefante,animals,elefante,word,produces,NA,item_179,elephant,elephant,elephant
-cucciolo,animals,cucciolo,word,produces,NA,item_180,NA,puppy/kitty,
+cucciolo,animals,cucciolo,word,produces,NA,item_180,NA,puppy/kitty,NA
 coniglio,animals,coniglio,word,produces,NA,item_181,bunny,bunny,bunny
 coccodrillo,animals,coccodrillo,word,produces,NA,item_182,crocodile,crocodile,crocodile
 cerbiatto,animals,cerbiatto,word,produces,NA,item_183,fawn,fawn,fawn
@@ -214,7 +214,7 @@ aspirapolvere,household,aspirapolvere,word,produces,NA,item_212,NA,vacuum,vacuum
 biberon,household,biberon,word,produces,NA,item_213,bottle,baby,bottle
 bicchiere,household,bicchiere,word,produces,NA,item_214,glass,glass,glass
 bottiglia,household,bottiglia,word,produces,NA,item_215,bottle,bottle,bottle
-candeline,household,candeline,word,produces,NA,item_216,NA,birthday candle,
+candeline,household,candeline,word,produces,NA,item_216,NA,birthday candle,NA
 cestino,household,cestino,word,produces,NA,item_217,NA,basket,basket
 chiave,household,chiave,word,produces,NA,item_218,keys,keys,keys
 ciuccio,household,ciuccio,word,produces,NA,item_219,pacifier,pacifier,pacifier
@@ -282,7 +282,7 @@ poltrona,furniture_rooms,poltrona,word,produces,NA,item_280,NA,armchair,armchair
 porta,furniture_rooms,porta,word,produces,NA,item_281,door,door,door
 quadro,furniture_rooms,quadro,word,produces,NA,item_282,NA,picture,painting
 radio,furniture_rooms,radio,word,produces,NA,item_283,NA,radio,radio
-registratore,furniture_rooms,registratore,word,produces,NA,item_284,NA,tape recorder,
+registratore,furniture_rooms,registratore,word,produces,NA,item_284,NA,tape recorder,NA
 salotto,furniture_rooms,salotto,word,produces,NA,item_285,living room,livingroom,living room
 scala,furniture_rooms,scala,word,produces,NA,item_286,stairs,stairs,stairs
 sedia,furniture_rooms,sedia,word,produces,NA,item_287,chair,chair,chair
@@ -318,7 +318,7 @@ scivolo,outside,scivolo,word,produces,NA,item_316,slide (object),slide,slide (ob
 sole,outside,sole,word,produces,NA,item_317,sun,sun,sun
 stella,outside,stella,word,produces,NA,item_318,star,star,star
 strada,outside,strada,word,produces,NA,item_319,street,street,street
-terra,outside,terra,word,produces,NA,item_320,earth,earth,earth
+terra,outside,terra,word,produces,NA,item_320,earth,earth,soil
 tetto,outside,tetto,word,produces,NA,item_321,NA,roof,roof
 torre,outside,torre,word,produces,NA,item_322,NA,tower,tower
 tubo,outside,tubo,word,produces,NA,item_323,NA,hose,hose
@@ -362,7 +362,7 @@ nonno,people,nonno,word,produces,NA,item_360,grandpa,grandpa,grandpa
 panettiere,people,panettiere,word,produces,NA,item_361,NA,baker,baker
 papà,people,papa,word,produces,NA,item_362,daddy,daddy,daddy
 parrucchiere,people,parrucchiere,word,produces,NA,item_363,hairdresser,hairdresser,hairdresser
-pediatra,people,pediatra,word,produces,NA,item_364,NA,pediatrician,
+pediatra,people,pediatra,word,produces,NA,item_364,NA,pediatrician,NA
 persone,people,persone,word,produces,NA,item_365,people,people,people
 poliziotto,people,poliziotto,word,produces,NA,item_366,NA,police,police
 portiere,people,portiere,word,produces,NA,item_367,NA,door keeper,doorman
@@ -374,16 +374,16 @@ uomo,people,uomo,word,produces,NA,item_372,NA,man,man
 vigile,people,vigile,word,produces,NA,item_373,police,traffic officer,police
 zia,people,zia,word,produces,NA,item_374,aunt,aunt,aunt
 zio,people,zio,word,produces,NA,item_375,uncle,uncle,uncle
-auguri,games_routines,auguri,word,produces,NA,item_376,NA,wishes,
+auguri,games_routines,auguri,word,produces,NA,item_376,NA,wishes,NA
 basta,games_routines,basta,word,produces,NA,item_377,cut it out,cut it out,cut it out
 bravo,games_routines,bravo,word,produces,NA,item_378,good boy/girl,good boy/girl,bravo
 bua,games_routines,bua,word,produces,NA,item_379,owie,,owie
 bum (cade),games_routines,bum_(cade),word,produces,NA,item_380,boom,,boom
 buonanotte/buongiorno,games_routines,buonanotte/buongiorno,word,produces,NA,item_381,good night,nightnight/good morning,good night
 ciao,games_routines,ciao,word,produces,NA,item_382,hi,hi,hi
-che rumore/chiasso,games_routines,che_rumore/chiasso,word,produces,NA,item_383,NA,noise,
+che rumore/chiasso,games_routines,che_rumore/chiasso,word,produces,NA,item_383,NA,noise,NA
 cuccù settete,games_routines,cuccu_settete,word,produces,NA,item_384,NA,peekaboo,peekaboo
-dare le tottò,games_routines,dare_le_totto,word,produces,NA,item_385,to slap,to slap,
+dare le tottò,games_routines,dare_le_totto,word,produces,NA,item_385,to slap,to slap,NA
 fare il bagno,games_routines,fare_il_bagno,word,produces,NA,item_386,bath,bath,bath
 fare la pipì,games_routines,fare_la_pipi,word,produces,NA,item_387,NA,go potty,go potty
 fare la popò,games_routines,fare_la_popo,word,produces,NA,item_388,NA,to poop,go potty
@@ -397,7 +397,7 @@ pronto/chi è?,games_routines,pronto_chi_e?,word,produces,NA,item_395,NA,hello,h
 sì,games_routines,si,word,produces,NA,item_396,yes,yes,yes
 un/due/tre,games_routines,un_due_tre,word,produces,NA,item_397,NA,one two three,one two three
 via,games_routines,via,word,produces,NA,item_398,go-ahead,go,go-ahead
-voler bene,games_routines,voler_bene,word,produces,NA,item_399,NA,to love,
+voler bene,games_routines,voler_bene,word,produces,NA,item_399,NA,to love,NA
 zitto/sch,games_routines,zitto/sch,word,produces,NA,item_400,shh,shh/shush/hush,shh
 abbracciare,action_words,abbracciare,word,produces,NA,item_401,hug,hug,hug
 accendere,action_words,accendere,word,produces,NA,item_402,turn on,light/switch on,turn on
@@ -593,7 +593,7 @@ me/mi,pronouns,me/mi,word,produces,NA,item_591,me,me/myself,me
 te/ti,pronouns,te/ti,word,produces,NA,item_592,NA,yourself,yourself
 ci,pronouns,ci,word,produces,NA,item_593,NA,us,us
 vi,pronouns,vi,word,produces,NA,item_594,NA,you,you
-si,pronouns,si,word,produces,NA,item_595,NA,himself/herself/itself/oneself,
+si,pronouns,si,word,produces,NA,item_595,NA,himself/herself/itself/oneself,NA
 che,pronouns,che,word,produces,NA,item_596,NA,who/that,who
 quello/a,pronouns,quello/a,word,produces,NA,item_597,that,that,that
 questo/a,pronouns,questo/a,word,produces,NA,item_598,this,this,this
@@ -634,8 +634,8 @@ un/uno/una,quantifiers,un/uno/una,word,produces,NA,item_632,a,a/an,a
 del/della,quantifiers,del/della,word,produces,NA,item_633,NA,some,some
 dei/delle,quantifiers,dei/delle,word,produces,NA,item_634,NA,some,some
 altro/un altro,quantifiers,altro/un_altro,word,produces,NA,item_635,another,another,another
-sono,helping_verbs,sono,word,produces,NA,item_636,NA,am,
-sei,helping_verbs,sei,word,produces,NA,item_637,NA,are,
+sono,helping_verbs,sono,word,produces,NA,item_636,NA,am,NA
+sei,helping_verbs,sei,word,produces,NA,item_637,NA,are,NA
 e,helping_verbs,e,word,produces,NA,item_638,NA,is,is
 ho,helping_verbs,ho,word,produces,NA,item_639,NA,have,have
 hai,helping_verbs,hai,word,produces,NA,item_640,NA,have,have

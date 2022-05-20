@@ -29,6 +29,9 @@ new_items[which(new_items$definition=="sunglasses/sunnies"),]$uni_lemma = "sungl
 new_items[which(new_items$definition=="vegemite"),]$uni_lemma = NA
 new_items[which(new_items$definition=="barbecue"),]$uni_lemma = NA
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+
+
 # save updated instrument(s)
 new_ws <- update_instrument("Australian", "WS", new_items %>% rename(itemID = WS))
 # "100 new uni-lemmas defined for Australian"

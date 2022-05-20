@@ -75,7 +75,7 @@ item_73,i_04_4,word,toys,produces,blyant,NA,pen/pencil,pencil,pen/pencil
 item_74,i_04_5,word,toys,produces,gave,NA,NA,gift,present
 item_75,i_04_6,word,toys,produces,lego,NA,NA,lego,blocks
 item_76,i_04_7,word,toys,produces,bog,NA,book,book,book
-item_77,i_04_8,word,toys,produces,historie,NA,NA,history,
+item_77,i_04_8,word,toys,produces,historie,NA,NA,history,NA
 item_78,i_04_9,word,toys,produces,puslespil,NA,NA,puzzles,puzzle
 item_79,i_04_10,word,toys,produces,bold,NA,ball,ball,ball
 item_80,i_04_11,word,toys,produces,klods,NA,block,block,block
@@ -85,7 +85,7 @@ item_83,i_04_14,word,toys,produces,kridt,NA,NA,chalk,chalk
 item_84,i_04_15,word,toys,produces,sæbebobler,NA,bubbles,bubble blower,bubbles
 item_85,i_04_16,word,toys,produces,duplo,NA,NA,duplicate,blocks
 item_86,i_04_17,word,toys,produces,kuglepen,NA,NA,pen,pen/pencil
-item_87,i_04_18,word,toys,produces,modellérvoks,NA,NA,modellérvoks,
+item_87,i_04_18,word,toys,produces,modellérvoks,NA,NA,modellérvoks,NA
 item_88,i_05_1,word,food_drink,produces,agurk,NA,NA,cucumber,cucumber
 item_89,i_05_2,word,food_drink,produces,kiks,NA,cracker,biscuits,cracker
 item_90,i_05_3,word,food_drink,produces,sandwich,NA,NA,sandwich,sandwich
@@ -99,7 +99,7 @@ item_97,i_05_10,word,food_drink,produces,boller,NA,bun,buns,bun
 item_98,i_05_11,word,food_drink,produces,kød,NA,meat,meat,meat
 item_99,i_05_12,word,food_drink,produces,smør,NA,butter,butter,butter
 item_100,i_05_13,word,food_drink,produces,burger,NA,NA,burger,hamburger
-item_101,i_05_14,word,food_drink,produces,leverpostej,NA,NA,pâté,
+item_101,i_05_14,word,food_drink,produces,leverpostej,NA,NA,pâté,NA
 item_102,i_05_15,word,food_drink,produces,småkager,NA,NA,cookies,cookie
 item_103,i_05_16,word,food_drink,produces,brød,NA,bread,bread,bread
 item_104,i_05_17,word,food_drink,produces,mad,NA,food,food,food
@@ -111,21 +111,21 @@ item_109,i_05_22,word,food_drink,produces,chips,NA,NA,potato chips,chips
 item_110,i_05_23,word,food_drink,produces,mælk,NA,milk,milk,milk
 item_111,i_05_24,word,food_drink,produces,spaghetti,NA,pasta,spaghetti,pasta
 item_112,i_05_25,word,food_drink,produces,chokolade,NA,NA,chocolate,chocolate
-item_113,i_05_26,word,food_drink,produces,mælkesnitte,NA,NA,milk chop,
+item_113,i_05_26,word,food_drink,produces,mælkesnitte,NA,NA,milk chop,NA
 item_114,i_05_27,word,food_drink,produces,spegepølse,NA,NA,sausage,sausage
 item_115,i_05_28,word,food_drink,produces,cola,NA,NA,cola,soda
-item_116,i_05_29,word,food_drink,produces,nødder,NA,NA,nuts,nuts
+item_116,i_05_29,word,food_drink,produces,nødder,NA,NA,nuts,nut
 item_117,i_05_30,word,food_drink,produces,syltetøj,NA,NA,jam,jam
 item_118,i_05_31,word,food_drink,produces,cornflakes,NA,cheerios,cornflakes,cheerios
 item_119,i_05_32,word,food_drink,produces,ost,NA,cheese,cheese,cheese
 item_120,i_05_33,word,food_drink,produces,suppe,NA,NA,soup,soup
 item_121,i_05_34,word,food_drink,produces,dessert,NA,NA,dessert,dessert
-item_122,i_05_35,word,food_drink,produces,ostehaps,NA,NA,cheese haps,
+item_122,i_05_35,word,food_drink,produces,ostehaps,NA,NA,cheese haps,NA
 item_123,i_05_36,word,food_drink,produces,te,NA,NA,tea,tea
 item_124,i_05_37,word,food_drink,produces,fisk (food),NA,fish (food),fish,fish (food)
 item_125,i_05_38,word,food_drink,produces,pandekager,NA,NA,pancakes,pancake
 item_126,i_05_39,word,food_drink,produces,tun,NA,NA,tuna,tuna
-item_127,i_05_40,word,food_drink,produces,frikadeller,NA,NA,Meatballs,
+item_127,i_05_40,word,food_drink,produces,frikadeller,NA,NA,Meatballs,NA
 item_128,i_05_41,word,food_drink,produces,pasta,NA,pasta,pasta,pasta
 item_129,i_05_42,word,food_drink,produces,tyggegummi,NA,NA,gum,gum
 item_130,i_05_43,word,food_drink,produces,gulerødder,NA,carrots,carrots,carrots
@@ -136,7 +136,7 @@ item_134,i_05_47,word,food_drink,produces,pizza,NA,pizza,pizza,pizza
 item_135,i_05_48,word,food_drink,produces,vindruer,NA,NA,grapes,grapes
 item_136,i_05_49,word,food_drink,produces,havregryn,NA,cereal,oatmeal,cereal
 item_137,i_05_50,word,food_drink,produces,pomfritter,NA,NA,French fries,french fries
-item_138,i_05_51,word,food_drink,produces,vingummi,NA,NA,gummi,
+item_138,i_05_51,word,food_drink,produces,vingummi,NA,NA,gummi,NA
 item_139,i_05_52,word,food_drink,produces,is,NA,ice cream,ice,ice cream
 item_140,i_05_53,word,food_drink,produces,popcorn,NA,NA,popcorn,popcorn
 item_141,i_05_54,word,food_drink,produces,vitaminer,NA,NA,vitamins,vitamin
@@ -147,7 +147,7 @@ item_145,i_05_58,word,food_drink,produces,juice,NA,juice,juice,juice
 item_146,i_05_59,word,food_drink,produces,rosiner,NA,raisin,raisins,raisin
 item_147,i_05_60,word,food_drink,produces,æble,NA,apple,apple,apple
 item_148,i_05_61,word,food_drink,produces,kaffe,NA,coffee,coffee,coffee
-item_149,i_05_62,word,food_drink,produces,rugbrød,NA,NA,rye bread,
+item_149,i_05_62,word,food_drink,produces,rugbrød,NA,NA,rye bread,NA
 item_150,i_05_63,word,food_drink,produces,æg,NA,egg,eggs,egg
 item_151,i_05_64,word,food_drink,produces,kage(r),NA,cake,cake (s),cake
 item_152,i_05_65,word,food_drink,produces,saft(evand),NA,NA,juice (evand),juice
@@ -166,7 +166,7 @@ item_164,i_06_9,word,clothing,produces,støvler,NA,boots,boots,boots
 item_165,i_06_10,word,clothing,produces,bælte,NA,NA,belt,belt
 item_166,i_06_11,word,clothing,produces,knap,NA,button,button,button
 item_167,i_06_12,word,clothing,produces,sut,NA,pacifier,pacifier,pacifier
-item_168,i_06_13,word,clothing,produces,flyverdragt,NA,NA,snowsuit,
+item_168,i_06_13,word,clothing,produces,flyverdragt,NA,NA,snowsuit,NA
 item_169,i_06_14,word,clothing,produces,kondisko,NA,NA,sneakers,sneaker
 item_170,i_06_15,word,clothing,produces,sweater,NA,sweater,sweater,sweater
 item_171,i_06_16,word,clothing,produces,frakke,NA,coat,coat,coat
@@ -231,7 +231,7 @@ item_229,i_08_16,word,household,produces,bånd,NA,NA,tape,tape (object)
 item_230,i_08_17,word,household,produces,krus,NA,cup,Mug,cup
 item_231,i_08_18,word,household,produces,småpenge,NA,penny,petty cash,penny
 item_232,i_08_19,word,household,produces,dyne,NA,blanket,quilt,blanket
-item_233,i_08_20,word,household,produces,køkkenrulle,NA,NA,paper towels,
+item_233,i_08_20,word,household,produces,køkkenrulle,NA,NA,paper towels,NA
 item_234,i_08_21,word,household,produces,spand,NA,NA,bucket,bucket
 item_235,i_08_22,word,household,produces,dåse,NA,NA,can,can
 item_236,i_08_23,word,household,produces,lampe,NA,lamp,lamp,lamp
@@ -250,7 +250,7 @@ item_248,i_08_35,word,household,produces,papir,NA,paper,paper,paper
 item_249,i_08_36,word,household,produces,telefon,NA,telephone,phone,telephone
 item_250,i_08_37,word,household,produces,hammer,NA,hammer,hammer,hammer
 item_251,i_08_38,word,household,produces,penge,NA,money,money,money
-item_252,i_08_39,word,household,produces,toilet-/wc-papir,NA,NA,commode / toilet paper,
+item_252,i_08_39,word,household,produces,toilet-/wc-papir,NA,NA,commode / toilet paper,NA
 item_253,i_08_40,word,household,produces,håndklæde,NA,towel,towel,towel
 item_254,i_08_41,word,household,produces,plante,NA,plant,plant,plant
 item_255,i_08_42,word,household,produces,tæppe,NA,carpet,carpet,carpet
@@ -267,7 +267,7 @@ item_265,i_09_2,word,furniture_rooms,produces,kælder,NA,NA,basement,basement
 item_266,i_09_3,word,furniture_rooms,produces,stue,NA,living room,living room,living room
 item_267,i_09_4,word,furniture_rooms,produces,badekar,NA,bathtub,bathtub,bathtub
 item_268,i_09_5,word,furniture_rooms,produces,køkken,NA,kitchen,kitchen,kitchen
-item_269,i_09_6,word,furniture_rooms,produces,terrasse,NA,NA,terrace,
+item_269,i_09_6,word,furniture_rooms,produces,terrasse,NA,NA,terrace,NA
 item_270,i_09_7,word,furniture_rooms,produces,badeværelse,NA,bathroom,Bathroom,bathroom
 item_271,i_09_8,word,furniture_rooms,produces,køleskab,NA,refrigerator,refrigerator,refrigerator
 item_272,i_09_9,word,furniture_rooms,produces,toilet/wc,NA,NA,toilet / wc,toilet
@@ -394,26 +394,26 @@ item_392,i_13_3,word,games_routines,produces,shh,NA,shh,shh,shh
 item_393,i_13_4,word,games_routines,produces,bade,NA,bath,baths,bath
 item_394,i_13_5,word,games_routines,produces,hej,NA,hi,Hello,hi
 item_395,i_13_6,word,games_routines,produces,sidde på potte,NA,NA,sitting on the potty,go potty
-item_396,i_13_7,word,games_routines,produces,be om,NA,NA,be on,
+item_396,i_13_7,word,games_routines,produces,be om,NA,NA,be on,NA
 item_397,i_13_8,word,games_routines,produces,hej hej (farvel),NA,bye,Hello Hello (goodbye),bye
-item_398,i_13_9,word,games_routines,produces,"""skal jeg komme efter dig""",NA,NA,I will come after you,
+item_398,i_13_9,word,games_routines,produces,"""skal jeg komme efter dig""",NA,NA,I will come after you,NA
 item_399,i_13_10,word,games_routines,produces,borte tit/titte bøh,NA,peekaboo,away tit / piping boo,peekaboo
 item_400,i_13_11,word,games_routines,produces,købe ind,NA,NA,shopping,shopping
-item_401,i_13_12,word,games_routines,produces,snurre rundt,NA,NA,twirl,
-item_402,i_13_13,word,games_routines,produces,dav,NA,NA,dav,
+item_401,i_13_12,word,games_routines,produces,snurre rundt,NA,NA,twirl,NA
+item_402,i_13_13,word,games_routines,produces,dav,NA,NA,dav,NA
 item_403,i_13_14,word,games_routines,produces,ja,NA,yes,yes,yes
 item_404,i_13_15,word,games_routines,produces,sove til middag,NA,nap,nap,nap
 item_405,i_13_16,word,games_routines,produces,farvel,NA,NA,goodbye,bye
 item_406,i_13_17,word,games_routines,produces,klappe kage,NA,pattycake,pat cake,pattycake
-item_407,i_13_18,word,games_routines,produces,så stor!,NA,NA,so great!,
+item_407,i_13_18,word,games_routines,produces,så stor!,NA,NA,so great!,NA
 item_408,i_13_19,word,games_routines,produces,frokost,NA,lunch,lunch,lunch
 item_409,i_13_20,word,games_routines,produces,morgenmad,NA,breakfast,breakfast,breakfast
 item_410,i_13_21,word,games_routines,produces,tak,NA,thank you,thank you,thank you
-item_411,i_13_22,word,games_routines,produces,gider ikke,NA,NA,do not bother,
+item_411,i_13_22,word,games_routines,produces,gider ikke,NA,NA,do not bother,NA
 item_412,i_13_23,word,games_routines,produces,nej,NA,no,no,no
 item_413,i_13_24,word,games_routines,produces,vent,NA,wait,Wait,wait
 item_414,i_13_25,word,games_routines,produces,goddag,NA,NA,hello,hello
-item_415,i_13_26,word,games_routines,produces,ringe,NA,NA,rings,
+item_415,i_13_26,word,games_routines,produces,ringe,NA,NA,rings,NA
 item_416,i_13_27,word,games_routines,produces,vil,NA,wanna,will,wanna
 item_417,i_14_1,word,action_words,produces,arbejde,NA,NA,job,work (action)
 item_418,i_14_2,word,action_words,produces,klatre,NA,NA,Climb,climb
@@ -434,7 +434,7 @@ item_432,i_14_16,word,action_words,produces,danse,NA,dance,dance,dance
 item_433,i_14_17,word,action_words,produces,lade som om,NA,NA,pretend,pretend
 item_434,i_14_18,word,action_words,produces,smile,NA,smile,smile,smile
 item_435,i_14_19,word,action_words,produces,dele,NA,NA,parts,share
-item_436,i_14_20,word,action_words,produces,larme,NA,NA,noise,
+item_436,i_14_20,word,action_words,produces,larme,NA,NA,noise,NA
 item_437,i_14_21,word,action_words,produces,snakke,NA,NA,talk,talk
 item_438,i_14_22,word,action_words,produces,drikke,NA,drink (action),drink,drink (action)
 item_439,i_14_23,word,action_words,produces,lave mad,NA,NA,cook,cook
@@ -527,7 +527,7 @@ item_525,i_15_6,word,descriptive_words,produces,stille,NA,NA,put,calm
 item_526,i_15_7,word,descriptive_words,produces,beskidt,NA,dirty,dirty,dirty
 item_527,i_15_8,word,descriptive_words,produces,ked af det,NA,NA,sorry,sorry
 item_528,i_15_9,word,descriptive_words,produces,stor,NA,big,large,big
-item_529,i_15_10,word,descriptive_words,produces,blæser,NA,NA,blower,
+item_529,i_15_10,word,descriptive_words,produces,blæser,NA,NA,blower,NA
 item_530,i_15_11,word,descriptive_words,produces,klistret,NA,NA,sticky,sticky
 item_531,i_15_12,word,descriptive_words,produces,sulten,NA,hungry,hungry,hungry
 item_532,i_15_13,word,descriptive_words,produces,blød,NA,soft,soft,soft
@@ -607,16 +607,16 @@ item_605,i_17_8,word,pronouns,produces,hans,NA,his,his,his
 item_606,i_17_9,word,pronouns,produces,min/mit/mine,NA,mine,my / my / mine,mine
 item_607,i_17_10,word,pronouns,produces,denne/den her,NA,this,this / it here,this
 item_608,i_17_11,word,pronouns,produces,ham,NA,NA,him,him
-item_609,i_17_12,word,pronouns,produces,os,NA,NA,us,
-item_610,i_17_13,word,pronouns,produces,dens/dets,NA,NA,its / their,
-item_611,i_17_14,word,pronouns,produces,hende,NA,NA,her,
-item_612,i_17_15,word,pronouns,produces,sig,NA,NA,themselves,
+item_609,i_17_12,word,pronouns,produces,os,NA,NA,us,NA
+item_610,i_17_13,word,pronouns,produces,dens/dets,NA,NA,its / their,NA
+item_611,i_17_14,word,pronouns,produces,hende,NA,NA,her,NA
+item_612,i_17_15,word,pronouns,produces,sig,NA,NA,themselves,NA
 item_613,i_17_16,word,pronouns,produces,deres,NA,NA,their,their
 item_614,i_17_17,word,pronouns,produces,hendes,NA,her,her,her
-item_615,i_17_18,word,pronouns,produces,sig selv,NA,NA,per se,
+item_615,i_17_18,word,pronouns,produces,sig selv,NA,NA,per se,NA
 item_616,i_17_19,word,pronouns,produces,det,NA,NA,the,the
 item_617,i_17_20,word,pronouns,produces,hun,NA,NA,she,she
-item_618,i_17_21,word,pronouns,produces,sin/sit/sine,NA,NA,his / her / its,
+item_618,i_17_21,word,pronouns,produces,sin/sit/sine,NA,NA,his / her / its,NA
 item_619,i_17_22,word,pronouns,produces,dette/det her,NA,this,this / it here,this
 item_620,i_17_23,word,pronouns,produces,I,NA,NA,You,you
 item_621,i_17_24,word,pronouns,produces,vi,NA,NA,we,we
@@ -635,7 +635,7 @@ item_633,i_18_5,word,question_words,produces,hvordan,NA,how,how,how
 item_634,i_18_6,word,question_words,produces,hvilken/hvilket,NA,NA,what / which,which (question)
 item_635,i_18_7,word,question_words,produces,hvorfor,NA,why,why,why
 item_636,i_19_1,word,locations,produces,af,NA,off,of,off
-item_637,i_19_2,word,locations,produces,hjemme,NA,NA,home,
+item_637,i_19_2,word,locations,produces,hjemme,NA,NA,home,NA
 item_638,i_19_3,word,locations,produces,oppe,NA,up,up,up
 item_639,i_19_4,word,locations,produces,bagved,NA,back (location),behind,back (location)
 item_640,i_19_5,word,locations,produces,hos,NA,NA,from,with
@@ -653,25 +653,25 @@ item_651,i_19_16,word,locations,produces,for,NA,NA,to,to
 item_652,i_19_17,word,locations,produces,inden i,NA,inside,inside,inside
 item_653,i_19_18,word,locations,produces,tilbage,NA,NA,back,behind
 item_654,i_19_19,word,locations,produces,fra,NA,NA,from,from
-item_655,i_19_20,word,locations,produces,i stedet for,NA,NA,instead of,
+item_655,i_19_20,word,locations,produces,i stedet for,NA,NA,instead of,NA
 item_656,i_19_21,word,locations,produces,ud,NA,out,out,out
-item_657,i_19_22,word,locations,produces,frem,NA,NA,forward,
+item_657,i_19_22,word,locations,produces,frem,NA,NA,forward,NA
 item_658,i_19_23,word,locations,produces,med,NA,NA,with,with
 item_659,i_19_24,word,locations,produces,ude,NA,out of,out,out of
-item_660,i_19_25,word,locations,produces,fremme,NA,NA,promotion,
-item_661,i_19_26,word,locations,produces,mod,NA,NA,against,
+item_660,i_19_25,word,locations,produces,fremme,NA,NA,promotion,NA
+item_661,i_19_26,word,locations,produces,mod,NA,NA,against,NA
 item_662,i_19_27,word,locations,produces,uden for,NA,NA,outside,outside
 item_663,i_19_28,word,locations,produces,gennem,NA,NA,through,through
 item_664,i_19_29,word,locations,produces,ned,NA,down,down,down
 item_665,i_19_30,word,locations,produces,under,NA,under,below,under
-item_666,i_19_31,word,locations,produces,hen,NA,NA,go,
+item_666,i_19_31,word,locations,produces,hen,NA,NA,go,NA
 item_667,i_19_32,word,locations,produces,nede,NA,down,down,down
 item_668,i_19_33,word,locations,produces,ved,NA,NA,by,by
-item_669,i_19_34,word,locations,produces,henne,NA,NA,pregnant,
+item_669,i_19_34,word,locations,produces,henne,NA,NA,pregnant,NA
 item_670,i_19_35,word,locations,produces,om,NA,NA,on,on
 item_671,i_19_36,word,locations,produces,ved siden af,NA,NA,next,next to
 item_672,i_19_37,word,locations,produces,her,NA,NA,here,here
-item_673,i_19_38,word,locations,produces,omme,NA,NA,helpful,
+item_673,i_19_38,word,locations,produces,omme,NA,NA,helpful,NA
 item_674,i_19_39,word,locations,produces,væk (location),NA,away,away,away
 item_675,i_19_40,word,locations,produces,hjem,NA,NA,home,home
 item_676,i_19_41,word,locations,produces,op,NA,up,up,up
@@ -687,32 +687,32 @@ item_685,i_20_9,word,quantifiers,produces,mere,NA,more,more,more
 item_686,i_20_10,word,quantifiers,produces,andre,NA,NA,other,other
 item_687,i_20_11,word,quantifiers,produces,ikke,NA,not,not,not
 item_688,i_20_12,word,quantifiers,produces,nogen/nogle,NA,some,someone / some,some
-item_689,i_20_13,word,quantifiers,produces,en (ikke tallet 1),NA,NA,a (non-figure 1),
+item_689,i_20_13,word,quantifiers,produces,en (ikke tallet 1),NA,NA,a (non-figure 1),NA
 item_690,i_20_14,word,quantifiers,produces,ingen,NA,none,no,none
 item_691,i_20_15,word,quantifiers,produces,noget,NA,some,something,some
-item_692,i_20_16,word,quantifiers,produces,et (ikke tallet 1),NA,NA,a (not the number 1),
+item_692,i_20_16,word,quantifiers,produces,et (ikke tallet 1),NA,NA,a (not the number 1),NA
 item_693,i_20_17,word,quantifiers,produces,intet,NA,nothing,nothing,nothing
-item_694,i_20_18,word,quantifiers,produces,også,NA,NA,also,
-item_695,i_20_19,word,quantifiers,produces,den,NA,NA,the,
+item_694,i_20_18,word,quantifiers,produces,også,NA,NA,also,NA
+item_695,i_20_19,word,quantifiers,produces,den,NA,NA,the,NA
 item_696,i_20_20,word,quantifiers,produces,lidt,NA,NA,a little,little (amount)
 item_697,i_20_21,word,quantifiers,produces,samme,NA,same,same,same
-item_698,i_21_1,word,helping_verbs,produces,er,NA,NA,is,
+item_698,i_21_1,word,helping_verbs,produces,er,NA,NA,is,NA
 item_699,i_21_2,word,helping_verbs,produces,kan,NA,NA,can,can
-item_700,i_21_3,word,helping_verbs,produces,skulle (datid),NA,NA,had (past tense),
-item_701,i_21_4,word,helping_verbs,produces,gjorde,NA,NA,did,
-item_702,i_21_5,word,helping_verbs,produces,kunne (datid),NA,NA,could (past tense),
-item_703,i_21_6,word,helping_verbs,produces,(at) skulle,NA,NA,(That) should,
-item_704,i_21_7,word,helping_verbs,produces,gør,NA,NA,makes,
-item_705,i_21_8,word,helping_verbs,produces,(at) kunne,NA,NA,(That) could,
-item_706,i_21_9,word,helping_verbs,produces,var,NA,NA,was,
-item_707,i_21_10,word,helping_verbs,produces,gøre,NA,NA,do,
-item_708,i_21_11,word,helping_verbs,produces,må,NA,NA,must,
-item_709,i_21_12,word,helping_verbs,produces,vil,NA,NA,will,
-item_710,i_21_13,word,helping_verbs,produces,har,NA,NA,have,
-item_711,i_21_14,word,helping_verbs,produces,måtte (datid),NA,NA,mat (past tense),
-item_712,i_21_15,word,helping_verbs,produces,ville (datid),NA,NA,would (past tense),
-item_713,i_21_16,word,helping_verbs,produces,ha(ve),NA,NA,ha (ve),
-item_714,i_21_17,word,helping_verbs,produces,(at) måtte,NA,NA,(That) had,
+item_700,i_21_3,word,helping_verbs,produces,skulle (datid),NA,NA,had (past tense),NA
+item_701,i_21_4,word,helping_verbs,produces,gjorde,NA,NA,did,NA
+item_702,i_21_5,word,helping_verbs,produces,kunne (datid),NA,NA,could (past tense),NA
+item_703,i_21_6,word,helping_verbs,produces,(at) skulle,NA,NA,(That) should,NA
+item_704,i_21_7,word,helping_verbs,produces,gør,NA,NA,makes,NA
+item_705,i_21_8,word,helping_verbs,produces,(at) kunne,NA,NA,(That) could,NA
+item_706,i_21_9,word,helping_verbs,produces,var,NA,NA,was,NA
+item_707,i_21_10,word,helping_verbs,produces,gøre,NA,NA,do,NA
+item_708,i_21_11,word,helping_verbs,produces,må,NA,NA,must,NA
+item_709,i_21_12,word,helping_verbs,produces,vil,NA,NA,will,NA
+item_710,i_21_13,word,helping_verbs,produces,har,NA,NA,have,NA
+item_711,i_21_14,word,helping_verbs,produces,måtte (datid),NA,NA,mat (past tense),NA
+item_712,i_21_15,word,helping_verbs,produces,ville (datid),NA,NA,would (past tense),NA
+item_713,i_21_16,word,helping_verbs,produces,ha(ve),NA,NA,ha (ve),NA
+item_714,i_21_17,word,helping_verbs,produces,(at) måtte,NA,NA,(That) had,NA
 item_715,i_21_18,word,helping_verbs,produces,(at) ville,NA,NA,(That) would,would
 item_716,i_21_19,word,helping_verbs,produces,havde,NA,NA,had,had
 item_717,i_21_20,word,helping_verbs,produces,skal,NA,NA,must,must

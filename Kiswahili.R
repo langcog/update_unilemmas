@@ -34,12 +34,13 @@ new_items[which(new_items$WG=="item_9"),]$uni_lemma = "ouch" #
 new_items[which(new_items$WG=="item_15"),]$uni_lemma = "vroom" # car sound?
 new_items[which(new_items$WG=="item_96"),]$uni_lemma = "pants" # 
 new_items[which(new_items$WG=="item_206"),]$uni_lemma = "how are you" # 
-new_items[which(new_items$uni_lemma=="bedsheet"),]$uni_lemma = "sheet"
 
+new_items[which(new_items$uni_lemma=="bedsheet"),]$uni_lemma = "sheet"
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 
 # ToDo: check empty uni-lemmas ("")
 subset(new_items, uni_lemma=="")
-new_items[which(new_items$uni_lemma==""),] = NA
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 
 # save updated instrument(s)

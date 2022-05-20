@@ -121,7 +121,7 @@ item_140,nurse,word,people,understands; produces,nurse,nurse,nurse
 item_141,people,word,people,understands; produces,people,people,people
 item_142,person,word,people,understands; produces,person,person,person
 item_143,petname,word,people,understands; produces,pet's name,pet's name,pet's name
-item_144,police,word,people,understands; produces,police,police,policeman
+item_144,police,word,people,understands; produces,police,police,police
 item_145,fatherchristmas,word,people,understands; produces,Father Christmas,Father Christmas,
 item_146,sister,word,people,understands; produces,sister,sister,sister
 item_147,teacher,word,people,understands; produces,teacher,teacher,teacher

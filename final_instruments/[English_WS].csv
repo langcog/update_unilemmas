@@ -126,7 +126,7 @@ item_124,melon,word,food_drink,produces,melon,NA,melon,melon
 item_125,milk,word,food_drink,produces,milk,NA,milk,milk
 item_126,muffin,word,food_drink,produces,muffin,NA,muffin,muffin
 item_127,noodles,word,food_drink,produces,noodles,NA,noodles,pasta
-item_128,nuts,word,food_drink,produces,nuts,NA,nuts,nuts
+item_128,nuts,word,food_drink,produces,nuts,NA,nuts,nut
 item_129,orange.food,word,food_drink,produces,orange (food),NA,orange (food),orange (food)
 item_130,pancake,word,food_drink,produces,pancake,NA,pancake,pancake
 item_131,peas,word,food_drink,produces,peas,NA,peas,peas
@@ -224,7 +224,7 @@ item_222,comb,word,household,produces,comb,NA,comb,comb (object)
 item_223,cup,word,household,produces,cup,NA,cup,cup
 item_224,dish,word,household,produces,dish,NA,dish,dish
 item_225,fork,word,household,produces,fork,NA,fork,fork
-item_226,garbage,word,household,produces,garbage,NA,garbage,garbage
+item_226,garbage,word,household,produces,garbage,NA,garbage,trash
 item_227,glass,word,household,produces,glass,NA,glass,glass
 item_228,glasses,word,household,produces,glasses,NA,glasses,glasses
 item_229,hammer,word,household,produces,hammer,NA,hammer,hammer

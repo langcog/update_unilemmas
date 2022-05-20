@@ -65,7 +65,7 @@ item_91,NA,word,vehicles,understands; produces,טרקטור,NA,tractor,tractor
 item_92,NA,word,vehicles,understands; produces,מטוס,NA,Plane,airplane
 item_93,NA,word,vehicles,understands; produces,משאית,NA,truck,truck
 item_94,NA,word,vehicles,understands; produces,עגלה,NA,stroller,stroller
-item_95,NA,word,vehicles,understands; produces,קטר,NA,train engine,
+item_95,NA,word,vehicles,understands; produces,קטר,NA,train engine,NA
 item_96,NA,word,vehicles,understands; produces,רכבת,NA,train,train
 item_97,NA,word,toys,understands; produces,בובה,NA,doll,doll
 item_98,NA,word,toys,understands; produces,בועות,NA,bubbles,bubbles
@@ -74,7 +74,7 @@ item_100,NA,word,toys,understands; produces,חרוזים,NA,beads,beads
 item_101,NA,word,toys,understands; produces,כדור,NA,ball,ball
 item_102,NA,word,toys,understands; produces,ליצן,NA,clown,clown
 item_103,NA,word,toys,understands; produces,מגדל,NA,tower,tower
-item_104,NA,word,toys,understands; produces,סביבון,NA,gyroscopes,
+item_104,NA,word,toys,understands; produces,סביבון,NA,gyroscopes,NA
 item_105,NA,word,toys,understands; produces,ספר,NA,book,book
 item_106,NA,word,toys,understands; produces,עט,NA,pen,pen
 item_107,NA,word,toys,understands; produces,צעצוע,NA,toy (object),toy (object)
@@ -87,9 +87,9 @@ item_113,NA,word,food_drink,understands; produces,אורז,NA,rice,rice
 item_114,NA,word,food_drink,understands; produces,אפונה,NA,pea,peas
 item_115,NA,word,food_drink,understands; produces,אפרסק,NA,peach,peach
 item_116,NA,word,food_drink,understands; produces,ארטיק,NA,Artic,ice cream
-item_117,NA,word,food_drink,understands; produces,במבה,NA,bamba,
+item_117,NA,word,food_drink,understands; produces,במבה,NA,bamba,NA
 item_118,NA,word,food_drink,understands; produces,בננה,NA,banana,banana
-item_119,NA,word,food_drink,understands; produces,חביתה,NA,omelet,
+item_119,NA,word,food_drink,understands; produces,חביתה,NA,omelet,NA
 item_120,NA,word,food_drink,understands; produces,חלב,NA,milk,milk
 item_121,NA,word,food_drink,understands; produces,טוסט,NA,toast,toast
 item_122,NA,word,food_drink,understands; produces,טחינה,NA,tehini,sauce
@@ -101,7 +101,7 @@ item_127,NA,word,food_drink,understands; produces,מלפפון,NA,cucumber,cucum
 item_128,NA,word,food_drink,understands; produces,פיצה,NA,pizza,pizza
 item_129,NA,word,food_drink,understands; produces,פיתה,NA,pita bread,pita
 item_130,NA,word,food_drink,understands; produces,פילפל,NA,pepper,pepper
-item_131,NA,word,food_drink,understands; produces,פתיתים,NA,ptitim,
+item_131,NA,word,food_drink,understands; produces,פתיתים,NA,ptitim,NA
 item_132,NA,word,food_drink,understands; produces,צימוקים,NA,raisins,raisin
 item_133,NA,word,food_drink,understands; produces,קלמנטינה,NA,clementine,clementine
 item_134,NA,word,food_drink,understands; produces,קפה,NA,coffee,coffee
@@ -129,13 +129,13 @@ item_155,NA,word,food_drink,understands; produces,תפוז,NA,orange (food),oran
 item_156,NA,word,food_drink,understands; produces,תפוח,NA,apple,apple
 item_157,NA,word,clothing,understands; produces,אפודה,NA,vest,vest
 item_158,NA,word,clothing,understands; produces,בגד ים,NA,swimsuit,swimsuit
-item_159,NA,word,clothing,understands; produces,גופיה,NA,undershirt,
+item_159,NA,word,clothing,understands; produces,גופיה,NA,undershirt,NA
 item_160,NA,word,clothing,understands; produces,ג'ינס,NA,jeans,jeans
 item_161,NA,word,clothing,understands; produces,גרביים,NA,socks,sock
 item_162,NA,word,clothing,understands; produces,חולצה,NA,shirt,shirt
 item_163,NA,word,clothing,understands; produces,חצאית,NA,skirt,skirt
 item_164,NA,word,clothing,understands; produces,טיטול,NA,Diaper,diaper
-item_165,NA,word,clothing,understands; produces,טריינינג,NA,sweatpants,
+item_165,NA,word,clothing,understands; produces,טריינינג,NA,sweatpants,NA
 item_166,NA,word,clothing,understands; produces,כובע,NA,hat,hat
 item_167,NA,word,clothing,understands; produces,כפתור,NA,button,button
 item_168,NA,word,clothing,understands; produces,מגפיים,NA,boots,boots
@@ -295,7 +295,7 @@ item_321,NA,word,games_routines,understands; produces,מחא כפיים,NA,Clap 
 item_322,NA,word,games_routines,understands; produces,עוד,NA,more,more
 item_322,NA,word,games_routines,understands; produces,עוד,NA,more,more
 item_323,NA,word,games_routines,understands; produces,עשר אצבעות,NA,Ten Fingers,ten fingers
-item_324,NA,word,games_routines,understands; produces,צריך,NA,need (as in- do you need help?),
+item_324,NA,word,games_routines,understands; produces,צריך,NA,need (as in- do you need help?),NA
 item_325,NA,word,action_words,understands; produces,לאהוב,NA,love (action),love
 item_326,NA,word,action_words,understands; produces,לאכול,NA,eat,eat
 item_327,NA,word,action_words,understands; produces,לבכות,NA,cry,cry
@@ -372,7 +372,7 @@ item_397,NA,word,time_words,understands; produces,עכשיו,NA,now,now
 item_398,NA,word,time_words,understands; produces,פעם,NA,once,once
 item_399,NA,word,time_words,understands; produces,צהריים,NA,noon,noon
 item_400,NA,word,time_words,understands; produces,רגע,NA,moment,moment
-item_401,NA,word,time_words,understands; produces,שבת,NA,"Shabbath, Saturday",
+item_401,NA,word,time_words,understands; produces,שבת,NA,"Shabbath, Saturday",NA
 item_402,NA,word,descriptive_words,understands; produces,גדול,NA,big,big
 item_403,NA,word,descriptive_words,understands; produces,זהיר,NA,careful,careful
 item_404,NA,word,descriptive_words,understands; produces,זקן,NA,old,old
@@ -423,9 +423,9 @@ item_448,NA,word,question_words,understands; produces,איפה,NA,where,where (q
 item_449,NA,word,question_words,understands; produces,כמה,NA,how much,how much
 item_450,NA,word,question_words,understands; produces,למה,NA,why,why
 item_451,NA,word,question_words,understands; produces,מה,NA,what,what
-item_452,NA,word,question_words,understands; produces,מה זה,NA,what is this,
+item_452,NA,word,question_words,understands; produces,מה זה,NA,what is this,NA
 item_453,NA,word,question_words,understands; produces,מי,NA,who,who
-item_454,NA,word,question_words,understands; produces,מי זה,NA,who is this,
+item_454,NA,word,question_words,understands; produces,מי זה,NA,who is this,NA
 item_455,NA,word,question_words,understands; produces,מתי,NA,when,when (question)
 item_456,NA,word,locations,understands; produces,בין,NA,between,between
 item_457,NA,word,locations,understands; produces,בפנים,NA,Inside,inside

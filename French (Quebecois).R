@@ -21,8 +21,6 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # lego->blocks
 new_items[which(new_items$definition=="lego"),]$uni_lemma = "blocks"
 
-# 'nut' is plural on most forms..
-new_items[which(new_items$definition=="noix"),]$uni_lemma = "nuts"
 
 # disambiguation
 new_items[which(new_items$definition=="balançoire"),]$uni_lemma = "swing (object)"

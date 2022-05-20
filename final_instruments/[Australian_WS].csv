@@ -354,7 +354,7 @@ item_352,nurse,word,people,produces,nurse,NA,nurse,nurse
 item_353,people,word,people,produces,people,NA,people,people
 item_354,person,word,people,produces,person,NA,person,person
 item_355,pets_name,word,people,produces,pet's name,NA,pet's name,pet's name
-item_356,policeman,word,people,produces,police(man),NA,police(man),policeman
+item_356,policeman,word,people,produces,police(man),NA,police(man),police
 item_357,postman,word,people,produces,postman,NA,postman,mailman
 item_358,sister,word,people,produces,sister,NA,sister,sister
 item_359,teacher,word,people,produces,teacher,NA,teacher,teacher

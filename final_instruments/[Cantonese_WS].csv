@@ -44,12 +44,12 @@ item_42,P2DRIVER,word,people,produces,司機,NA,,driver
 item_43,P2DOCTOR,word,people,produces,醫生,NA,,doctor
 item_44,P2NURSE,word,people,produces,謢士/姑娘,NA,,nurse
 item_45,P2TEACHE,word,people,produces,老師/先生,NA,,teacher
-item_46,P2POLICC,word,people,produces,警察/差人,NA,,policeman
+item_46,P2POLICC,word,people,produces,警察/差人,NA,,police
 item_47,P2FIREMA,word,people,produces,消防員,NA,,firefighter
-item_48,P2TELETB,word,people,produces,得得B,NA,,
-item_49,P2HKITTY,word,people,produces,Hello Kitty,NA,,
-item_50,P2POCMON,word,people,produces,比卡超,NA,,
-item_51,P2SUPERM,word,people,produces,超人,NA,,
+item_48,P2TELETB,word,people,produces,得得B,NA,,NA
+item_49,P2HKITTY,word,people,produces,Hello Kitty,NA,,NA
+item_50,P2POCMON,word,people,produces,比卡超,NA,,NA
+item_51,P2SUPERM,word,people,produces,超人,NA,,NA
 item_52,P2PERSON,word,people,produces,人,NA,,person
 item_53,E3WATER,word,food_drink,produces,水,NA,,water (beverage)
 item_54,E3MILK,word,food_drink,produces,牛奶/奶奶,NA,,milk
@@ -62,14 +62,14 @@ item_60,E3FOOD,word,food_drink,produces,嘢食,NA,,food
 item_61,E3EGG,word,food_drink,produces,蛋,NA,,egg
 item_62,E3RICE,word,food_drink,produces,飯,NA,,rice
 item_63,E3MI,word,food_drink,produces,米,NA,,rice
-item_64,E3CONGEE,word,food_drink,produces,粥,NA,,
+item_64,E3CONGEE,word,food_drink,produces,粥,NA,,NA
 item_65,E3NOODLC,word,food_drink,produces,麵,NA,,noodles
 item_66,E3MACARO,word,food_drink,produces,通心粉,NA,,macaroni
 item_67,E3SPAGET,word,food_drink,produces,意粉,NA,,spaghetti
-item_68,E3DIMSUM,word,food_drink,produces,點心,NA,,
-item_69,E3TSFUN,word,food_drink,produces,腸粉,NA,,
+item_68,E3DIMSUM,word,food_drink,produces,點心,NA,,NA
+item_69,E3TSFUN,word,food_drink,produces,腸粉,NA,,NA
 item_70,E3HAGAU,word,food_drink,produces,蝦餃,NA,,dumpling
-item_71,E3SIUMAI,word,food_drink,produces,燒賣,NA,siu mai / dumpling,
+item_71,E3SIUMAI,word,food_drink,produces,燒賣,NA,siu mai / dumpling,NA
 item_72,E3BREAD,word,food_drink,produces,麵包/包包,NA,,bread
 item_73,E3TSABAU,word,food_drink,produces,叉燒包/其他中式包,NA,,bun
 item_74,E3HAMBUR,word,food_drink,produces,漢堡包/其他西式包,NA,,hamburger
@@ -84,12 +84,12 @@ item_82,E3BEEF,word,food_drink,produces,牛(肉),NA,,beef
 item_83,E3FISH,word,food_drink,produces,魚,NA,,fish (food)
 item_84,E3SHRIMP,word,food_drink,produces,蝦,NA,shrimp,shrimp
 item_85,E3CRAB,word,food_drink,produces,蟹,NA,crab,crab
-item_86,E3FISHBA,word,food_drink,produces,魚蛋,NA,fish balls,
+item_86,E3FISHBA,word,food_drink,produces,魚蛋,NA,fish balls,NA
 item_87,E3CHIWNG,word,food_drink,produces,雞翼,NA,chicken wing / chicken (food),chicken (food)
 item_88,E3CHILEG,word,food_drink,produces,雞脾,NA,chicken thigh / chicken (food),chicken (food)
 item_89,E3SAUSAG,word,food_drink,produces,腸仔,NA,,sausage
 item_90,E3HAM,word,food_drink,produces,火腿,NA,,ham
-item_91,E3TSASIU,word,food_drink,produces,叉燒,NA,barbequed pork / char siu,
+item_91,E3TSASIU,word,food_drink,produces,叉燒,NA,barbequed pork / char siu,NA
 item_92,E3VEGGIE,word,food_drink,produces,菜,NA,vegetable,vegetable
 item_93,E3CABBAG,word,food_drink,produces,白菜,NA,"cabbage / bok choy, chinese cabbage",cabbage
 item_94,E3TOMATC,word,food_drink,produces,蕃茄,NA,,tomato
@@ -256,9 +256,9 @@ item_254,V4TIEUPC,word,action_words,produces,綁/紮,NA,,tie
 item_255,V4CRAWL,word,action_words,produces,爬,NA,,crawl
 item_256,V4ROLLC,word,action_words,produces,碌 (打滾),NA,,roll (action)
 item_257,V4CLIMB,word,action_words,produces,擒,NA,,climb
-item_258,V4LIEFL,word,action_words,produces,趴,NA,bend,
+item_258,V4LIEFL,word,action_words,produces,趴,NA,bend,NA
 item_259,V4SQUATC,word,action_words,produces,踎,NA,,squat
-item_260,V4LAYC,word,action_words,produces,瞓低,NA,lower,
+item_260,V4LAYC,word,action_words,produces,瞓低,NA,lower,NA
 item_261,V4POURC,word,action_words,produces,斟(水),NA,,pour
 item_262,V4POUR,word,action_words,produces,倒(水),NA,,pour
 item_263,V4DRIP,word,action_words,produces,滴,NA,,drip
@@ -345,7 +345,7 @@ item_343,T6BALLOO,word,toys,produces,汽球,NA,,balloon
 item_344,T6STORYC,word,toys,produces,故仔/故事,NA,,story
 item_345,T6KITEC,word,toys,produces,風箏/紙鳶,NA,,kite
 item_346,T6CARDS,word,toys,produces,啤牌,NA,,cards
-item_347,T6VGAME,word,toys,produces,遊戲機,NA,,
+item_347,T6VGAME,word,toys,produces,遊戲機,NA,,NA
 item_348,T6TOYS,word,toys,produces,玩具,NA,,toy (object)
 item_349,T6GIFT,word,toys,produces,禮物,NA,,present
 item_350,X7GONEC,word,descriptive_words,produces,冇(晒),NA,all gone / none,all gone
@@ -504,8 +504,8 @@ item_502,H10CHOPS,word,household,produces,筷子,NA,,chopstick
 item_503,H10FORK,word,household,produces,叉,NA,,fork
 item_504,H10KNIFE,word,household,produces,刀,NA,,knife
 item_505,H10POT2,word,household,produces,煲,NA,,pot
-item_506,H10COOKE,word,household,produces,(電)飯煲,NA,,
-item_507,H10POTC,word,household,produces,鑊,NA,,
+item_506,H10COOKE,word,household,produces,(電)飯煲,NA,,NA
+item_507,H10POTC,word,household,produces,鑊,NA,,NA
 item_508,H10TEAPO,word,household,produces,水壺/茶壺,NA,,teapot
 item_509,H10LIGHT,word,household,produces,燈,NA,,light (object)
 item_510,H10PHONE,word,household,produces,電話,NA,,telephone
@@ -536,7 +536,7 @@ item_534,H10PICTU,word,household,produces,畫,NA,,picture
 item_535,H10HANGE,word,household,produces,衣架,NA,,hanger
 item_536,H10STRIN,word,household,produces,繩,NA,,rope
 item_537,H10BAGC,word,household,produces,袋,NA,,bag
-item_538,H10SCBAG,word,household,produces,書包,NA,,
+item_538,H10SCBAG,word,household,produces,書包,NA,,NA
 item_539,H10WALLE,word,household,produces,銀包,NA,,wallet
 item_540,H10MONEY,word,household,produces,錢,NA,,money
 item_541,H10KEYSC,word,household,produces,鎖匙,NA,,keys
@@ -723,24 +723,24 @@ item_721,P18YOURP,word,pronouns,produces,你哋嘅,NA,,your
 item_722,P18THEIC,word,pronouns,produces,佢哋嘅,NA,,their
 item_723,P18OTHPL,word,pronouns,produces,人哋,NA,,other people
 item_724,P18OTHPP,word,pronouns,produces,人哋嘅,NA,other people's / their,their
-item_725,C19GO,word,classifiers,produces,個,NA,,
-item_726,C19LAP,word,classifiers,produces,粒,NA,,
-item_727,C19ZEK,word,classifiers,produces,隻,NA,,
+item_725,C19GO,word,classifiers,produces,個,NA,,NA
+item_726,C19LAP,word,classifiers,produces,粒,NA,,NA
+item_727,C19ZEK,word,classifiers,produces,隻,NA,,NA
 item_728,C19GAU,word,classifiers,produces,舊,NA,,piece of
 item_729,C19FAAI,word,classifiers,produces,塊,NA,slice (of) / piece (of),slice of
-item_730,C19BUN,word,classifiers,produces,本,NA,,
-item_731,C19TIU,word,classifiers,produces,條,NA,,
+item_730,C19BUN,word,classifiers,produces,本,NA,,NA
+item_731,C19TIU,word,classifiers,produces,條,NA,,NA
 item_732,C19GIN,word,classifiers,produces,件,NA,,piece of
-item_733,C19GAA,word,classifiers,produces,架,NA,,
+item_733,C19GAA,word,classifiers,produces,架,NA,,NA
 item_734,C19ZOENG,word,classifiers,produces,張,NA,,piece of
 item_735,C19CI,word,classifiers,produces,次,NA,,times
 item_736,C19BOU,word,classifiers,produces,步,NA,,step
 item_737,C19ZI,word,classifiers,produces,枝,NA,,stick of
-item_738,C19FO,word,classifiers,produces,棵,NA,,
+item_738,C19FO,word,classifiers,produces,棵,NA,,NA
 item_739,C19CANG,word,classifiers,produces,層,NA,,layer of
-item_740,C19WAI,word,classifiers,produces,位,NA,,
-item_741,C19ZO,word,classifiers,produces,座,NA,,
-item_742,C19GAAN,word,classifiers,produces,間,NA,,
+item_740,C19WAI,word,classifiers,produces,位,NA,,NA
+item_741,C19ZO,word,classifiers,produces,座,NA,,NA
+item_742,C19GAAN,word,classifiers,produces,間,NA,,NA
 item_743,C19BAAU,word,classifiers,produces,包,NA,,pack of
 item_744,Q20WHATC,word,question_words,produces,乜嘢,NA,,what
 item_745,Q20DOWHC,word,question_words,produces,做咩/乜,NA,what / what is happening/ what are you doing,what
@@ -753,18 +753,18 @@ item_751,Q20HOWC,word,question_words,produces,點樣(做),NA,,how
 item_752,Q20HMANY,word,question_words,produces,幾多,NA,,how many
 item_753,Q20DAKMD,word,question_words,produces,得唔得?,NA,,can you?
 item_754,Q20HOUMH,word,question_words,produces,好唔好?,NA,is that okay? / do you want to?,is that okay?
-item_755,S21AA,word,final_particles,produces,呀 (肯定),NA,,
-item_756,S21LO,word,final_particles,produces,囉,NA,,
-item_757,S21LAA,word,final_particles,produces,啦,NA,,
-item_758,S21NE,word,final_particles,produces,呢,NA,,
-item_759,S21GAA,word,final_particles,produces,㗎,NA,,
-item_760,S21GWAA,word,final_particles,produces,啩,NA,,
-item_761,S21WO,word,final_particles,produces,喎,NA,,
-item_762,S21BO,word,final_particles,produces,噃,NA,,
-item_763,S21TIM,word,final_particles,produces,㖭,NA,,
-item_764,S21MAA,word,final_particles,produces,嘛,NA,,
-item_765,S21GE,word,final_particles,produces,嘅,NA,,
-item_766,S21ZAA,word,final_particles,produces,咋,NA,,
+item_755,S21AA,word,final_particles,produces,呀 (肯定),NA,,NA
+item_756,S21LO,word,final_particles,produces,囉,NA,,NA
+item_757,S21LAA,word,final_particles,produces,啦,NA,,NA
+item_758,S21NE,word,final_particles,produces,呢,NA,,NA
+item_759,S21GAA,word,final_particles,produces,㗎,NA,,NA
+item_760,S21GWAA,word,final_particles,produces,啩,NA,,NA
+item_761,S21WO,word,final_particles,produces,喎,NA,,NA
+item_762,S21BO,word,final_particles,produces,噃,NA,,NA
+item_763,S21TIM,word,final_particles,produces,㖭,NA,,NA
+item_764,S21MAA,word,final_particles,produces,嘛,NA,,NA
+item_765,S21GE,word,final_particles,produces,嘅,NA,,NA
+item_766,S21ZAA,word,final_particles,produces,咋,NA,,NA
 item_767,Z22WANT,word,helping_verbs,produces,要,NA,need / want,need
 item_768,Z22WANT2,word,helping_verbs,produces,想,NA,,want
 item_769,Z22LIKE,word,helping_verbs,produces,鍾意,NA,,like

@@ -22,7 +22,13 @@ new_items[which(new_items$WS=="item_132"),]$uni_lemma = "blocks" # plural
 new_items[which(new_items$WS=="item_155"),]$uni_lemma = "puzzle" # generic
 # ToDo - finish
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="fireman"),]$uni_lemma = "firefighter" 
+new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
+new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
+
 # ToDo: check empty uni-lemmas ("")
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

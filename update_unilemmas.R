@@ -74,33 +74,38 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2281 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 727 hapaxes
+  length(new_uni_tab) # 2277 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 725 hapaxes
   length(unique(new_uni$form)) # 53 forms
-
-  length(new_uni_tab[which(new_uni_tab>2)]) # 1143 used in 3+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 697 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 513 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 323 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 147 on 40+ forms
+  
+  # uni-lemmas we no longer have:
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 65 corrections/changes
+  # new uni-lemmas:
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 962
+  
+  length(new_uni_tab[which(new_uni_tab>2)]) # 1218 used in 3+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 723 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 540 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 367 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 228 on 40+ forms
   # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="(hair)brush") # Dutch_WS - changed to brush (object)
-  subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
+  #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
   subset(new_uni, uni_lemma=="soda") # 28
   subset(new_uni, uni_lemma=="coke") # 4 - (EN WS has both)
-  subset(new_uni, uni_lemma=="garbage") # change Dutch WS and Eng WS to trash (Norwegian "trash can" to trash?)
-  subset(new_uni, uni_lemma=="soil") # Turkish forms, but 6 forms have "earth" (terra Italian/Port/Spanish) - change all to soil
-  subset(new_uni, uni_lemma=="rock") # change rock (object) to 'stone' ?
+  #subset(new_uni, uni_lemma=="garbage") # change Dutch WS and Eng WS to trash (Norwegian "trash can" to trash?)
+  #subset(new_uni, uni_lemma=="earth") # 6 forms have "earth" (terra Italian/Port/Spanish) - change all to soil (Turkish has both)
+  subset(new_uni, uni_lemma=="rock (object)") # change rock (object) (28 forms) to 'stone' (27 forms) ?
   subset(new_uni, uni_lemma=="poop") # change games_routines poop to 'go potty' 
   subset(new_uni, uni_lemma=="well") # change to "well (modifier)"?
   subset(new_uni, uni_lemma=="little") # change to "little (amount)"
-  subset(new_uni, uni_lemma=="police") # 16 forms, but 14 have 'policeman' -> change
+  subset(new_uni, uni_lemma=="policeman") # 16 forms have police, but 14 have 'policeman' -> change
   subset(new_uni, uni_lemma=="which (question)") # change Spanish question word "which"
   subset(new_uni, uni_lemma=="take out") # Russian -> "remove"
   subset(new_uni, uni_lemma=="put in") # change to "insert"
-  subset(new_uni, uni_lemma=="fireman") # change Dutch & Irish to firefighter
+  #subset(new_uni, uni_lemma=="fireman") # change Dutch & Irish to firefighter
   subset(new_uni, uni_lemma=="yummy") # Cantonese, but Dutch 'lekker' = delicious
   subset(new_uni, uni_lemma=="nanny") # change Dutch and Hebrew to 'babysitter'
   subset(new_uni, uni_lemma=="eyebrows") # singularize
@@ -112,6 +117,7 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
   subset(new_uni, uni_lemma=="brush") # Irish/Hungarian -> brush (object)
   subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful
+  subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   
   tail(new_uni_tab, 100)
   

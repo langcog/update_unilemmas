@@ -16,6 +16,8 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "30 uni_lemmas still missing ( 5 % missing)"
 # "Review 0 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+
 # now join and re-save in raw_data/instruments format, e.g.
 # https://github.com/langcog/wordbank/blob/master/raw_data/BSL_WG/%5BBSL_WG%5D.csv
 

@@ -28,7 +28,10 @@ new_items[which(new_items$WG=="item_109"),]$uni_lemma = "rattle (object)"
 new_items[which(new_items$WG=="item_442"),]$uni_lemma = "he" # not 'his'
 new_items[which(new_items$WG=="item_443"),]$uni_lemma = "here" # not 'her'
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+
 # ToDo: check empty uni-lemmas ("")
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

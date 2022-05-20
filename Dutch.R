@@ -36,6 +36,11 @@ new_items[which(new_items$definition=="konijn"),]$uni_lemma = "bunny" # rabbit
 new_items[which(new_items$definition=="leuk"),]$uni_lemma = "funny" # funny/fun/nice
 new_items[which(new_items$definition=="dicht"),]$uni_lemma = "close (action)" 
 
+new_items[which(new_items$definition=="lekker"),]$uni_lemma = "yummy" 
+
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="fireman"),]$uni_lemma = "firefighter" 
+
 # fill in several blanks
 subset(new_items, uni_lemma=="")
 
@@ -77,6 +82,8 @@ new_items[which(new_items$definition=="dadadoen/daaag"),]$uni_lemma = "bye"
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 new_items[which(new_items$uni_lemma=="(hair)brush"),]$uni_lemma = "brush (object)"
+new_items[which(new_items$uni_lemma=="garbage"),]$uni_lemma = "trash"
+new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))
