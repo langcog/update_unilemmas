@@ -416,7 +416,7 @@ item_414,414_ne,word,produces,games_routines,nē,NA,no,no
 item_415,415_paldies,word,produces,games_routines,paldies,NA,thank you,thank you
 item_416,416_piedod,word,produces,games_routines,piedod,NA,excuse me,excuse me
 item_417,417_pusdienas,word,produces,games_routines,pusdienas,NA,lunch,lunch
-item_418,418_sveiki_ca,word,produces,games_routines,"sveiki, čau",NA,hello,hello/hi
+item_418,418_sveiki_ca,word,produces,games_routines,"sveiki, čau",NA,hello,hello
 item_419,419_uz_redzesa,word,produces,games_routines,uz redzēšanos/atā,NA,bye,bye
 item_420,420_vakarinas,word,produces,games_routines,vakariņas,NA,dinner,dinner
 item_421,421_aizvert,word,produces,action_words,aizvērt,NA,close,close

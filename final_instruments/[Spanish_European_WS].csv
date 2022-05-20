@@ -231,7 +231,7 @@ item_223,pan,word,food_drink,produces,pan,NA,bread,bread
 item_224,pastel,word,food_drink,produces,pastel,NA,pie,pie
 item_225,patata,word,food_drink,produces,patata/s,NA,potato,potato
 item_226,pera,word,food_drink,produces,pera,NA,pear,pear
-item_227,pescado,word,food_drink,produces,pescado,NA,fish,fish
+item_227,pescado,word,food_drink,produces,pescado,NA,fish,fish (food)
 item_228,piruleta,word,food_drink,produces,piruleta,NA,lollipop,lollipop
 item_229,platano,word,food_drink,produces,plátano,NA,plantain,plantain
 item_230,pollo,word,food_drink,produces,pollo,NA,chicken (food),chicken (food)
@@ -376,7 +376,7 @@ item_368,bajar,word,action_words,produces,bajar(se),NA,to get down,lower (action
 item_369,banar,word,action_words,produces,bañar(se),NA,to bathe,bathe
 item_370,beber,word,action_words,produces,beber,NA,to drink,drink
 item_371,buscar,word,action_words,produces,buscar,NA,to search,search
-item_372,caber,word,action_words,produces,caber,NA,to fit,fit (action)
+item_372,caber,word,action_words,produces,caber,NA,to fit,fit
 item_373,caer,word,action_words,produces,caer(se),NA,to fall,fall
 item_374,callar,word,action_words,produces,callar,NA,to silence,silence (action)
 item_375,cansar,word,action_words,produces,cansar(se),NA,to tire,tire (action)

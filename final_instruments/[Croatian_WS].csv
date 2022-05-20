@@ -82,7 +82,7 @@ lutka,toys,lutka,word,produces,NA,item_80,doll,doll,doll
 ljepilo,toys,ljepilo,word,produces,NA,item_81,NA,glue,glue
 olovka,toys,olovka,word,produces,NA,item_82,pen/pencil,pencil,pen/pencil
 pikule,toys,pikule,word,produces,NA,item_83,NA,marbles,marbles
-plastelin,toys,plastelin,word,produces,NA,item_84,NA,play dogh,modelling clay
+plastelin,toys,plastelin,word,produces,NA,item_84,NA,play dogh,play dough
 poklon,toys,poklon,word,produces,NA,item_85,NA,present,present/gift
 slagalice (puzzle),toys,slagalice_(puzzle),word,produces,NA,item_86,NA,puzzle,jigsaw puzzle
 slikovnica,toys,slikovnica,word,produces,NA,item_87,NA,picture book,book
@@ -321,7 +321,7 @@ ulica,outside,ulica,word,produces,NA,item_319,NA,street,street
 vjetar,outside,vjetar,word,produces,NA,item_320,NA,wind,wind
 voda (not beverage),outside,voda,word,produces,NA,item_321,water (not beverage),water,water (not beverage)
 vrt,outside,vrt,word,produces,NA,item_322,garden,garden,garden
-zastava,outside,zastava,word,produces,NA,item_323,NA,flag,flag/banner
+zastava,outside,zastava,word,produces,NA,item_323,NA,flag,flag
 zvijezda,outside,zvijezda,word,produces,NA,item_324,star,star,star
 bolnica,places,bolnica,word,produces,NA,item_325,NA,hospital,hospital
 cirkus,places,cirkus,word,produces,NA,item_326,NA,circus,funfair/theme park

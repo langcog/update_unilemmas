@@ -393,7 +393,7 @@ item_391,furniture_rooms,zolder,understands;produces,zolder,word,attic,attic
 item_392,furniture_rooms,afval/rommel,understands;produces,afval/rommel,word,trash,trash
 item_393,furniture_rooms,bezem,understands;produces,bezem,word,broom,broom
 item_394,furniture_rooms,borstel/veger,understands;produces,borstel/veger,word,brush/broom,brush/broom
-item_395,furniture_rooms,handtas/tas,understands;produces,handtas/tas,word,handbag,handbag
+item_395,furniture_rooms,handtas/tas,understands;produces,handtas/tas,word,handbag,bag
 item_396,household,kam,understands;produces,kam,word,comb,comb (object)
 item_397,furniture_rooms,klok,understands;produces,klok,word,clock,clock
 item_398,furniture_rooms,portemonnee,understands;produces,portemonnee,word,wallet,wallet

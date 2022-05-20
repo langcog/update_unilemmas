@@ -263,7 +263,7 @@ item_261,261_Labrit_,word,understands; produces,games_routines,Labrīt!,NA,Good 
 item_262,262_Labvakar_,word,understands; produces,games_routines,Labvakar!,NA,Good evening!,good night
 item_263,263_Ludzu_,word,understands; produces,games_routines,Lūdzu!,NA,please,please
 item_264,264_ne,word,understands; produces,games_routines,nē,NA,no,no
-item_265,265_nedrikst,word,understands; produces,games_routines,nedrīkst,NA,not allowed,don’t
+item_265,265_nedrikst,word,understands; produces,games_routines,nedrīkst,NA,not allowed,don't
 item_266,266_negribu,word,understands; produces,games_routines,negribu,NA,I don’t want,NA
 item_267,267_Paldies_,word,understands; produces,games_routines,Paldies!,NA,Thank you!,thank you
 item_268,268_pusdienas,word,understands; produces,games_routines,pusdienas,NA,lunch,lunch

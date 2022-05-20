@@ -17,6 +17,8 @@ new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
 new_items[which(new_items$WS=="item_281"),]$uni_lemma = "brush (object)"
 new_items[which(new_items$WS=="item_375"),]$uni_lemma = "brush (action)"
 
+new_items[which(new_items$uni_lemma=="hippo"),]$uni_lemma = "hippopotamus"
+
 new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

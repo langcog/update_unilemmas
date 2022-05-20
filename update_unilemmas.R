@@ -69,25 +69,27 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2321 uni-lemmas
+  # how it's going: 2374 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2382 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 726 hapaxes
+  length(new_uni_tab) # 2357 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 698 hapaxes
   length(unique(new_uni$form)) # 60 forms
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 67 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 69 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 1076
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 1046
   
   length(new_uni_tab[which(new_uni_tab>4)]) # 1037 used in 5+ forms
   length(new_uni_tab[which(new_uni_tab>=10)]) # 768 on 10+ forms
   length(new_uni_tab[which(new_uni_tab>=20)]) # 569 on 20+ forms
   length(new_uni_tab[which(new_uni_tab>=30)]) # 427 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 290 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 291 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 168 on 50+
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 38 on 60+ (all)
   # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
@@ -117,12 +119,12 @@ examine_new_unilemmas <- function() {
   # kind vs. nice?
   subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
   subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
-  subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful ... cute?
+  subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful, cute (39)
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   subset(new_uni, uni_lemma=="light") # -> light (object)
   
   # going after hapaxes
-  head(new_uni_tab, 200)
+  head(new_uni_tab, 500)
   
   #subset(new_uni, uni_lemma=="be able to")
   subset(new_uni, uni_lemma=="at/in/on") # Korean
@@ -136,9 +138,25 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="colouring") # Irish "toys"
   subset(new_uni, uni_lemma=="colors") # "toys"
   subset(new_uni, uni_lemma=="bookcase") # Sp Mex -> bookshelf
+  subset(new_uni, uni_lemma=="eat (action)")
+  subset(new_uni, uni_lemma=="don’t")
+  subset(new_uni, uni_lemma=="do (verb)") # Dutch -> do
+  subset(new_uni, uni_lemma=="handkerchief") # Mandarin -> tissue ? technically no..
+  subset(new_uni, uni_lemma=="modelling clay") # Croatian -> play dough (change forms with 'clay' to play dough?)
+  subset(new_uni, uni_lemma=="rodent") # Dutch hamster/cavia -> mouse..?
+  subset(new_uni, uni_lemma=="repair (verb)") # Dutch -> fix
+  subset(new_uni, uni_lemma=="rashers") # bacon
+  
+  #subset(new_uni, uni_lemma=="adult") # Korean -> man / woman ?
+  subset(new_uni, uni_lemma=="durable") # 
+  subset(new_uni, uni_lemma=="fit (action)")
+  subset(new_uni, uni_lemma=="flag/banner")
+  subset(new_uni, uni_lemma=="fish") # Sp Eur
+  
+  subset(new_uni, uni_lemma=="night/tonight") # Irish -> diaper
   
   subset(new_uni, uni_lemma=="calm/silent") # calm (4) /silent (0) / quiet (26)
-  subset(new_uni, uni_lemma=="bark") # Irish
+  subset(new_uni, uni_lemma=="raise") # German: lift - Korean: raise ?
   
   tail(new_uni_tab, 100)
   

@@ -51,7 +51,7 @@ bád,item_103,VEHICLES (Real or toy),produces; doesn't produce,word,bád,0,vehic
 busie,item_105,VEHICLES (Real or toy),produces; doesn't produce,word,busie,1,vehicles,nouns,bus,bus
 carr,item_106,VEHICLES (Real or toy),produces; doesn't produce,word,carr_mótar_gluaisteán,0,vehicles,nouns,car,car
 eitleán,item_108,VEHICLES (Real or toy),produces; doesn't produce,word,eitleán,0,vehicles,nouns,aeroplane,airplane
-gluaisrothar,item_110,VEHICLES (Real or toy),produces; doesn't produce,word,gluaisrothar,0,vehicles,nouns,motorbike,motorbike
+gluaisrothar,item_110,VEHICLES (Real or toy),produces; doesn't produce,word,gluaisrothar,0,vehicles,nouns,motorbike,motorcycle
 jeepie,item_113,VEHICLES (Real or toy),produces; doesn't produce,word,jeepie,1,vehicles,nouns,jeep,jeep
 leoraí,item_114,VEHICLES (Real or toy),produces; doesn't produce,word,leoraí_lorry,0,vehicles,nouns,lorry,truck
 otharcharr,item_117,VEHICLES (Real or toy),produces; doesn't produce,word,otharcharr,0,vehicles,nouns,ambulance,ambulance
@@ -125,7 +125,7 @@ rísín,item_244,FOOD AND DRINK,produces; doesn't produce,word,rísín,0,food_dr
 salann,item_246,FOOD AND DRINK,produces; doesn't produce,word,salann,0,food_drink,nouns,salt,salt
 sceallóga,item_248,FOOD AND DRINK,produces; doesn't produce,word,sceallóga,0,food_drink,nouns,chips,chips
 seacláid,item_250,FOOD AND DRINK,produces; doesn't produce,word,seacláid,0,food_drink,nouns,chocolate,chocolate
-slisíní,item_252,FOOD AND DRINK,produces; doesn't produce,word,slisíní_bagúin,0,food_drink,nouns,rashers,rashers
+slisíní,item_252,FOOD AND DRINK,produces; doesn't produce,word,slisíní_bagúin,0,food_drink,nouns,rashers,bacon
 spagettiie,item_254,FOOD AND DRINK,produces; doesn't produce,word,spagettiie,1,food_drink,nouns,spagetti,spagetti
 sútalún,item_255,FOOD AND DRINK,produces; doesn't produce,word,sútalún,0,food_drink,nouns,strawberry,strawberry
 sú,item_257,FOOD AND DRINK,produces; doesn't produce,word,sú,0,food_drink,nouns,juice,juice
@@ -145,7 +145,7 @@ bróga,item_283,CLOTHES,produces; doesn't produce,word,bróga,0,clothing,nouns,s
 brógareatha,item_285,CLOTHES,produces; doesn't produce,word,brógareatha,0,clothing,nouns,runners,runners
 buataisí,item_287,CLOTHES,produces; doesn't produce,word,buataisí,0,clothing,nouns,boots,boots
 caipín,item_289,CLOTHES,produces; doesn't produce,word,caipín,0,clothing,nouns,cap,hat
-clúidín,item_292,CLOTHES,produces; doesn't produce,word,clúidín,0,clothing,nouns,nappy,nappy
+clúidín,item_292,CLOTHES,produces; doesn't produce,word,clúidín,0,clothing,nouns,nappy,diaper
 cnaipe,item_294,CLOTHES,produces; doesn't produce,word,cnaipe,0,clothing,nouns,button,button
 cóta,item_296,CLOTHES,produces; doesn't produce,word,cóta,0,clothing,nouns,coat,coat
 crios,item_298,CLOTHES,produces; doesn't produce,word,crios,0,clothing,nouns,belt,cross
@@ -387,7 +387,7 @@ inaonchor,item_759,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,
 másédothoil,item_767,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,másédothoil_ledothoil,0,games_routines,other,please,please
 lón,item_769,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,lón,0,games_routines,other,lunch,lunch
 nímaith,item_771,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,grpnímaith,0,games_routines,other,don't like,don't like
-nfheadar,item_773,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,nfheadar,0,games_routines,other,dunno,dunno
+nfheadar,item_773,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,nfheadar,0,games_routines,other,dunno,don't know
 no,item_775,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,no_neó_ie,1,games_routines,other,no,no
 oíchemaith,item_776,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,oíchemaith,0,games_routines,other,good night,good night
 póigín,item_778,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,póigín,0,games_routines,other,kiss,kiss
@@ -396,7 +396,7 @@ seachain,item_781,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,s
 shh,item_783,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,shh_shush_ie,1,games_routines,other,shh,shh
 siopadóireacht,item_784,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,siopadóireacht,0,games_routines,other,shopping,shopping
 slán,item_786,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,slán,0,games_routines,other,bye,bye
-gfttabhardom,item_788,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gfttabhardom,0,games_routines,other,gimme,gimme
+gfttabhardom,item_788,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gfttabhardom,0,games_routines,other,gimme,give me
 abair,item_790,ACTION WORDS,produces; doesn't produce,word,abair,0,action_words,verbs,say,say
 aithin,item_792,ACTION WORDS,produces; doesn't produce,word,aithin,0,action_words,verbs,know,know
 ardaigh,item_794,ACTION WORDS,produces; doesn't produce,word,ardaigh,0,action_words,verbs,lift,lift (action)

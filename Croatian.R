@@ -57,6 +57,8 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="cinema/theatre"),]$uni_lemma = "movie" 
 new_items[which(new_items$uni_lemma=="dustman"),]$uni_lemma = "garbage man" 
+new_items[which(new_items$uni_lemma=="flag/banner"),]$uni_lemma = "flag" 
+new_items[which(new_items$uni_lemma=="modelling clay"),]$uni_lemma = "play dough" 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

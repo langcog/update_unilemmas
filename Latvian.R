@@ -112,6 +112,8 @@ new_items[which(new_items$uni_lemma=="brush"),]$uni_lemma = "brush (object)"
 new_items[which(new_items$uni_lemma=="be quiet"),]$uni_lemma = "shh"
 new_items[which(new_items$uni_lemma=="baa baa baa"),]$uni_lemma = "baa baa"
 new_items[which(new_items$uni_lemma=="child’s own name"),]$uni_lemma = "child's own name"
+new_items[which(new_items$uni_lemma=="don’t"),]$uni_lemma = "don't"
+new_items[which(new_items$uni_lemma=="hello/hi"),]$uni_lemma = "hello"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

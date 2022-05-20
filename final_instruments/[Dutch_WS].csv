@@ -88,7 +88,7 @@ item_86,toys,ballon,understands;produces,ballon,word,balloon,balloon
 item_87,toys,blokken,understands;produces,blokken,word,blocks,block
 item_88,toys,boek,understands;produces,boek,word,book,book
 item_89,toys,cadeau(tje),understands;produces,cadeau(tje),word,present,gift
-item_90,toys,klei/plasticine,understands;produces,klei/plasticine,word,clay,moddeling clay
+item_90,toys,klei/plasticine,understands;produces,klei/plasticine,word,clay,play dough
 item_91,toys,kleurpotloden,understands;produces,kleurpotloden,word,colored pencils,pencil
 item_92,toys,kralen/parels,understands;produces,kralen/parels,word,beads,bead
 item_93,toys,krijt,understands;produces,krijt,word,crayon,crayon
@@ -215,7 +215,7 @@ item_213,body_parts,kin,understands;produces,kin,word,chin,chin
 item_214,body_parts,knie,understands;produces,knie,word,knee,knee
 item_215,body_parts,lippen,understands;produces,lippen,word,lips,lip
 item_216,body_parts,mond,understands;produces,mond,word,mouth,mouth
-item_217,body_parts,nagel(lichaam),understands;produces,nagel(lichaam),word,nail,nail (body)
+item_217,body_parts,nagel(lichaam),understands;produces,nagel(lichaam),word,nail,nail (body part)
 item_218,body_parts,navel,understands;produces,navel,word,navel,belly button
 item_219,body_parts,nek/hals,understands;produces,nek/hals,word,neck,neck
 item_220,body_parts,neus,understands;produces,neus,word,nose,nose
@@ -256,7 +256,7 @@ item_254,household,lepel,understands;produces,lepel,word,spoon,spoon
 item_255,household,mand(je)/korf,understands;produces,mand(je)/korf,word,basket,basket
 item_256,household,medicijn(en)(sirooppilletjedrankje)/medicament,understands;produces,medicijn(en)(sirooppilletjedrankje)/medicament,word,medicines,medicine
 item_257,household,mes,understands;produces,mes,word,knife,knife
-item_258,household,nagel(voorwerp),understands;produces,nagel(voorwerp),word,nail ,nail (item)
+item_258,household,nagel(voorwerp),understands;produces,nagel(voorwerp),word,nail ,nail (object)
 item_259,household,plakband/tape,understands;produces,plakband/tape,word,tape,tape
 item_260,household,plant,understands;produces,plant,word,plant,plant
 item_261,household,portemonnee/portefeuille,understands;produces,portemonnee/portefeuille,word,wallet,wallet
@@ -510,7 +510,7 @@ item_508,action_words,haasten/zichspoeden,understands;produces,haasten/zichspoed
 item_509,action_words,haten,understands;produces,haten,word,to hate,hate (verb)
 item_510,action_words,hebben,understands;produces,hebben,word,to have,have
 item_511,action_words,helpen,understands;produces,helpen,word,to help,help
-item_512,action_words,herstellen/maken/repareren,understands;produces,herstellen/maken/repareren,word,to repair,repair (verb)
+item_512,action_words,herstellen/maken/repareren,understands;produces,herstellen/maken/repareren,word,to repair,fix
 item_513,action_words,horen,understands;produces,horen,word,to hear,hear (verb)
 item_514,action_words,houden,understands;produces,houden,word,to keep,keep
 item_515,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love (verb)
@@ -590,7 +590,7 @@ item_588,time_words,gisteren,understands;produces,gisteren,word,yesterday,yester
 item_589,time_words,later/straks,understands;produces,later/straks,word,later/soon,soon
 item_590,time_words,morgen,understands;produces,morgen,word,tomorrow,tomorrow
 item_591,time_words,na/achter,understands;produces,na/achter,word,after/behind,after
-item_592,time_words,nacht/vannacht,understands;produces,nacht/vannacht,word,night/tonight,night/tonight
+item_592,time_words,nacht/vannacht,understands;produces,nacht/vannacht,word,night/tonight,night
 item_593,time_words,nu,understands;produces,nu,word,now,now
 item_594,time_words,tijd,understands;produces,tijd,word,time,time
 item_595,time_words,totmorgen(tijd),understands;produces,totmorgen(tijd),word,see you tomorrow!,see you tomorrow
@@ -671,7 +671,7 @@ item_669,quantifiers,veel,understands;produces,veel,word,a lot,a lot
 item_670,quantifiers,zelfde,understands;produces,zelfde,word,same,same
 item_671,helping_verbs,ben(bvbikben),understands;produces,ben(bvbikben),word,am,be (verb)
 item_672,helping_verbs,bent(bvbjijbent),understands;produces,bent(bvbjijbent),word,(you) are,be (verb)
-item_673,helping_verbs,deed/deedje,understands;produces,deed/deedje,word,did,do (verb)
+item_673,helping_verbs,deed/deedje,understands;produces,deed/deedje,word,did,do
 item_674,helping_verbs,doen,understands;produces,doen,word,to do,do
 item_675,helping_verbs,ga+ww(bvbikgaspelen),understands;produces,ga+ww(bvbikgaspelen),word,to go,go
 item_676,helping_verbs,hijdoet,understands;produces,hijdoet,word,he does,do

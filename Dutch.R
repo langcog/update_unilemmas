@@ -98,6 +98,13 @@ new_items[which(new_items$uni_lemma=="drink (verb+noun)"),]$uni_lemma = "drink (
 new_items[which(new_items$uni_lemma=="dick"),]$uni_lemma = "penis"
 new_items[which(new_items$uni_lemma=="do the dished"),]$uni_lemma = "wash"
 new_items[which(new_items$uni_lemma=="climb (verb)"),]$uni_lemma = "climb"
+new_items[which(new_items$uni_lemma=="do (verb)"),]$uni_lemma = "do"
+new_items[which(new_items$uni_lemma=="handbag"),]$uni_lemma = "bag"
+new_items[which(new_items$uni_lemma=="nail (body)"),]$uni_lemma = "nail (body part)"
+new_items[which(new_items$uni_lemma=="nail (item)"),]$uni_lemma = "nail (object)"
+new_items[which(new_items$uni_lemma=="night/tonight"),]$uni_lemma = "night"
+new_items[which(new_items$uni_lemma=="moddeling clay"),]$uni_lemma = "play dough" # or clay
+new_items[which(new_items$uni_lemma=="repair (verb)"),]$uni_lemma = "fix"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

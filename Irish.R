@@ -59,6 +59,11 @@ new_items[which(new_items$uni_lemma=="drink (liquid)"),]$uni_lemma = "drink (obj
 new_items[which(new_items$uni_lemma=="colour"),]$uni_lemma = "color (action)"
 new_items[which(new_items$uni_lemma=="crios"),]$uni_lemma = "cross"
 new_items[which(new_items$uni_lemma=="footpath"),]$uni_lemma = "sidewalk"
+new_items[which(new_items$uni_lemma=="dunno"),]$uni_lemma = "don't know"
+new_items[which(new_items$uni_lemma=="gimme"),]$uni_lemma = "give me" 
+new_items[which(new_items$uni_lemma=="nappy"),]$uni_lemma = "diaper" 
+new_items[which(new_items$uni_lemma=="motorbike"),]$uni_lemma = "motorcycle" 
+new_items[which(new_items$uni_lemma=="rashers"),]$uni_lemma = "bacon"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
