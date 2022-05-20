@@ -22,6 +22,7 @@ new_items[which(new_items$WS=="item_4"),]$uni_lemma = "quack quack" # sound, not
 new_items[which(new_items$WS=="item_5"),]$uni_lemma = "hee haw" # sound, not animal
 new_items[which(new_items$WS=="item_6"),]$uni_lemma = "woof woof" # sound, not animal
 new_items[which(new_items$WS=="item_12"),]$uni_lemma = "baa baa" # goat -- close enough to sheep?
+new_items[which(new_items$uni_lemma=="bedsheet"),]$uni_lemma = "sheet"
 
 # ToDo: check empty uni-lemmas ("")
 

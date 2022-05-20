@@ -43,10 +43,12 @@ new_items[which(new_items$WG=="item_148"),]$uni_lemma = "inside"
 new_items[which(new_items$WG=="item_238"),]$uni_lemma = "won't do" # I won't..
 
 # ToDo: check blanks ("") and "at/in/on"
+subset(new_items, uni_lemma=="")
+new_items[which(new_items$uni_lemma==""),] = NA
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
-# "196 new uni-lemmas defined for Korean"
+# "195 new uni-lemmas defined for Korean"
 
 new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
-# "43 new uni-lemmas defined for Korean"
+# "42 new uni-lemmas defined for Korean"

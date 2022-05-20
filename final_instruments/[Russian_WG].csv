@@ -365,24 +365,24 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 оранжевый,descriptive_words (adjectives),NA,word,understands; produces,NA,item_391,orange,orange (description)
 синий,descriptive_words (adjectives),NA,word,understands; produces,NA,item_392,blue,blue
 черный,descriptive_words (adjectives),NA,word,understands; produces,NA,item_393,black,black
-больно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_394,paintfully/boo-boo,painfully
-быстро,descriptive_words (adverbs),NA,word,understands; produces,NA,item_395,quick (quickly),quickly
-вкусно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_396,tastefully,tastily
-горячо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_397,hot,hotly
-громко,descriptive_words (adverbs),NA,word,understands; produces,NA,item_398,loud (loudly),loudly
-грязно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_399,dirty,dirtily
-красиво,descriptive_words (adverbs),NA,word,understands; produces,NA,item_400,beautifully,beautifully
-мокро,descriptive_words (adverbs),NA,word,understands; produces,NA,item_401,wet,wetly
-осторожно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_402,carefully/be carefull,carefully
-плохо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_403,badly/poorly,badly
-сладко,descriptive_words (adverbs),NA,word,understands; produces,NA,item_404,sweet,sweetly
-темно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_405,dark,darkly
-тепло,descriptive_words (adverbs),NA,word,understands; produces,NA,item_406,warm,warmly
-тихо/тише,descriptive_words (adverbs),NA,word,understands; produces,NA,item_407,quietly/shh,quietly
-тяжело,descriptive_words (adverbs),NA,word,understands; produces,NA,item_408,heavily,heavily
-холодно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_409,cold,coldly
-хорошо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_410,good,well (modifier)
-чисто,descriptive_words (adverbs),NA,word,understands; produces,NA,item_411,cleanly,cleanly
+больно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_394,paintfully/boo-boo,painful
+быстро,descriptive_words (adverbs),NA,word,understands; produces,NA,item_395,quick (quickly),quick
+вкусно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_396,tastefully,yummy
+горячо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_397,hot,hot
+громко,descriptive_words (adverbs),NA,word,understands; produces,NA,item_398,loud (loudly),loud
+грязно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_399,dirty,dirty
+красиво,descriptive_words (adverbs),NA,word,understands; produces,NA,item_400,beautifully,beautiful
+мокро,descriptive_words (adverbs),NA,word,understands; produces,NA,item_401,wet,wet
+осторожно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_402,carefully/be carefull,careful
+плохо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_403,badly/poorly,bad
+сладко,descriptive_words (adverbs),NA,word,understands; produces,NA,item_404,sweet,sweet
+темно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_405,dark,dark
+тепло,descriptive_words (adverbs),NA,word,understands; produces,NA,item_406,warm,warm
+тихо/тише,descriptive_words (adverbs),NA,word,understands; produces,NA,item_407,quietly/shh,quiet
+тяжело,descriptive_words (adverbs),NA,word,understands; produces,NA,item_408,heavily,heavy
+холодно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_409,cold,cold
+хорошо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_410,good,good
+чисто,descriptive_words (adverbs),NA,word,understands; produces,NA,item_411,cleanly,clean
 днем,time_words,NA,word,understands; produces,NA,item_412,in the afternoon,day
 ночью,time_words,NA,word,understands; produces,NA,item_413,by night,night
 утром,time_words,NA,word,understands; produces,NA,item_414,in the morning,morning

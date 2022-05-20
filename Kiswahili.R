@@ -34,14 +34,17 @@ new_items[which(new_items$WG=="item_9"),]$uni_lemma = "ouch" #
 new_items[which(new_items$WG=="item_15"),]$uni_lemma = "vroom" # car sound?
 new_items[which(new_items$WG=="item_96"),]$uni_lemma = "pants" # 
 new_items[which(new_items$WG=="item_206"),]$uni_lemma = "how are you" # 
-
+new_items[which(new_items$uni_lemma=="bedsheet"),]$uni_lemma = "sheet"
 
 
 # ToDo: check empty uni-lemmas ("")
+subset(new_items, uni_lemma=="")
+new_items[which(new_items$uni_lemma==""),] = NA
+
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
-# "132 new uni-lemmas defined for Kiswahili"
+# "131 new uni-lemmas defined for Kiswahili"
 
 new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
-# "62 new uni-lemmas defined for Kiswahili"
+# "61 new uni-lemmas defined for Kiswahili"

@@ -232,7 +232,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 палец,body_parts,NA,word,produces,NA,item_231,finger/toe,finger
 плечи,body_parts,NA,word,produces,NA,item_232,shoulders,shoulder
 пупок,body_parts,NA,word,produces,NA,item_233,belly button,belly button
-ресницы,body_parts,NA,word,produces,NA,item_234,eyelashes,eyelashes
+ресницы,body_parts,NA,word,produces,NA,item_234,eyelashes,eyelash
 рот,body_parts,NA,word,produces,NA,item_235,mouth,mouth
 рука,body_parts,NA,word,produces,NA,item_236,arm/hand,arm
 спина,body_parts,NA,word,produces,NA,item_237,back,back (object)
@@ -581,34 +581,34 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 оранжевый,descriptive_words (adjectives),NA,word,produces,NA,item_580,orange,orange (description)
 синий,descriptive_words (adjectives),NA,word,produces,NA,item_581,blue,blue
 черный,descriptive_words (adjectives),NA,word,produces,NA,item_582,black,black
-больно,descriptive_words (adverbs),NA,word,produces,NA,item_583,paintfully/boo-boo,painfully
-быстро,descriptive_words (adverbs),NA,word,produces,NA,item_584,quick (quickly),quickly
-весело,descriptive_words (adverbs),NA,word,produces,NA,item_585,cheerfully,cheerfully
-вкусно,descriptive_words (adverbs),NA,word,produces,NA,item_586,tastefully,tastily
+больно,descriptive_words (adverbs),NA,word,produces,NA,item_583,paintfully/boo-boo,painful
+быстро,descriptive_words (adverbs),NA,word,produces,NA,item_584,quick (quickly),quick
+весело,descriptive_words (adverbs),NA,word,produces,NA,item_585,cheerfully,cheerful
+вкусно,descriptive_words (adverbs),NA,word,produces,NA,item_586,tastefully,yummy
 вместе,descriptive_words (adverbs),NA,word,produces,NA,item_587,together,together
-горько,descriptive_words (adverbs),NA,word,produces,NA,item_588,bitterly,bitterly
-горячо,descriptive_words (adverbs),NA,word,produces,NA,item_589,hot,hotly
-громко,descriptive_words (adverbs),NA,word,produces,NA,item_590,loud (loudly),loudly
-грязно,descriptive_words (adverbs),NA,word,produces,NA,item_591,dirty,dirtily
-кисло,descriptive_words (adverbs),NA,word,produces,NA,item_592,sour,sourly
-красиво,descriptive_words (adverbs),NA,word,produces,NA,item_593,beautifully,beautifully
-мокро,descriptive_words (adverbs),NA,word,produces,NA,item_594,wet,wetly
-мягко,descriptive_words (adverbs),NA,word,produces,NA,item_595,softly,softly
+горько,descriptive_words (adverbs),NA,word,produces,NA,item_588,bitterly,bitter
+горячо,descriptive_words (adverbs),NA,word,produces,NA,item_589,hot,hot
+громко,descriptive_words (adverbs),NA,word,produces,NA,item_590,loud (loudly),loud
+грязно,descriptive_words (adverbs),NA,word,produces,NA,item_591,dirty,dirty
+кисло,descriptive_words (adverbs),NA,word,produces,NA,item_592,sour,sour
+красиво,descriptive_words (adverbs),NA,word,produces,NA,item_593,beautifully,beautiful
+мокро,descriptive_words (adverbs),NA,word,produces,NA,item_594,wet,wet
+мягко,descriptive_words (adverbs),NA,word,produces,NA,item_595,softly,soft
 никак,descriptive_words (adverbs),NA,word,produces,NA,item_596,in no way,in no way
 опять,descriptive_words (adverbs),NA,word,produces,NA,item_597,again,again
-осторожно,descriptive_words (adverbs),NA,word,produces,NA,item_598,carefully/be carefull,carefully
-плохо,descriptive_words (adverbs),NA,word,produces,NA,item_599,badly/poorly,badly
-сильно,descriptive_words (adverbs),NA,word,produces,NA,item_600,strongly/badly/hard,strongly
-сладко,descriptive_words (adverbs),NA,word,produces,NA,item_601,sweet,sweetly
-совсем,descriptive_words (adverbs),NA,word,produces,NA,item_602,quite,totally
-сухо,descriptive_words (adverbs),NA,word,produces,NA,item_603,drily,dryly
-темно,descriptive_words (adverbs),NA,word,produces,NA,item_604,dark,darkly
-тепло,descriptive_words (adverbs),NA,word,produces,NA,item_605,warm,warmly
-тихо/тише,descriptive_words (adverbs),NA,word,produces,NA,item_606,quietly/shh,quietly
-тяжело,descriptive_words (adverbs),NA,word,produces,NA,item_607,heavily,heavily
-холодно,descriptive_words (adverbs),NA,word,produces,NA,item_608,cold,coldly
-хорошо,descriptive_words (adverbs),NA,word,produces,NA,item_609,good,well (modifier)
-чисто,descriptive_words (adverbs),NA,word,produces,NA,item_610,cleanly,cleanly
+осторожно,descriptive_words (adverbs),NA,word,produces,NA,item_598,carefully/be carefull,careful
+плохо,descriptive_words (adverbs),NA,word,produces,NA,item_599,badly/poorly,bad
+сильно,descriptive_words (adverbs),NA,word,produces,NA,item_600,strongly/badly/hard,strong
+сладко,descriptive_words (adverbs),NA,word,produces,NA,item_601,sweet,sweet
+совсем,descriptive_words (adverbs),NA,word,produces,NA,item_602,quite,quite
+сухо,descriptive_words (adverbs),NA,word,produces,NA,item_603,drily,dry
+темно,descriptive_words (adverbs),NA,word,produces,NA,item_604,dark,dark
+тепло,descriptive_words (adverbs),NA,word,produces,NA,item_605,warm,warm
+тихо/тише,descriptive_words (adverbs),NA,word,produces,NA,item_606,quietly/shh,quiet
+тяжело,descriptive_words (adverbs),NA,word,produces,NA,item_607,heavily,heavy
+холодно,descriptive_words (adverbs),NA,word,produces,NA,item_608,cold,cold
+хорошо,descriptive_words (adverbs),NA,word,produces,NA,item_609,good,good
+чисто,descriptive_words (adverbs),NA,word,produces,NA,item_610,cleanly,clean
 вечер,time_words,NA,word,produces,NA,item_611,evening,evening
 день,time_words,NA,word,produces,NA,item_612,day,day
 ночь,time_words,NA,word,produces,NA,item_613,night,night
@@ -725,5 +725,5 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 потому что,connecting_words,NA,word,produces,NA,item_724,because,because
 тоже,connecting_words,NA,word,produces,NA,item_725,too,also
 что,connecting_words,NA,word,produces,NA,item_726,that,that
-а то,connecting_words,NA,word,produces,NA,item_727,or else/or,or else
+а то,connecting_words,NA,word,produces,NA,item_727,or else/or,or
 чтобы,connecting_words,NA,word,produces,NA,item_728,in order to,in order to

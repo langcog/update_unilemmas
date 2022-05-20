@@ -1,19 +1,19 @@
 itemID,item,type,category,choices,definition,complexity_category,gloss,uni_lemma
 item_1,a14sheba,word,sounds,produces,Baa baa,NA,Sheep,baa baa
-item_2,a1birchr,word,sounds,produces,chri chri chri,NA,bird,
+item_2,a1birchr,word,sounds,produces,chri chri chri,NA,NA,NA
 item_3,a9donheo,word,sounds,produces,Heoo heoo,NA,Donkey,hee haw
 item_4,a16dovhu,word,sounds,produces,Hua,NA,Dove,coo
 item_5,a8doghuo,word,sounds,produces,Huo huo,NA,Dog,woof woof
 item_6,a17duckh,word,sounds,produces,Khe khe khe,NA,Duck,quack quack
 item_7,a11monki,word,sounds,produces,Kima,NA,monkey,monkey
-item_8,a4chikru,word,sounds,produces,Kru kru kru,NA,Chicken calling chicks,
+item_8,a4chikru,word,sounds,produces,Kru kru kru,NA,NA,NA
 item_9,a5cockuk,word,sounds,produces,Kukuriukuu,NA,Cockerel,cockadoodledoo
 item_10,a7croku,word,sounds,produces,Kunguru,NA,Crow,crow
 item_11,a3catmia,word,sounds,produces,miau miau,NA,Cat,meow
 item_12,a10goamm,word,sounds,produces,mmee mmee,NA,Goat,baa baa
 item_13,a6cowmo,word,sounds,produces,mooh mooh,NA,Cow,moo
-item_14,a18motpi,word,sounds,produces,Pikipiki,NA,Motorbike,
-item_15,a13phosi,word,sounds,produces,Simu,NA,Phone,
+item_14,a18motpi,word,sounds,produces,Pikipiki,NA,NA,NA
+item_15,a13phosi,word,sounds,produces,Simu,NA,NA,NA
 item_16,a15sweta,word,sounds,produces,Tamu tamu,NA,Sweetness,yum yum
 item_17,a12oucum,word,sounds,produces,Umia,NA,Ouch,ouch
 item_18,a2carvru,word,sounds,produces,Vruum vruum,NA,Car,vroom
@@ -31,7 +31,7 @@ item_29,b23cocko,word,animals,produces,Kombamwiko,NA,cockroach,cockroach
 item_30,b34sheko,word,animals,produces,Kondoo,NA,Sheep,sheep
 item_31,b12henko,word,animals,produces,Koo,NA,Hen,hen
 item_32,b4chikuk,word,animals,produces,Kuku,NA,Chicken,chicken (animal)
-item_33,b19bedku,word,animals,produces,Kunguni,NA,Bed bug,
+item_33,b19bedku,word,animals,produces,Kunguni,NA,NA,NA
 item_34,b6croku,word,animals,produces,Kunguru/Kurabu,NA,Crow,crow
 item_35,b32mosmb,word,animals,produces,Mbu,NA,Mosquito,mosquito
 item_36,b11goamb,word,animals,produces,Mbuzi/Mee,NA,Goat,goat
@@ -81,7 +81,7 @@ item_79,d7gammch,word,toys,produces,Mchezo,NA,Game/Play,game
 item_80,d1balmpi,word,toys,produces,Mpira/Boli,NA,Ball,ball
 item_81,d14glung,word,toys,produces,Ngamu/Gundi/Gamu,NA,Glue,glue
 item_82,d16penpe,word,toys,produces,Penseli,NA,Pencil,pencil
-item_83,d13colpe,word,toys,produces,Penseli rangi/Colour/Rangi,NA,colouring pencil/crayons,
+item_83,d13colpe,word,toys,produces,Penseli rangi/Colour/Rangi,NA,NA,NA
 item_84,d6foapov,word,toys,produces,Povu,NA,Foam/bubbles,bubbles
 item_85,d8mudud,word,toys,produces,Udongo,NA,Mud/Clay,sand
 item_86,d11boavi,word,toys,produces,Vibao/Bao,NA,Board,board game
@@ -123,7 +123,7 @@ item_121,e39watma,word,food_drink,produces,Maji,NA,WaterF,water (beverage)
 item_122,e25orama,word,food_drink,produces,Maji ya machungwa/juisi,NA,orange juice,orange juice
 item_123,e51fruma,word,food_drink,produces,Matomoko,NA,Fruit,fruit
 item_124,e23milma,word,food_drink,produces,Maziwa,NA,Milk,milk
-item_125,e72souma,word,food_drink,produces,Maziwa mala/lala/kuganda/Yoghurt,NA,Sour milk,
+item_125,e72souma,word,food_drink,produces,Maziwa mala/lala/kuganda/Yoghurt,NA,NA,NA
 item_126,e53gremb,word,food_drink,produces,Mbaazi,NA,Green peas,peas
 item_127,e71soumc,word,food_drink,produces,mchuzi,NA,Soup/sauce,sauce
 item_128,e4bremka,word,food_drink,produces,Mkate,NA,Bread,bread
@@ -157,10 +157,10 @@ item_154,e40alcte,word,food_drink,produces,Tembo/pombe,NA,Alcohol,elephant
 item_155,e76watti,word,food_drink,produces,Tikiti/Watermelon,NA,Watermelon,watermelon
 item_156,e37toato,word,food_drink,produces,Tosti,NA,Toasted Bread,toast
 item_157,e26pouji,word,food_drink,produces,uji,NA,Porridge,porridge
-item_158,e60maiun,word,food_drink,produces,Unga,NA,Maize Flour,
+item_158,e60maiun,word,food_drink,produces,Unga,NA,NA,NA
 item_159,e27potvi,word,food_drink,produces,Viazi,NA,Potatoes,potato
 item_160,e12chivi,word,food_drink,produces,Viazi kaanga/chips,NA,Chips,chips
-item_161,e67potvi,word,food_drink,produces,Viazi vya rojo/Viazi karai,NA,potatoes in soup,
+item_161,e67potvi,word,food_drink,produces,Viazi vya rojo/Viazi karai,NA,NA,NA
 item_162,e28ricwa,word,food_drink,produces,Wali/Mchele,NA,Rice,rice
 item_163,e15eggya,word,food_drink,produces,Yai,NA,Egg,egg
 item_164,f16banba,word,clothing,produces,Bangili,NA,Bangles,bracelet
@@ -169,14 +169,14 @@ item_166,f29mosbu,word,clothing,produces,buibui,NA,Moslem overdress,shawl
 item_167,f14undch,word,clothing,produces,Chupi/Panti,NA,Underpants,underpants
 item_168,f27jacja,word,clothing,produces,jaketi,NA,Jacket,jacket
 item_169,f28jeaji,word,clothing,produces,Jeans,NA,Jeans,jeans
-item_170,f31petka,word,clothing,produces,Kamisi,NA,Petticoat,
-item_171,f20cloka,word,clothing,produces,kanga,NA,Cloth1,
+item_170,f31petka,word,clothing,produces,Kamisi,NA,NA,NA
+item_171,f20cloka,word,clothing,produces,kanga,NA,NA,NA
 item_172,f10shoka,word,clothing,produces,Kaptula/Kinyasa/Kipande,NA,Shorts,shorts
 item_173,f9shokia,word,clothing,produces,Kiatu,NA,Shoe,shoe
 item_174,f19butki,word,clothing,produces,Kifungo,NA,Button,button
-item_175,f21cloki,word,clothing,produces,Kikoi,NA,Cloth2,
+item_175,f21cloki,word,clothing,produces,Kikoi,NA,NA,NA
 item_176,f4hatki,word,clothing,produces,Kipkapa/kepa/Cap,NA,Hat/cap,hat
-item_177,f32petki,word,clothing,produces,kirinda,NA,Peticoat,
+item_177,f32petki,word,clothing,produces,kirinda,NA,NA,NA
 item_178,f33pieki,word,clothing,produces,Kitambaa,NA,Piece of cloth,bib
 item_179,f26heak,word,clothing,produces,Kitambaa cha kichwa/Hijab,NA,headscarf,scarf
 item_180,f25hatko,word,clothing,produces,Kofia,NA,Hat,hat
@@ -191,7 +191,7 @@ item_188,f2clongu,word,clothing,produces,Nguo,NA,Clothes,clothes
 item_189,f23dreri,word,clothing,produces,Rinda,NA,Dress,dress (object)
 item_190,f7sansap,word,clothing,produces,Sapata/pata pata/ndara/Champali/Slipper,NA,Sandals,sandals
 item_191,f8shisha,word,clothing,produces,Shati,NA,Shirt,shirt
-item_192,f34shesh,word,clothing,produces,shuka/shiti,NA,Sheet,bedsheet
+item_192,f34shesh,word,clothing,produces,shuka/shiti,NA,Sheet,sheet
 item_193,f35skisi,word,clothing,produces,Sketi,NA,Skirt,skirt
 item_194,f11socso,word,clothing,produces,Soksi,NA,Socks,sock
 item_195,f36suisu,word,clothing,produces,suti/Beli,NA,Suit,suit
@@ -240,7 +240,7 @@ item_237,h22papka,word,household,produces,Karatasi,NA,Paper,paper
 item_238,h54tolka,word,household,produces,Karatasi ya chooni/ya kujipangusa,NA,Toliet paper,toilet paper
 item_239,h9comki,word,household,produces,Kichana,NA,Comb,comb (object)
 item_240,h49opeki,word,household,produces,Kifunuo,NA,Opener,can opener
-item_241,h41copki,word,household,produces,Kifuvu/Kifuu,NA,copra (coconut cover),
+item_241,h41copki,word,household,produces,Kifuvu/Kifuu,NA,NA,NA
 item_242,h29spoki,word,household,produces,Kijiko,NA,Spoon,spoon
 item_243,h3baski,word,household,produces,Kikapu,NA,Basket,basket
 item_244,h11cupki,word,household,produces,kikombe,NA,Cup,cup
@@ -248,14 +248,14 @@ item_245,h16kniki,word,household,produces,Kisu,NA,Knife,knife
 item_246,h48mugki,word,household,produces,Kopo,NA,Mug,mug
 item_247,h52scima,word,household,produces,Makasi,NA,Scissor,scissors
 item_248,h40cocma,word,household,produces,Makuti,NA,coconut leaves,roof
-item_249,h35atma,word,household,produces,Mbuzi,NA,A tool used to grate coconut,
+item_249,h35atma,word,household,produces,Mbuzi,NA,NA,NA
 item_250,h13glami,word,household,produces,Miwani,NA,Glasses,glasses
-item_251,h53tinmk,word,household,produces,Mkebe,NA,Tin,
+item_251,h53tinmk,word,household,produces,Mkebe,NA,NA,NA
 item_252,h47matmk,word,household,produces,Mkeka,NA,Mat,mat
 item_253,h1bagmko,word,household,produces,Mkoba/mfuko/begi,NA,Bag,bag
 item_254,h31tooms,word,household,produces,Mswaki,NA,Toothbrush,toothbrush
 item_255,h50pilmt,word,household,produces,Mto,NA,Pillow,pillow
-item_256,h10coomw,word,household,produces,Mwiko,NA,Cooking stick,
+item_256,h10coomw,word,household,produces,Mwiko,NA,NA,NA
 item_257,h8bucndo,word,household,produces,Ndoo,NA,Bucket1,bucket
 item_258,h43hamny,word,household,produces,Nyundo,NA,Hammer,hammer
 item_259,h21monp,word,household,produces,Pesa/ngenje,NA,Money,money
@@ -283,7 +283,7 @@ item_280,i12batba,word,furniture_rooms,produces,Bafu,NA,Bathroom,bathroom
 item_281,i7roochu,word,furniture_rooms,produces,Chumba/Bedroom,NA,Room,bedroom
 item_282,i21windi,word,furniture_rooms,produces,Dirisha,NA,Window,window
 item_283,i16frifr,word,furniture_rooms,produces,Friji/barafu,NA,Fridge,refrigerator
-item_284,i17loggo,word,furniture_rooms,produces,Gogo/Kumbi,NA,Log,
+item_284,i17loggo,word,furniture_rooms,produces,Gogo/Kumbi,NA,NA,NA
 item_285,i5kitjik,word,furniture_rooms,produces,Jikoni,NA,Kitchen,kitchen
 item_286,i3cupkab,word,furniture_rooms,produces,Kabati,NA,Cupboard,closet
 item_287,i1bedkit,word,furniture_rooms,produces,Kitanda,NA,Bed,bed
@@ -325,7 +325,7 @@ item_322,j23stany,word,outside,produces,Nyota,NA,Star,star
 item_323,j11slapa,word,outside,produces,Panga,NA,Slasher,machete
 item_324,j5holshi,word,outside,produces,Shimo,NA,Hole,hole
 item_325,j26winu,word,outside,produces,Upepo,NA,Wind,wind
-item_326,j12smavi,word,outside,produces,Vichuma,NA,Small pieces of metal,
+item_326,j12smavi,word,outside,produces,Vichuma,NA,NA,NA
 item_327,k11beaba,word,places,produces,Baharini/Pwani/Beach,NA,Beach,beach
 item_328,k21verba,word,places,produces,Barazani,NA,Verandah,balcony
 item_329,k9shoduk,word,places,produces,Dukani,NA,shop,store
@@ -333,7 +333,7 @@ item_330,k13cinfi,word,places,produces,Filamu/Sinema/Video,NA,Cinema,movie
 item_331,k5moska,word,places,produces,Kanisani/Msikitini,NA,Mosque/Church,church
 item_332,k22worka,word,places,produces,Kazini,NA,Workplace,work (place)
 item_333,k20petki,word,places,produces,Kituo cha mafuta/Petroli/Jina la kituo,NA,Petrol station,gas station
-item_334,k17islma,word,places,produces,Madrasa/chuoni,NA,Islamic school for children,
+item_334,k17islma,word,places,produces,Madrasa/chuoni,NA,NA,NA
 item_335,k12busmw,word,places,produces,Mwituni,NA,Bush,village
 item_336,k13homny,word,places,produces,Nyumba,NA,House,house
 item_337,k3hommud,word,places,produces,Nyumbani,NA,Home,home
@@ -350,7 +350,7 @@ item_347,l8graba,word,people,produces,Babu,NA,Grandfather,grandpa
 item_348,l27wifbi,word,people,produces,Bibi/Mke,NA,Wife,grandma
 item_349,l14sisda,word,people,produces,Dada,NA,Sister,sister
 item_350,l4docdak,word,people,produces,Daktari/Mganga,NA,Doctor,doctor
-item_351,l6expfu,word,people,produces,Fundi,NA,Expert,
+item_351,l6expfu,word,people,produces,Fundi,NA,NA,NA
 item_352,l5dogjin,word,people,produces,Jina la mbwa/paka,NA,Dog's / Cat's name,pet's name
 item_353,l3chijin,word,people,produces,Jina la mtoto,NA,Child's name,child's own name
 item_354,l1carjin,word,people,produces,Jina la mzazi/mlezi,NA,Caregiver's name,babysitter's name
@@ -358,7 +358,7 @@ item_355,l10infki,word,people,produces,Kitoto/ Mtoto mchanga,NA,Infant,baby
 item_356,l29youma,word,people,produces,Mama mdogo,NA,Younger maternal aunt,aunt
 item_357,l23oldma,word,people,produces,Mama mkubwa,NA,Older maternal aunt,aunt
 item_358,l12motma,word,people,produces,Mama/Nina/Mummy,NA,Mother,mommy
-item_359,l28winmu,word,people,produces,Mgema,NA,Wine tapper,
+item_359,l28winmu,word,people,produces,Mgema,NA,NA,NA
 item_360,l11matmj,word,people,produces,Mjomba/Uncle,NA,Maternal Uncle,uncle
 item_361,l17farmk,word,people,produces,Mkulima,NA,Farmer,farmer
 item_362,l20herml,word,people,produces,Mlisha,NA,Herdsman,herder
@@ -378,33 +378,32 @@ item_375,m14brech,word,games_routines,produces,Chai/Kiamsha kinywa,NA,Breakfast,
 item_376,m15dinch,word,games_routines,produces,Chajio,NA,Dinner/ supper,dinner
 item_377,m19lunch,word,games_routines,produces,Chamchana,NA,Lunch,lunch
 item_378,m23welka,word,games_routines,produces,Karibu,NA,Welcome,welcome
-item_379,m2gamki,word,games_routines,produces,Kibe,NA,Game of hide and seek,
+item_379,m2gamki,word,games_routines,produces,Kibe,NA,NA,NA
 item_380,m3goiku,word,games_routines,produces,Kujisaidia/pembeni/Haja/Pupu/Kanye,NA,Go to the toilet,go potty
 item_381,m13batku,word,games_routines,produces,Kuoga,NA,Bathe,shower
-item_382,m22relku,word,games_routines,produces,Kupumzika/Nimechoka,NA,Relaxing,
+item_382,m22relku,word,games_routines,produces,Kupumzika/Nimechoka,NA,NA,NA
 item_383,m1byekw,word,games_routines,produces,Kwa kheri/Bye bye,NA,Bye,bye
 item_384,m8nola,word,games_routines,produces,La/Hapana,NA,No,no
 item_385,m6howma,word,games_routines,produces,Mambo /Hujambo,NA,How are you?,how are you
-item_386,m12yesna,word,games_routines,produces,Naam/Ndio/Ehe,NA,Yes,
+item_386,m12yesna,word,games_routines,produces,Naam/Ndio/Ehe,NA,NA,NA
 item_387,m20mak,word,games_routines,produces,Piga simu,NA,Make a phone call,call on phone
 item_388,m9sorpo,word,games_routines,produces,Pole,NA,Sorry,sorry
 item_389,m5hisasa,word,games_routines,produces,Sasa?,NA,hi?,now
-item_390,m7howsh,word,games_routines,produces,Shikamoo,NA,How are you? ( respectful greeting),
-item_391,m16donsi,word,games_routines,produces,Sitaki,NA,Don't want to,
+item_390,m7howsh,word,games_routines,produces,Shikamoo,NA,NA,NA
+item_391,m16donsi,word,games_routines,produces,Sitaki,NA,NA,NA
 item_392,m10telss,word,games_routines,produces,Ssssshh,NA,Tell someone to keep quiet,shh
 item_393,m21pleta,word,games_routines,produces,tafadhali/naomba,NA,Please,please
 item_394,m17gamuk,word,games_routines,produces,Ukuti,NA,Game involving going round,ring around the rosie
 item_395,m18gooum,word,games_routines,produces,Umeshindaje?,NA,Good evening,good evening
-item_396,m24youun,word,games_routines,produces,Unacho,NA,You have it,
+item_396,m24youun,word,games_routines,produces,Unacho,NA,NA,NA
 item_397,m4gooac,word,games_routines,produces,Usiku mwema/Lala salama/Ulaze salama,NA,Good night,good night
-item_397,m4gooac,word,games_routines,produces,Usiku mwema/Lala salama/Ulaze salama,NA,,
 item_398,n31leaam,word,action_words,produces,Acha,NA,Leave,stop
 item_399,n55wakan,word,action_words,produces,Amka/Zinduka,NA,Wake up,wake
 item_400,n56wrian,word,action_words,produces,Andika,NA,Write,write
 item_401,n49takan,word,action_words,produces,Angalia/tunza/linda,NA,take care of,watch (action)
 item_402,n20falan,word,action_words,produces,Anguka,NA,Fall,fall
 item_403,n18droan,word,action_words,produces,Angusha,NA,Drop,drop
-item_404,n96spran,word,action_words,produces,Anika,NA,Spread clothes,
+item_404,n96spran,word,action_words,produces,Anika,NA,NA,NA
 item_405,n6carbe,word,action_words,produces,Beba,NA,Carry,carry
 item_406,n97swibe,word,action_words,produces,Bembea,NA,Swing,swing (action)
 item_407,n29knobi,word,action_words,produces,Bisha/gonga,NA,Knock,knock
@@ -412,9 +411,7 @@ item_408,n28kisbu,word,action_words,produces,Busu/Shumu,NA,Kiss,kiss
 item_409,n62choca,word,action_words,produces,Chagua,NA,Choose,choose
 item_410,n30lauch,word,action_words,produces,Cheka/tabasamu,NA,Laugh/Smile,smile
 item_411,n13danch,word,action_words,produces,Cheza,NA,Dance,dance
-item_411,n13danch,word,action_words,produces,Cheza,NA,,
 item_412,n35plach,word,action_words,produces,Cheza,NA,Play,play
-item_412,n35plach,word,action_words,produces,Cheza,NA,,
 item_413,n14drach,word,action_words,produces,Chora,NA,Draw,draw
 item_414,n73hatch,word,action_words,produces,Chukia,NA,Hate,angry
 item_415,n50takch,word,action_words,produces,Chukua,NA,Take,take
@@ -568,7 +565,7 @@ item_562,p8todleo,word,time_words,produces,Leo,NA,Today,today
 item_563,p2daymc,word,time_words,produces,Mchana,NA,Daytime,day
 item_564,p7nowsa,word,time_words,produces,Sasa,NA,Now,now
 item_565,p1daysik,word,time_words,produces,Siku,NA,Day,day
-item_566,p10whosi,word,time_words,produces,Siku nzima,NA,Whole Day,
+item_566,p10whosi,word,time_words,produces,Siku nzima,NA,NA,NA
 item_567,p6nigusi,word,time_words,produces,Usiku,NA,Night,night
 item_568,v10idhu,word,pronouns,produces,Huyu,NA,01dem1,her
 item_569,v20idyu,word,pronouns,produces,Yule,NA,01dem2,he
@@ -579,7 +576,7 @@ item_573,v60ipwa,word,pronouns,produces,Wangu,NA,01ps1,mine
 item_574,v70ipwak,word,pronouns,produces,Wako,NA,01ps2,to you
 item_575,v80ipwa,word,pronouns,produces,Wake,NA,01ps3,his
 item_576,v90ipwe,word,pronouns,produces,Wetu,NA,01ps4,our
-item_577,v100ipwe,word,pronouns,produces,Wenu,NA,01ps5,
+item_577,v100ipwe,word,pronouns,produces,Wenu,NA,NA,NA
 item_578,v110ipwa,word,pronouns,produces,Wao,NA,01ps6,they
 item_579,v1202dha,word,pronouns,produces,Hawa,NA,02dem1,them
 item_580,v1302dw,word,pronouns,produces,Wale,NA,02dem2,those
@@ -594,16 +591,16 @@ item_588,v2105dlo,word,pronouns,produces,Lote,NA,05dem4,all
 item_589,v2205dli,word,pronouns,produces,Lingine,NA,05dem5,another
 item_590,v2305dle,word,pronouns,produces,Lenye,NA,05dem6,with
 item_591,v2405pla,word,pronouns,produces,Langu,NA,05ps1,mine
-item_592,v2505pla,word,pronouns,produces,Lako,NA,05ps2,
+item_592,v2505pla,word,pronouns,produces,Lako,NA,NA,NA
 item_593,v2605pla,word,pronouns,produces,Lake,NA,05ps3,his
-item_594,v2705ple,word,pronouns,produces,Letu,NA,05ps4,
-item_595,v2805ple,word,pronouns,produces,Lenu,NA,05ps5,
+item_594,v2705ple,word,pronouns,produces,Letu,NA,NA,NA
+item_595,v2805ple,word,pronouns,produces,Lenu,NA,NA,NA
 item_596,v2905pla,word,pronouns,produces,Lao,NA,05ps6,theirs
 item_597,v3006dha,word,pronouns,produces,Haya,NA,06dem1,these
 item_598,v3106dya,word,pronouns,produces,Yale,NA,06dem2,those
 item_599,v3206dha,word,pronouns,produces,Hayo,NA,06dem3,those
-item_600,v3306dyo,word,pronouns,produces,Yote,NA,06dem4,
-item_601,v3406dme,word,pronouns,produces,Mengine,NA,06dem5,
+item_600,v3306dyo,word,pronouns,produces,Yote,NA,NA,NA
+item_601,v3406dme,word,pronouns,produces,Mengine,NA,NA,NA
 item_602,v3506dye,word,pronouns,produces,Yenye,NA,06dem6,with
 item_603,v3607dhi,word,pronouns,produces,Hiki,NA,07dem1,this
 item_604,v3707dki,word,pronouns,produces,kile,NA,07dem2,that
@@ -611,26 +608,26 @@ item_605,v3807dhi,word,pronouns,produces,Hicho,NA,07dem3,it
 item_606,v3907dch,word,pronouns,produces,Chote,NA,07dem4,all
 item_607,v4007dki,word,pronouns,produces,Kingine,NA,07dem5,another
 item_608,v4107pch,word,pronouns,produces,Changu,NA,07ps1,mine
-item_609,v4207pch,word,pronouns,produces,Chako,NA,07ps2,
+item_609,v4207pch,word,pronouns,produces,Chako,NA,NA,NA
 item_610,v4307pch,word,pronouns,produces,Chake,NA,07ps3,his
-item_611,v4407pch,word,pronouns,produces,Chetu,NA,07ps4,
-item_612,v4507pch,word,pronouns,produces,Chenu,NA,07ps5,
+item_611,v4407pch,word,pronouns,produces,Chetu,NA,NA,NA
+item_612,v4507pch,word,pronouns,produces,Chenu,NA,NA,NA
 item_613,v4607pch,word,pronouns,produces,Chao,NA,07ps6,theirs
 item_614,v4708dhi,word,pronouns,produces,Hivi,NA,08dem1,this
-item_615,v4808dvi,word,pronouns,produces,Vile,NA,08dem2,
+item_615,v4808dvi,word,pronouns,produces,Vile,NA,NA,NA
 item_616,v4908dhi,word,pronouns,produces,Hivyo,NA,08dem3,those
 item_617,v5008dvi,word,pronouns,produces,Vingine,NA,08dem4,another
 item_618,v5109dhi,word,pronouns,produces,Hii,NA,09dem1,this
 item_619,v5209dil,word,pronouns,produces,Ile,NA,09dem2,that
 item_620,v5309dhi,word,pronouns,produces,Hiyo,NA,09dem3,that
-item_621,v5409dyo,word,pronouns,produces,Yote,NA,09dem4,
-item_622,v5509dny,word,pronouns,produces,Nyingine,NA,09dem5,
+item_621,v5409dyo,word,pronouns,produces,Yote,NA,NA,NA
+item_622,v5509dny,word,pronouns,produces,Nyingine,NA,NA,NA
 item_623,v5609dye,word,pronouns,produces,yenye,NA,09dem6,with
 item_624,v5709pya,word,pronouns,produces,Yangu,NA,09ps1,my
-item_625,v5809pya,word,pronouns,produces,Yako,NA,09ps2,
+item_625,v5809pya,word,pronouns,produces,Yako,NA,NA,NA
 item_626,v5909pya,word,pronouns,produces,Yake,NA,09ps3,his
 item_627,v6009pye,word,pronouns,produces,Yetu,NA,09ps4,our
-item_628,v6109pye,word,pronouns,produces,Yenu,NA,09ps5,
+item_628,v6109pye,word,pronouns,produces,Yenu,NA,NA,NA
 item_629,v6209pya,word,pronouns,produces,Yao,NA,09ps6,them
 item_630,v6310hi,word,pronouns,produces,Hizi,NA,10dem1,these
 item_631,v6410zi,word,pronouns,produces,Zile,NA,10dem2,those
@@ -638,28 +635,28 @@ item_632,v6510hi,word,pronouns,produces,Hizo,NA,10dem3,those
 item_633,v6610zo,word,pronouns,produces,Zote,NA,10dem4,all
 item_634,v6710dze,word,pronouns,produces,Zenye,NA,10dem6,with
 item_635,v6810pza,word,pronouns,produces,Zangu,NA,10ps1,mine
-item_636,v6910pza,word,pronouns,produces,Zako,NA,10ps2,
+item_636,v6910pza,word,pronouns,produces,Zako,NA,NA,NA
 item_637,v7010pza,word,pronouns,produces,Zake,NA,10ps3,his
-item_638,v7110pze,word,pronouns,produces,Zetu,NA,10ps4,
-item_639,v7210pze,word,pronouns,produces,Zenu,NA,10ps5,
+item_638,v7110pze,word,pronouns,produces,Zetu,NA,NA,NA
+item_639,v7210pze,word,pronouns,produces,Zenu,NA,NA,NA
 item_640,v7310pza,word,pronouns,produces,Zao,NA,10ps6,theirs
-item_641,v7416dha,word,pronouns,produces,Hapa,NA,16dem1,
-item_642,v7516dpa,word,pronouns,produces,Pale,NA,16dem2,
+item_641,v7416dha,word,pronouns,produces,Hapa,NA,NA,NA
+item_642,v7516dpa,word,pronouns,produces,Pale,NA,NA,NA
 item_643,v7616dha,word,pronouns,produces,Hapo,NA,16dem3,above
-item_644,v7716dpe,word,pronouns,produces,Pengine,NA,16dem5,
-item_645,v7816dpe,word,pronouns,produces,penye,NA,16dem6,
-item_646,v7917dhu,word,pronouns,produces,Huku,NA,17dem1,
+item_644,v7716dpe,word,pronouns,produces,Pengine,NA,NA,NA
+item_645,v7816dpe,word,pronouns,produces,penye,NA,NA,NA
+item_646,v7917dhu,word,pronouns,produces,Huku,NA,NA,NA
 item_647,v8017dku,word,pronouns,produces,Kule,NA,17dem2,there
 item_648,v8117dhu,word,pronouns,produces,Huko,NA,17dem3,there
 item_649,v8217dkw,word,pronouns,produces,kwote,NA,17dem4,all
 item_650,v8317dku,word,pronouns,produces,Kungine,NA,17dem5,another
-item_651,v8417pkw,word,pronouns,produces,Kwangu,NA,17ps1,
+item_651,v8417pkw,word,pronouns,produces,Kwangu,NA,NA,NA
 item_652,v8517pkw,word,pronouns,produces,Kwako,NA,17ps2,to you
-item_653,v8617pkw,word,pronouns,produces,Kwake,NA,17ps3,
-item_654,v8717pkw,word,pronouns,produces,Kwetu,NA,17ps4,
-item_655,v8817pkw,word,pronouns,produces,Kwenu,NA,17ps5,
-item_656,v8917pkw,word,pronouns,produces,Kwao,NA,17ps6,
-item_657,v90permi,word,pronouns,produces,Mimi,NA,pers1,
+item_653,v8617pkw,word,pronouns,produces,Kwake,NA,NA,NA
+item_654,v8717pkw,word,pronouns,produces,Kwetu,NA,NA,NA
+item_655,v8817pkw,word,pronouns,produces,Kwenu,NA,NA,NA
+item_656,v8917pkw,word,pronouns,produces,Kwao,NA,NA,NA
+item_657,v90permi,word,pronouns,produces,Mimi,NA,NA,NA
 item_658,v91persi,word,pronouns,produces,Sisi,NA,pers2,us
 item_659,v92perwe,word,pronouns,produces,Wewe,NA,pers3,you
 item_660,v93perye,word,pronouns,produces,Yeye,NA,pers4,her
@@ -668,7 +665,7 @@ item_662,w7whiip,word,question_words,produces,Ipi,NA,Which one?,which (question)
 item_663,w9whykw,word,question_words,produces,Kwa nini,NA,Why,why
 item_664,w4wheli,word,question_words,produces,Lini,NA,When,when (question)
 item_665,w8whona,word,question_words,produces,Nani,NA,Who,who
-item_666,w2hownga,word,question_words,produces,Ngapi,NA,how many,
+item_666,w2hownga,word,question_words,produces,Ngapi,NA,NA,NA
 item_667,w3whanin,word,question_words,produces,Nini,NA,what,why
 item_668,w1howvi,word,question_words,produces,Vipi,NA,How,how
 item_669,w5whewa,word,question_words,produces,Wapi,NA,Where,where (question)
@@ -677,7 +674,7 @@ item_671,x7herhah,word,prepositions,produces,Hapa,NA,here,here
 item_672,x11nexji,word,prepositions,produces,Jirani,NA,next to,neigh
 item_673,x13onju,word,prepositions,produces,Juu,NA,on top of/up,up
 item_674,x4beskan,word,prepositions,produces,Kando,NA,besides,beside
-item_675,x2atkand,word,prepositions,produces,Kando kando,NA,At the edge,
+item_675,x2atkand,word,prepositions,produces,Kando kando,NA,NA,NA
 item_676,x10neaka,word,prepositions,produces,Karibu,NA,near,near
 item_677,x8inska,word,prepositions,produces,Katika,NA,inside,at
 item_678,x1atkwa,word,prepositions,produces,Kwa,NA,at,for
@@ -688,7 +685,7 @@ item_682,x14outnj,word,prepositions,produces,Nje,NA,Outside,out
 item_683,x3behnyu,word,prepositions,produces,Nyuma,NA,behind,back
 item_684,x15thepa,word,prepositions,produces,Pale,NA,there,there
 item_685,x12ofya,word,prepositions,produces,Ya,NA,of,of
-item_686,y12witbi,word,descriptive_words (adverbs),produces,Bila,NA,Without,
+item_686,y12witbi,word,descriptive_words (adverbs),produces,Bila,NA,NA,NA
 item_687,y8nonha,word,descriptive_words (adverbs),produces,Hakuna,NA,None,none
 item_688,y5eveki,word,descriptive_words (adverbs),produces,Kila,NA,every,everyone
 item_689,y3anony,word,descriptive_words (adverbs),produces,Nyingine,NA,Another,another
@@ -696,18 +693,81 @@ item_690,y2alspia,word,descriptive_words (adverbs),produces,Pia,NA,also,also
 item_691,y11versa,word,descriptive_words (adverbs),produces,Sana,NA,Very much,a lot
 item_692,y10samsa,word,descriptive_words (adverbs),produces,Sawa,NA,Same,same
 item_693,y9notsi,word,descriptive_words (adverbs),produces,Siyo,NA,Not that,not
-item_694,y6mannyi,word,descriptive_words (adverbs),produces,Tele/Nyingi,NA,Lots,
+item_694,y6mannyi,word,descriptive_words (adverbs),produces,Tele/Nyingi,NA,NA,NA
 item_695,y1allyo,word,descriptive_words (adverbs),produces,Yote,NA,All of it,everything
 item_696,y4anyyo,word,descriptive_words (adverbs),produces,Yoyote,NA,any,any
 item_697,y7morzai,word,descriptive_words (adverbs),produces,Zaidi,NA,more,more
 item_698,z5orama,word,connecting_words,produces,Ama/au,NA,Or,or
-item_699,z2atlang,word,connecting_words,produces,Angaa/angalau,NA,Atleast,
+item_699,z2atlang,word,connecting_words,produces,Angaa/angalau,NA,NA,NA
 item_700,z7theha,word,connecting_words,produces,Halafu,NA,Then,then
 item_701,z6sokwa,word,connecting_words,produces,Kwa hivyo,NA,So,so
 item_702,z4butla,word,connecting_words,produces,lakini,NA,But,but
 item_703,z1andna,word,connecting_words,produces,Na,NA,And,and
 item_704,z8togpa,word,connecting_words,produces,Pamoja na,NA,together with,together
 item_705,z3becsa,word,connecting_words,produces,Sababu,NA,because,because
+item_2,a1birchr,word,sounds,produces,chri chri chri,NA,bird,NA
+item_8,a4chikru,word,sounds,produces,Kru kru kru,NA,Chicken calling chicks,NA
+item_14,a18motpi,word,sounds,produces,Pikipiki,NA,Motorbike,NA
+item_15,a13phosi,word,sounds,produces,Simu,NA,Phone,NA
+item_33,b19bedku,word,animals,produces,Kunguni,NA,Bed bug,NA
+item_83,d13colpe,word,toys,produces,Penseli rangi/Colour/Rangi,NA,colouring pencil/crayons,NA
+item_125,e72souma,word,food_drink,produces,Maziwa mala/lala/kuganda/Yoghurt,NA,Sour milk,NA
+item_158,e60maiun,word,food_drink,produces,Unga,NA,Maize Flour,NA
+item_161,e67potvi,word,food_drink,produces,Viazi vya rojo/Viazi karai,NA,potatoes in soup,NA
+item_170,f31petka,word,clothing,produces,Kamisi,NA,Petticoat,NA
+item_171,f20cloka,word,clothing,produces,kanga,NA,Cloth1,NA
+item_175,f21cloki,word,clothing,produces,Kikoi,NA,Cloth2,NA
+item_177,f32petki,word,clothing,produces,kirinda,NA,Peticoat,NA
+item_241,h41copki,word,household,produces,Kifuvu/Kifuu,NA,copra (coconut cover),NA
+item_249,h35atma,word,household,produces,Mbuzi,NA,A tool used to grate coconut,NA
+item_251,h53tinmk,word,household,produces,Mkebe,NA,Tin,NA
+item_256,h10coomw,word,household,produces,Mwiko,NA,Cooking stick,NA
+item_284,i17loggo,word,furniture_rooms,produces,Gogo/Kumbi,NA,Log,NA
+item_326,j12smavi,word,outside,produces,Vichuma,NA,Small pieces of metal,NA
+item_334,k17islma,word,places,produces,Madrasa/chuoni,NA,Islamic school for children,NA
+item_351,l6expfu,word,people,produces,Fundi,NA,Expert,NA
+item_359,l28winmu,word,people,produces,Mgema,NA,Wine tapper,NA
+item_379,m2gamki,word,games_routines,produces,Kibe,NA,Game of hide and seek,NA
+item_382,m22relku,word,games_routines,produces,Kupumzika/Nimechoka,NA,Relaxing,NA
+item_386,m12yesna,word,games_routines,produces,Naam/Ndio/Ehe,NA,Yes,NA
+item_390,m7howsh,word,games_routines,produces,Shikamoo,NA,How are you? ( respectful greeting),NA
+item_391,m16donsi,word,games_routines,produces,Sitaki,NA,Don't want to,NA
+item_396,m24youun,word,games_routines,produces,Unacho,NA,You have it,NA
+item_404,n96spran,word,action_words,produces,Anika,NA,Spread clothes,NA
+item_566,p10whosi,word,time_words,produces,Siku nzima,NA,Whole Day,NA
+item_577,v100ipwe,word,pronouns,produces,Wenu,NA,01ps5,NA
+item_592,v2505pla,word,pronouns,produces,Lako,NA,05ps2,NA
+item_594,v2705ple,word,pronouns,produces,Letu,NA,05ps4,NA
+item_595,v2805ple,word,pronouns,produces,Lenu,NA,05ps5,NA
+item_600,v3306dyo,word,pronouns,produces,Yote,NA,06dem4,NA
+item_601,v3406dme,word,pronouns,produces,Mengine,NA,06dem5,NA
+item_609,v4207pch,word,pronouns,produces,Chako,NA,07ps2,NA
+item_611,v4407pch,word,pronouns,produces,Chetu,NA,07ps4,NA
+item_612,v4507pch,word,pronouns,produces,Chenu,NA,07ps5,NA
+item_615,v4808dvi,word,pronouns,produces,Vile,NA,08dem2,NA
+item_621,v5409dyo,word,pronouns,produces,Yote,NA,09dem4,NA
+item_622,v5509dny,word,pronouns,produces,Nyingine,NA,09dem5,NA
+item_625,v5809pya,word,pronouns,produces,Yako,NA,09ps2,NA
+item_628,v6109pye,word,pronouns,produces,Yenu,NA,09ps5,NA
+item_636,v6910pza,word,pronouns,produces,Zako,NA,10ps2,NA
+item_638,v7110pze,word,pronouns,produces,Zetu,NA,10ps4,NA
+item_639,v7210pze,word,pronouns,produces,Zenu,NA,10ps5,NA
+item_641,v7416dha,word,pronouns,produces,Hapa,NA,16dem1,NA
+item_642,v7516dpa,word,pronouns,produces,Pale,NA,16dem2,NA
+item_644,v7716dpe,word,pronouns,produces,Pengine,NA,16dem5,NA
+item_645,v7816dpe,word,pronouns,produces,penye,NA,16dem6,NA
+item_646,v7917dhu,word,pronouns,produces,Huku,NA,17dem1,NA
+item_651,v8417pkw,word,pronouns,produces,Kwangu,NA,17ps1,NA
+item_653,v8617pkw,word,pronouns,produces,Kwake,NA,17ps3,NA
+item_654,v8717pkw,word,pronouns,produces,Kwetu,NA,17ps4,NA
+item_655,v8817pkw,word,pronouns,produces,Kwenu,NA,17ps5,NA
+item_656,v8917pkw,word,pronouns,produces,Kwao,NA,17ps6,NA
+item_657,v90permi,word,pronouns,produces,Mimi,NA,pers1,NA
+item_666,w2hownga,word,question_words,produces,Ngapi,NA,how many,NA
+item_675,x2atkand,word,prepositions,produces,Kando kando,NA,At the edge,NA
+item_686,y12witbi,word,descriptive_words (adverbs),produces,Bila,NA,Without,NA
+item_694,y6mannyi,word,descriptive_words (adverbs),produces,Tele/Nyingi,NA,Lots,NA
+item_699,z2atlang,word,connecting_words,produces,Angaa/angalau,NA,Atleast,NA
 item_706,a1noun,small_parts_of_words,NA,not yet; sometimes; often,NA,NA,Noun class prefixes?,NA
 item_707,a2plur,small_parts_of_words,NA,not yet; sometimes; often,NA,NA,Plurals at all?,NA
 item_708,a3adj,small_parts_of_words,NA,not yet; sometimes; often,NA,NA,Marked adjectives?,NA

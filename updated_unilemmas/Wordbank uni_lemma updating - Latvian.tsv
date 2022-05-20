@@ -79,31 +79,31 @@ item_77	item_61	vehicles	vilciens	train	train
 item_78	item_63	toys	balons	balloon	balloon			
 item_79	item_62	toys	bumba	ball	ball			
 item_80		toys	dāvana	gift	gift			
-item_81		toys	formiņa (smilšu k.)	sand mold	mold		sandbox	
+item_81		toys	formiņa (smilšu k.)	sand mold	sandbox			
 item_82		toys	grābeklis	rake	rake			
 item_83	item_64	toys	grāmata	book	book			
-item_84	item_65	toys	klucīši	blocks	block		blocks	
-item_85		toys	krāsas	paints	paint (toys)			
+item_84	item_65	toys	klucīši	blocks	blocks			
+item_85		toys	krāsas	paints	paint			
 item_86	item_66	toys	lāpsta	rake	shovel			
 item_87	item_67	toys	lelle	doll	doll			
 item_88		toys	ota	paintbrush	brush			
 item_89		toys	pasaka	fairytale	story			
-item_90		toys	pildspalva	pen	penguin			
-item_91		toys	plastilīns	playdough	playdough		play dough	
+item_90		toys	pildspalva	pen	pen			
+item_91		toys	plastilīns	playdough	play dough			
 item_92	item_68	toys	rotaļlieta/mantiņa	toy	toy			
 item_93	item_69	toys	spainītis	bucket	bucket			
 item_94		toys	spēle	game	game			
-item_95		toys	zīmulis	pencil/crayon	pencil	pencil		
+item_95		toys	zīmulis	pencil/crayon	pencil			
 item_96	item_70	food_drink	ābols	apple	apple			
 item_97	item_71	food_drink	apelsīns	orage	orange (food)	orange?		
 item_98		food_drink	arbūzs	watermelon	watermelon			
-item_99		food_drink	avenes	raspberries	raspberries			
+item_99		food_drink	avenes	raspberries	raspberry			
 item_100	item_72	food_drink	banāns	banana	banana			
 item_101	item_73	food_drink	biezpiens	quark/cottage cheese	cottage cheese			
 item_102	item_74	food_drink	bumbieris	pear	pear			
 item_103	item_75	food_drink	burkāns	carrot	carrot			
 item_104	item_76	food_drink	cepums	cookie	cookie			
-item_105		food_drink	cīsiņš	hotdog	hotdog  /sausage		hot dog	
+item_105		food_drink	cīsiņš	hotdog	hot dog			
 item_106		food_drink	citrons	lemon	lemon			
 item_107		food_drink	cukurs	sugar	sugar			
 item_108		food_drink	desa	sausage	sausage			
@@ -116,7 +116,7 @@ item_114		food_drink	kafija	coffee	coffee
 item_115		food_drink	kakao	cocoa	cocoa		hot chocolate	tempted to reject: hot cocoa = hot chocolate, and cocoa often refers to hot chocolate..
 item_116	item_80	food_drink	kāposti	cabbage	cabbage			
 item_117	item_81	food_drink	kartupeļi	potatoes	potato			
-item_118		food_drink	kefīrs	kefir	kefir		kefir	not changed..?
+item_118		food_drink	kefīrs	kefir	kefir			
 item_119		food_drink	kompots	fruit drink	compote			
 item_120	item_82	food_drink	konfekte	candy	candy			
 item_121	item_83	food_drink	kotlete	meatballs	meatball			
@@ -125,27 +125,27 @@ item_123		food_drink	ķirbis	pumpkin	pumpkin
 item_124		food_drink	ķirši	cherries	cherries			
 item_125		food_drink	limonāde	lemonade	lemonade			
 item_126	item_85	food_drink	maize	bread	bread			
-item_127	item_86	food_drink	makaroni	macaroni	macaroni		pasta	change!
-item_128		food_drink	mandarīns	tangerine	orange/mandarin	mandarin		
-item_129		food_drink	manna	semolina	semolina		pudding	change!
+item_127	item_86	food_drink	makaroni	macaroni	pasta			
+item_128		food_drink	mandarīns	tangerine	tangerine			
+item_129		food_drink	manna	semolina	pudding			
 item_130		food_drink	medus	honey	honey			
-item_131		food_drink	mellenes	blueberries	blueberries		blueberry	
+item_131		food_drink	mellenes	blueberries	blueberry			
 item_132		food_drink	mērce	gravy/sauce	gravy			
 item_133	item_88	food_drink	ola	egg	egg			
 item_134		food_drink	pankūka	pancake	pancake			
 item_135	item_89	food_drink	piens	milk	milk			
 item_136		food_drink	piparkūkas	gingerbread	gingerbread			or cookie?
-item_137		food_drink	pīrādziņš	pie/hot pocket	patty		dumpling	or meat pie/pasty?
+item_137		food_drink	pīrādziņš	pie/hot pocket	dumpling			or meat pie/pasty?
 item_138		food_drink	plūme	plum	plum			
 item_139	item_91	food_drink	putra	porridge	porridge			
 item_140		food_drink	rieksti	nuts	nuts			
 item_141		food_drink	rīsi	rice	rice			
-item_142		food_drink	rozīnes	raisins	raisins		raisin	
+item_142		food_drink	rozīnes	raisins	raisin			
 item_143	item_92	food_drink	salāti	salad	salad			
 item_144	item_93	food_drink	saldējums	icecream	ice cream			
 item_145		food_drink	sāls	salt	salt			
 item_146		food_drink	sēnes	mushrooms	mushrooms		mushroom	
-item_147		food_drink	sieriņš	curd snack	curd snack		cottage cheese	sweetened cottage cheese snack bar
+item_147		food_drink	sieriņš	curd snack				sweetened cottage cheese snack bar
 item_148	item_94	food_drink	siers	cheese	cheese			
 item_149	item_95	food_drink	sula	juice	juice			
 item_150		food_drink	sviestmaize	sandwich	sandwich			
@@ -155,44 +155,44 @@ item_153	item_97	food_drink	tēja	tea	tea
 item_154	item_98	food_drink	tomāts	tomato	tomato			
 item_155	item_99	food_drink	torte/kūka	cake	cake			
 item_156	item_100	food_drink	ūdens	water	water (beverage)			
-item_157		food_drink	upenes	black currants	black currants		berry	
+item_157		food_drink	upenes	black currants	berry			
 item_158		food_drink	vīnogas	grapes	grapes			
-item_159		food_drink	vista	chicken	chicken		chicken (food)	
+item_159		food_drink	vista	chicken	chicken (food)			
 item_160	item_101	food_drink	zemenes	strawberries	strawberry			
 item_161		food_drink	zirņi	peas	peas			
 item_162	item_102	food_drink	zivs	fish	fish (food)			
 item_163	item_103	food_drink	zupa	soup	soup			
-item_164		clothing	apavi	shoes	shoes		shoe	
+item_164		clothing	apavi	shoes	shoe			
 item_165		clothing	apģērbs	clothes	clothes			
-item_166	item_105	clothing	bikses	trousers	panties		pants	change!
+item_166	item_105	clothing	bikses	trousers	pants			
 item_167	item_106	clothing	biksītes	knickers	underwear			
-item_168		clothing	botes	high overshoes	sneakers		boot	change!
+item_168		clothing	botes	high overshoes	boot			
 item_169	item_107	clothing	cepure	hat	hat			
-item_170	item_108	clothing	cimdi	mittens	mittens/gloves		mitten	
-item_171	item_109	clothing	čības	slippers	slippers		slipper	
+item_170	item_108	clothing	cimdi	mittens	mitten			
+item_171	item_109	clothing	čības	slippers	slipper			
 item_172	item_110	clothing	džemperis	jumper	sweater			
-item_173	item_111	clothing	jaka	cardigan	jackt		jacket	change!
+item_173	item_111	clothing	jaka	cardigan	jacket			
 item_174		clothing	kapuce	hood	hood			
-item_175		clothing	kedas	sneakers	sneakers		sneaker	
-item_176	item_112	clothing	kleita	dress	dress		dress (object)	
+item_175		clothing	kedas	sneakers	sneaker			
+item_176	item_112	clothing	kleita	dress	dress (object)			
 item_177		clothing	kombinezons	overalls	overalls			
 item_178	item_113	clothing	krekls	shirt	shirt			
 item_179	item_114	clothing	krelles	beads	beads			
 item_180	item_115	clothing	kurpes	shoes	shoe			
 item_181	item_117	clothing	mētelis	coat	coat			
-item_182		clothing	pampers/autiņbiksītes	diaper	nappy		diaper	change!
+item_182		clothing	pampers/autiņbiksītes	diaper	diaper			
 item_183		clothing	pidžama	pajamas	pajamas			
-item_184		clothing	pirkstaiņi	gloves	gloves		glove	
+item_184		clothing	pirkstaiņi	gloves	glove			
 item_185	item_118	clothing	pogas	buttons	button			
-item_186		clothing	sandales	sandals	sandals		sandal	
+item_186		clothing	sandales	sandals	sandal			
 item_187		clothing	svārki	skirt	skirt			
 item_188	item_119	clothing	šalle	scarf	scarf			
 item_189		clothing	šorti/īsbikses	shorts	shorts			
-item_190	item_121	clothing	zābaki	boots	boots		boot	
+item_190	item_121	clothing	zābaki	boots	boot			
 item_191	item_122	clothing	zeķbikses	tights	tights			
 item_192	item_123	clothing	zeķes	socks	sock			
-item_193		body_parts	acs/acis	eye/eyes	eye/eyes		eye	
-item_194		body_parts	auss/ausis	ear/ears	ear/ears		ear	
+item_193		body_parts	acs/acis	eye/eyes	eye			
+item_194		body_parts	auss/ausis	ear/ears	ear			
 item_195		body_parts	celis	knee	knee			
 item_196	item_127	body_parts	deguns	nose	nose			
 item_197		body_parts	dibens	bottom	bottom			
@@ -205,24 +205,24 @@ item_203	item_131	body_parts	mati	hear	hair	hair
 item_204	item_132	body_parts	mēle	tongue	tongue			
 item_205	item_133	body_parts	mugura	back	back			
 item_206	item_134	body_parts	mute	mouth	mouth			
-item_207	item_135	body_parts	naba	navel/belly-button	belly button/button		belly button	
-item_208	item_136	body_parts	nagi	nails	nails			
+item_207	item_135	body_parts	naba	navel/belly-button	belly button			
+item_208	item_136	body_parts	nagi	nails	nail (body part)			
 item_209		body_parts	piere	forehead	forehead			
-item_210		body_parts	pirksts/pirksti	finger/fingers (also toe/toes)	finger/fingers		finger	finger/toe
+item_210		body_parts	pirksts/pirksti	finger/fingers (also toe/toes)	finger			
 item_211		body_parts	plauksta	palm	palm			
-item_212		body_parts	plecs/pleci	shoulder/shoulders	shoulder/shoulders		shoulder	
+item_212		body_parts	plecs/pleci	shoulder/shoulders	shoulder			
 item_213	item_139	body_parts	roka	arm	arm			
 item_214	item_140	body_parts	seja	face	face			
 item_215		body_parts	sirds	heart	heart			
-item_216		body_parts	skropstas	eyelashes	eyelashes			
-item_217		body_parts	uzacs/uzacis	eyebrows	eyebrows			
+item_216		body_parts	skropstas	eyelashes	eyelash			
+item_217		body_parts	uzacs/uzacis	eyebrows	eyebrow			
 item_218	item_141	body_parts	vaigi	cheeks	cheek			
 item_219	item_142	body_parts	vēders	tummy	tummy			
 item_220	item_143	body_parts	zobi	teeth	tooth			
 item_221		body_parts	zods	chin	chin			
 item_222	item_168	household	āmurs	hammer	hammer			
 item_223	item_169	household	atkritumi	trash/garbage	trash			
-item_224	item_170	household	atslēgas	keys	keys		key	
+item_224	item_170	household	atslēgas	keys	key			
 item_225	item_171	household	attēls	picture	picture			
 item_226	item_172	household	birste	brush	brush			
 item_227	item_173	household	bļoda	dish	dish			
@@ -242,23 +242,23 @@ item_240	item_181	household	katls	pot	pot
 item_241	item_182	household	knupis	comforter	blanket			
 item_242	item_183	household	krūze	mug	mug			
 item_243	item_184	household	ķemme	comb	comb (object)			
-item_244		household	ķerra	barrow	barrow		wheelbarrow	change!
+item_244		household	ķerra	barrow	wheelbarrow			
 item_245	item_185	household	lampa	lamp	lamp			
 item_246		household	lupata	rag	rag			
 item_247		household	maisiņš	bag	bag			
 item_248		household	maks	purse	wallet	wallet		
-item_249	item_186	household	matu suka	hairbrush	hairbrush		brush	
-item_250		household	nagla	nail	nail		nail (object)	
+item_249	item_186	household	matu suka	hairbrush	brush (object)			
+item_250		household	nagla	nail	nail (object)			
 item_251	item_187	household	nauda	money	money			
 item_252		household	nazis	knife	knife			
-item_253		household	palags	bed sheet	bed sheet		bedsheet	
+item_253		household	palags	bed sheet	sheet			
 item_254		household	panna	pan	pan			
 item_255	item_188	household	papīrs	paper	paper			
 item_256	item_189	household	pudele	bottle	bottle			
 item_257	item_190	household	pulkstenis	clock	clock			
 item_258	item_191	household	putekļsūcējs	vacuum	vacuum			
 item_259	item_192	household	radio	radio	radio			
-item_260		household	salvetes	tissues	tissues		tissue	
+item_260		household	salvetes	tissues	tissue			
 item_261	item_193	household	sega	blanket	blanket			
 item_262	item_194	household	slota	broom	broom			
 item_263		household	soma	purse	bag	bag		
@@ -266,7 +266,7 @@ item_264	item_196	household	spilvens	pillow	pillow
 item_265	item_197	household	šķēres	scissors	scissors			
 item_266	item_198	household	šķīvis	plate	plate			
 item_267	item_199	household	telefons	phone	telephone			
-item_268		household	trauki	dishes/crockery	dishes		dish	
+item_268		household	trauki	dishes/crockery	dish			
 item_269		household	tualetes papīrs	toilet paper	toilet paper			
 item_270	item_200	household	zāles	medicine	medicine			
 item_271	item_201	household	ziepes	soap	soap			
@@ -277,7 +277,7 @@ item_275		furniture_rooms	balkons	balcony	balcony
 item_276	item_144	furniture_rooms	dīvāns	couch	couch			
 item_277	item_145	furniture_rooms	durvis	door	door			
 item_278	item_146	furniture_rooms	duša	shower	shower			
-item_279	item_147	furniture_rooms	gaitenis	corridor	corridor	hallway	hallway	hallway/corridor
+item_279	item_147	furniture_rooms	gaitenis	corridor	hallway			hallway/corridor
 item_280	item_148	furniture_rooms	galds	table	table			
 item_281		furniture_rooms	garāža	garage	garage			
 item_282		furniture_rooms	grīda	floor	floor			
@@ -292,7 +292,7 @@ item_290	item_154	furniture_rooms	krāsns	oven	oven
 item_291	item_155	furniture_rooms	krēsls	chair/armchair	chair			
 item_292	item_156	furniture_rooms	ledusskapis	fridge	refrigerator			
 item_293		furniture_rooms	lifts	elevator	elevator			
-item_294		furniture_rooms	lodžija	loggia	loggia		balcony	change! (or porch?)
+item_294		furniture_rooms	lodžija	loggia	balcony			or porch?
 item_295	item_157	furniture_rooms	logs	window	window			
 item_296		furniture_rooms	mēbeles	furniture	furniture			
 item_297	item_158	furniture_rooms	paklājs	carpet	carpet			
@@ -337,7 +337,7 @@ item_335	item_224	outside	smiltis	sand	sand
 item_336		outside	sniegavīrs	snowman	snowman			
 item_337	item_225	outside	sniegs	snow	snow			
 item_338		outside	sols	bench	bench			
-item_339	item_226	outside	šūpoles	swings	swings		swing (object)	
+item_339	item_226	outside	šūpoles	swings	swing (object)			
 item_340		outside	taka	path	path			
 item_341		outside	upe	river	river			
 item_342		outside	vējš	wind	wind			

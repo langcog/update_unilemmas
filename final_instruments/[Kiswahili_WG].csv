@@ -1,17 +1,17 @@
 itemID,item,type,category,choices,definition,complexity,gloss,uni_lemma
 item_1,a14she,word,sounds,understands; produces,Baa baa,NA,Sheep,baa baa
-item_2,a1bir,word,sounds,understands; produces,chri chri chri,NA,bird,
+item_2,a1bir,word,sounds,understands; produces,chri chri chri,NA,NA,NA
 item_3,a9don,word,sounds,understands; produces,heoo heoo,NA,Donkey,hee haw
 item_4,a8dog,word,sounds,understands; produces,huo huo,NA,dog,woof woof
 item_5,a11mon,word,sounds,understands; produces,Kima,NA,monkey,monkey
 item_6,a5coc,word,sounds,understands; produces,Kukuriukuu,NA,Cockerel,cockadoodledoo
-item_7,a4chi,word,sounds,understands; produces,kru kru kru,NA,Chicken calling chick,
+item_7,a4chi,word,sounds,understands; produces,kru kru kru,NA,NA,NA
 item_8,a7cro,word,sounds,understands; produces,Kunguru,NA,Crow,crow
 item_9,a12ouc,word,sounds,understands; produces,Umia,NA,Ouch,ouch
 item_10,a10goa,word,sounds,understands; produces,mmee mmee,NA,Goat,baa baa
 item_11,a3cat,word,sounds,understands; produces,miau miau,NA,Cat,meow
 item_12,a6cow,word,sounds,understands; produces,mooh mooh,NA,Cow,moo
-item_13,a13pho,word,sounds,understands; produces,Simu,NA,Phone,
+item_13,a13pho,word,sounds,understands; produces,Simu,NA,NA,NA
 item_14,a15swe,word,sounds,understands; produces,Tamu tamu,NA,Sweetness,yum yum
 item_15,a2car,word,sounds,understands; produces,Gari,NA,Car,vroom
 item_16,b10duck,word,animals,understands; produces,Bata,NA,Duck,duck
@@ -129,7 +129,7 @@ item_127,h9comb,word,household,understands; produces,Kichana,NA,Comb,comb (objec
 item_128,h7broo,word,household,understands; produces,Ufagio,NA,Broom,broom
 item_129,h13glas,word,household,understands; produces,Miwani,NA,Glasses,glasses
 item_130,h31toot,word,household,understands; produces,Mswaki,NA,Toothbrush,toothbrush
-item_131,h10cook,word,household,understands; produces,Mwiko,NA,Cooking stick,
+item_131,h10cook,word,household,understands; produces,Mwiko,NA,NA,NA
 item_132,h8buck,word,household,understands; produces,Ndoo,NA,Bucket1,bucket
 item_133,h27shil,word,household,understands; produces,Shilingi,NA,Shilling,penny
 item_134,h21mone,word,household,understands; produces,Pesa/Ngenje,NA,Money,money
@@ -173,7 +173,7 @@ item_171,j1buck,word,outside,understands; produces,Ndoo,NA,Bucket2,bucket
 item_172,j3gras,word,outside,understands; produces,Nyasi,NA,Grass,grass
 item_173,j11slas,word,outside,understands; produces,Panga,NA,Slasher,machete
 item_174,j5hole,word,outside,understands; produces,Shimo,NA,Hole,hole
-item_175,j12smal,word,outside,understands; produces,Vichuma,NA,Small pieces of metal,
+item_175,j12smal,word,outside,understands; produces,Vichuma,NA,NA,NA
 item_176,k9shop,word,places,understands; produces,Dukani,NA,shop,store
 item_177,k2here,word,places,understands; produces,Hapa,NA,here,here
 item_178,k10ther,word,places,understands; produces,Pale,NA,there,there
@@ -190,7 +190,7 @@ item_188,l4doct,word,people,understands; produces,Daktari/Mganga,NA,Doctor,docto
 item_189,l5dogn,word,people,understands; produces,Jina la mbwa/paka,NA,Dog's / Cat's name,pet's name
 item_190,l1care,word,people,understands; produces,Jina la mlezi,NA,Caregiver's name,babysitter's name
 item_191,l3chil,word,people,understands; produces,Jina la mtoto mwenyewe,NA,Child's own name,child's own name
-item_192,l6expe,word,people,understands; produces,Fundi,NA,Expert,
+item_192,l6expe,word,people,understands; produces,Fundi,NA,NA,NA
 item_193,l9gran,word,people,understands; produces,Nyanya/Bibi,NA,Grandmother,grandma
 item_194,l12moth,word,people,understands; produces,Mama/Nina/Mummy,NA,Mother,mommy
 item_195,l2chil,word,people,understands; produces,Mtoto,NA,Child,child
@@ -199,16 +199,16 @@ item_197,l10infa,word,people,understands; produces,Kitoto,NA,Infant,baby
 item_198,l14sist,word,people,understands; produces,Dada,NA,Sister,sister
 item_199,l8gran,word,people,understands; produces,Babu,NA,Grandfather,grandpa
 item_200,m11than,word,games_routines,understands; produces,Ahsante/Shukrani,NA,Thank you,thank you
-item_201,m12yes,word,games_routines,understands; produces,Naam/Ndio/Ehe,NA,Yes,
+item_201,m12yes,word,games_routines,understands; produces,Naam/Ndio/Ehe,NA,NA,NA
 item_202,m8no,word,games_routines,understands; produces,La/Hapana/Sitaki,NA,No,no
-item_203,m7how,word,games_routines,understands; produces,Shikamoo,NA,How are you? ( respectful greeting),
+item_203,m7how,word,games_routines,understands; produces,Shikamoo,NA,NA,NA
 item_204,m2goin,word,games_routines,understands; produces,Kujisaidia/pembeni/Haja/Pupu/Kanye,NA,Go to the toilet,go potty
 item_205,m3good,word,games_routines,understands; produces,Usiku mwema/Lala salama/Ulaze salama,NA,Good night,good night
 item_206,m6how,word,games_routines,understands; produces,Mambo?,NA,How are you?,how are you
 item_207,m9sorr,word,games_routines,understands; produces,Pole,NA,Sorry,sorry
 item_208,m10tell,word,games_routines,understands; produces,Ssssshh,NA,Tell someone to keep quiet,shh
 item_209,m1bye,word,games_routines,understands; produces,Kwa kheri/Bye bye,NA,Bye,bye
-item_210,m4good,word,games_routines,understands; produces,Usiku mwema/Lala salama/Ulaze salama,NA,,
+item_210,m4good,word,games_routines,understands; produces,Usiku mwema/Lala salama/Ulaze salama,NA,NA,NA
 item_211,m5hi,word,games_routines,understands; produces,Sasa?,NA,hi?,now
 item_212,n21feed,word,action_words,understands; produces,Lisha,NA,feed,feed
 item_213,n18drop,word,action_words,understands; produces,Angusha,NA,Drop,drop
@@ -266,8 +266,7 @@ item_263,n7catc,word,action_words,understands; produces,Shika,NA,Catch,touch
 item_264,n15drea,word,action_words,understands; produces,Ota,NA,Dream,star
 item_265,n34open,word,action_words,understands; produces,Fungua,NA,Open,open (action)
 item_266,n37pull,word,action_words,understands; produces,Vuta,NA,Pull,pull
-item_267,n35play,word,action_words,understands; produces,Cheza,NA,,
-item_267,n35play,word,action_words,understands; produces,Cheza,NA,,
+item_267,n35play,word,action_words,understands; produces,Cheza,NA,NA,NA
 item_268,o7few,word,descriptive_words,understands; produces,Kidogo,NA,Few,little (amount)
 item_269,o5dirt,word,descriptive_words,understands; produces,Chafu,NA,Dirty,dirty
 item_270,o4anot,word,descriptive_words,understands; produces,Nyingine,NA,Another,another
@@ -288,9 +287,20 @@ item_284,p8this,word,pronouns,understands; produces,Hii,NA,09dem1,this
 item_285,p4that,word,pronouns,understands; produces,Ile,NA,09dem2,that
 item_286,p6that,word,pronouns,understands; produces,huyo,NA,that one (a person) class 1,he
 item_287,p5that,word,pronouns,understands; produces,Kile,NA,That one (thing) class 7,that
-item_288,p1i,word,pronouns,understands; produces,Mimi,NA,pers1,
+item_288,p1i,word,pronouns,understands; produces,Mimi,NA,NA,NA
 item_289,p9what,word,pronouns,understands; produces,Nini,NA,what,why
 item_290,p10you,word,pronouns,understands; produces,Wewe,NA,pers3,you
 item_291,p3mine,word,pronouns,understands; produces,Yangu,NA,09ps1,my
 item_292,p7this,word,pronouns,understands; produces,Huyu,NA,01dem1,her
+item_2,a1bir,word,sounds,understands; produces,chri chri chri,NA,bird,NA
+item_7,a4chi,word,sounds,understands; produces,kru kru kru,NA,Chicken calling chick,NA
+item_13,a13pho,word,sounds,understands; produces,Simu,NA,Phone,NA
+item_131,h10cook,word,household,understands; produces,Mwiko,NA,Cooking stick,NA
+item_175,j12smal,word,outside,understands; produces,Vichuma,NA,Small pieces of metal,NA
+item_192,l6expe,word,people,understands; produces,Fundi,NA,Expert,NA
+item_201,m12yes,word,games_routines,understands; produces,Naam/Ndio/Ehe,NA,Yes,NA
+item_203,m7how,word,games_routines,understands; produces,Shikamoo,NA,How are you? ( respectful greeting),NA
+item_210,m4good,word,games_routines,understands; produces,Usiku mwema/Lala salama/Ulaze salama,NA,Good night,NA
+item_267,n35play,word,action_words,understands; produces,Cheza,NA,Play,NA
+item_288,p1i,word,pronouns,understands; produces,Mimi,NA,I,NA
 item_293,combine,combine,NA,not yet; sometimes; often,NA,NA,NA,NA

@@ -176,10 +176,10 @@ item_174,item_174,word,people,understands; produces,친구,NA,friend,friend
 item_175,item_175,word,people,understands; produces,할머니,NA,grandma,grandma
 item_176,item_176,word,people,understands; produces,할아버지,NA,grandpa,grandpa
 item_177,item_177,word,people,understands; produces,형,NA,older brother (from younger brother),brother
-item_178,item_178,word,games_routines,understands; produces,곤지곤지,NA,gonji-gonji,
+item_178,item_178,word,games_routines,understands; produces,곤지곤지,NA,NA,NA
 item_179,item_179,word,games_routines,understands; produces,까꿍,NA,peekaboo,peekaboo
-item_180,item_180,word,games_routines,understands; produces,도리도리,NA,dori-dori,
-item_181,item_181,word,games_routines,understands; produces,잼잼,NA,jem-jem,
+item_180,item_180,word,games_routines,understands; produces,도리도리,NA,NA,NA
+item_181,item_181,word,games_routines,understands; produces,잼잼,NA,NA,NA
 item_182,item_182,word,games_routines,understands; produces,짝짜꿍,NA,clap-clap,clap
 item_183,item_183,word,games_routines,understands; produces,네/응,NA,yes,yes
 item_184,item_184,word,games_routines,understands; produces,만세,NA,yay,yay
@@ -193,7 +193,7 @@ item_191,item_191,word,games_routines,understands; produces,안녕,NA,hello,hell
 item_192,item_192,word,games_routines,understands; produces,안돼,NA,no,no
 item_193,item_193,word,games_routines,understands; produces,치카/양치,NA,brush teeth,brush teeth
 item_194,item_194,word,games_routines,understands; produces,응가/똥,NA,poo-poo,go potty
-item_195,item_195,word,games_routines,understands; produces,지지,NA,dirty (infant-directed),
+item_195,item_195,word,games_routines,understands; produces,지지,NA,NA,NA
 item_196,item_196,word,games_routines,understands; produces,하지마,NA,don't,don't
 item_197,item_197,word,pronouns,understands; produces,거기,NA,there,there
 item_198,item_198,word,pronouns,understands; produces,나/내,NA,I,I
@@ -271,18 +271,28 @@ item_269,item_269,word,descriptive_words,understands; produces,있어,NA,be,ther
 item_270,item_270,word,descriptive_words,understands; produces,좋아,NA,good,good
 item_271,item_271,word,descriptive_words,understands; produces,차가워/차,NA,cool,cool
 item_272,item_272,word,descriptive_words,understands; produces,추워,NA,cold,cold
-item_273,item_273,word,verb_endings,understands; produces,-가(엄마가),NA,subject marker -ga,
+item_273,item_273,word,verb_endings,understands; produces,-가(엄마가),NA,NA,NA
 item_274,item_274,word,verb_endings,understands; produces,-랑(엄마랑),NA,with someone,with
-item_275,item_275,word,verb_endings,understands; produces,-야(아기야),NA,calling someone,
+item_275,item_275,word,verb_endings,understands; produces,-야(아기야),NA,NA,NA
 item_276,item_276,word,verb_endings,understands; produces,-말구(이거말구),NA,not this,no
 item_277,item_277,word,verb_endings,understands; produces,-줘(빼줘),NA,please,please
 item_278,item_278,word,verb_endings,understands; produces,-고(먹고),NA,and,and
-item_279,item_279,word,verb_endings,understands; produces,-네(가네),NA,,
-item_280,item_280,word,verb_endings,understands; produces,-다(있다),NA,,
+item_279,item_279,word,verb_endings,understands; produces,-네(가네),NA,NA,NA
+item_280,item_280,word,verb_endings,understands; produces,-다(있다),NA,NA,NA
 item_281,item_281,word,verb_endings,understands; produces,-ㄹ게(할게),NA,will do,will do
-item_282,item_282,word,verb_endings,understands; produces,-요(가요),NA,honorification,
+item_282,item_282,word,verb_endings,understands; produces,-요(가요),NA,NA,NA
 item_283,item_283,word,verb_endings,understands; produces,-자(가자),NA,let's,let's
-item_284,item_284,word,verb_endings,understands; produces,-지(먹지),NA,,
+item_284,item_284,word,verb_endings,understands; produces,-지(먹지),NA,NA,NA
+item_178,item_178,word,games_routines,understands; produces,곤지곤지,NA,gonji-gonji,NA
+item_180,item_180,word,games_routines,understands; produces,도리도리,NA,dori-dori,NA
+item_181,item_181,word,games_routines,understands; produces,잼잼,NA,jem-jem,NA
+item_195,item_195,word,games_routines,understands; produces,지지,NA,dirty (infant-directed),dirty
+item_273,item_273,word,verb_endings,understands; produces,-가(엄마가),NA,subject marker -ga,NA
+item_275,item_275,word,verb_endings,understands; produces,-야(아기야),NA,calling someone,NA
+item_279,item_279,word,verb_endings,understands; produces,-네(가네),NA,NA,NA
+item_280,item_280,word,verb_endings,understands; produces,-다(있다),NA,NA,NA
+item_282,item_282,word,verb_endings,understands; produces,-요(가요),NA,honorification,NA
+item_284,item_284,word,verb_endings,understands; produces,-지(먹지),NA,NA,NA
 item_285,item_285,gestures_first,NA,not yet; sometimes; often,팔 뻗기,NA,extends arm to show you something he/she is holding,NA
 item_286,item_286,gestures_first,NA,not yet; sometimes; often,주기,NA,reaches out and gives you a toy or some object that he/she is holding,NA
 item_287,item_287,gestures_first,NA,not yet; sometimes; often,가리키기,NA,points at some object or event,NA

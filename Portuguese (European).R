@@ -16,9 +16,13 @@ new_items[which(new_items$WS=="item_309"),]$uni_lemma = "TV" # capitalize
 new_items[which(new_items$WS=="item_371"),]$uni_lemma = "man" # 
 new_items[which(new_items$WS=="item_439"),]$uni_lemma = "lie down" # disambig 'lie'
 new_items[which(new_items$WS=="item_561"),]$uni_lemma = "I" # capitalize
+new_items[which(new_items$uni_lemma=="eyelashes"),]$uni_lemma = "eyelash" # singular
+new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow"
+new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil"
 
 # ToDo: look at blanks
 subset(new_items, uni_lemma=="") # revisit some of the games_routines 
+new_items[which(new_items$uni_lemma==""),] = NA
 
 # save updated instrument(s)
 new_wg <- update_instrument("Portuguese_European", "WG", new_items %>% rename(itemID = WG))
