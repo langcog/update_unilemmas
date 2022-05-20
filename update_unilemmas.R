@@ -69,7 +69,7 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2136 uni-lemmas
+  # how it's going: 2321 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
@@ -120,7 +120,14 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   subset(new_uni, uni_lemma=="light") # -> light (object)
   
+  #subset(new_uni, uni_lemma=="be able to")
+  subset(new_uni, uni_lemma=="at/in/on")
+  subset(new_uni, uni_lemma=="be sleepy") # Italian sleepy?
+  subset(new_uni, uni_lemma=="be thirsty") # Italian thirst?
+  subset(new_uni, uni_lemma=="be angry") # Latvian
+  subset(new_uni, uni_lemma=="brother's name") # Russian -> "sibling's name" ?
+  
+  head(new_uni_tab, 100)
   tail(new_uni_tab, 100)
   
-  subset(new_uni, uni_lemma=="(hair)brush")
 }

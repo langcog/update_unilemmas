@@ -463,7 +463,7 @@ item_461,GR22_BABY_,word,games_routines,produces,ντα,NA,baby word for naughty
 item_462,GR23_HOLD__CG,word,games_routines,produces,όπα,NA,hold me/up CG,NA
 item_463,GR24_NO,word,games_routines,produces,όχι,NA,no,no
 item_464,GR25_CLAP,word,games_routines,produces,παλαμάκια,NA,clap,clap
-item_465,GR26_BYE_B,word,games_routines,produces,πά παι,NA,bye bye,bye bye
+item_465,GR26_BYE_B,word,games_routines,produces,πά παι,NA,bye bye,bye
 item_466,GR27_ALL_G_CG,word,games_routines,produces,πάππαλλα,NA,all gone CG,all gone
 item_467,GR28_PLEAS,word,games_routines,produces,παρακαλώ,NA,please,please
 item_468,GR28_HOLD_,word,games_routines,produces,πιάσε με,NA,hold me/up,NA
@@ -611,7 +611,7 @@ item_609,D29_BIG,word,descriptive_words,produces,μεγάλο,NA,big,big
 item_610,D30_SMALL,word,descriptive_words,produces,μικρό,NA,small,small
 item_611,D31_SMALL__CG,word,descriptive_words,produces,μιτσί,NA,small CG,small
 item_612,D32_NEW,word,descriptive_words,produces,νέο,NA,new,new
-item_613,D33_DELICI,word,descriptive_words,produces,νόστιμο,NA,delicious,tasty
+item_613,D33_DELICI,word,descriptive_words,produces,νόστιμο,NA,delicious,yummy
 item_614,D34_DIRTY__CG,word,descriptive_words,produces,ξιμαρισμένο,NA,dirty CG,dirty
 item_615,D35_BEAUTI,word,descriptive_words,produces,όμορφο,NA,beautiful,nice
 item_616,D36_EMPTY__CG,word,descriptive_words,produces,όφκερο,NA,empty CG,empty

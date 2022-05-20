@@ -87,6 +87,7 @@ new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
 new_items[which(new_items$uni_lemma=="nanny"),]$uni_lemma = "babysitter"
 new_items[which(new_items$uni_lemma=="thanks"),]$uni_lemma = "thank you"
 new_items[which(new_items$uni_lemma=="comb"),]$uni_lemma = "comb (object)"
+new_items[which(new_items$uni_lemma=="be able to"),]$uni_lemma = "be able"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

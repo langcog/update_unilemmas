@@ -676,7 +676,7 @@ item_674,helping_verbs,doen,understands;produces,doen,word,to do,do
 item_675,helping_verbs,ga+ww(bvbikgaspelen),understands;produces,ga+ww(bvbikgaspelen),word,to go,go
 item_676,helping_verbs,hijdoet,understands;produces,hijdoet,word,he does,do
 item_677,helping_verbs,is,understands;produces,is,word,is,be
-item_678,helping_verbs,kunnen,understands;produces,kunnen,word,can/be able to,be able to
+item_678,helping_verbs,kunnen,understands;produces,kunnen,word,can/be able to,be able
 item_679,helping_verbs,laatme,understands;produces,laatme,word,let me,let
 item_680,helping_verbs,moet(bvbikmoet),understands;produces,moet(bvbikmoet),word,have to/must,have to
 item_681,helping_verbs,nietdoen,understands;produces,nietdoen,word,don't do,not do

@@ -24,6 +24,7 @@ new_items[which(new_items$definition=="jug"),]$uni_lemma = NA # pitcher?
 new_items[which(new_items$definition=="kate"),]$uni_lemma = NA # ??? ..skate? no category...
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="band-aid"),]$uni_lemma = "bandaid" 
 
 
 #subset(new_items, uni_lemma=="")
