@@ -41,38 +41,82 @@ new_items[which(new_items$WS=="item_573"),]$uni_lemma = "pretty" # or beautiful
 new_items[which(new_items$WS=="item_582"),]$uni_lemma = "far away" # far?
 
 new_items[which(new_items$WS=="item_589"),]$uni_lemma = "light" # or easy
-new_items[which(new_items$WS=="item_610"),]$uni_lemma = "" # pronouns..
-new_items[which(new_items$WS=="item_611"),]$uni_lemma = ""
-new_items[which(new_items$WS=="item_612"),]$uni_lemma = ""
-new_items[which(new_items$WS=="item_613"),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
-new_items[which(new_items$WS==""),]$uni_lemma = ""
 
-new_items[which(new_items$WS=="item_337"),]$uni_lemma = "yummy"
-new_items[which(new_items$WS=="item_342"),]$uni_lemma = "good"
-# ToDo: finish, or perhaps edit Google spreadsheet directly...
+# pronouns from here to line 64
+new_items[which(new_items$WS=="item_610"),]$uni_lemma = "you" # pronouns..
+new_items[which(new_items$WS=="item_611"),]$uni_lemma = "you" # replace all of these with Alvin's coded pronouns
+new_items[which(new_items$WS=="item_612"),]$uni_lemma = "your"
+new_items[which(new_items$WS=="item_613"),]$uni_lemma = "me"
+new_items[which(new_items$WS=="item_614"),]$uni_lemma = "my"
+new_items[which(new_items$WS=="item_615"),]$uni_lemma = "we"
+new_items[which(new_items$WS=="item_616"),]$uni_lemma = "we"
+new_items[which(new_items$WS=="item_617"),]$uni_lemma = "we"
+new_items[which(new_items$WS=="item_620"),]$uni_lemma = "this"
+new_items[which(new_items$WS=="item_621"),]$uni_lemma = "these"
+new_items[which(new_items$WS=="item_622"),]$uni_lemma = "this"
+new_items[which(new_items$WS=="item_623"),]$uni_lemma = "these"
+new_items[which(new_items$WS=="item_624"),]$uni_lemma = "that"
+#new_items[which(new_items$WS==""),]$uni_lemma = ""
+#new_items[which(new_items$WS==""),]$uni_lemma = ""
+#new_items[which(new_items$WS==""),]$uni_lemma = ""
+#new_items[which(new_items$WS==""),]$uni_lemma = ""
+#new_items[which(new_items$WS==""),]$uni_lemma = ""
+#new_items[which(new_items$WS=="item_637"),]$uni_lemma = "" 
+# end pronouns
+
+new_items[which(new_items$WS=="item_639"),]$uni_lemma = "how"
+new_items[which(new_items$WS=="item_640"),]$uni_lemma = "when (question)"
+new_items[which(new_items$WS=="item_641"),]$uni_lemma = "what kind" # or what type
+new_items[which(new_items$WS=="item_643"),]$uni_lemma = "why"
+new_items[which(new_items$WS=="item_644"),]$uni_lemma = "what"
+new_items[which(new_items$WS=="item_646"),]$uni_lemma = "where (question)"
+new_items[which(new_items$WS=="item_647"),]$uni_lemma = "which (question)"
+new_items[which(new_items$WS=="item_663"),]$uni_lemma = "in front"
+new_items[which(new_items$WS=="item_666"),]$uni_lemma = "here"
+new_items[which(new_items$WS=="item_669"),]$uni_lemma = "there"
+new_items[which(new_items$WS=="item_679"),]$uni_lemma = "little" # or "a bit" (quantity / amount)
+new_items[which(new_items$WS=="item_691"),]$uni_lemma = "was" 
+new_items[which(new_items$WS=="item_693"),]$uni_lemma = "was"
+new_items[which(new_items$WS=="item_694"),]$uni_lemma = "will be" # conjugations..do we want all of these?
+new_items[which(new_items$WS=="item_695"),]$uni_lemma = "will be"
+new_items[which(new_items$WS=="item_696"),]$uni_lemma = "will be"
+new_items[which(new_items$WS=="item_698"),]$uni_lemma = "are"
+new_items[which(new_items$WS=="item_699"),]$uni_lemma = "am"
+new_items[which(new_items$WS=="item_700"),]$uni_lemma = "have been"
+new_items[which(new_items$WS=="item_701"),]$uni_lemma = "want"
+new_items[which(new_items$WS=="item_703"),]$uni_lemma = "make" # make one do something..
+new_items[which(new_items$WS=="item_704"),]$uni_lemma = "ask" # ask for something
+new_items[which(new_items$WS=="item_705"),]$uni_lemma = "can"
+new_items[which(new_items$WS=="item_707"),]$uni_lemma = "cannot" # or can't
+new_items[which(new_items$WS=="item_708"),]$uni_lemma = "can"
+new_items[which(new_items$WS=="item_710"),]$uni_lemma = "can"
+new_items[which(new_items$WS=="item_711"),]$uni_lemma = "wish" 
+
+new_items[which(new_items$WG=="item_104"),]$uni_lemma = "diaper"
+new_items[which(new_items$WG=="item_124"),]$uni_lemma = "eye"
+new_items[which(new_items$WG=="item_125"),]$uni_lemma = "ear"
+new_items[which(new_items$WG=="item_137"),]$uni_lemma = "finger" # and toe
+new_items[which(new_items$WG=="item_138"),]$uni_lemma = "shoulder"
+new_items[which(new_items$WG=="item_259"),]$uni_lemma = "shh" # or "quiet!"
+new_items[which(new_items$WG=="item_260"),]$uni_lemma = "good afternoon"
+new_items[which(new_items$WG=="item_261"),]$uni_lemma = "good morning"
+new_items[which(new_items$WG=="item_262"),]$uni_lemma = "good night" # or good evening
+new_items[which(new_items$WG=="item_337"),]$uni_lemma = "yummy"
+new_items[which(new_items$WG=="item_342"),]$uni_lemma = "good"
+
+new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
+new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy"
+new_items[which(new_items$uni_lemma=="fireman"),]$uni_lemma = "firefighter"
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
+
+# ToDo: check empty uni-lemmas ("")
+new_items[which(new_items$uni_lemma==""),]
+new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
+
+# save updated instrument(s)
+new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
+# "667 new uni-lemmas defined for Latvian"
+
+new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
+# "40 new uni-lemmas defined for Latvian"
+# "allowed" -> to "allow" ?

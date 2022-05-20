@@ -25,6 +25,7 @@ new_items[which(new_items$definition=="花生"),]$uni_lemma = "nut" # or nuts?
 new_items[which(new_items$definition=="積木/Lego"),]$uni_lemma = "blocks"
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

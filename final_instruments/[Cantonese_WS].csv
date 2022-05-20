@@ -606,7 +606,7 @@ item_604,B13HAIR,word,body_parts,produces,頭髮,NA,,hair
 item_605,B13FACEC,word,body_parts,produces,面,NA,,face
 item_606,B13CHEEC,word,body_parts,produces,面珠,NA,,cheek
 item_607,B13EYEC,word,body_parts,produces,眼,NA,,eye
-item_608,B13EYEBC,word,body_parts,produces,眼眉(毛),NA,,eyebrows
+item_608,B13EYEBC,word,body_parts,produces,眼眉(毛),NA,,eyebrow
 item_609,B13EARC,word,body_parts,produces,耳仔,NA,,ear
 item_610,B13NOSE,word,body_parts,produces,鼻,NA,,nose
 item_611,B13MOUTH,word,body_parts,produces,口/嘴,NA,,mouth

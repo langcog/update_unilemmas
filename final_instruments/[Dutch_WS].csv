@@ -366,7 +366,7 @@ item_364,places,tuin,understands;produces,tuin,word,garden,garden
 item_365,places,winkel,understands;produces,winkel,word,shop,store
 item_366,places,zee/strand,understands;produces,zee/strand,word,beach,beach
 item_367,people,baby,understands;produces,baby,word,baby,baby
-item_368,people,babysitter,understands;produces,babysitter,word,nanny/babysitter,nanny
+item_368,people,babysitter,understands;produces,babysitter,word,nanny/babysitter,babysitter
 item_369,people,brandweerman,understands;produces,brandweerman,word,fireman,firefighter
 item_370,people,broer(tje),understands;produces,broer(tje),word,(little) brother,brother
 item_371,people,clown/Pippo,understands;produces,clown/Pippo,word,clown,clown
@@ -396,7 +396,7 @@ item_394,people,vriend/vriendin,understands;produces,vriend/vriendin,word,friend
 item_395,people,zus(je),understands;produces,zus(je),word,(little) sister,sister
 item_396,games_routines,bellen/telefoneren,understands;produces,bellen/telefoneren,word,call,call (verb)
 item_397,games_routines,dadadoen/daaag,understands;produces,dadadoen/daaag,word,say bye,bye
-item_398,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thanks
+item_398,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thank you
 item_399,games_routines,dododoen/gaanslapen/slapieslapiedoen,understands;produces,dododoen/gaanslapen/slapieslapiedoen,word,going to bed,going to bed
 item_400,games_routines,etensavonds,understands;produces,etensavonds,word,having dinner,having dinner
 item_401,games_routines,hallo/hoi,understands;produces,hallo/hoi,word,hello/hi,hello

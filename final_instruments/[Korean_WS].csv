@@ -363,7 +363,7 @@ item_361,item_361,word,question_words,understands; produces,무엇/뭐,NA,what,w
 item_362,item_362,word,question_words,understands; produces,어느,NA,which,which (question)
 item_363,item_363,word,question_words,understands; produces,어디,NA,where,where (question)
 item_364,item_364,word,question_words,understands; produces,어디서,NA,where from,where from
-item_365,item_365,word,question_words,understands; produces,어떤,NA,which,which
+item_365,item_365,word,question_words,understands; produces,어떤,NA,which,which (question)
 item_366,item_366,word,question_words,understands; produces,어떻게,NA,how,how
 item_367,item_367,word,question_words,understands; produces,언제,NA,when,when
 item_368,item_368,word,question_words,understands; produces,왜,NA,why,why

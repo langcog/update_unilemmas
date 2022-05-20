@@ -29,6 +29,9 @@ new_items[which(new_items$WG=="item_442"),]$uni_lemma = "he" # not 'his'
 new_items[which(new_items$WG=="item_443"),]$uni_lemma = "here" # not 'her'
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy"
+new_items[which(new_items$uni_lemma=="nanny"),]$uni_lemma = "babysitter"
+new_items[which(new_items$uni_lemma=="bzzz"),]$uni_lemma = "buzz"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

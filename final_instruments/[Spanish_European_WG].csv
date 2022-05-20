@@ -290,8 +290,8 @@ item_282,yo,word,pronouns,understands; produces,yo,NA,I,I
 item_283,tu_tuyo,word,pronouns,understands; produces,tu/tuyo,NA,you,you
 item_284,este,word,pronouns,understands; produces,este/a/o,NA,this,this
 item_285,como,word,question_words,understands; produces,cómo,NA,how,how
-item_286,cual,word,question_words,understands; produces,cuál,NA,which,which
-item_287,donde,word,question_words,understands; produces,dónde,NA,where,where
+item_286,cual,word,question_words,understands; produces,cuál,NA,which,which (question)
+item_287,donde,word,question_words,understands; produces,dónde,NA,where,where (question)
 item_288,porque,word,question_words,understands; produces,por qué,NA,why,why
 item_289,que,word,question_words,understands; produces,qué,NA,what,what
 item_290,quien,word,question_words,understands; produces,quién,NA,who,who

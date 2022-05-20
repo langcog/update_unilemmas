@@ -215,7 +215,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 шарф,clothing,NA,word,produces,NA,item_214,scarf,scarf
 шорты,clothing,NA,word,produces,NA,item_215,shorts,shorts
 штаны,clothing,NA,word,produces,NA,item_216,pants,pants
-брови,body_parts,NA,word,produces,NA,item_217,brows,eyebrows
+брови,body_parts,NA,word,produces,NA,item_217,brows,eyebrow
 волосы,body_parts,NA,word,produces,NA,item_218,hair,hair
 глазки,body_parts,NA,word,produces,NA,item_219,eyes,eye
 голова,body_parts,NA,word,produces,NA,item_220,head,head

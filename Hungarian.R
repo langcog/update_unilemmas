@@ -29,6 +29,7 @@ new_items[which(new_items$WS=="item_789"),]$uni_lemma = "can (auxiliary)" # not 
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
+new_items[which(new_items$uni_lemma=="brush"),]$uni_lemma = "brush (object)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

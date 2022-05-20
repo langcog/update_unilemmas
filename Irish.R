@@ -20,17 +20,46 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 new_items[which(new_items$WS=="item_126"),]$uni_lemma = "train" # same..
 new_items[which(new_items$WS=="item_132"),]$uni_lemma = "blocks" # plural
 new_items[which(new_items$WS=="item_155"),]$uni_lemma = "puzzle" # generic
-# ToDo - finish
+new_items[which(new_items$WS=="item_335"),]$uni_lemma = "t-shirt" 
+new_items[which(new_items$WS=="item_341"),]$uni_lemma = "toe"
+new_items[which(new_items$WS=="item_356"),]$uni_lemma = "tooth"
+new_items[which(new_items$WS=="item_463"),]$uni_lemma = "light (object)"
+new_items[which(new_items$WS=="item_640"),]$uni_lemma = "forest"
+new_items[which(new_items$WS=="item_658"),]$uni_lemma = "nursery"
+new_items[which(new_items$WS=="item_678"),]$uni_lemma = "aunt"
+new_items[which(new_items$WS=="item_690"),]$uni_lemma = "grandpa"
+new_items[which(new_items$WS=="item_721"),]$uni_lemma = "mommy"
+new_items[which(new_items$WS=="item_722"),]$uni_lemma = "grandma"
+new_items[which(new_items$WS=="item_731"),]$uni_lemma = "this little piggy" # this little pig?
+new_items[which(new_items$WS=="item_755"),]$uni_lemma = NA # cuddle/hug or hatred ?? leave blank until we resolve
+new_items[which(new_items$WS=="item_830"),]$uni_lemma = "rip" # vs. tear
+new_items[which(new_items$WS=="item_884"),]$uni_lemma = "shake" 
+new_items[which(new_items$WS=="item_918"),]$uni_lemma = "draw" # vs. line 
+new_items[which(new_items$WS=="item_1060"),]$uni_lemma = "pretty" # vs. cute 
+new_items[which(new_items$WS=="item_1076"),]$uni_lemma = "orange (description)" 
+new_items[which(new_items$WS=="item_1195"),]$uni_lemma = "where (question)" 
+new_items[which(new_items$WS=="item_1296"),]$uni_lemma = "none" # or 'without'
+new_items[which(new_items$WS=="item_1318"),]$uni_lemma = "be" 
+new_items[which(new_items$WS=="item_1336"),]$uni_lemma = "was" 
+new_items[which(new_items$WS=="item_1340"),]$uni_lemma = "but" 
+new_items[which(new_items$WS=="item_1342"),]$uni_lemma = "and" 
+new_items[which(new_items$WS=="item_1352"),]$uni_lemma = "when" 
+
+new_items[which(new_items$WS=="item_456"),]$uni_lemma = "brush (object)" 
+new_items[which(new_items$WS=="item_938"),]$uni_lemma = "brush (action)" 
+
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="fireman"),]$uni_lemma = "firefighter" 
 new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
+new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow"
+new_items[which(new_items$uni_lemma=="comb"),]$uni_lemma = "comb (object)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
-# "91 new uni-lemmas defined for Irish"
+# "84 new uni-lemmas defined for Irish"
 

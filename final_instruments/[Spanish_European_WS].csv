@@ -526,10 +526,10 @@ item_518,tuyo,word,pronouns,produces,tuyo/tuya,NA,yours,yours
 item_519,tuyos,word,pronouns,produces,tuyos/tuyas,NA,yours,yours
 item_520,yo,word,pronouns,produces,yo,NA,I,I
 item_521,como,word,question_words,produces,cómo,NA,how,how
-item_522,cual,word,question_words,produces,cuál,NA,which,which
+item_522,cual,word,question_words,produces,cuál,NA,which,which (question)
 item_523,cuando,word,question_words,produces,cuándo,NA,when,when
 item_524,cuantos,word,question_words,produces,cuántos,NA,how many,how many
-item_525,donde,word,question_words,produces,dónde,NA,where,where
+item_525,donde,word,question_words,produces,dónde,NA,where,where (question)
 item_526,por_que_,word,question_words,produces,por qué,NA,why,why
 item_527,que,word,question_words,produces,qué,NA,what,what
 item_528,quien,word,question_words,produces,quién,NA,who,who

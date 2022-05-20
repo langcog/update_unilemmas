@@ -556,7 +556,7 @@ item_554,white,word,descriptive_words,produces,white,NA,white,white
 item_555,windy,word,descriptive_words,produces,windy,NA,windy,windy
 item_556,yellow,word,descriptive_words,produces,yellow,NA,yellow,yellow
 item_557,yucky,word,descriptive_words,produces,yucky,NA,yucky,yucky
-item_558,yummy,word,descriptive_words,produces,yummy,NA,yummy,tasty
+item_558,yummy,word,descriptive_words,produces,yummy,NA,yummy,yummy
 item_559,children,word_forms_nouns,NA,produces,children,NA,children,NA
 item_560,feet,word_forms_nouns,NA,produces,feet,NA,feet,NA
 item_561,men,word_forms_nouns,NA,produces,men,NA,men,NA

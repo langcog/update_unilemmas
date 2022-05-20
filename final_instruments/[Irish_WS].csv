@@ -184,7 +184,7 @@ gualainn,item_362,BODY PARTS,produces; doesn't produce,word,gualainn,0,body_part
 lámh,item_364,BODY PARTS,produces; doesn't produce,word,lámh,0,body_parts,nouns,hand,hand
 leiceann,item_366,BODY PARTS,produces; doesn't produce,word,leiceann,0,body_parts,nouns,cheek,cheek
 lúidín,item_368,BODY PARTS,produces; doesn't produce,word,lúidín,0,body_parts,nouns,little finger,NA
-mala,item_369,BODY PARTS,produces; doesn't produce,word,mala,0,body_parts,nouns,eyebrow,eyebrows
+mala,item_369,BODY PARTS,produces; doesn't produce,word,mala,0,body_parts,nouns,eyebrow,eyebrow
 méar,item_371,BODY PARTS,produces; doesn't produce,word,méar,0,body_parts,nouns,finger,finger
 muineál,item_373,BODY PARTS,produces; doesn't produce,word,muineál,0,body_parts,nouns,neck,neck
 ordóg,item_375,BODY PARTS,produces; doesn't produce,word,ordóg,0,body_parts,nouns,thumb,thumb
@@ -208,7 +208,7 @@ buicéad,item_409,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,buicéad,
 buidéal,item_411,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,buidéal,0,household,nouns,bottle,bottle
 casúr,item_413,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,casúr,0,household,nouns,hammer,hammer
 ceamara,item_415,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,ceamara,0,household,nouns,camera,camera
-cíor,item_417,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,cíor,0,household,nouns,comb,comb
+cíor,item_417,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,cíor,0,household,nouns,comb,comb (object)
 kettle,item_419,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,kettle_citeal_ie,1,household,nouns,kettle,kettle
 fíochán,item_420,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,fíochán_shciarsúr,0,household,nouns,tissue,tissue
 folúsghlantóir,item_422,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,folúsghlantóir,0,household,nouns,hoover,vacuum
@@ -229,10 +229,10 @@ sáspan,item_448,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,sáspan,0,
 scáthán,item_450,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,scáthán,0,household,nouns,mirror,mirror
 scian,item_452,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,scian,0,household,nouns,knife,knife
 sconna,item_454,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,sconna,0,household,nouns,tap,tap
-scuab,item_456,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,scuab,0,household,nouns,brush,brush
+scuab,item_456,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,scuab,0,household,nouns,brush,brush (object)
 scualfiacla,item_458,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,scualfiacla,0,household,nouns,toothbrush,toothbrush
 siosúr,item_461,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,siosúr,0,household,nouns,scissors,scissors
-solas,item_463,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,solas,0,household,nouns,light,light
+solas,item_463,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,solas,0,household,nouns,light,light (object)
 spúnóg,item_465,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,spúnóg,0,household,nouns,spoon,spoon
 taephota,item_467,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,taephota,0,household,nouns,teapot,teapot
 taosfiacla,item_469,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,taosfiacla,0,household,nouns,toothpaste,toothpaste
@@ -320,7 +320,7 @@ aifreann,item_632,PLACES TO GO,produces; doesn't produce,word,aifreann,0,places,
 amuigh,item_634,PLACES TO GO,produces; doesn't produce,word,amuigh,0,places,other,outside,outside
 campáil,item_636,PLACES TO GO,produces; doesn't produce,word,campáil,0,places,other,camping,camping
 cathair,item_638,PLACES TO GO,produces; doesn't produce,word,cathair_bailemór,0,places,other,city,city
-coillte,item_640,PLACES TO GO,produces; doesn't produce,word,coillte_coill,0,places,other,forest,woods
+coillte,item_640,PLACES TO GO,produces; doesn't produce,word,coillte_coill,0,places,other,forest,forest
 cóisir,item_642,PLACES TO GO,produces; doesn't produce,word,cóisir,0,places,other,party,party
 feirm,item_644,PLACES TO GO,produces; doesn't produce,word,feirm,0,places,other,farm,farm
 gort,item_646,PLACES TO GO,produces; doesn't produce,word,gort_garraí,0,places,other,field,field
@@ -329,7 +329,7 @@ obair,item_650,PLACES TO GO,produces; doesn't produce,word,obair,0,places,other,
 ospidéal,item_652,PLACES TO GO,produces; doesn't produce,word,ospidéal,0,places,other,hospital,hospital
 páirc,item_654,PLACES TO GO,produces; doesn't produce,word,páirc,0,places,other,park,field
 naíonra,item_656,PLACES TO GO,produces; doesn't produce,word,naíonra,0,places,other,playschool,preschool
-naíolann,item_658,PLACES TO GO,produces; doesn't produce,word,naíolann,0,places,other,creche,creche
+naíolann,item_658,PLACES TO GO,produces; doesn't produce,word,naíolann,0,places,other,creche,nursery
 scoil,item_661,PLACES TO GO,produces; doesn't produce,word,scoil,0,places,other,school,school
 siopa,item_663,PLACES TO GO,produces; doesn't produce,word,siopa,0,places,other,shop,shop
 teach,item_666,PLACES TO GO,produces; doesn't produce,word,teach_tigh,0,places,other,house,house
@@ -366,7 +366,7 @@ múinteoir,item_724,PEOPLE *or words used in your family,produces; doesn't produ
 páiste,item_726,PEOPLE *or words used in your family,produces; doesn't produce,word,páiste,0,people,other,child,child
 uncail,item_728,PEOPLE *or words used in your family,produces; doesn't produce,word,uncail_uncle,1,people,other,uncle,uncle
 amhrán,item_729,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,amhrán,0,games_routines,other,song,song
-gfranmuicínseo(no,item_731,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gfranmuicínseo(no_rann_eile）,0,games_routines,other,this little pig,this little pig
+gfranmuicínseo(no,item_731,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gfranmuicínseo(no_rann_eile）,0,games_routines,other,this little pig,this little piggy
 barróg,item_733,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,barróg,0,games_routines,other,hug,hug
 grbéarfaidhméort,item_735,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,grbéarfaidhméort,0,games_routines,other,gonna get you,gonna get you
 bricfeasta,item_737,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,bricfeasta,0,games_routines,other,breakfast,breakfast
@@ -378,7 +378,7 @@ dinnéar,item_747,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,d
 folcadh,item_749,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,folcadh,0,games_routines,other,bath,bath
 glaoch(gutháin0,item_751,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,glaoch(gutháin0,0,games_routines,other,phone call (call),call on phone
 (goraibh)maithagat,item_753,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,(goraibh)maithagat,0,games_routines,other,thank you,thank you
-gráin,item_755,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gráin,0,games_routines,other,cuddle,hug
+gráin,item_755,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gráin,0,games_routines,other,cuddle,NA
 gabhanseo,item_757,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,gabhanseo_goitse,0,games_routines,other,c'mere,c'mere
 inaonchor,item_759,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,inaonchor,0,games_routines,other,at all,at all
 (is)maith,item_761,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,(is)maith_tiaghníonnle,0,games_routines,other,I like,i like 
@@ -417,7 +417,7 @@ oscail,item_822,ACTION WORDS,produces; doesn't produce,word,oscail,0,action_word
 péinteáíl,item_824,ACTION WORDS,produces; doesn't produce,word,péinteáíl,0,action_words,verbs,paint,paint
 pioc,item_826,ACTION WORDS,produces; doesn't produce,word,pioc,0,action_words,verbs,pick,pick
 póg,item_828,ACTION WORDS,produces; doesn't produce,word,póg,0,action_words,verbs,kiss,kiss
-réab,item_830,ACTION WORDS,produces; doesn't produce,word,réab_srac_stróic,0,action_words,verbs,tear,tear
+réab,item_830,ACTION WORDS,produces; doesn't produce,word,réab_srac_stróic,0,action_words,verbs,tear,rip
 rith,item_832,ACTION WORDS,produces; doesn't produce,word,rith,0,action_words,verbs,run,run
 roinn,item_834,ACTION WORDS,produces; doesn't produce,word,roinn,0,action_words,verbs,share,share
 sceamh,item_836,ACTION WORDS,produces; doesn't produce,word,sceamh_tafann,0,action_words,verbs,bark,bark
@@ -444,7 +444,7 @@ cócaráil,item_876,ACTION WORDS,produces; doesn't produce,word,cócaráil,0,act
 codail,item_878,ACTION WORDS,produces; doesn't produce,word,codail,0,action_words,verbs,sleep,sleep
 coimeád,item_880,ACTION WORDS,produces; doesn't produce,word,coimeád_coinnigh,0,action_words,verbs,keep,keep
 críochnaigh,item_882,ACTION WORDS,produces; doesn't produce,word,críochnaigh,0,action_words,verbs,finish,finish
-croith,item_884,ACTION WORDS,produces; doesn't produce,word,croith,0,action_words,verbs,wave,wave
+croith,item_884,ACTION WORDS,produces; doesn't produce,word,croith,0,action_words,verbs,wave,shake
 dún,item_886,ACTION WORDS,produces; doesn't produce,word,dún,0,action_words,verbs,close,close
 éist,item_888,ACTION WORDS,produces; doesn't produce,word,éist,0,action_words,verbs,listen,listen
 fág,item_890,ACTION WORDS,produces; doesn't produce,word,fág,0,action_words,verbs,leave,leave
@@ -471,7 +471,7 @@ oibrigh,item_930,ACTION WORDS,produces; doesn't produce,word,oibrigh,0,action_wo
 ól,item_932,ACTION WORDS,produces; doesn't produce,word,ól,0,action_words,verbs,drink,drink
 sciorr,item_934,ACTION WORDS,produces; doesn't produce,word,sciorr_sleamhnaigh,0,action_words,verbs,slide,slip
 scríobh,item_936,ACTION WORDS,produces; doesn't produce,word,scríobh,0,action_words,verbs,write,write
-scuab,item_938,ACTION WORDS,produces; doesn't produce,word,scuab,0,action_words,verbs,brush,brush
+scuab,item_938,ACTION WORDS,produces; doesn't produce,word,scuab,0,action_words,verbs,brush,brush (action)
 seas,item_940,ACTION WORDS,produces; doesn't produce,word,seas,0,action_words,verbs,stand,stand
 séid,item_942,ACTION WORDS,produces; doesn't produce,word,séid,0,action_words,verbs,blow,blow
 siúl,item_944,ACTION WORDS,produces; doesn't produce,word,siúl,0,action_words,verbs,walk,walk
@@ -540,7 +540,7 @@ míshlachtmhar,item_1068,DESCRIPTIVE WORDS,produces; doesn't produce,word,míshl
 mór,item_1070,DESCRIPTIVE WORDS,produces; doesn't produce,word,mór,0,descriptive_words,adjectives,big,big
 nua,item_1072,DESCRIPTIVE WORDS,produces; doesn't produce,word,nua,0,descriptive_words,adjectives,new,new
 ocrach,item_1074,DESCRIPTIVE WORDS,produces; doesn't produce,word,ocrach,0,descriptive_words,adjectives,hungry,hungry
-oráiste,item_1076,DESCRIPTIVE WORDS,produces; doesn't produce,word,oráiste,0,descriptive_words,adjectives,orange,orage
+oráiste,item_1076,DESCRIPTIVE WORDS,produces; doesn't produce,word,oráiste,0,descriptive_words,adjectives,orange,orange (description)
 ramhar,item_1078,DESCRIPTIVE WORDS,produces; doesn't produce,word,ramhar,0,descriptive_words,adjectives,fat,fat
 salach,item_1080,DESCRIPTIVE WORDS,produces; doesn't produce,word,salach,0,descriptive_words,adjectives,dirty,dirty
 sean,item_1082,DESCRIPTIVE WORDS,produces; doesn't produce,word,sean,0,descriptive_words,adjectives,old,old
@@ -681,16 +681,16 @@ ná,item_1328,HELPING VERBS,produces; doesn't produce,word,ná,0,helping_verbs,f
 ní(hea),item_1330,HELPING VERBS,produces; doesn't produce,word,ní(hea),0,helping_verbs,function_words,not,not
 níl,item_1332,HELPING VERBS,produces; doesn't produce,word,níl,0,helping_verbs,function_words,isn't,isn't
 níor,item_1334,HELPING VERBS,produces; doesn't produce,word,níor,0,helping_verbs,function_words,didn't,did not
-raibh,item_1336,HELPING VERBS,produces; doesn't produce,word,raibh,0,helping_verbs,function_words,thank you,thank you
+raibh,item_1336,HELPING VERBS,produces; doesn't produce,word,raibh,0,helping_verbs,function_words,thank you,was
 tá,item_1337,HELPING VERBS,produces; doesn't produce,word,tá,0,helping_verbs,function_words,yes,yes
 teastaigh,item_1338,HELPING VERBS,produces; doesn't produce,word,teastaigh,0,helping_verbs,function_words,wanna,wanna
-ach,item_1340,CONNECTING WORDS,produces; doesn't produce,word,ach,0,connecting_words,function_words,but,ach
-agus,item_1342,CONNECTING WORDS,produces; doesn't produce,word,agus_is_leis,0,connecting_words,function_words,and,agus
+ach,item_1340,CONNECTING WORDS,produces; doesn't produce,word,ach,0,connecting_words,function_words,but,but
+agus,item_1342,CONNECTING WORDS,produces; doesn't produce,word,agus_is_leis,0,connecting_words,function_words,and,and
 ansin,item_1344,CONNECTING WORDS,produces; doesn't produce,word,ansin,0,connecting_words,function_words,then,then
 chomh,item_1346,CONNECTING WORDS,produces; doesn't produce,word,chomh,0,connecting_words,function_words,so,so
 dá,item_1348,CONNECTING WORDS,produces; doesn't produce,word,if,0,connecting_words,function_words,if,if
 mar,item_1350,CONNECTING WORDS,produces; doesn't produce,word,because,0,connecting_words,function_words,because,because
-huair,item_1352,CONNECTING WORDS,produces; doesn't produce,word,when,0,connecting_words,function_words,when,cathain
+huair,item_1352,CONNECTING WORDS,produces; doesn't produce,word,when,0,connecting_words,function_words,when,when
 druma,item_146,TOYS,produces; doesn't produce,word,druma,0,toys,nouns,drum,drum
 stocaí,item_332,CLOTHES,produces; doesn't produce,word,stocaí,0,clothing,nouns,socks,sock
 tléine,item_334,CLOTHES,produces; doesn't produce,word,tléine,0,clothing,nouns,tshirt,t-shirt

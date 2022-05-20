@@ -57,7 +57,7 @@ item_55,people,opa,understands;produces,opa,word,granddad,grandpa
 item_56,people,papa,understands;produces,papa,word,papa,daddy
 item_57,people,zus(je),understands;produces,zus(je),word,(little) sister,sister
 item_58,games_routines,dadadoen/daaag,understands;produces,dadadoen/daaag,word,say bye,bye
-item_59,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thanks
+item_59,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thank you
 item_60,games_routines,hallo/hoi,understands;produces,hallo/hoi,word,hello/hi,hello
 item_61,games_routines,ja,understands;produces,ja,word,yes,yes
 item_62,games_routines,nee,understands;produces,nee,word,no,no

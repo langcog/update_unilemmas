@@ -270,7 +270,7 @@ item_268,item_268,gyógyszer,word,produces,household,NA,medicine,medicine
 item_269,item_269,járóka,word,produces,household,NA,playpen,playpen
 item_270,item_270,kanál,word,produces,household,NA,spoon,spoon
 item_271,item_271,kalapács,word,produces,household,NA,hammer,hammer
-item_272,item_272,kefe,word,produces,household,NA,brush,brush
+item_272,item_272,kefe,word,produces,household,NA,brush,brush (object)
 item_273,item_273,kés,word,produces,household,NA,knife,knife
 item_274,item_274,konzerv,word,produces,household,NA,can,can (object)
 item_275,item_275,kosár,word,produces,household,NA,basket,basket

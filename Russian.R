@@ -50,10 +50,9 @@ new_items[which(new_items$WS=="item_609"),]$uni_lemma = "good" # or 'well'
 new_items[which(new_items$WS=="item_610"),]$uni_lemma = "clean"
 new_items[which(new_items$WS=="item_727"),]$uni_lemma = "or" # vs. or else
 new_items[which(new_items$uni_lemma=="eyelashes"),]$uni_lemma = "eyelash"
+new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
 
-# ToDo: check empty uni-lemmas ("")
-subset(new_items, uni_lemma=="")
-new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
+
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

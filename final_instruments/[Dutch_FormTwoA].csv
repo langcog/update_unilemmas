@@ -63,7 +63,7 @@ item_61,people,mevrouw,understands;produces,mevrouw,word,Mrs,female
 item_62,people,opa,understands;produces,opa,word,granddad,grandpa
 item_63,people,vriend/vriendin,understands;produces,vriend/vriendin,word,friend,friend
 item_64,games_routines,dadadoen/daaag,understands;produces,dadadoen/daaag,word,say bye,bye
-item_65,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thanks
+item_65,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thank you
 item_66,games_routines,handjesdraaien/klappenindehandjes/stampenmetdevoetjes,understands;produces,handjesdraaien/klappenindehandjes/stampenmetdevoetjes,word,turning hands/clapping hands/stamping feet,NA
 item_67,games_routines,inbadgaan,understands;produces,inbadgaan,word,take a bath,take a bath
 item_68,games_routines,ja,understands;produces,ja,word,yes,yes

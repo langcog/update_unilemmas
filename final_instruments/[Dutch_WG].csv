@@ -225,7 +225,7 @@ item_223,places,thuis,understands;produces,thuis,word,home,home
 item_224,places,tuin,understands;produces,tuin,word,garden,garden
 item_225,places,winkel,understands;produces,winkel,word,shop,store
 item_226,people,baby,understands;produces,baby,word,baby,baby
-item_227,people,babysitter,understands;produces,babysitter,word,nanny/babysitter,nanny
+item_227,people,babysitter,understands;produces,babysitter,word,nanny/babysitter,babysitter
 item_228,people,broer(tje),understands;produces,broer(tje),word,(little) brother,brother
 item_229,people,jongen,understands;produces,jongen,word,boy,boy
 item_230,people,kind(je),understands;produces,kind(je),word,child,child
@@ -243,7 +243,7 @@ item_241,people,papa,understands;produces,papa,word,papa,daddy
 item_242,people,tante,understands;produces,tante,word,aunt,aunt
 item_243,people,zus(je),understands;produces,zus(je),word,(little) sister,sister
 item_244,games_routines,dadadoen/daaag,understands;produces,dadadoen/daaag,word,say bye,bye
-item_245,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thanks
+item_245,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,thank you,thank you
 item_246,games_routines,hallo/hoi,understands;produces,hallo/hoi,word,hello/hi,hello
 item_247,games_routines,ja,understands;produces,ja,word,yes,yes
 item_248,games_routines,nee,understands;produces,nee,word,no,no
@@ -394,7 +394,7 @@ item_392,furniture_rooms,afval/rommel,understands;produces,afval/rommel,word,tra
 item_393,furniture_rooms,bezem,understands;produces,bezem,word,broom,broom
 item_394,furniture_rooms,borstel/veger,understands;produces,borstel/veger,word,brush/broom,brush/broom
 item_395,furniture_rooms,handtas/tas,understands;produces,handtas/tas,word,handbag,handbag
-item_396,household,kam,understands;produces,kam,word,comb,comb
+item_396,household,kam,understands;produces,kam,word,comb,comb (object)
 item_397,furniture_rooms,klok,understands;produces,klok,word,clock,clock
 item_398,furniture_rooms,portemonnee,understands;produces,portemonnee,word,wallet,wallet
 item_399,outside,glijbaan,understands;produces,glijbaan,word,"slide, shute",slide (object)

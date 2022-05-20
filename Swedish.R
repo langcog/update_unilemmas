@@ -23,6 +23,8 @@ new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$definition=="ringa"),]$uni_lemma = "call on phone"
 new_items[which(new_items$definition=="sitta pottan"),]$uni_lemma = "go potty"
 
+new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (connecting)"
+
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instruments

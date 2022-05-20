@@ -1,7 +1,7 @@
 itemID,item,type,choices,category,definition,gloss,uni_lemma
 item_1,p1_c01_i01,word,understands; produces,sounds,אוי/ איה,ouch,ouch
 item_2,p1_c01_i02,word,understands; produces,sounds,אי-אה,hee-haw,hee haw
-item_3,p1_c01_i03,word,understands; produces,sounds,בזז...,bzz..,bzzz
+item_3,p1_c01_i03,word,understands; produces,sounds,בזז...,bzz..,buzz
 item_4,p1_c01_i04,word,understands; produces,sounds,גע גע,quack quack,quack quack
 item_5,p1_c01_i05,word,understands; produces,sounds,האו/ הב הב,woof woof,woof woof
 item_6,p1_c01_i06,word,understands; produces,sounds,הופה,hoppe,wow
@@ -348,7 +348,7 @@ item_346,p1_c12_i05,word,understands; produces,people,דוור,mailman,mailman
 item_347,p1_c12_i06,word,understands; produces,people,חבר/ חברה,friend,friend
 item_348,p1_c12_i07,word,understands; produces,people,ילד/ ילדה,child,child
 item_349,p1_c12_i08,word,understands; produces,people,כבאי,fireman,firefighter
-item_350,p1_c12_i09,word,understands; produces,people,מטפלת,nanny,nanny
+item_350,p1_c12_i09,word,understands; produces,people,מטפלת,nanny,babysitter
 item_351,p1_c12_i10,word,understands; produces,people,סבא,grandpa,grandpa
 item_352,p1_c12_i11,word,understands; produces,people,סבתא,grandma,grandma
 item_353,p1_c12_i12,word,understands; produces,people,רופא,doctor,doctor
@@ -502,7 +502,7 @@ item_500,p1_c15_i11,word,understands; produces,descriptive_words,חכם,smart,sm
 item_501,p1_c15_i12,word,understands; produces,descriptive_words,חם,hot,hot
 item_502,p1_c15_i13,word,understands; produces,descriptive_words,חמוד,cute,cute
 item_503,p1_c15_i14,word,understands; produces,descriptive_words,טוב,good,good
-item_504,p1_c15_i15,word,understands; produces,descriptive_words,טעים,tasty,tasty
+item_504,p1_c15_i15,word,understands; produces,descriptive_words,טעים,tasty,yummy
 item_505,p1_c15_i16,word,understands; produces,descriptive_words,יבש,dry (description),dry (description)
 item_506,p1_c15_i17,word,understands; produces,descriptive_words,יפה,pretty,pretty
 item_507,p1_c15_i18,word,understands; produces,descriptive_words,ישן,"old (or asleep, depends how you pronounce it)",old

@@ -74,20 +74,20 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2277 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 725 hapaxes
-  length(unique(new_uni$form)) # 53 forms
+  length(new_uni_tab) # 2321 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 755 hapaxes
+  length(unique(new_uni$form)) # 55 forms
   
   # uni-lemmas we no longer have:
   setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 65 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 962
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 953
   
-  length(new_uni_tab[which(new_uni_tab>2)]) # 1218 used in 3+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 723 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 540 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 367 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 228 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 983 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 743 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 550 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 390 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 255 on 40+ forms
   # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
@@ -99,25 +99,26 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="earth") # 6 forms have "earth" (terra Italian/Port/Spanish) - change all to soil (Turkish has both)
   subset(new_uni, uni_lemma=="rock (object)") # change rock (object) (28 forms) to 'stone' (27 forms) ?
   subset(new_uni, uni_lemma=="poop") # change games_routines poop to 'go potty' 
-  subset(new_uni, uni_lemma=="well") # change to "well (modifier)"?
+  #subset(new_uni, uni_lemma=="well") # change to "well (modifier)"?
   subset(new_uni, uni_lemma=="little") # change to "little (amount)"
-  subset(new_uni, uni_lemma=="policeman") # 16 forms have police, but 14 have 'policeman' -> change
-  subset(new_uni, uni_lemma=="which (question)") # change Spanish question word "which"
+  #subset(new_uni, uni_lemma=="policeman") # 16 forms have police, but 14 have 'policeman' -> change
+  #subset(new_uni, uni_lemma=="which") # change Spanish & Korean question word "which" -> "which (question)"
   subset(new_uni, uni_lemma=="take out") # Russian -> "remove"
   subset(new_uni, uni_lemma=="put in") # change to "insert"
   #subset(new_uni, uni_lemma=="fireman") # change Dutch & Irish to firefighter
-  subset(new_uni, uni_lemma=="yummy") # Cantonese, but Dutch 'lekker' = delicious
-  subset(new_uni, uni_lemma=="nanny") # change Dutch and Hebrew to 'babysitter'
-  subset(new_uni, uni_lemma=="eyebrows") # singularize
+  #subset(new_uni, uni_lemma=="yummy") # 7 forms have yummy, 6 have tasty
+  #subset(new_uni, uni_lemma=="nanny") # change Dutch and Hebrew to 'babysitter'
+  #subset(new_uni, uni_lemma=="eyebrows") # singularize
   # kind vs. nice?
   subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
-  subset(new_uni, uni_lemma=="bzzz") # Hebrew -> "buzz"
-  subset(new_uni, uni_lemma=="thanks") # Dutch -> "thank you"
+  #subset(new_uni, uni_lemma=="bzzz") # Hebrew -> "buzz"
+  #subset(new_uni, uni_lemma=="thanks") # Dutch -> "thank you"
   subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
-  subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
-  subset(new_uni, uni_lemma=="brush") # Irish/Hungarian -> brush (object)
-  subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful
-  subset(new_uni, uni_lemma=="teeth") # 47 have tooth
+  #subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
+  #subset(new_uni, uni_lemma=="brush") # Irish/Hungarian -> brush (object)
+  subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful ... cute?
+  #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
+  subset(new_uni, uni_lemma=="light") # -> light (object)
   
   tail(new_uni_tab, 100)
   

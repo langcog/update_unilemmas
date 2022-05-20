@@ -23,6 +23,7 @@ new_items[which(new_items$WS=="item_299"),]$uni_lemma = "TV" # capitalize
 new_items[which(new_items$WS=="item_682"),]$uni_lemma = "I" # capitalize
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

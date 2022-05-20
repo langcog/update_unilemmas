@@ -373,7 +373,7 @@ item_371,P1_BOY,word,people,produces,αγόρι,NA,boy,boy
 item_372,P2_SISTER_,word,people,produces,αδελφή/ός,NA,sister/brother,sibling
 item_373,P3_PERSON_,word,people,produces,άνθρωπος,NA,person/human,man
 item_374,P4_MAN,word,people,produces,άντρας,NA,man,man
-item_375,P5_POLICE_,word,people,produces,αστυνομικός,NA,police officer,policeman
+item_375,P5_POLICE_,word,people,produces,αστυνομικός,NA,police officer,police
 item_376,P6_OLD_MAN,word,people,produces,γέρος,NA,old man,old
 item_377,P7_GRANDMO,word,people,produces,γιαγιά,NA,grandmother,grandma
 item_378,P8_DOCTOR,word,people,produces,γιατρός,NA,doctor,doctor
