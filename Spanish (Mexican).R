@@ -39,6 +39,7 @@ new_items[which(new_items$uni_lemma=="tuna (food)"),]$uni_lemma = "tuna" # to ma
 new_items[which(new_items$definition=="uvas"),]$uni_lemma = "grapes" # most forms use plural 
 new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil" 
 new_items[which(new_items$uni_lemma=="well"),]$uni_lemma = "well (modifier)" 
+new_items[which(new_items$uni_lemma=="bookcase"),]$uni_lemma = "bookshelf" 
 
 
 # save updated instruments

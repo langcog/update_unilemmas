@@ -26,13 +26,15 @@ new_items[which(new_items$definition=="積木/Lego"),]$uni_lemma = "blocks"
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
+new_items[which(new_items$uni_lemma=="color"),]$uni_lemma = "color (action)"
+
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 # save updated instrument(s)
 
 new_instr <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
-# "8 new uni-lemmas defined for Cantonese"
-# ""          "blocks"    "corn"      "crab"    "nut"     "shrimp"  "TV"  "vegetable"
+# "10 new uni-lemmas defined for Cantonese"
+#  "blocks"    "corn"      "crab"    "nut"     "shrimp"  "TV"  "vegetable"
 
 # should "" be NA? I think it's okay

@@ -79,6 +79,9 @@ new_items[which(new_items$definition=="beschuit"),]$uni_lemma = "cookie"
 new_items[which(new_items$definition=="alsjeblieft"),]$uni_lemma = "you're welcome"
 new_items[which(new_items$definition=="dadadoen/daaag"),]$uni_lemma = "bye"
 
+new_items[which(new_items$definition=="rug"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$definition=="terug"),]$uni_lemma = "back (location)"
+
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 new_items[which(new_items$uni_lemma=="(hair)brush"),]$uni_lemma = "brush (object)"
@@ -88,13 +91,20 @@ new_items[which(new_items$uni_lemma=="nanny"),]$uni_lemma = "babysitter"
 new_items[which(new_items$uni_lemma=="thanks"),]$uni_lemma = "thank you"
 new_items[which(new_items$uni_lemma=="comb"),]$uni_lemma = "comb (object)"
 new_items[which(new_items$uni_lemma=="be able to"),]$uni_lemma = "be able"
+new_items[which(new_items$uni_lemma=="bean"),]$uni_lemma = "beans"
+new_items[which(new_items$uni_lemma=="(to have) breakfast"),]$uni_lemma = "breakfast (action)"
+new_items[which(new_items$uni_lemma=="catepillar"),]$uni_lemma = "caterpillar"
+new_items[which(new_items$uni_lemma=="drink (verb+noun)"),]$uni_lemma = "drink (action)" # in action_words, so
+new_items[which(new_items$uni_lemma=="dick"),]$uni_lemma = "penis"
+new_items[which(new_items$uni_lemma=="do the dished"),]$uni_lemma = "wash"
+new_items[which(new_items$uni_lemma=="climb (verb)"),]$uni_lemma = "climb"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))
-# "22 new uni-lemmas defined for Dutch"
+# "34 new uni-lemmas defined for Dutch"
 new_wg <- update_instrument("Dutch", "WG", new_items %>% rename(itemID = WG))
-# "20 new uni-lemmas defined for Dutch"
+# "26 new uni-lemmas defined for Dutch"
 new_form1 <- update_instrument("Dutch", "FormOne", new_items %>% rename(itemID = Form1))
-# "11 new uni-lemmas defined for Dutch"
+# "13 new uni-lemmas defined for Dutch"
 new_form2a <- update_instrument("Dutch", "FormTwoA", new_items %>% rename(itemID = Form2A))
-# "5 new uni-lemmas defined for Dutch"
+# "6 new uni-lemmas defined for Dutch"

@@ -31,6 +31,8 @@ new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
 new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
 new_items[which(new_items$uni_lemma=="brush"),]$uni_lemma = "brush (object)"
 
+new_items[which(new_items$WS=="item_232"),]$uni_lemma = "back (body part)"
+
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

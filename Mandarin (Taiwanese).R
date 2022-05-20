@@ -13,7 +13,11 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "Adding uncontested new_uni_lemmas..."
 # "15 uni_lemmas still missing ( 2 % missing)"
 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$WS=="item_281"),]$uni_lemma = "brush (object)"
+new_items[which(new_items$WS=="item_375"),]$uni_lemma = "brush (action)"
 
+new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 new_ws <- update_instrument("Mandarin_Taiwanese", "WS", new_items %>% rename(itemID = WS))

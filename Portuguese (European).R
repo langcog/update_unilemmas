@@ -19,6 +19,7 @@ new_items[which(new_items$WS=="item_561"),]$uni_lemma = "I" # capitalize
 new_items[which(new_items$uni_lemma=="eyelashes"),]$uni_lemma = "eyelash" # singular
 new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow"
 new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil"
+new_items[which(new_items$uni_lemma=="badly"),]$uni_lemma = "bad"
 
 # ToDo: look at blanks
 subset(new_items, uni_lemma=="") # revisit some of the games_routines 

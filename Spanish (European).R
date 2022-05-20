@@ -33,6 +33,9 @@ new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 new_items[which(new_items$definition=="colacao"),]$uni_lemma = "cocoa" # close enough? or nesquic better? 
 new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (question)"
 new_items[which(new_items$uni_lemma=="where"),]$uni_lemma = "where (question)"
+new_items[which(new_items$uni_lemma=="bogeyman"),]$uni_lemma = "boogeyman"
+new_items[which(new_items$uni_lemma=="bathe (action)"),]$uni_lemma = "bathe"
+new_items[which(new_items$uni_lemma=="cook (action)"),]$uni_lemma = "cook"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_European", "WS", new_items %>% rename(itemID = WS))

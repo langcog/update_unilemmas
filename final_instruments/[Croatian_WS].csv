@@ -330,7 +330,7 @@ dom,places,dom,word,produces,NA,item_328,NA,home,home
 grad,places,grad,word,produces,NA,item_329,NA,downtown,outside
 igralište,places,igraliste,word,produces,NA,item_330,NA,playground,playground
 izlet,places,izlet,word,produces,NA,item_331,NA,picnic,outing
-kino,places,kino,word,produces,NA,item_332,NA,cinema,cinema/theatre
+kino,places,kino,word,produces,NA,item_332,NA,cinema,movie
 kuća,places,kuca,word,produces,NA,item_333,NA,house,house
 livada,places,livada,word,produces,NA,item_334,NA,meadow,field
 park,places,park,word,produces,NA,item_335,NA,park,park
@@ -365,7 +365,7 @@ policajac,people,policajac,word,produces,NA,item_363,NA,police,police
 poštar,people,postar,word,produces,NA,item_364,NA,mailman,mailman
 prijatelj,people,prijatelj,word,produces,NA,item_365,NA,friend,friend
 sestra,people,sestra,word,produces,NA,item_366,sister,sister,sister
-smetlar,people,smetlar,word,produces,NA,item_367,NA,dustman,dustman
+smetlar,people,smetlar,word,produces,NA,item_367,NA,dustman,garbage man
 stric,people,stric,word,produces,NA,item_368,uncle,uncle,uncle
 striček,people,stricek,word,produces,NA,item_369,man,s,man
 svoje ime,people,svoje_ime,word,produces,NA,item_370,child's own name,child`s own name,child's own name

@@ -1,6 +1,6 @@
 itemID,item,type,choices,category,definition,complexity_category,gloss,uni_lemma
 item_1,1_ai_au_vai_,word,produces,sounds,ai/au/vai/auč,NA,ouch,ouch
-item_2,2_be_e_e_be_,word,produces,sounds,be-e-e/bē/mē,NA,sheep,baa baa baa
+item_2,2_be_e_e_be_,word,produces,sounds,be-e-e/bē/mē,NA,sheep,baa baa
 item_3,3_br_brm_bru,word,produces,sounds,br/brm/brum,NA,car,vroom
 item_4,4_brr_aukst,word,produces,sounds,brr,NA,cold,brrr
 item_5,5_civ_civ_p,word,produces,sounds,čiv-čiv,NA,bird,tweet tweet
@@ -86,7 +86,7 @@ item_84,84_klucisi,word,produces,toys,klucīši,NA,blocks,blocks
 item_85,85_krasas,word,produces,toys,krāsas,NA,paints,paint
 item_86,86_lapsta,word,produces,toys,lāpsta,NA,rake,shovel
 item_87,87_lelle,word,produces,toys,lelle,NA,doll,doll
-item_88,88_ota,word,produces,toys,ota,NA,paintbrush,brush
+item_88,88_ota,word,produces,toys,ota,NA,paintbrush,brush (object)
 item_89,89_pasaka,word,produces,toys,pasaka,NA,fairytale,story
 item_90,90_pildspalva,word,produces,toys,pildspalva,NA,pen,pen
 item_91,91_plastilins,word,produces,toys,plastilīns,NA,playdough,play dough
@@ -224,7 +224,7 @@ item_222,222_amurs,word,produces,household,āmurs,NA,hammer,hammer
 item_223,223_atkritumi,word,produces,household,atkritumi,NA,trash/garbage,trash
 item_224,224_atslegas,word,produces,household,atslēgas,NA,keys,key
 item_225,225_attels,word,produces,household,attēls,NA,picture,picture
-item_226,226_birste,word,produces,household,birste,NA,brush,brush
+item_226,226_birste,word,produces,household,birste,NA,brush,brush (object)
 item_227,227_bloda,word,produces,household,bļoda,NA,dish,dish
 item_228,228_brilles,word,produces,household,brilles,NA,glasses,glasses
 item_229,229_burka,word,produces,household,burka,NA,jar,jar
@@ -406,7 +406,7 @@ item_404,404_atvaino,word,produces,games_routines,atvaino,NA,sorry,sorry
 item_405,405_brokastis,word,produces,games_routines,brokastis,NA,breakfast,breakfast
 item_406,406_diendusa,word,produces,games_routines,diendusa,NA,siesta,nap
 item_407,407_ja,word,produces,games_routines,jā,NA,yes,yes
-item_408,408_klusu_,word,produces,games_routines,klusu!,NA,be quiet,be quiet
+item_408,408_klusu_,word,produces,games_routines,klusu!,NA,be quiet,shh
 item_409,409_labdien,word,produces,games_routines,labdien,NA,good afternoon,hello
 item_410,410_labrit,word,produces,games_routines,labrīt,NA,good morning,good morning
 item_411,411_labvakar,word,produces,games_routines,labvakar,NA,good evening,good evening

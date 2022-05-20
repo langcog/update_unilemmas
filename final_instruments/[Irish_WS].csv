@@ -100,7 +100,7 @@ cnaipínísicín,item_195,FOOD AND DRINK,produces; doesn't produce,word,cnaipín
 cnónna,item_197,FOOD AND DRINK,produces; doesn't produce,word,cnónna,0,food_drink,nouns,nuts,nut
 coke,item_199,FOOD AND DRINK,produces; doesn't produce,word,coke_cóc,1,food_drink,nouns,coke,soda
 criospaí,item_200,FOOD AND DRINK,produces; doesn't produce,word,criospaí_téiteo,0,food_drink,nouns,crisps,crisps
-deoch,item_203,FOOD AND DRINK,produces; doesn't produce,word,deoch,0,food_drink,nouns,drink,drink (liquid)
+deoch,item_203,FOOD AND DRINK,produces; doesn't produce,word,deoch,0,food_drink,nouns,drink,drink (object)
 taoschnó,item_205,FOOD AND DRINK,produces; doesn't produce,word,taoschnó,0,food_drink,nouns,donut,pastry
 feoil,item_207,FOOD AND DRINK,produces; doesn't produce,word,feoil,0,food_drink,nouns,meat,meat
 glóthach,item_209,FOOD AND DRINK,produces; doesn't produce,word,glóthach,0,food_drink,nouns,jelly,jelly
@@ -148,7 +148,7 @@ caipín,item_289,CLOTHES,produces; doesn't produce,word,caipín,0,clothing,nouns
 clúidín,item_292,CLOTHES,produces; doesn't produce,word,clúidín,0,clothing,nouns,nappy,nappy
 cnaipe,item_294,CLOTHES,produces; doesn't produce,word,cnaipe,0,clothing,nouns,button,button
 cóta,item_296,CLOTHES,produces; doesn't produce,word,cóta,0,clothing,nouns,coat,coat
-crios,item_298,CLOTHES,produces; doesn't produce,word,crios,0,clothing,nouns,belt,crios
+crios,item_298,CLOTHES,produces; doesn't produce,word,crios,0,clothing,nouns,belt,cross
 culaithleapa,item_300,CLOTHES,produces; doesn't produce,word,culaithleapa,0,clothing,nouns,pijamas,pajamas
 culaithsnámha,item_302,CLOTHES,produces; doesn't produce,word,culaithsnámha,0,clothing,nouns,swimming costume,swimming togs
 éadaí,item_304,CLOTHES,produces; doesn't produce,word,éadaí,0,clothing,nouns,clothes,clothes
@@ -288,7 +288,7 @@ carraig,item_568,OUTSIDE THINGS,produces; doesn't produce,word,carraig,0,outside
 ceo,item_570,OUTSIDE THINGS,produces; doesn't produce,word,ceo,0,outside,nouns,fog,fog
 claí,item_572,OUTSIDE THINGS,produces; doesn't produce,word,claí_sconsa,0,outside,nouns,fence,ditch
 cloch,item_574,OUTSIDE THINGS,produces; doesn't produce,word,cloch,0,outside,nouns,stone,stone
-cosán,item_576,OUTSIDE THINGS,produces; doesn't produce,word,cosán_páile,0,outside,nouns,foot path,footpath
+cosán,item_576,OUTSIDE THINGS,produces; doesn't produce,word,cosán_páile,0,outside,nouns,foot path,sidewalk
 crann,item_578,OUTSIDE THINGS,produces; doesn't produce,word,crann,0,outside,nouns,tree,tree
 díon,item_580,OUTSIDE THINGS,produces; doesn't produce,word,díon,0,outside,nouns,roof,roof
 dréimire,item_582,OUTSIDE THINGS,produces; doesn't produce,word,dréimire,0,outside,nouns,ladder,ladder
@@ -408,7 +408,7 @@ bris,item_804,ACTION WORDS,produces; doesn't produce,word,bris,0,action_words,ve
 cuimil,item_806,ACTION WORDS,produces; doesn't produce,word,cuimil,0,action_words,verbs,wipe,wipe
 cuir,item_808,ACTION WORDS,produces; doesn't produce,word,cuir,0,action_words,verbs,put,put
 damhsaigh,item_810,ACTION WORDS,produces; doesn't produce,word,damhsaigh_rinc,0,action_words,verbs,dance,dance
-dathaigh,item_812,ACTION WORDS,produces; doesn't produce,word,dathaigh,0,action_words,verbs,colour,colour
+dathaigh,item_812,ACTION WORDS,produces; doesn't produce,word,dathaigh,0,action_words,verbs,colour,color (action)
 déan,item_814,ACTION WORDS,produces; doesn't produce,word,déan_dein,0,action_words,verbs,do,do
 doirt,item_816,ACTION WORDS,produces; doesn't produce,word,doirt_sil,0,action_words,verbs,spill,spill
 dreap,item_818,ACTION WORDS,produces; doesn't produce,word,dreap,0,action_words,verbs,climb,climb

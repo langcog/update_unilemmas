@@ -94,7 +94,7 @@ item_90,哥哥,ge1ge5,people,word,produces,brother,brother
 item_91,姑姑,gu1gu5,people,word,produces,aunt,aunt
 item_92,护士,hu4shi5,people,word,produces,nurse,nurse
 item_93,姐姐,jie3jie5,people,word,produces,sister,sister
-item_94,警察,jing3cha2,people,word,produces,policeman,policeman
+item_94,警察,jing3cha2,people,word,produces,policeman,police
 item_95,舅舅,jiu4jiu5,people,word,produces,uncle,uncle
 item_96,老师,lao3shi1,people,word,produces,teacher,teacher
 item_97,姥姥,lao3lao5,people,word,produces,grandma,grandma
@@ -207,7 +207,7 @@ item_202,早饭,zao3fan4,games_routines,word,produces,breakfast,breakfast
 item_203,转圈,zhuan4quan1,games_routines,word,produces,rotate,spin
 item_204,捉迷藏,zhuo1mi2cang2,games_routines,word,produces,hide-and-seek,hide and seek
 item_205,脸,lian3,body_parts,word,produces,face,face
-item_206,眉毛,mei2mao5,body_parts,word,produces,eyebrows,eyebrows
+item_206,眉毛,mei2mao5,body_parts,word,produces,eyebrows,eyebrow
 item_207,眼睛,yan3jing5,body_parts,word,produces,eye,eye
 item_208,眼泪,yan3lei4,body_parts,word,produces,tear,tear
 item_209,鼻子,bi2zi5,body_parts,word,produces,nose,nose
@@ -289,7 +289,7 @@ item_283,痛,tong4,descriptive_words,word,produces,ache; pain,painful
 item_284,好看,hao3kan4,descriptive_words,word,produces,good-looking,pretty
 item_285,穷,qiong2,descriptive_words,word,produces,poor,poor
 item_286,睡着,shui4zhao2,descriptive_words,word,produces,asleep,asleep
-item_287,好吃,hao3chi1,descriptive_words,word,produces,tasty,tasty
+item_287,好吃,hao3chi1,descriptive_words,word,produces,tasty,yummy
 item_288,安静,an1jing4,descriptive_words,word,produces,quiet,quiet
 item_289,绿色,lv4se4,descriptive_words,word,produces,green,green
 item_290,难看,nan2kan4,descriptive_words,word,produces,ugly,ugly
@@ -332,7 +332,7 @@ item_325,操场,cao1chang3,places,word,produces,playground,playground
 item_326,超市,chao1shi4,places,word,produces,store,store
 item_327,车棚,che1peng2,places,word,produces,shed,garage
 item_328,城里,cheng2li5,places,word,produces,downtown,downtown
-item_329,电影院,dian4ying3yuan4,places,word,produces,cinema,cinema
+item_329,电影院,dian4ying3yuan4,places,word,produces,cinema,movie
 item_330,动物园,dong4wu4yuan2,places,word,produces,zoo,zoo
 item_331,工厂,gong1chang3,places,word,produces,factory,factory
 item_332,公司,gong1si1,places,word,produces,company,NA
@@ -425,7 +425,7 @@ item_417,痱子粉,fei4zi5fen3,household,word,produces,bath powder,NA
 item_418,花盆,hua1pen2,household,word,produces,flowerpot,flowerpot
 item_419,门铃,men2ling2,household,word,produces,doorbell,bell
 item_420,奶瓶,nai3ping2,household,word,produces,feeding-bottle,bottle
-item_421,床单,chuang2dan1,household,word,produces,bed sheet,bed sheet
+item_421,床单,chuang2dan1,household,word,produces,bed sheet,sheet
 item_422,报纸,bao4zhi3,household,word,produces,newspaper,newspaper
 item_423,电池,dian4chi2,household,word,produces,battery,battery
 item_424,电线,dian4xian4,household,word,produces,wire,wire

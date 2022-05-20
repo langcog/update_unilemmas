@@ -136,7 +136,7 @@ item_134,body_parts,navel,understands;produces,navel,word,navel,belly button
 item_135,body_parts,neus,understands;produces,neus,word,nose,nose
 item_136,body_parts,oog,understands;produces,oog,word,eye,eye
 item_137,body_parts,oor,understands;produces,oor,word,ear,ear
-item_138,body_parts,rug,understands;produces,rug,word,back,back
+item_138,body_parts,rug,understands;produces,rug,word,back,back (body part)
 item_139,body_parts,teen,understands;produces,teen,word,toe,toe
 item_140,body_parts,tong,understands;produces,tong,word,tongue,tongue
 item_141,body_parts,vinger,understands;produces,vinger,word,finger,finger
@@ -344,7 +344,7 @@ item_342,locations,beneden,understands;produces,beneden,word,beneath,under
 item_343,locations,boven(op),understands;produces,boven(op),word,above/on,above
 item_344,locations,daar,understands;produces,daar,word,there,there
 item_345,locations,onder,understands;produces,onder,word,under,under
-item_346,locations,terug,understands;produces,terug,word,back,back
+item_346,locations,terug,understands;produces,terug,word,back,back (location)
 item_347,locations,uit,understands;produces,uit,word,out,out
 item_348,locations,voor(vz),understands;produces,voor(vz),word,in front of,in front of
 item_349,quantifiers,alles/allemaal,understands;produces,alles/allemaal,word,everything/all of it,all

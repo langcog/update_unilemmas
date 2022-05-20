@@ -235,7 +235,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 ресницы,body_parts,NA,word,produces,NA,item_234,eyelashes,eyelash
 рот,body_parts,NA,word,produces,NA,item_235,mouth,mouth
 рука,body_parts,NA,word,produces,NA,item_236,arm/hand,arm
-спина,body_parts,NA,word,produces,NA,item_237,back,back (object)
+спина,body_parts,NA,word,produces,NA,item_237,back,back (body part)
 ушки,body_parts,NA,word,produces,NA,item_238,ears,ear
 шея,body_parts,NA,word,produces,NA,item_239,neck,neck
 щека,body_parts,NA,word,produces,NA,item_240,cheek,cheek

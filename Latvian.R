@@ -108,6 +108,10 @@ new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy"
 new_items[which(new_items$uni_lemma=="fireman"),]$uni_lemma = "firefighter"
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
+new_items[which(new_items$uni_lemma=="brush"),]$uni_lemma = "brush (object)"
+new_items[which(new_items$uni_lemma=="be quiet"),]$uni_lemma = "shh"
+new_items[which(new_items$uni_lemma=="baa baa baa"),]$uni_lemma = "baa baa"
+new_items[which(new_items$uni_lemma=="child’s own name"),]$uni_lemma = "child's own name"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

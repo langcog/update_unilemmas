@@ -170,7 +170,7 @@ item_168,168_amurs,word,understands; produces,household,āmurs,NA,hammer,hammer
 item_169,169_atkritumi,word,understands; produces,household,atkritumi,NA,trash/garbage,trash
 item_170,170_atslegas,word,understands; produces,household,atslēgas,NA,keys,key
 item_171,171_attels,word,understands; produces,household,attēls,NA,picture,picture
-item_172,172_birste,word,understands; produces,household,birste,NA,brush,brush
+item_172,172_birste,word,understands; produces,household,birste,NA,brush,brush (object)
 item_173,173_bloda,word,understands; produces,household,bļoda,NA,dish,dish
 item_174,174_brilles,word,understands; produces,household,brilles,NA,glasses,glasses
 item_175,175_daksina,word,understands; produces,household,dakšiņa,NA,fork,fork
@@ -232,7 +232,7 @@ item_230,230_zoologiska,word,understands; produces,outside,zooloģiskais dārzs,
 item_231,231_arsts,word,understands; produces,people,ārsts,NA,doctor,doctor
 item_232,232_audzinataj,word,understands; produces,people,audzinātāja/-s,NA,kindergarten teacher,teacher
 item_233,233_aukle,word,understands; produces,people,aukle,NA,nanny,babysitter
-item_234,234_berna_sav,word,understands; produces,people,bērna (savs) vārds,NA,child’s own name,child’s own name
+item_234,234_berna_sav,word,understands; produces,people,bērna (savs) vārds,NA,child’s own name,child's own name
 item_235,235_berns,word,understands; produces,people,bērns,NA,child,child
 item_236,236_bralis,word,understands; produces,people,brālis,NA,brother,brother
 item_237,237_cilveks,word,understands; produces,people,cilvēks,NA,person,person

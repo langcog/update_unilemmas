@@ -190,7 +190,7 @@ item_188,V4SING,word,action_words,produces,唱(歌),NA,,sing
 item_189,V4READ,word,action_words,produces,讀(書),NA,,read
 item_190,V4WRITE,word,action_words,produces,寫,NA,,write
 item_191,V4DRAW,word,action_words,produces,畫(畫),NA,,draw
-item_192,V4COLOR,word,action_words,produces,油(顏色),NA,,color
+item_192,V4COLOR,word,action_words,produces,油(顏色),NA,,color (action)
 item_193,V4WATCH,word,action_words,produces,睇,NA,,watch (action)
 item_194,V4LOOKC,word,action_words,produces,望,NA,,look
 item_195,V4SEE,word,action_words,produces,見,NA,,see

@@ -230,7 +230,7 @@ item_228,item_228,fog,word,produces,body_parts,NA,tooth,tooth
 item_229,item_229,fül,word,produces,body_parts,NA,ear,ear
 item_230,item_230,haj,word,produces,body_parts,NA,hair,hair
 item_231,item_231,has,word,produces,body_parts,NA,tummy,tummy
-item_232,item_232,hát,word,produces,body_parts,NA,back,back
+item_232,item_232,hát,word,produces,body_parts,NA,back,back (body part)
 item_233,item_233,kaki,word,produces,body_parts,NA,poop (feces),poop
 item_234,item_234,kar,word,produces,body_parts,NA,arm,arm
 item_235,item_235,kéz,word,produces,body_parts,NA,hand,hand

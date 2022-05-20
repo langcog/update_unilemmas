@@ -279,7 +279,7 @@ item_277,a07_49,word,household,produces,插頭,NA,plug,plug
 item_278,a07_50,word,household,produces,籃子,NA,basket,basket
 item_279,a07_51,word,household,produces,拖把,NA,mop,mop
 item_280,a07_52,word,household,produces,光碟(CD或DVD),NA,disk,disk
-item_281,a07_53,word,household,produces,刷子,NA,brush,brush
+item_281,a07_53,word,household,produces,刷子,NA,brush,brush (object)
 item_282,a07_54,word,household,produces,水桶,NA,bucket,bucket
 item_283,a07_55,word,household,produces,玻璃(玻璃杯),NA,glasses,glasses
 item_284,a07_56,word,household,produces,罐子,NA,jar,jar
@@ -373,7 +373,7 @@ item_371,a11_03,word,games_routines,produces,睡覺,NA,nap,nap
 item_372,a11_04,word,games_routines,produces,晚安,NA,night night,night night
 item_373,a11_05,word,games_routines,produces,吃飯,NA,eat,eat
 item_374,a11_06,word,games_routines,produces,洗澡,NA,bath,bath
-item_375,a11_07,word,games_routines,produces,刷牙,NA,brush,brush
+item_375,a11_07,word,games_routines,produces,刷牙,NA,brush,brush (action)
 item_376,a11_08,word,games_routines,produces,哈囉(嗨),NA,hello(hi),hello
 item_377,a11_09,word,games_routines,produces,讀書(看書),NA,read,read
 item_378,a11_10,word,games_routines,produces,噓/噓噓(安靜),NA,shh/shush/hush,shh
@@ -428,7 +428,7 @@ item_426,a12_28,word,people,produces,寵物的名字,NA,pet's name,pet's name
 item_427,a12_29,word,people,produces,**人的,NA,someone's,NA
 item_428,a12_30,word,people,produces,老師,NA,teacher,teacher
 item_429,a12_31,word,people,produces,舅媽,NA,maternal aunt,aunt
-item_430,a12_32,word,people,produces,警察,NA,police officer,policeman
+item_430,a12_32,word,people,produces,警察,NA,police officer,police
 item_431,a12_33,word,people,produces,姑丈,NA,husband of paternal aunt,uncle
 item_432,a12_34,word,people,produces,嬸嬸,NA,wife of paternal uncle,aunt
 item_433,a12_35,word,people,produces,大家,NA,everyone,everyone

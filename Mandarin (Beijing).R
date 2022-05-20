@@ -24,6 +24,13 @@ new_items[which(new_items$WS=="item_124"),]$uni_lemma = "lie down"
 new_items[which(new_items$WS=="item_281"),]$uni_lemma = "pasta" # not 'noodles'
 new_items[which(new_items$TC=="item_107"),]$uni_lemma = "child" # singular
 
+new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil" 
+new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy" 
+new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
+new_items[which(new_items$uni_lemma=="bed sheet"),]$uni_lemma = "sheet" 
+new_items[which(new_items$uni_lemma=="cinema"),]$uni_lemma = "movie" 
+
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
 new_ws <- update_instrument("Mandarin_Beijing", "WS", new_items %>% rename(itemID = WS))

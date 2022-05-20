@@ -55,6 +55,10 @@ new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="rock"),]$uni_lemma = "stone"
 new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow"
 new_items[which(new_items$uni_lemma=="comb"),]$uni_lemma = "comb (object)"
+new_items[which(new_items$uni_lemma=="drink (liquid)"),]$uni_lemma = "drink (object)"
+new_items[which(new_items$uni_lemma=="colour"),]$uni_lemma = "color (action)"
+new_items[which(new_items$uni_lemma=="crios"),]$uni_lemma = "cross"
+new_items[which(new_items$uni_lemma=="footpath"),]$uni_lemma = "sidewalk"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

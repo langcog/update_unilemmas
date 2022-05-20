@@ -18,7 +18,7 @@ item_16,rinrin,word,sounds,produces,rin-rin (timbre),NA,ding dong,ding dong
 item_17,tictac,word,sounds,produces,tic-tac,NA,NA,NA
 item_18,tocotoc,word,sounds,produces,tocotoc (caballo),NA,clip clop,clip clop
 item_19,uy,word,sounds,produces,¡uy!,NA,ouch,ouch
-item_20,a_banar,word,games_routines,produces,a bañar,NA,go to the bathroom,bathe (action)
+item_20,a_banar,word,games_routines,produces,a bañar,NA,go to the bathroom,bathe
 item_21,a_comer,word,games_routines,produces,a comer,NA,to eat,eat (action)
 item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep (action)
 item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see (action)
@@ -95,7 +95,7 @@ item_93,zorro,word,animals,produces,zorro,NA,fox,fox
 item_94,abuelo,word,people,produces,abuelo (yayo),NA,grandpa,grandpa
 item_95,abuela,word,people,produces,abuela (yaya),NA,grandma,grandma
 item_96,bruja,word,people,produces,bruja,NA,witch,witch
-item_97,coco,word,people,produces,coco,NA,bogeyman,bogeyman
+item_97,coco,word,people,produces,coco,NA,bogeyman,boogeyman
 item_98,hermano,word,people,produces,hermano,NA,brother,brother
 item_99,hermana,word,people,produces,hermana,NA,sister,sister
 item_100,familia,word,people,produces,familia,NA,family,family
@@ -383,7 +383,7 @@ item_375,cansar,word,action_words,produces,cansar(se),NA,to tire,tire (action)
 item_376,cantar,word,action_words,produces,cantar,NA,to sing,sing
 item_377,cenar,word,action_words,produces,cenar,NA,to have dinner,eat dinner
 item_378,cerrar,word,action_words,produces,cerrar,NA,to close,close
-item_379,cocinar,word,action_words,produces,cocinar,NA,to cook,cook (action)
+item_379,cocinar,word,action_words,produces,cocinar,NA,to cook,cook
 item_380,coger,word,action_words,produces,coger,NA,take,take
 item_381,comer,word,action_words,produces,comer(se),NA,to eat,eat
 item_382,comprar,word,action_words,produces,comprar,NA,to buy,buy

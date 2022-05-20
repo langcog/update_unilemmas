@@ -101,5 +101,5 @@ item_99,action_words,etengeven,understands;produces,etengeven,word,to feed,feed
 item_100,action_words,gaan/weggaan,understands;produces,gaan/weggaan,word,to go (away)/leave,go 
 item_101,descriptive_words,lekker,understands;produces,lekker,word,nice/tasty,yummy
 item_102,locations,weg,understands;produces,weg,word,away,away
-item_103,action_words,drankje/drinken,understands;produces,drankje/drinken,word,drink/to drink,drink (verb+noun)
+item_103,action_words,drankje/drinken,understands;produces,drankje/drinken,word,drink/to drink,drink (action)
 item_104,action_words,eendutjedoen/tukjedoen,understands;produces,eendutjedoen/tukjedoen,word,take a nap,take a nap

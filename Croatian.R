@@ -55,6 +55,8 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # ToDo: choose which of these to change
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="cinema/theatre"),]$uni_lemma = "movie" 
+new_items[which(new_items$uni_lemma=="dustman"),]$uni_lemma = "garbage man" 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

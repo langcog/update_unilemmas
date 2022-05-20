@@ -51,7 +51,7 @@ new_items[which(new_items$WS=="item_610"),]$uni_lemma = "clean"
 new_items[which(new_items$WS=="item_727"),]$uni_lemma = "or" # vs. or else
 new_items[which(new_items$uni_lemma=="eyelashes"),]$uni_lemma = "eyelash"
 new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
-
+new_items[which(new_items$uni_lemma=="back (object)"),]$uni_lemma = "back (body part)" 
 
 
 # save updated instrument(s)

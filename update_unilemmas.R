@@ -74,24 +74,23 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2321 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 755 hapaxes
-  length(unique(new_uni$form)) # 55 forms
+  length(new_uni_tab) # 2382 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 726 hapaxes
+  length(unique(new_uni$form)) # 60 forms
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 65 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 67 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 953
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 1076
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 983 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 743 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 550 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 390 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 255 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1037 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 768 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 569 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 427 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 290 on 40+ forms
   # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
-  #subset(new_uni, uni_lemma=="(hair)brush") # Dutch_WS - changed to brush (object)
   #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
   subset(new_uni, uni_lemma=="soda") # 28
   subset(new_uni, uni_lemma=="coke") # 4 - (EN WS has both)
@@ -109,25 +108,38 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="yummy") # 7 forms have yummy, 6 have tasty
   #subset(new_uni, uni_lemma=="nanny") # change Dutch and Hebrew to 'babysitter'
   #subset(new_uni, uni_lemma=="eyebrows") # singularize
-  # kind vs. nice?
-  subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
   #subset(new_uni, uni_lemma=="bzzz") # Hebrew -> "buzz"
   #subset(new_uni, uni_lemma=="thanks") # Dutch -> "thank you"
-  subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
-  #subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
   #subset(new_uni, uni_lemma=="brush") # Irish/Hungarian -> brush (object)
+  #subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
+  #subset(new_uni, uni_lemma=="brawl") # Norwegian -> fight
+  
+  # kind vs. nice?
+  subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
+  subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
   subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful ... cute?
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   subset(new_uni, uni_lemma=="light") # -> light (object)
   
+  # going after hapaxes
+  head(new_uni_tab, 200)
+  
   #subset(new_uni, uni_lemma=="be able to")
-  subset(new_uni, uni_lemma=="at/in/on")
+  subset(new_uni, uni_lemma=="at/in/on") # Korean
   subset(new_uni, uni_lemma=="be sleepy") # Italian sleepy?
   subset(new_uni, uni_lemma=="be thirsty") # Italian thirst?
   subset(new_uni, uni_lemma=="be angry") # Latvian
   subset(new_uni, uni_lemma=="brother's name") # Russian -> "sibling's name" ?
   
-  head(new_uni_tab, 100)
+  subset(new_uni, uni_lemma=="bi boo (siren)")
+  subset(new_uni, uni_lemma=="colour") # Irish -> color (action)
+  subset(new_uni, uni_lemma=="colouring") # Irish "toys"
+  subset(new_uni, uni_lemma=="colors") # "toys"
+  subset(new_uni, uni_lemma=="bookcase") # Sp Mex -> bookshelf
+  
+  subset(new_uni, uni_lemma=="calm/silent") # calm (4) /silent (0) / quiet (26)
+  subset(new_uni, uni_lemma=="bark") # Irish
+  
   tail(new_uni_tab, 100)
   
 }

@@ -194,7 +194,7 @@ item_192,d10_03,word,games_routines,understands; produces,睡覺,NA,nap,nap
 item_193,d10_04,word,games_routines,understands; produces,晚安,NA,night night,night night
 item_194,d10_05,word,games_routines,understands; produces,吃飯,NA,eat,eat
 item_195,d10_06,word,games_routines,understands; produces,洗澡,NA,bath,bath
-item_196,d10_07,word,games_routines,understands; produces,刷牙,NA,brush,brush
+item_196,d10_07,word,games_routines,understands; produces,刷牙,NA,brush,brush (action)
 item_197,d10_08,word,games_routines,understands; produces,哈囉(嗨),NA,hello(hi),hello
 item_198,d10_09,word,games_routines,understands; produces,讀書(看書),NA,read,read
 item_199,d10_10,word,games_routines,understands; produces,噓/噓噓(安靜),NA,shh/shush/hush,shh

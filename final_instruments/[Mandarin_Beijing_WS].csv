@@ -36,7 +36,7 @@ item_34,P2GIRL,word,people,produces,NA,女孩,girl,girl
 item_35,P2BOY,word,people,produces,NA,男孩,boy,boy
 item_36,P2MAN,word,people,produces,NA,男人,man,man
 item_37,P2LAOSH,word,people,produces,NA,老师,teacher,teacher
-item_38,P2POLIC,word,people,produces,NA,警察,policeman,policeman
+item_38,P2POLIC,word,people,produces,NA,警察,policeman,police
 item_39,P2DAIFU,word,people,produces,NA,医生/大夫,,doctor
 item_40,P2DONDU,word,people,produces,NA,唐老鸭,donald duck,NA
 item_41,P2MICKY,word,people,produces,NA,米老鼠,mickey mouse,NA
@@ -339,7 +339,7 @@ item_337,B6NAODAI,word,body_parts,produces,NA,脑袋,brain,brain
 item_338,B6HAIR,word,body_parts,produces,NA,头发,hair,hair
 item_339,B6FACE,word,body_parts,produces,NA,脸,face,face
 item_340,B6EYE,word,body_parts,produces,NA,眼睛,eye,eye
-item_341,B6EYEBRO,word,body_parts,produces,NA,眉毛,eyebrows,eyebrows
+item_341,B6EYEBRO,word,body_parts,produces,NA,眉毛,eyebrows,eyebrow
 item_342,B6CHEEK,word,body_parts,produces,NA,脸蛋,cheek,cheek
 item_343,B6EAR,word,body_parts,produces,NA,耳朵,ear,ear
 item_344,B6NOSE,word,body_parts,produces,NA,鼻子,nose,nose
@@ -612,7 +612,7 @@ item_610,O13TREE,word,outside,produces,NA,树,tree,tree
 item_611,O13LEAF,word,outside,produces,NA,叶子/树叶,leaf,leaf
 item_612,O13BRANC,word,outside,produces,NA,树枝,branch,branch
 item_613,O13GRASS,word,outside,produces,NA,草,grass,grass
-item_614,O13EARTH,word,outside,produces,NA,土,earth,earth
+item_614,O13EARTH,word,outside,produces,NA,土,earth,soil
 item_615,O13WATER,word,outside,produces,NA,水,water (not beverage),water (not beverage)
 item_616,O13RAIN,word,outside,produces,NA,雨,rain,rain
 item_617,O13SNOW,word,outside,produces,NA,雪,snow,snow
