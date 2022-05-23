@@ -74,8 +74,8 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2357 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 698 hapaxes
+  length(new_uni_tab) # 2344 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 689 hapaxes
   length(unique(new_uni$form)) # 60 forms
   
   # uni-lemmas we no longer have:
@@ -105,7 +105,7 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="policeman") # 16 forms have police, but 14 have 'policeman' -> change
   #subset(new_uni, uni_lemma=="which") # change Spanish & Korean question word "which" -> "which (question)"
   subset(new_uni, uni_lemma=="take out") # Russian -> "remove"
-  subset(new_uni, uni_lemma=="put in") # change to "insert"
+  subset(new_uni, uni_lemma=="put in") # Turk & Korean - change to "insert" ?
   #subset(new_uni, uni_lemma=="fireman") # change Dutch & Irish to firefighter
   #subset(new_uni, uni_lemma=="yummy") # 7 forms have yummy, 6 have tasty
   #subset(new_uni, uni_lemma=="nanny") # change Dutch and Hebrew to 'babysitter'
@@ -116,15 +116,26 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
   #subset(new_uni, uni_lemma=="brawl") # Norwegian -> fight
   
+  # bigger merges:
   # kind vs. nice?
+  #subset(new_uni, uni_lemma=="kind") # 5, but 30 have 'nice' -> updated!
   subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
   subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
   subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful, cute (39)
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   subset(new_uni, uni_lemma=="light") # -> light (object)
   
+  
   # going after hapaxes
-  head(new_uni_tab, 500)
+  head(new_uni_tab, 100)
+  
+  #subset(new_uni, uni_lemma=="quilt") # Swedish already has blanket, so OK
+  subset(new_uni, uni_lemma=="promptly") # quickly?
+  subset(new_uni, uni_lemma=="probably") # Turkish - ok 
+  subset(new_uni, uni_lemma=="promise") # Eng British - ok
+  #subset(new_uni, uni_lemma=="present/gift") # Croatian -> present (also, Dutch/Latvian/Norwegian gift -> present)
+  #subset(new_uni, uni_lemma=="potato chip") # Mand Tai -> chips
+  
   
   #subset(new_uni, uni_lemma=="be able to")
   subset(new_uni, uni_lemma=="at/in/on") # Korean
@@ -134,12 +145,12 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="brother's name") # Russian -> "sibling's name" ?
   
   subset(new_uni, uni_lemma=="bi boo (siren)")
-  subset(new_uni, uni_lemma=="colour") # Irish -> color (action)
+  #subset(new_uni, uni_lemma=="colour") # Irish -> color (action)
   subset(new_uni, uni_lemma=="colouring") # Irish "toys"
   subset(new_uni, uni_lemma=="colors") # "toys"
-  subset(new_uni, uni_lemma=="bookcase") # Sp Mex -> bookshelf
+  #subset(new_uni, uni_lemma=="bookcase") # Sp Mex -> bookshelf
   subset(new_uni, uni_lemma=="eat (action)")
-  subset(new_uni, uni_lemma=="don’t")
+  #subset(new_uni, uni_lemma=="don’t")
   subset(new_uni, uni_lemma=="do (verb)") # Dutch -> do
   subset(new_uni, uni_lemma=="handkerchief") # Mandarin -> tissue ? technically no..
   subset(new_uni, uni_lemma=="modelling clay") # Croatian -> play dough (change forms with 'clay' to play dough?)

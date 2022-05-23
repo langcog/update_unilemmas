@@ -196,7 +196,7 @@ item_194,furniture_rooms,venster/raam,understands;produces,venster/raam,word,win
 item_195,furniture_rooms,WC/toilet,understands;produces,WC/toilet,word,toilet,toilet
 item_196,furniture_rooms,wieg,understands;produces,wieg,word,carriage,cradle
 item_197,furniture_rooms,woonkamer/living/huiskamer,understands;produces,woonkamer/living/huiskamer,word,living room,living room
-item_198,furniture_rooms,zetel/divan/sofa/bank,understands;produces,zetel/divan/sofa/bank,word,sofa/couch,sofa
+item_198,furniture_rooms,zetel/divan/sofa/bank,understands;produces,zetel/divan/sofa/bank,word,sofa/couch,couch
 item_199,outside,bloem,understands;produces,bloem,word,flower,flower
 item_200,outside,boom,understands;produces,boom,word,tree,tree
 item_201,outside,lucht/hemel,understands;produces,lucht/hemel,word,sky/heaven,sky

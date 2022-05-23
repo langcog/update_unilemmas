@@ -40,6 +40,7 @@ new_items[which(new_items$definition=="uvas"),]$uni_lemma = "grapes" # most form
 new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil" 
 new_items[which(new_items$uni_lemma=="well"),]$uni_lemma = "well (modifier)" 
 new_items[which(new_items$uni_lemma=="bookcase"),]$uni_lemma = "bookshelf" 
+new_items[which(new_items$uni_lemma=="lay down"),]$uni_lemma = "lie down" 
 
 
 # save updated instruments

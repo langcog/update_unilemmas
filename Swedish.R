@@ -22,6 +22,7 @@ new_items[which(new_items$uni_lemma==""),]
 
 new_items[which(new_items$definition=="ringa"),]$uni_lemma = "call on phone"
 new_items[which(new_items$definition=="sitta pottan"),]$uni_lemma = "go potty"
+new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
 
 new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (connecting)"
 

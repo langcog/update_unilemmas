@@ -38,6 +38,8 @@ new_items[which(new_items$uni_lemma=="bathe (action)"),]$uni_lemma = "bathe"
 new_items[which(new_items$uni_lemma=="cook (action)"),]$uni_lemma = "cook"
 new_items[which(new_items$uni_lemma=="fit (action)"),]$uni_lemma = "fit"
 new_items[which(new_items$uni_lemma=="fish"),]$uni_lemma = "fish (food)"
+new_items[which(new_items$uni_lemma=="eat (action)"),]$uni_lemma = "eat"
+new_items[which(new_items$uni_lemma=="eat dinner"),]$uni_lemma = "dine"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_European", "WS", new_items %>% rename(itemID = WS))

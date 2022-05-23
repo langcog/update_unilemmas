@@ -6,12 +6,21 @@ language = "Finnish"
 outdir = "final_instruments/"
 
 new_items <- update_unilemmas(language, show_conflicts=T)
-# "loaded 167 Finnish items"
-# "45 missing uni_lemmas in original ( 27 % missing)"
-# "44 uni_lemmas added/modified"
+# "loaded 604 Finnish items"
+# "155 missing uni_lemmas in original ( 26 % missing)"
+# "150 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
-# "4 uni_lemmas still missing ( 2 % missing)"
-# "Review 0 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
+# "16 uni_lemmas still missing ( 3 % missing)"
+# "Review 7 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
+
+new_items[which(new_items$definition=="muro"),]$uni_lemma = "cereal"
+new_items[which(new_items$definition=="lapaset"),]$uni_lemma = "mitten"
+new_items[which(new_items$definition=="televisio"),]$uni_lemma = "TV"
+new_items[which(new_items$definition=="avaimet"),]$uni_lemma = "key"
+new_items[which(new_items$definition=="valokuva"),]$uni_lemma = "photo"
+new_items[which(new_items$definition=="puisto"),]$uni_lemma = "park"
+new_items[which(new_items$definition=="minä"),]$uni_lemma = "I"
+
 
 subset(new_items, uni_lemma=="")
 

@@ -105,6 +105,9 @@ new_items[which(new_items$uni_lemma=="nail (item)"),]$uni_lemma = "nail (object)
 new_items[which(new_items$uni_lemma=="night/tonight"),]$uni_lemma = "night"
 new_items[which(new_items$uni_lemma=="moddeling clay"),]$uni_lemma = "play dough" # or clay
 new_items[which(new_items$uni_lemma=="repair (verb)"),]$uni_lemma = "fix"
+new_items[which(new_items$uni_lemma=="picknick"),]$uni_lemma = "picnic"
+new_items[which(new_items$uni_lemma=="gift"),]$uni_lemma = "present"
+new_items[which(new_items$uni_lemma=="sofa"),]$uni_lemma = "couch"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

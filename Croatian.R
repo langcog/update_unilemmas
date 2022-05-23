@@ -59,6 +59,7 @@ new_items[which(new_items$uni_lemma=="cinema/theatre"),]$uni_lemma = "movie"
 new_items[which(new_items$uni_lemma=="dustman"),]$uni_lemma = "garbage man" 
 new_items[which(new_items$uni_lemma=="flag/banner"),]$uni_lemma = "flag" 
 new_items[which(new_items$uni_lemma=="modelling clay"),]$uni_lemma = "play dough" 
+new_items[which(new_items$uni_lemma=="present/gift"),]$uni_lemma = "present" 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

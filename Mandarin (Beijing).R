@@ -29,7 +29,8 @@ new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
 new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy" 
 new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
 new_items[which(new_items$uni_lemma=="bed sheet"),]$uni_lemma = "sheet" 
-new_items[which(new_items$uni_lemma=="cinema"),]$uni_lemma = "movie" 
+new_items[which(new_items$uni_lemma=="cinema"),]$uni_lemma = "movie"
+new_items[which(new_items$uni_lemma=="grape"),]$uni_lemma = "grapes"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

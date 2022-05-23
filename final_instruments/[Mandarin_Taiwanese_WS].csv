@@ -36,7 +36,7 @@ item_34,a01_34,word,animals,produces,毛毛蟲,NA,caterpillar,caterpillar
 item_35,a01_35,word,animals,produces,蝦子,NA,shrimp,shrimp (animal)
 item_36,a01_36,word,animals,produces,公雞,NA,rooster,rooster
 item_37,a01_37,word,animals,produces,河馬,NA,hippo,hippopotamus
-item_38,a01_38,word,animals,produces,蒼蠅,NA,fly,fly
+item_38,a01_38,word,animals,produces,蒼蠅,NA,fly,fly (animal)
 item_39,a01_39,word,animals,produces,蛇,NA,snake,snake
 item_40,a01_40,word,animals,produces,蝸牛,NA,snail,snail
 item_41,a01_41,word,animals,produces,綿羊,NA,sheep,sheep
@@ -110,7 +110,7 @@ item_108,a04_07,word,food_drink,produces,肉,NA,meat,meat
 item_109,a04_08,word,food_drink,produces,蛋,NA,egg,egg
 item_110,a04_09,word,food_drink,produces,麵包,NA,bread,bread
 item_111,a04_10,word,food_drink,produces,蘋果,NA,apple,apple
-item_112,a04_11,word,food_drink,produces,葡萄,NA,grap,grape
+item_112,a04_11,word,food_drink,produces,葡萄,NA,grap,grapes
 item_113,a04_12,word,food_drink,produces,糖果,NA,candy,candy
 item_114,a04_13,word,food_drink,produces,蔬菜,NA,vegetable,vegetable
 item_115,a04_14,word,food_drink,produces,草莓,NA,strawberry,strawberry
@@ -163,7 +163,7 @@ item_161,a04_60,word,food_drink,produces,蛋餅,NA,Chinese omelet,NA
 item_162,a04_61,word,food_drink,produces,奶茶,NA,milk tea,tea
 item_163,a04_62,word,food_drink,produces,馬鈴薯,NA,potato,potato
 item_164,a04_63,word,food_drink,produces,奇異果,NA,kiwi fruit,kiwi fruit
-item_165,a04_64,word,food_drink,produces,洋芋片,NA,potato chip,potato chip
+item_165,a04_64,word,food_drink,produces,洋芋片,NA,potato chip,chips
 item_166,a04_65,word,food_drink,produces,可樂,NA,coke,coke
 item_167,a04_66,word,food_drink,produces,蕃茄醬,NA,ketchup,ketchup
 item_168,a04_67,word,food_drink,produces,豆子,NA,peas,peas

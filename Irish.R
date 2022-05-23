@@ -64,6 +64,8 @@ new_items[which(new_items$uni_lemma=="gimme"),]$uni_lemma = "give me"
 new_items[which(new_items$uni_lemma=="nappy"),]$uni_lemma = "diaper" 
 new_items[which(new_items$uni_lemma=="motorbike"),]$uni_lemma = "motorcycle" 
 new_items[which(new_items$uni_lemma=="rashers"),]$uni_lemma = "bacon"
+new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
+new_items[which(new_items$uni_lemma=="fly"),]$uni_lemma = "fly (animal)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

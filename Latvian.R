@@ -114,6 +114,10 @@ new_items[which(new_items$uni_lemma=="baa baa baa"),]$uni_lemma = "baa baa"
 new_items[which(new_items$uni_lemma=="child’s own name"),]$uni_lemma = "child's own name"
 new_items[which(new_items$uni_lemma=="don’t"),]$uni_lemma = "don't"
 new_items[which(new_items$uni_lemma=="hello/hi"),]$uni_lemma = "hello"
+new_items[which(new_items$uni_lemma=="gift"),]$uni_lemma = "present"
+new_items[which(new_items$uni_lemma=="(I) don't want"),]$uni_lemma = "don't want"
+new_items[which(new_items$uni_lemma=="afternoon snack"),]$uni_lemma = "snack"
+new_items[which(new_items$uni_lemma=="fly"),]$uni_lemma = "fly (action)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

@@ -78,7 +78,7 @@ item_76,i_4_6,word,toys,produces,dukke,NA,doll,baby doll,doll
 item_77,i_4_7,word,toys,produces,lego,NA,NA,Lego,blocks
 item_78,i_4_8,word,toys,produces,eventyr,NA,NA,fairy tales,story
 item_79,i_4_9,word,toys,produces,fargeblyant,NA,NA,crayon,pen/pencil
-item_80,i_4_10,word,toys,produces,presang,NA,NA,gift,gift
+item_80,i_4_10,word,toys,produces,presang,NA,NA,gift,present
 item_81,i_4_11,word,toys,produces,kritt,NA,NA,chalk,chalk 
 item_82,i_4_12,word,toys,produces,leke (object),NA,toy (object),play,toy (object)
 item_83,i_4_13,word,toys,produces,lim,NA,NA,glue,glue 
@@ -279,7 +279,7 @@ item_277,i_9_14,word,furniture_rooms,produces,kjøleskap,NA,refrigerator,refrige
 item_278,i_9_15,word,furniture_rooms,produces,komfyr,NA,stove,stove,stove
 item_279,i_9_16,word,furniture_rooms,produces,lekegrind,NA,play pen,playpen,play pen
 item_280,i_9_17,word,furniture_rooms,produces,ovn,NA,oven,oven,oven
-item_281,i_9_18,word,furniture_rooms,produces,PC,NA,NA,PC,PC
+item_281,i_9_18,word,furniture_rooms,produces,PC,NA,NA,PC,computer
 item_282,i_9_19,word,furniture_rooms,produces,potte,NA,potty,Potty,potty
 item_283,i_9_20,word,furniture_rooms,produces,rom,NA,NA,rom,room 
 item_284,i_9_21,word,furniture_rooms,produces,seng,NA,bed,bed,bed
@@ -338,7 +338,7 @@ item_336,i_11_8,word,places,produces,hage,NA,garden,garden,garden
 item_337,i_11_9,word,places,produces,hjem,NA,home,home,home
 item_338,i_11_10,word,places,produces,hus,NA,house,house,house
 item_339,i_11_11,word,places,produces,jobb,NA,work (place),job,work (place)
-item_340,i_11_12,word,places,produces,kino,NA,NA,movie theater,cinema 
+item_340,i_11_12,word,places,produces,kino,NA,NA,movie theater,movie
 item_341,i_11_13,word,places,produces,kirke,NA,church,church,church
 item_342,i_11_14,word,places,produces,landet,NA,NA,the country,country
 item_343,i_11_15,word,places,produces,lekeplass,NA,NA,playground,playground
@@ -415,7 +415,7 @@ item_413,i_13_27,word,games_routines,produces,vil,NA,wanna,want to,wanna
 item_414,i_14_1,word,action_words,produces,jobbe,NA,NA,work,work 
 item_415,i_14_2,word,action_words,produces,bite,NA,bite,bite,bite
 item_416,i_14_3,word,action_words,produces,blåse,NA,blow,blow,blow
-item_417,i_14_4,word,action_words,produces,bråke,NA,NA,brawl,brawl 
+item_417,i_14_4,word,action_words,produces,bråke,NA,NA,brawl,fight
 item_418,i_14_5,word,action_words,produces,bygge,NA,NA,building,build
 item_419,i_14_6,word,action_words,produces,bære,NA,NA,carry,carry 
 item_420,i_14_7,word,action_words,produces,danse,NA,dance,dance,dance
@@ -563,7 +563,7 @@ item_561,i_15_41,word,descriptive_words,produces,sitter fast,NA,NA,stuck,stuck
 item_562,i_15_42,word,descriptive_words,produces,skitten,NA,dirty,filthy,dirty
 item_563,i_15_43,word,descriptive_words,produces,skjønn,NA,beautiful,discretion,beautiful
 item_564,i_15_44,word,descriptive_words,produces,slem,NA,naughty,naughty,naughty
-item_565,i_15_45,word,descriptive_words,produces,snill,NA,NA,kind,kind
+item_565,i_15_45,word,descriptive_words,produces,snill,NA,NA,kind,nice
 item_566,i_15_46,word,descriptive_words,produces,søt,NA,cute,soot,cute
 item_567,i_15_47,word,descriptive_words,produces,søvnig,NA,NA,sleepy,sleepy
 item_568,i_15_48,word,descriptive_words,produces,stakkars,NA,NA,poor thing,poor thing 

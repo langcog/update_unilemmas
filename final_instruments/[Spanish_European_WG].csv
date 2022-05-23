@@ -221,7 +221,7 @@ item_213,banarse,word,action_words,understands; produces,bañar(se),NA,to bathe,
 item_214,beber,word,action_words,understands; produces,beber,NA,to drink,drink
 item_215,caer,word,action_words,understands; produces,caer(se),NA,to fall,fall
 item_216,cantar,word,action_words,understands; produces,cantar,NA,to sing,sing
-item_217,cenar,word,action_words,understands; produces,cenar,NA,to have dinner,eat dinner
+item_217,cenar,word,action_words,understands; produces,cenar,NA,to have dinner,dine
 item_218,cerrar,word,action_words,understands; produces,cerrar,NA,to close,close
 item_219,coger,word,action_words,understands; produces,coger,NA,take,take
 item_220,comer,word,action_words,understands; produces,comer(se),NA,to eat,eat

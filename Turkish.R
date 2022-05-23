@@ -17,6 +17,7 @@ new_items[which(new_items$definition=="Çıkar"),]$uni_lemma = "remove"
 new_items[which(new_items$definition=="Kaldır"),]$uni_lemma = "lift (action)" # disambiguate
 new_items[which(new_items$definition=="Yat"),]$uni_lemma = "lie down"
 new_items[which(new_items$definition=="Ben"),]$uni_lemma = "I" # capitalize
+new_items[which(new_items$uni_lemma=="photograph"),]$uni_lemma = "photo" 
 
 
 # some empty

@@ -87,7 +87,7 @@ item_85,toys,bal,understands;produces,bal,word,bal,ball
 item_86,toys,ballon,understands;produces,ballon,word,balloon,balloon
 item_87,toys,blokken,understands;produces,blokken,word,blocks,block
 item_88,toys,boek,understands;produces,boek,word,book,book
-item_89,toys,cadeau(tje),understands;produces,cadeau(tje),word,present,gift
+item_89,toys,cadeau(tje),understands;produces,cadeau(tje),word,present,present
 item_90,toys,klei/plasticine,understands;produces,klei/plasticine,word,clay,play dough
 item_91,toys,kleurpotloden,understands;produces,kleurpotloden,word,colored pencils,pencil
 item_92,toys,kralen/parels,understands;produces,kralen/parels,word,beads,bead
@@ -315,7 +315,7 @@ item_313,furniture_rooms,WC/toilet,understands;produces,WC/toilet,word,toilet,to
 item_314,furniture_rooms,wasmachine,understands;produces,wasmachine,word,washing machine,washing machine
 item_315,furniture_rooms,wieg,understands;produces,wieg,word,carriage,cradle
 item_316,furniture_rooms,woonkamer/living/huiskamer,understands;produces,woonkamer/living/huiskamer,word,living room,living room
-item_317,furniture_rooms,zetel/divan/sofa/bank,understands;produces,zetel/divan/sofa/bank,word,sofa/couch,sofa
+item_317,furniture_rooms,zetel/divan/sofa/bank,understands;produces,zetel/divan/sofa/bank,word,sofa/couch,couch
 item_318,outside,bloem,understands;produces,bloem,word,flower,flower
 item_319,outside,boom,understands;produces,boom,word,tree,tree
 item_320,outside,dak,understands;produces,dak,word,roof,roof
@@ -356,7 +356,7 @@ item_354,places,hetwerkvan,understands;produces,hetwerkvan,word,,work (place)
 item_355,places,huis,understands;produces,huis,word,house,house
 item_356,places,kerk,understands;produces,kerk,word,church,church
 item_357,places,park,understands;produces,park,word,park,park
-item_358,places,picknick,understands;produces,picknick,word,picknick,picknick
+item_358,places,picknick,understands;produces,picknick,word,picknick,picnic
 item_359,places,school,understands;produces,school,word,school,school
 item_360,places,slager,understands;produces,slager,word,butcher,butcher
 item_361,places,speeltuin,understands;produces,speeltuin,word,playground,playground

@@ -78,7 +78,7 @@ item_76,76_trolejbuss,word,produces,vehicles,trolejbuss,NA,trolleybus,trolleybus
 item_77,77_vilciens,word,produces,vehicles,vilciens,NA,train,train
 item_78,78_balons,word,produces,toys,balons,NA,balloon,balloon
 item_79,79_bumba,word,produces,toys,bumba,NA,ball,ball
-item_80,80_davana,word,produces,toys,dāvana,NA,gift,gift
+item_80,80_davana,word,produces,toys,dāvana,NA,gift,present
 item_81,81_formina_s,word,produces,toys,formiņa (smilšu k.),NA,sand mold,sandbox
 item_82,82_grabeklis,word,produces,toys,grābeklis,NA,rake,rake
 item_83,83_gramata,word,produces,toys,grāmata,NA,book,book
@@ -410,7 +410,7 @@ item_408,408_klusu_,word,produces,games_routines,klusu!,NA,be quiet,shh
 item_409,409_labdien,word,produces,games_routines,labdien,NA,good afternoon,hello
 item_410,410_labrit,word,produces,games_routines,labrīt,NA,good morning,good morning
 item_411,411_labvakar,word,produces,games_routines,labvakar,NA,good evening,good evening
-item_412,412_launags,word,produces,games_routines,launags,NA,afternoon snack,afternoon snack
+item_412,412_launags,word,produces,games_routines,launags,NA,afternoon snack,snack
 item_413,413_ludzu,word,produces,games_routines,lūdzu,NA,please,please
 item_414,414_ne,word,produces,games_routines,nē,NA,no,no
 item_415,415_paldies,word,produces,games_routines,paldies,NA,thank you,thank you
@@ -464,7 +464,7 @@ item_462,462_laizit,word,produces,action_words,laizīt,NA,lick,lick
 item_463,463_lasit,word,produces,action_words,lasīt,NA,read,read
 item_464,464_lauzt,word,produces,action_words,lauzt,NA,break,break
 item_465,465_lekt,word,produces,action_words,lēkt,NA,jump,jump
-item_466,466_lidot,word,produces,action_words,lidot,NA,fly,fly
+item_466,466_lidot,word,produces,action_words,lidot,NA,fly,fly (action)
 item_467,467_liet,word,produces,action_words,liet,NA,pour,pour
 item_468,468_likt,word,produces,action_words,likt,NA,put,put
 item_469,469_mazgat,word,produces,action_words,mazgāt,NA,wash,wash
@@ -704,7 +704,7 @@ item_702,702_ir,word,produces,helping_verbs,ir,NA,be.3p.pres,is
 item_703,703_likt_kaut,word,produces,helping_verbs,likt (kaut ko darīt),NA,make (make one do smth),make
 item_704,704_ludzu_kau,word,produces,helping_verbs,lūdzu (kaut ko),NA,ask (for smth),ask
 item_705,705_maku,word,produces,helping_verbs,māku,NA,can.1p.pres.sg,can
-item_706,706_negribu,word,produces,helping_verbs,negribu,NA,don´t want.1p.pres.sg,(I) don't want
+item_706,706_negribu,word,produces,helping_verbs,negribu,NA,don´t want.1p.pres.sg,don't want
 item_707,707_nevaru,word,produces,helping_verbs,nevaru,NA,cannot.1p.pres.sg,cannot
 item_708,708_protu,word,produces,helping_verbs,protu,NA,can.1p.pres.sg,can
 item_709,709_vajag,word,produces,helping_verbs,vajag,NA,need,need

@@ -452,7 +452,7 @@ item_450,venir,word,action_words,produces,venir(se),NA,NA,to come,come
 item_451,ver,word,action_words,produces,ver(se),NA,NA,to see,see
 item_452,acabarse,word,action_words,produces,acabar,NA,NA,to finish,finish
 item_453,acompnar,word,action_words,produces,acompañar,NA,NA,to join,accompany
-item_454,acostar,word,action_words,produces,acostar(se),NA,NA,lay down,lay down
+item_454,acostar,word,action_words,produces,acostar(se),NA,NA,lay down,lie down
 item_455,agarrar,word,action_words,produces,agarrar,NA,NA,to grab,hold
 item_456,almorzar,word,action_words,produces,almorzar,NA,NA,to launch,lunch (action)
 item_457,amararse,word,action_words,produces,amarrar(se),NA,NA,to tie up,tie (action)

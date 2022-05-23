@@ -297,7 +297,7 @@ item_295,item_295,word,places,understands; produces,병원,NA,hospital,hospital
 item_296,item_296,word,places,understands; produces,산,NA,mountain,mountain
 item_297,item_297,word,places,understands; produces,수영장,NA,pool,pool
 item_298,item_298,word,places,understands; produces,숲,NA,forest,forest
-item_299,item_299,word,places,understands; produces,슈퍼마켓,NA,supermarket,supermarket
+item_299,item_299,word,places,understands; produces,슈퍼마켓,NA,supermarket,grocery
 item_300,item_300,word,places,understands; produces,시골,NA,country,country
 item_301,item_301,word,places,understands; produces,시장,NA,market place,market
 item_302,item_302,word,places,understands; produces,아파트,NA,apartment,apartment
@@ -563,7 +563,7 @@ item_561,item_561,word,descriptive_words,understands; produces,졸려,NA,sleepy,
 item_562,item_562,word,descriptive_words,understands; produces,좋아,NA,good,good
 item_563,item_563,word,descriptive_words,understands; produces,(맛이)짜,NA,salty,salty
 item_564,item_564,word,descriptive_words,understands; produces,(촉감이)차,NA,cool,cool
-item_565,item_565,word,descriptive_words,understands; produces,착해,NA,nice,kind
+item_565,item_565,word,descriptive_words,understands; produces,착해,NA,nice,nice
 item_566,item_566,word,descriptive_words,understands; produces,추워,NA,cold,cold
 item_567,item_567,word,descriptive_words,understands; produces,커,NA,big,big
 item_568,item_568,word,descriptive_words,understands; produces,(색이)파래,NA,blue,blue

@@ -13,7 +13,7 @@ cearc,item_32,ANIMALS (Real or toy),produces; doesn't produce,word,cearc,0,anima
 coileach,item_34,ANIMALS (Real or toy),produces; doesn't produce,word,coileach,0,animals,nouns,cock,rooster
 coileán,item_36,ANIMALS (Real or toy),produces; doesn't produce,word,coileán,0,animals,nouns,puppy,puppy
 coinín,item_38,ANIMALS (Real or toy),produces; doesn't produce,word,coinín,0,animals,nouns,rabbit,bunny
-cuileog,item_40,ANIMALS (Real or toy),produces; doesn't produce,word,cuileog,0,animals,nouns,fly,fly
+cuileog,item_40,ANIMALS (Real or toy),produces; doesn't produce,word,cuileog,0,animals,nouns,fly,fly (animal)
 damhánalla,item_42,ANIMALS (Real or toy),produces; doesn't produce,word,damhánalla,0,animals,nouns,spider,spider
 eala,item_44,ANIMALS (Real or toy),produces; doesn't produce,word,eala,0,animals,nouns,swan,swan
 éan,item_46,ANIMALS (Real or toy),produces; doesn't produce,word,éan,0,animals,nouns,bird,bird
@@ -504,7 +504,7 @@ brónach,item_996,DESCRIPTIVE WORDS,produces; doesn't produce,word,brónach,0,de
 buí,item_998,DESCRIPTIVE WORDS,produces; doesn't produce,word,buí,0,descriptive_words,adjectives,yellow,yellow
 céad,item_1000,DESCRIPTIVE WORDS,produces; doesn't produce,word,céad,0,descriptive_words,adjectives,first,first
 ceomhar,item_1002,DESCRIPTIVE WORDS,produces; doesn't produce,word,ceomhar,0,descriptive_words,adjectives,foggy,foggy
-cineálta,item_1004,DESCRIPTIVE WORDS,produces; doesn't produce,word,cineálta,0,descriptive_words,adjectives,kind,kind
+cineálta,item_1004,DESCRIPTIVE WORDS,produces; doesn't produce,word,cineálta,0,descriptive_words,adjectives,kind,nice
 ciúin,item_1006,DESCRIPTIVE WORDS,produces; doesn't produce,word,ciúin,0,descriptive_words,adjectives,quiet,quiet
 corcra,item_1008,DESCRIPTIVE WORDS,produces; doesn't produce,word,corcra,0,descriptive_words,adjectives,purple,purple
 crua,item_1010,DESCRIPTIVE WORDS,produces; doesn't produce,word,crua_deacair,0,descriptive_words,adjectives,hard,hard

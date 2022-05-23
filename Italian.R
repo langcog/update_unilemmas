@@ -24,6 +24,7 @@ new_items[which(new_items$WS=="item_378"),]$uni_lemma = "bravo" #
 new_items[which(new_items$WS=="item_579"),]$uni_lemma = "I" # caps
 
 new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil" 
+new_items[which(new_items$uni_lemma=="photograph"),]$uni_lemma = "photo" 
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

@@ -19,7 +19,7 @@ item_17,tictac,word,sounds,produces,tic-tac,NA,NA,NA
 item_18,tocotoc,word,sounds,produces,tocotoc (caballo),NA,clip clop,clip clop
 item_19,uy,word,sounds,produces,¡uy!,NA,ouch,ouch
 item_20,a_banar,word,games_routines,produces,a bañar,NA,go to the bathroom,bathe
-item_21,a_comer,word,games_routines,produces,a comer,NA,to eat,eat (action)
+item_21,a_comer,word,games_routines,produces,a comer,NA,to eat,eat
 item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep (action)
 item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see (action)
 item_24,a_vestir,word,games_routines,produces,a vestir,NA,dress (action),dress (action)
@@ -381,7 +381,7 @@ item_373,caer,word,action_words,produces,caer(se),NA,to fall,fall
 item_374,callar,word,action_words,produces,callar,NA,to silence,silence (action)
 item_375,cansar,word,action_words,produces,cansar(se),NA,to tire,tire (action)
 item_376,cantar,word,action_words,produces,cantar,NA,to sing,sing
-item_377,cenar,word,action_words,produces,cenar,NA,to have dinner,eat dinner
+item_377,cenar,word,action_words,produces,cenar,NA,to have dinner,dine
 item_378,cerrar,word,action_words,produces,cerrar,NA,to close,close
 item_379,cocinar,word,action_words,produces,cocinar,NA,to cook,cook
 item_380,coger,word,action_words,produces,coger,NA,take,take

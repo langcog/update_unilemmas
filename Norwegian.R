@@ -61,9 +61,12 @@ new_items[which(new_items$definition=="sliten"),]$uni_lemma = "tired"
 
 new_items[which(new_items$definition=="plastilina"),]$uni_lemma = "play dough"
 new_items[which(new_items$definition=="matpakke"),]$uni_lemma = "lunchbox"
+new_items[which(new_items$uni_lemma=="gift"),]$uni_lemma = "present"
+new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
 
-new_items[which(new_items$uni_lemma=="brawl"),]$uni_lemma = "fight"
-new_items[which(new_items$uni_lemma=="cinema"),]$uni_lemma = "movie"
+new_items[which(new_items$uni_lemma=="brawl "),]$uni_lemma = "fight"
+new_items[which(new_items$uni_lemma=="cinema "),]$uni_lemma = "movie"
+new_items[which(new_items$uni_lemma=="PC"),]$uni_lemma = "computer"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 
