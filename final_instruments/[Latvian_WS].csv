@@ -108,7 +108,7 @@ item_106,106_citrons,word,produces,food_drink,citrons,NA,lemon,lemon
 item_107,107_cukurs,word,produces,food_drink,cukurs,NA,sugar,sugar
 item_108,108_desa,word,produces,food_drink,desa,NA,sausage,sausage
 item_109,109_gala,word,produces,food_drink,gaļa,NA,meat,meat
-item_110,110_griki,word,produces,food_drink,griķi,NA,buckwheat,buckwheat
+item_110,110_griki,word,produces,food_drink,griķi,NA,buckwheat,porridge
 item_111,111_gurkis,word,produces,food_drink,gurķis,NA,cucumber,cucumber
 item_112,112_ievarijums,word,produces,food_drink,ievārījums,NA,jam,jam
 item_113,113_jogurts,word,produces,food_drink,jogurts,NA,yoghurt,yogurt
@@ -122,7 +122,7 @@ item_120,120_konfekte,word,produces,food_drink,konfekte,NA,candy,candy
 item_121,121_kotlete,word,produces,food_drink,kotlete,NA,meatballs,meatball
 item_122,122_krejums,word,produces,food_drink,krējums,NA,sour cream,cream
 item_123,123_kirbis,word,produces,food_drink,ķirbis,NA,pumpkin,pumpkin
-item_124,124_kirsi,word,produces,food_drink,ķirši,NA,cherries,cherries
+item_124,124_kirsi,word,produces,food_drink,ķirši,NA,cherries,cherry
 item_125,125_limonade,word,produces,food_drink,limonāde,NA,lemonade,lemonade
 item_126,126_maize,word,produces,food_drink,maize,NA,bread,bread
 item_127,127_makaroni,word,produces,food_drink,makaroni,NA,macaroni,pasta
@@ -368,7 +368,7 @@ item_366,366_tirgus,word,produces,places,tirgus,NA,market,market
 item_367,367_veikals,word,produces,places,veikals,NA,shop,shop
 item_368,368_zoologiska,word,produces,places,zooloģiskais dārzs/zvērudārzs,NA,zoo,zoo
 item_369,369_arsts,word,produces,people,ārsts,NA,doctor,doctor
-item_370,370_audzinataj,word,produces,people,audzinātāja,NA,kindergarten teacher,kindergarten teacher
+item_370,370_audzinataj,word,produces,people,audzinātāja,NA,kindergarten teacher,teacher
 item_371,371_aukle,word,produces,people,aukle,NA,nanny,babysitter
 item_372,372_berna_vard,word,produces,people,bērna vārds,NA,child´s own name,child's own name
 item_373,373_berns,word,produces,people,bērns,NA,child,child
@@ -494,7 +494,7 @@ item_492,492_runat,word,produces,action_words,runāt,NA,speak,speak
 item_493,493_sapet,word,produces,action_words,sāpēt,NA,hurt,hurt
 item_494,494_saukt,word,produces,action_words,saukt,NA,call,call
 item_495,495_sedet,word,produces,action_words,sēdēt,NA,sit,sit
-item_496,496_segt,word,produces,action_words,segt,NA,cover,cover
+item_496,496_segt,word,produces,action_words,segt,NA,cover,cover (action)
 item_497,497_sist,word,produces,action_words,sist,NA,beat,hit
 item_498,498_sasisties,word,produces,action_words,sasisties,NA,to hurt oneself,NA
 item_499,499_skart_pie,word,produces,action_words,skart/ pieskarties,NA,touch,touch
@@ -715,7 +715,7 @@ item_713,713_bet_,word,produces,connecting_words,bet,NA,but,but
 item_714,714_ja_,word,produces,connecting_words,ja,NA,if,if
 item_715,715_jo_,word,produces,connecting_words,jo,NA,because,because
 item_716,716_ka_apals_,word,produces,connecting_words,kā (apaļš kā pūpols),NA,like (e.g. round like a willow-catkin),like
-item_717,717_ka_es_red,word,produces,connecting_words,"ka (es redzu, ka līst lietus)",NA,how (I see how rain falls),how (I see how rain falls)
+item_717,717_ka_es_red,word,produces,connecting_words,"ka (es redzu, ka līst lietus)",NA,how (I see how rain falls),how (connecting)
 item_718,718_lai_,word,produces,connecting_words,lai,NA,so that,so that
 item_719,719_tacu_,word,produces,connecting_words,taču,NA,however,however
 item_720,720_tapec_ka_,word,produces,connecting_words,tāpēc ka,NA,because,because

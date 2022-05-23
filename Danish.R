@@ -23,6 +23,7 @@ new_items[which(new_items$definition=="jeg"),]$uni_lemma = "I"
 new_items[which(new_items$definition=="dagplejemors navn"),]$uni_lemma = "babysitter's name"
 
 new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

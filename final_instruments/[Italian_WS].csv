@@ -101,7 +101,7 @@ cocomero/anguria,food_drink,cocomero/anguria,word,produces,NA,item_99,NA,waterme
 coca cola,food_drink,coca_cola,word,produces,NA,item_100,NA,coke,soda
 cioccolata,food_drink,cioccolata,word,produces,NA,item_101,chocolate,chocolate,chocolate
 ciliegie,food_drink,ciliegie,word,produces,NA,item_102,NA,cherry,cherry
-carote,food_drink,carote,word,produces,NA,item_103,carrots,carrots,carrots
+carote,food_drink,carote,word,produces,NA,item_103,carrots,carrots,carrot
 carne,food_drink,carne,word,produces,NA,item_104,meat,meat,meat
 caramella,food_drink,caramella,word,produces,NA,item_105,candy,candy,candy
 camomilla,food_drink,camomilla,word,produces,NA,item_106,NA,chamomile tea,NA
@@ -296,7 +296,7 @@ albero,outside,albero,word,produces,NA,item_294,tree,tree,tree
 altalena,outside,altalena,word,produces,NA,item_295,swing (object),swing,swing (object)
 ascensore,outside,ascensore,word,produces,NA,item_296,elevator,elevator,elevator
 bandiera,outside,bandiera,word,produces,NA,item_297,NA,flag,flag
-benzina,outside,benzina,word,produces,NA,item_298,NA,gasoline,gasoline
+benzina,outside,benzina,word,produces,NA,item_298,NA,gasoline,gas
 campana,outside,campana,word,produces,NA,item_299,NA,bell,bell
 cielo,outside,cielo,word,produces,NA,item_300,sky,sky,sky
 erba,outside,erba,word,produces,NA,item_301,NA,grass,grass
@@ -426,7 +426,7 @@ chiudere,action_words,chiudere,word,produces,NA,item_424,close,close,close
 colorare,action_words,colorare,word,produces,NA,item_425,NA,paint,paint (action)
 comprare,action_words,comprare,word,produces,NA,item_426,NA,buy,buy
 conoscere,action_words,conoscere,word,produces,NA,item_427,NA,know,know
-coprire,action_words,coprire,word,produces,NA,item_428,NA,cover,cover
+coprire,action_words,coprire,word,produces,NA,item_428,NA,cover,cover (action)
 correre,action_words,correre,word,produces,NA,item_429,run,run,run
 costruire,action_words,costruire,word,produces,NA,item_430,NA,build,build
 cucinare,action_words,cucinare,word,produces,NA,item_431,NA,cook,cook

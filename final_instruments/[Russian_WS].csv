@@ -151,7 +151,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 масло,food_drink,NA,word,produces,NA,item_150,butter,butter
 мед,food_drink,NA,word,produces,NA,item_151,honey,honey
 молоко,food_drink,NA,word,produces,NA,item_152,milk,milk
-морковка,food_drink,NA,word,produces,NA,item_153,carrot,carrots
+морковка,food_drink,NA,word,produces,NA,item_153,carrot,carrot
 мороженое,food_drink,NA,word,produces,NA,item_154,ice cream,ice cream
 мясо,food_drink,NA,word,produces,NA,item_155,meat,meat
 огурец,food_drink,NA,word,produces,NA,item_156,cucumber,cucumber
@@ -357,7 +357,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 город,places,NA,word,produces,NA,item_356,city,city
 гости,places,NA,word,produces,NA,item_357,on a visit,outing
 группа,places,NA,word,produces,NA,item_358,playgroup,playgroup
-дача,places,NA,word,produces,NA,item_359,country house,country house
+дача,places,NA,word,produces,NA,item_359,country house,cabin
 двор,places,NA,word,produces,NA,item_360,yard,yard
 детский сад,places,NA,word,produces,NA,item_361,kindergarten,kindergarten
 дом,places,NA,word,produces,NA,item_362,house,house
@@ -583,7 +583,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 черный,descriptive_words (adjectives),NA,word,produces,NA,item_582,black,black
 больно,descriptive_words (adverbs),NA,word,produces,NA,item_583,paintfully/boo-boo,painful
 быстро,descriptive_words (adverbs),NA,word,produces,NA,item_584,quick (quickly),quick
-весело,descriptive_words (adverbs),NA,word,produces,NA,item_585,cheerfully,cheerful
+весело,descriptive_words (adverbs),NA,word,produces,NA,item_585,cheerfully,happy
 вкусно,descriptive_words (adverbs),NA,word,produces,NA,item_586,tastefully,yummy
 вместе,descriptive_words (adverbs),NA,word,produces,NA,item_587,together,together
 горько,descriptive_words (adverbs),NA,word,produces,NA,item_588,bitterly,bitter

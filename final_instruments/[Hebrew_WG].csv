@@ -109,7 +109,7 @@ item_135,NA,word,food_drink,understands; produces,קציצה,NA,meat ball,meatba
 item_136,NA,word,food_drink,understands; produces,קרקר,NA,cracker,cracker
 item_137,NA,word,food_drink,understands; produces,בשר,NA,meat,meat
 item_138,NA,word,food_drink,understands; produces,גבינה,NA,cheese,cheese
-item_139,NA,word,food_drink,understands; produces,גזר,NA,carrot,carrots
+item_139,NA,word,food_drink,understands; produces,גזר,NA,carrot,carrot
 item_140,NA,word,food_drink,understands; produces,דבש,NA,honey,honey
 item_141,NA,word,food_drink,understands; produces,דג,NA,Fish,fish (food)
 item_142,NA,word,food_drink,understands; produces,דייסה,NA,porridge,porridge
@@ -331,7 +331,7 @@ item_356,NA,word,action_words,understands; produces,למשוך,NA,pull,pull
 item_357,NA,word,action_words,understands; produces,לנגב,NA,wipe,wipe
 item_358,NA,word,action_words,understands; produces,לנהוג,NA,drive (action),drive
 item_359,NA,word,action_words,understands; produces,ללכת לישון,NA,Go to bed,sleep
-item_360,NA,word,action_words,understands; produces,לנעול,NA,lock (action),lock
+item_360,NA,word,action_words,understands; produces,לנעול,NA,lock (action),lock (action)
 item_361,NA,word,action_words,understands; produces,לנקות,NA,clean (action),clean (action)
 item_362,NA,word,action_words,understands; produces,לנשוך,NA,bite (action),bite
 item_363,NA,word,action_words,understands; produces,לנשוף,NA,blow,blow

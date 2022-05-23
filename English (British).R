@@ -25,7 +25,8 @@ new_items[which(new_items$definition=="kate"),]$uni_lemma = NA # ??? ..skate? no
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="band-aid"),]$uni_lemma = "bandaid" 
-
+new_items[which(new_items$uni_lemma=="blade"),]$uni_lemma = "knife" 
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 #subset(new_items, uni_lemma=="")
 

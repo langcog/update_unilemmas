@@ -75,7 +75,7 @@ item_107,item_107,word,food_drink,understands; produces,banane,NA,NA,banana,bana
 item_108,item_108,word,food_drink,understands; produces,beurre,item_109,Nourriture et boisson,butter,butter
 item_109,item_109,word,food_drink,understands; produces,boisson,item_116,Nourriture et boisson,drink (beverage),drink (beverage)
 item_110,item_110,word,food_drink,understands; produces,café,item_98,Nourriture et boisson,coffee,coffee
-item_111,item_111,word,food_drink,understands; produces,carotte,item_115,Nourriture et boisson,,carrots
+item_111,item_111,word,food_drink,understands; produces,carotte,item_115,Nourriture et boisson,,carrot
 item_112,item_112,word,food_drink,understands; produces,céréales,item_91,Nourriture et boisson,cereal,cereal
 item_113,item_113,word,food_drink,understands; produces,clémentine,item_118,Nourriture et boisson,clementine,clementine
 item_114,item_114,word,food_drink,understands; produces,cornflakes,item_92,Nourriture et boisson,cornflakes,cheerios
@@ -696,7 +696,7 @@ item_776,item_776,word,action_words,understands; produces,déchirer,item_664,Mot
 item_777,item_777,word,action_words,understands; produces,secouer,item_665,Mots d'action,shake,shake
 item_778,item_778,word,action_words,understands; produces,partager,item_666,Mots d'action,share,share
 item_779,item_779,word,action_words,understands; produces,s'asseoir,item_667,Mots d'action,sit,sit
-item_780,item_780,word,action_words,understands; produces,faire du patin,item_668,Mots d'action,skate,skate (action)
+item_780,item_780,word,action_words,understands; produces,faire du patin,item_668,Mots d'action,skate,skate
 item_781,item_781,word,action_words,understands; produces,glisser,item_669,Mots d'action,slide (action),slide (action)
 item_782,item_782,word,action_words,understands; produces,travailler,item_670,Mots d'action,work (action),work (action)
 item_783,item_783,word,action_words,understands; produces,souhaiter,item_671,Mots d'action,wish,wish

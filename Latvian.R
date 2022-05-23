@@ -118,6 +118,11 @@ new_items[which(new_items$uni_lemma=="gift"),]$uni_lemma = "present"
 new_items[which(new_items$uni_lemma=="(I) don't want"),]$uni_lemma = "don't want"
 new_items[which(new_items$uni_lemma=="afternoon snack"),]$uni_lemma = "snack"
 new_items[which(new_items$uni_lemma=="fly"),]$uni_lemma = "fly (action)"
+new_items[which(new_items$uni_lemma=="cherries"),]$uni_lemma = "cherry"
+new_items[which(new_items$uni_lemma=="cover"),]$uni_lemma = "cover (action)"
+new_items[which(new_items$uni_lemma=="buckwheat"),]$uni_lemma = "porridge"
+new_items[which(new_items$uni_lemma=="kindergarten teacher"),]$uni_lemma = "teacher"
+new_items[which(new_items$uni_lemma=="how (I see how rain falls)"),]$uni_lemma = "how (connecting)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

@@ -82,7 +82,7 @@ vand (beverage),food_drink,vand,word,understands; produces,NA,item_80,water,wate
 fisk (food),food_drink,fisk,word,understands; produces,NA,item_81,fish,fish (food)
 mad,food_drink,mad,word,understands; produces,NA,item_82,food,food
 æble,food_drink,aeble,word,understands; produces,NA,item_83,apple,apple
-gulerødder,food_drink,gulerodder,word,understands; produces,NA,item_84,carrots,carrots
+gulerødder,food_drink,gulerodder,word,understands; produces,NA,item_84,carrots,carrot
 mælk,food_drink,maelk,word,understands; produces,NA,item_85,milk,milk
 æg,food_drink,aeg,word,understands; produces,NA,item_86,eggs,egg
 havregryn,food_drink,havregryn,word,understands; produces,NA,item_87,oatmeal,cereal

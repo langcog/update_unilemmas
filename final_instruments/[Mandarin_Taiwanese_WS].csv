@@ -162,7 +162,7 @@ item_160,a04_59,word,food_drink,produces,三明治,NA,sandwich,sandwich
 item_161,a04_60,word,food_drink,produces,蛋餅,NA,Chinese omelet,NA
 item_162,a04_61,word,food_drink,produces,奶茶,NA,milk tea,tea
 item_163,a04_62,word,food_drink,produces,馬鈴薯,NA,potato,potato
-item_164,a04_63,word,food_drink,produces,奇異果,NA,kiwi fruit,kiwi fruit
+item_164,a04_63,word,food_drink,produces,奇異果,NA,kiwi fruit,kiwi
 item_165,a04_64,word,food_drink,produces,洋芋片,NA,potato chip,chips
 item_166,a04_65,word,food_drink,produces,可樂,NA,coke,coke
 item_167,a04_66,word,food_drink,produces,蕃茄醬,NA,ketchup,ketchup
@@ -447,7 +447,7 @@ item_445,a12_47,word,people,produces,你們的,NA,your,your
 item_446,a12_48,word,people,produces,他們,NA,they,they
 item_447,a12_49,word,people,produces,他們的,NA,their,their
 item_448,a12_50,word,people,produces,郵差,NA,mailman,mailman
-item_449,a12_51,word,people,produces,先生,NA,Mister,mister
+item_449,a12_51,word,people,produces,先生,NA,Mister,sir
 item_450,a13_01,word,time_words,produces,等一下,NA,wait,wait
 item_451,a13_02,word,time_words,produces,開始,NA,start,start
 item_452,a13_03,word,time_words,produces,晚上,NA,night,night

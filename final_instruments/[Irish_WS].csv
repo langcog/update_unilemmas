@@ -55,8 +55,8 @@ gluaisrothar,item_110,VEHICLES (Real or toy),produces; doesn't produce,word,glua
 jeepie,item_113,VEHICLES (Real or toy),produces; doesn't produce,word,jeepie,1,vehicles,nouns,jeep,jeep
 leoraí,item_114,VEHICLES (Real or toy),produces; doesn't produce,word,leoraí_lorry,0,vehicles,nouns,lorry,truck
 otharcharr,item_117,VEHICLES (Real or toy),produces; doesn't produce,word,otharcharr,0,vehicles,nouns,ambulance,ambulance
-pram,item_119,VEHICLES (Real or toy),produces; doesn't produce,word,pram_buggy_bugaí,1,vehicles,nouns,pram,buggy
-rothar,item_120,VEHICLES (Real or toy),produces; doesn't produce,word,rothar,0,vehicles,nouns,bicycle,bike
+pram,item_119,VEHICLES (Real or toy),produces; doesn't produce,word,pram_buggy_bugaí,1,vehicles,nouns,pram,stroller
+rothar,item_120,VEHICLES (Real or toy),produces; doesn't produce,word,rothar,0,vehicles,nouns,bicycle,bicycle
 tarracóir,item_122,VEHICLES (Real or toy),produces; doesn't produce,word,tarracóir,0,vehicles,nouns,tractor,tractor
 tochaltóir,item_124,VEHICLES (Real or toy),produces; doesn't produce,word,tochaltóir_bainteoir,0,vehicles,nouns,digger,digger
 traein,item_126,VEHICLES (Real or toy),produces; doesn't produce,word,traein_train,0,vehicles,nouns,truck,train
@@ -93,13 +93,13 @@ cáca,item_182,FOOD AND DRINK,produces; doesn't produce,word,cáca_císte,0,food
 coffee,item_184,FOOD AND DRINK,produces; doesn't produce,word,coffee_caife,1,food_drink,nouns,coffee,coffee
 cairéid,item_185,FOOD AND DRINK,produces; doesn't produce,word,cairéid_cairéidí,0,food_drink,nouns,carrot,carrot
 cáis,item_187,FOOD AND DRINK,produces; doesn't produce,word,cáis,0,food_drink,nouns,cheese,cheese
-calógarbhair,item_189,FOOD AND DRINK,produces; doesn't produce,word,calógarbhair,0,food_drink,nouns,cornflakes,cornflakes
+calógarbhair,item_189,FOOD AND DRINK,produces; doesn't produce,word,calógarbhair,0,food_drink,nouns,cornflakes,cheerios
 caorafínúna,item_191,FOOD AND DRINK,produces; doesn't produce,word,caorafínúna,0,food_drink,nouns,grapes,grapes
 ceapaire,item_193,FOOD AND DRINK,produces; doesn't produce,word,ceapaire,0,food_drink,nouns,sandwich,sandwich
 cnaipínísicín,item_195,FOOD AND DRINK,produces; doesn't produce,word,cnaipínísicín,0,food_drink,nouns,chicken nuggets,chicken nuggets
 cnónna,item_197,FOOD AND DRINK,produces; doesn't produce,word,cnónna,0,food_drink,nouns,nuts,nut
 coke,item_199,FOOD AND DRINK,produces; doesn't produce,word,coke_cóc,1,food_drink,nouns,coke,soda
-criospaí,item_200,FOOD AND DRINK,produces; doesn't produce,word,criospaí_téiteo,0,food_drink,nouns,crisps,crisps
+criospaí,item_200,FOOD AND DRINK,produces; doesn't produce,word,criospaí_téiteo,0,food_drink,nouns,crisps,chips
 deoch,item_203,FOOD AND DRINK,produces; doesn't produce,word,deoch,0,food_drink,nouns,drink,drink (object)
 taoschnó,item_205,FOOD AND DRINK,produces; doesn't produce,word,taoschnó,0,food_drink,nouns,donut,pastry
 feoil,item_207,FOOD AND DRINK,produces; doesn't produce,word,feoil,0,food_drink,nouns,meat,meat
@@ -120,7 +120,7 @@ pizza,item_235,FOOD AND DRINK,produces; doesn't produce,word,pizza_ie,1,food_dri
 piseanna,item_236,FOOD AND DRINK,produces; doesn't produce,word,piseanna,0,food_drink,nouns,peas,peas
 pónairí,item_238,FOOD AND DRINK,produces; doesn't produce,word,pónairí,0,food_drink,nouns,beans,beans
 práta,item_240,FOOD AND DRINK,produces; doesn't produce,word,práta_fata,0,food_drink,nouns,potato,potato
-reoiteog,item_242,FOOD AND DRINK,produces; doesn't produce,word,reoiteog,0,food_drink,nouns,icepop,ice pop
+reoiteog,item_242,FOOD AND DRINK,produces; doesn't produce,word,reoiteog,0,food_drink,nouns,icepop,popsicle
 rísín,item_244,FOOD AND DRINK,produces; doesn't produce,word,rísín,0,food_drink,nouns,raisin,raisin
 salann,item_246,FOOD AND DRINK,produces; doesn't produce,word,salann,0,food_drink,nouns,salt,salt
 sceallóga,item_248,FOOD AND DRINK,produces; doesn't produce,word,sceallóga,0,food_drink,nouns,chips,chips
@@ -249,7 +249,7 @@ túaille,item_490,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,túaille,
 uaireadóir,item_492,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,uaireadóir,0,household,nouns,watch,watch (object)
 beithilín,item_494,FURNITURE AND ROOMS,produces; doesn't produce,word,beithilín_máinséar,0,furniture_rooms,nouns,cot,crib
 cathaoir,item_496,FURNITURE AND ROOMS,produces; doesn't produce,word,cathaoir,0,furniture_rooms,nouns,chair,chair
-cathaoirard,item_498,FURNITURE AND ROOMS,produces; doesn't produce,word,cathaoirard,0,furniture_rooms,nouns,highchair,highchair
+cathaoirard,item_498,FURNITURE AND ROOMS,produces; doesn't produce,word,cathaoirard,0,furniture_rooms,nouns,highchair,high chair
 cistin,item_500,FURNITURE AND ROOMS,produces; doesn't produce,word,cistin,0,furniture_rooms,nouns,kitchen,kitchen
 cith,item_502,FURNITURE AND ROOMS,produces; doesn't produce,word,cith_fholcadh,0,furniture_rooms,nouns,shower,shower
 cófra,item_504,FURNITURE AND ROOMS,produces; doesn't produce,word,cófra_preas,0,furniture_rooms,nouns,cupboard,cupboard
@@ -438,7 +438,7 @@ ciceáil,item_864,ACTION WORDS,produces; doesn't produce,word,ciceáil,0,action_
 cigil,item_866,ACTION WORDS,produces; doesn't produce,word,cigil,0,action_words,verbs,tickle,tickle
 cíor,item_868,ACTION WORDS,produces; doesn't produce,word,cíor,0,action_words,verbs,comb,tickle
 clois,item_870,ACTION WORDS,produces; doesn't produce,word,clois,0,action_words,verbs,hear,hear
-clúdaigh,item_872,ACTION WORDS,produces; doesn't produce,word,clúdaigh,0,action_words,verbs,cover,cover
+clúdaigh,item_872,ACTION WORDS,produces; doesn't produce,word,clúdaigh,0,action_words,verbs,cover,cover (action)
 cnag,item_874,ACTION WORDS,produces; doesn't produce,word,cnag,0,action_words,verbs,knock,knock
 cócaráil,item_876,ACTION WORDS,produces; doesn't produce,word,cócaráil,0,action_words,verbs,cook,cook
 codail,item_878,ACTION WORDS,produces; doesn't produce,word,codail,0,action_words,verbs,sleep,sleep
@@ -630,7 +630,7 @@ amach,item_1227,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,amach,
 as,item_1229,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,as,0,locations,function_words,of,of
 barr,item_1231,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,barr,0,locations,function_words,top,top
 bun,item_1233,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,bun,0,locations,function_words,bottom,bottom
-cúl,item_1235,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,cúl,0,locations,function_words,behind,back of
+cúl,item_1235,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,cúl,0,locations,function_words,behind,behind
 de,item_1237,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,de,0,locations,function_words,off,off
 do,item_1239,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,do,0,locations,function_words,for,for
 faoi,item_1241,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,faoi,0,locations,function_words,under,under

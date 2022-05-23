@@ -69,27 +69,27 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2374 uni-lemmas
+  # how it's going: 2310 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2344 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 689 hapaxes
-  length(unique(new_uni$form)) # 60 forms
+  length(new_uni_tab) # 2302 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 619 hapaxes
+  length(unique(new_uni$form)) # 61 forms
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 69 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 76 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 1046
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 1034
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1037 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 768 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 569 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 427 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 291 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 168 on 50+
-  length(new_uni_tab[which(new_uni_tab>=60)]) # 38 on 60+ (all)
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1051 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 779 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 580 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 444 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 305 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 178 on 50+
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 53 on 60+ 
   # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
@@ -117,7 +117,7 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="brawl") # Norwegian -> fight
   
   # bigger merges:
-  # kind vs. nice?
+  #subset(new_uni, uni_lemma=="carrots") # -> carrot
   #subset(new_uni, uni_lemma=="kind") # 5, but 30 have 'nice' -> updated!
   subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
   subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
@@ -127,7 +127,20 @@ examine_new_unilemmas <- function() {
   
   
   # going after hapaxes
-  head(new_uni_tab, 100)
+  View(new_uni_tab)
+  
+  subset(new_uni, uni_lemma=="boulder") # -> stone / rock (object) ?
+  subset(new_uni, uni_lemma=="although") # Brit Eng -> though / but ?
+  #subset(new_uni, uni_lemma=="catch/tag") # Croat -> tag
+  #subset(new_uni, uni_lemma=="afterwards") # Nor -> "after" ?
+  #subset(new_uni, uni_lemma=="bike") # Irish -> bicycle
+  #subset(new_uni, uni_lemma=="answer") # respond/reply? (OK)
+  #subset(new_uni, uni_lemma=="blade") # Eng Brit -> knife
+  #subset(new_uni, uni_lemma=="bloom") # action - OK
+  subset(new_uni, uni_lemma=="board game") # game?
+  subset(new_uni, uni_lemma=="braid") # Mand Beij -> braid (object)
+  subset(new_uni, uni_lemma=="cherries") # Latvian -> cherry
+  #subset(new_uni, uni_lemma=="chess") # -> board game
   
   #subset(new_uni, uni_lemma=="quilt") # Swedish already has blanket, so OK
   subset(new_uni, uni_lemma=="promptly") # quickly?

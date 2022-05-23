@@ -67,6 +67,9 @@ new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
 new_items[which(new_items$uni_lemma=="brawl "),]$uni_lemma = "fight"
 new_items[which(new_items$uni_lemma=="cinema "),]$uni_lemma = "movie"
 new_items[which(new_items$uni_lemma=="PC"),]$uni_lemma = "computer"
+new_items[which(new_items$uni_lemma=="afterwards "),]$uni_lemma = "after"
+new_items[which(new_items$uni_lemma=="breathing "),]$uni_lemma = "breathe"
+new_items[which(new_items$uni_lemma=="crispbread"),]$uni_lemma = "cracker"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

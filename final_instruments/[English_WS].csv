@@ -94,7 +94,7 @@ item_92,bread,word,food_drink,produces,bread,NA,bread,bread
 item_93,butter,word,food_drink,produces,butter,NA,butter,butter
 item_94,cake,word,food_drink,produces,cake,NA,cake,cake
 item_95,candy,word,food_drink,produces,candy,NA,candy,candy
-item_96,carrots,word,food_drink,produces,carrots,NA,carrots,carrots
+item_96,carrots,word,food_drink,produces,carrots,NA,carrots,carrot
 item_97,cereal,word,food_drink,produces,cereal,NA,cereal,cereal
 item_98,cheerios,word,food_drink,produces,cheerios,NA,cheerios,cheerios
 item_99,cheese,word,food_drink,produces,cheese,NA,cheese,cheese
@@ -663,7 +663,7 @@ item_661,does,word,helping_verbs,produces,does,NA,does,does
 item_662,dont,word,helping_verbs,produces,don't,NA,don't,don't
 item_663,gonna,word,helping_verbs,produces,gonna/going to,NA,gonna/going to,gonna
 item_664,gotta,word,helping_verbs,produces,gotta/got to,NA,gotta/got to,gotta
-item_665,hafta,word,helping_verbs,produces,hafta/have to,NA,hafta/have to,hafta
+item_665,hafta,word,helping_verbs,produces,hafta/have to,NA,hafta/have to,have to
 item_666,is,word,helping_verbs,produces,is,NA,is,is
 item_667,lemme,word,helping_verbs,produces,lemme/let me,NA,lemme/let me,lemme
 item_668,need,word,helping_verbs,produces,need/need to,NA,need/need to,need

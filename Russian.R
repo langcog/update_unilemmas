@@ -52,7 +52,9 @@ new_items[which(new_items$WS=="item_727"),]$uni_lemma = "or" # vs. or else
 new_items[which(new_items$uni_lemma=="eyelashes"),]$uni_lemma = "eyelash"
 new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow" 
 new_items[which(new_items$uni_lemma=="back (object)"),]$uni_lemma = "back (body part)" 
-
+new_items[which(new_items$uni_lemma=="country house"),]$uni_lemma = "cabin" 
+new_items[which(new_items$uni_lemma=="cheerful"),]$uni_lemma = "happy" 
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

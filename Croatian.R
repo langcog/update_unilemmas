@@ -59,7 +59,12 @@ new_items[which(new_items$uni_lemma=="cinema/theatre"),]$uni_lemma = "movie"
 new_items[which(new_items$uni_lemma=="dustman"),]$uni_lemma = "garbage man" 
 new_items[which(new_items$uni_lemma=="flag/banner"),]$uni_lemma = "flag" 
 new_items[which(new_items$uni_lemma=="modelling clay"),]$uni_lemma = "play dough" 
-new_items[which(new_items$uni_lemma=="present/gift"),]$uni_lemma = "present" 
+new_items[which(new_items$uni_lemma=="present/gift"),]$uni_lemma = "present"
+new_items[which(new_items$uni_lemma=="catch/tag"),]$uni_lemma = "tag"
+new_items[which(new_items$uni_lemma=="chips (food)"),]$uni_lemma = "chips"
+new_items[which(new_items$uni_lemma=="chard"),]$uni_lemma = "kale"
+new_items[which(new_items$uni_lemma=="funfair/theme park"),]$uni_lemma = "fair"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

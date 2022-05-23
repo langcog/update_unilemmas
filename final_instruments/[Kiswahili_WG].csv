@@ -52,7 +52,7 @@ item_50,e10chap,word,food_drink,understands; produces,Chapati,NA,Chapati,tortill
 item_51,e25oran,word,food_drink,understands; produces,Maji ya machungwa/juisi,NA,orange juice,orange juice
 item_52,e1bana,word,food_drink,understands; produces,Ndizi,NA,Bananas,banana
 item_53,e6bun,word,food_drink,understands; produces,Kaimati,NA,Bun1,bun
-item_54,e8carr,word,food_drink,understands; produces,Karoti,NA,Carrot,carrots
+item_54,e8carr,word,food_drink,understands; produces,Karoti,NA,Carrot,carrot
 item_55,e7cake,word,food_drink,understands; produces,Keki,NA,Cake,cake
 item_56,e28pota,word,food_drink,understands; produces,Viazi,NA,Potato,potato
 item_57,e11chic,word,food_drink,understands; produces,Kuku,NA,ChickenF,chicken (food)

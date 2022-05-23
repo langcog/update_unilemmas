@@ -46,6 +46,7 @@ new_items[which(new_items$WG=="item_238"),]$uni_lemma = "won't do" # I won't..
 new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (question)" 
 new_items[which(new_items$uni_lemma=="supermarket"),]$uni_lemma = "grocery" 
 new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
+new_items[which(new_items$uni_lemma=="hit (action)"),]$uni_lemma = "hit"
 
 # ToDo: check blanks ("") and "at/in/on"
 subset(new_items, uni_lemma=="")

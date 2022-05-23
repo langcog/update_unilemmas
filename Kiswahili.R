@@ -37,6 +37,8 @@ new_items[which(new_items$WG=="item_206"),]$uni_lemma = "how are you" #
 
 new_items[which(new_items$uni_lemma=="bedsheet"),]$uni_lemma = "sheet"
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="durable"),]$uni_lemma = "tough"
 
 # ToDo: check empty uni-lemmas ("")
 subset(new_items, uni_lemma=="")

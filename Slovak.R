@@ -25,8 +25,11 @@ new_items[which(new_items$definition=="vzadu / dozadu"),]$uni_lemma = "back (loc
 new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how much'
 new_items[which(new_items$definition=="kto to je?"),]$uni_lemma = "who" # was 'who's there?'
 new_items[which(new_items$definition=="Dzdz (včela)"),]$uni_lemma = "buzz" # was 'bzzz' 
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how much'
+
+new_items[which(new_items$uni_lemma=="yuck"),]$uni_lemma = "yucky"
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

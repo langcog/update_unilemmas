@@ -25,7 +25,7 @@ item_20,饺子,20_jiao3zi5,food_drink,word,understands; produces,dumpling,dumpli
 item_21,草莓,21_cao3mei2,food_drink,word,understands; produces,strawberry,strawberry
 item_22,黄瓜,22_huang2gua1,food_drink,word,understands; produces,cucumber,cucumber
 item_23,豆腐,23_dou4fu5,food_drink,word,understands; produces,tofu,tofu
-item_24,萝卜,24_luo2bo5,food_drink,word,understands; produces,carrots,carrots
+item_24,萝卜,24_luo2bo5,food_drink,word,understands; produces,carrots,carrot
 item_25,床,25_chuang2,furniture_rooms,word,understands; produces,bed,bed
 item_26,电视,26_dian4shi4,furniture_rooms,word,understands; produces,tv,tv
 item_27,门,27_men2,furniture_rooms,word,understands; produces,door,door

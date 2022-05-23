@@ -21,6 +21,8 @@ new_items[which(new_items$uni_lemma=="hippo"),]$uni_lemma = "hippopotamus"
 new_items[which(new_items$uni_lemma=="potato chip"),]$uni_lemma = "chips"
 new_items[which(new_items$uni_lemma=="grape"),]$uni_lemma = "grapes"
 new_items[which(new_items$uni_lemma=="fly"),]$uni_lemma = "fly (animal)"
+new_items[which(new_items$uni_lemma=="kiwi fruit"),]$uni_lemma = "kiwi"
+new_items[which(new_items$uni_lemma=="mister"),]$uni_lemma = "sir"
 
 new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

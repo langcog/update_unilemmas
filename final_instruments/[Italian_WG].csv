@@ -70,7 +70,7 @@ item_101,banana,word,food_drink,understands; produces,banana,banana,banana
 item_102,biscotti,word,food_drink,understands; produces,biscotti,cookie,cookie
 item_103,caramella,word,food_drink,understands; produces,caramella,candy,candy
 item_104,carne,word,food_drink,understands; produces,carne,meat,meat
-item_105,carote,word,food_drink,understands; produces,carote,carrots,carrots
+item_105,carote,word,food_drink,understands; produces,carote,carrots,carrot
 item_106,cioccolata,word,food_drink,understands; produces,cioccolata,chocolate,chocolate
 item_107,cracker,word,food_drink,understands; produces,cracker,cracker,cracker
 item_108,formaggio,word,food_drink,understands; produces,formaggio,cheese,cheese

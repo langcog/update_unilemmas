@@ -103,7 +103,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 макароны,food_drink,NA,word,understands; produces,NA,item_129,spaghetti/noodle (pasta),pasta
 масло,food_drink,NA,word,understands; produces,NA,item_130,butter,butter
 молоко,food_drink,NA,word,understands; produces,NA,item_131,milk,milk
-морковка,food_drink,NA,word,understands; produces,NA,item_132,carrot,carrots
+морковка,food_drink,NA,word,understands; produces,NA,item_132,carrot,carrot
 мясо,food_drink,NA,word,understands; produces,NA,item_133,meat,meat
 огурец,food_drink,NA,word,understands; produces,NA,item_134,cucumber,cucumber
 печенье,food_drink,NA,word,understands; produces,NA,item_135,cookie,cookie

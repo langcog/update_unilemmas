@@ -43,7 +43,7 @@ item_40,eau (beverage),food_drink,eau,word,understands; produces,water,water (be
 item_41,crème glacée,food_drink,cr`eme_glacee,word,understands; produces,ice cream,ice cream
 item_42,cheerios,food_drink,cheerios,word,understands; produces,cheerios,cheerios
 item_43,céréales,food_drink,cereales,word,understands; produces,cereals,cereal
-item_44,carotte,food_drink,carotte,word,understands; produces,carrot,carrots
+item_44,carotte,food_drink,carotte,word,understands; produces,carrot,carrot
 item_45,café,food_drink,cafe,word,understands; produces,coffee,coffee
 item_46,bonbon,food_drink,bonbon,word,understands; produces,candy,candy
 item_47,biscuit soda,food_drink,biscuit_soda,word,understands; produces,soda biscuit,cracker

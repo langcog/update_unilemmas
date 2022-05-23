@@ -109,7 +109,7 @@ item_107,p1_c05_i11,word,understands; produces,food_drink,בייגלה,pretzels,
 item_108,p1_c05_i12,word,understands; produces,food_drink,ביצה,egg,egg
 item_109,p1_c05_i13,word,understands; produces,food_drink,בשר,meat,meat
 item_110,p1_c05_i14,word,understands; produces,food_drink,גבינה,cheese,cheese
-item_111,p1_c05_i15,word,understands; produces,food_drink,גזר,carrot,carrots
+item_111,p1_c05_i15,word,understands; produces,food_drink,גזר,carrot,carrot
 item_112,p1_c05_i16,word,understands; produces,food_drink,דבש,honey,honey
 item_113,p1_c05_i17,word,understands; produces,food_drink,דג,fish (food),fish (food)
 item_114,p1_c05_i18,word,understands; produces,food_drink,דייסה,porridge,porridge
@@ -443,7 +443,7 @@ item_441,p1_c14_i54,word,understands; produces,action_words,למשוך,pull,pull
 item_442,p1_c14_i55,word,understands; produces,action_words,לנגב,wipe,wipe
 item_443,p1_c14_i56,word,understands; produces,action_words,לנהוג,drive (action),drive
 item_444,p1_c14_i57,word,understands; produces,action_words,לנוח,rest (action),rest
-item_445,p1_c14_i58,word,understands; produces,action_words,לנעול,lock (action),lock
+item_445,p1_c14_i58,word,understands; produces,action_words,לנעול,lock (action),lock (action)
 item_446,p1_c14_i59,word,understands; produces,action_words,לנקות,clean (action),clean (action)
 item_447,p1_c14_i60,word,understands; produces,action_words,לנשוך,bite (action),bite
 item_448,p1_c14_i61,word,understands; produces,action_words,לנשוף,blow,blow

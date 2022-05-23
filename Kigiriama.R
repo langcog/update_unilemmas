@@ -25,6 +25,8 @@ new_items[which(new_items$WS=="item_12"),]$uni_lemma = "baa baa" # goat -- close
 new_items[which(new_items$uni_lemma=="bedsheet"),]$uni_lemma = "sheet"
 new_items[which(new_items$uni_lemma=="nap (action)"),]$uni_lemma = "nap"
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="marketplace"),]$uni_lemma = "market" 
+new_items[which(new_items$uni_lemma=="longlasting"),]$uni_lemma = "tough" # or durable  
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

@@ -32,6 +32,8 @@ new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
 new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy"
 new_items[which(new_items$uni_lemma=="nanny"),]$uni_lemma = "babysitter"
 new_items[which(new_items$uni_lemma=="bzzz"),]$uni_lemma = "buzz"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="lock"),]$uni_lemma = "lock (action)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

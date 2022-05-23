@@ -70,7 +70,7 @@ item_101,bread,word,food_drink,understands; produces,bread,NA,bread,bread
 item_102,butter,word,food_drink,understands; produces,butter,NA,butter,butter
 item_103,cake,word,food_drink,understands; produces,cake,NA,cake,cake
 item_104,candy,word,food_drink,understands; produces,candy,NA,candy,candy
-item_105,carrots,word,food_drink,understands; produces,carrots,NA,carrots,carrots
+item_105,carrots,word,food_drink,understands; produces,carrots,NA,carrots,carrot
 item_106,cereal,word,food_drink,understands; produces,cereal,NA,cereal,cereal
 item_107,cheerios,word,food_drink,understands; produces,cheerios,NA,cheerios,cheerios
 item_108,cheese,word,food_drink,understands; produces,cheese,NA,cheese,cheese

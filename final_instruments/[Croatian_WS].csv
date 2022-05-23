@@ -87,11 +87,11 @@ poklon,toys,poklon,word,produces,NA,item_85,NA,present,present
 slagalice (puzzle),toys,slagalice_(puzzle),word,produces,NA,item_86,NA,puzzle,jigsaw puzzle
 slikovnica,toys,slikovnica,word,produces,NA,item_87,NA,picture book,book
 banana,food_drink,banana,word,produces,NA,item_88,banana,banana,banana
-blitva,food_drink,blitva,word,produces,NA,item_89,NA,chard,chard
+blitva,food_drink,blitva,word,produces,NA,item_89,NA,chard,kale
 bombon,food_drink,bombon,word,produces,NA,item_90,candy,candy,candy
 bundeva,food_drink,bundeva,word,produces,NA,item_91,NA,pumpkin,pumpkin
 čaj,food_drink,caj,word,produces,NA,item_92,tea,tea,tea
-čips,food_drink,cips,word,produces,NA,item_93,NA,potato chip,chips (food)
+čips,food_drink,cips,word,produces,NA,item_93,NA,potato chip,chips
 čokolada,food_drink,cokolada,word,produces,NA,item_94,chocolate,chocolate,chocolate
 čokolino,food_drink,cokolino,word,produces,NA,item_95,cheerios,cokolino (Croatian children food),cheerios
 grah,food_drink,grah,word,produces,NA,item_96,NA,beans,beans
@@ -128,7 +128,7 @@ maslac,food_drink,maslac,word,produces,NA,item_126,NA,butter,butter
 med,food_drink,med,word,produces,NA,item_127,NA,honey,honey
 meso,food_drink,meso,word,produces,NA,item_128,meat,meat,meat
 mlijeko,food_drink,mlijeko,word,produces,NA,item_129,milk,milk,milk
-mrkve,food_drink,mrkve,word,produces,NA,item_130,NA,carrots,carrots
+mrkve,food_drink,mrkve,word,produces,NA,item_130,NA,carrots,carrot
 naranča,food_drink,naranca,word,produces,NA,item_131,orange (food),orange,orange (food)
 njoke,food_drink,njoke,word,produces,NA,item_132,NA,gnocchi,pasta
 orasi,food_drink,orasi,word,produces,NA,item_133,NA,walnuts,nut
@@ -324,7 +324,7 @@ vrt,outside,vrt,word,produces,NA,item_322,garden,garden,garden
 zastava,outside,zastava,word,produces,NA,item_323,NA,flag,flag
 zvijezda,outside,zvijezda,word,produces,NA,item_324,star,star,star
 bolnica,places,bolnica,word,produces,NA,item_325,NA,hospital,hospital
-cirkus,places,cirkus,word,produces,NA,item_326,NA,circus,funfair/theme park
+cirkus,places,cirkus,word,produces,NA,item_326,NA,circus,fair
 crkva,places,crkva,word,produces,NA,item_327,NA,church,church
 dom,places,dom,word,produces,NA,item_328,NA,home,home
 grad,places,grad,word,produces,NA,item_329,NA,downtown,outside
@@ -389,7 +389,7 @@ ku-ku (routine),games_routines,ku-ku,word,produces,NA,item_387,peekaboo,peekaboo
 kupanje,games_routines,kupanje,word,produces,NA,item_388,bath,bath,bath
 kupiti,games_routines,kupiti,word,produces,NA,item_389,NA,buy,buy
 laku noć,games_routines,laku_noc,word,produces,NA,item_390,good night,night night,good night
-lovi me,games_routines,lovi_me,word,produces,NA,item_391,NA,gonna get you!,catch/tag
+lovi me,games_routines,lovi_me,word,produces,NA,item_391,NA,gonna get you!,tag
 molim,games_routines,molim,word,produces,NA,item_392,please,plese,please
 Ne!,games_routines,Ne!,word,produces,NA,item_393,NA,no,no
 okreni se,games_routines,okreni_se,word,produces,NA,item_394,NA,turn around,turn around

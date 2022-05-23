@@ -23,6 +23,8 @@ new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 
 # capitalization
 new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="skate (action)"),]$uni_lemma = "skate"
 
 subset(new_items, uni_lemma=="")
 

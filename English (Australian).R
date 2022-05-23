@@ -31,6 +31,7 @@ new_items[which(new_items$definition=="barbecue"),]$uni_lemma = NA
 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="tasty"),]$uni_lemma = "yummy"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 # save updated instrument(s)
 new_ws <- update_instrument("Australian", "WS", new_items %>% rename(itemID = WS))

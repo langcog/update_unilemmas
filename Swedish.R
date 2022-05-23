@@ -25,6 +25,7 @@ new_items[which(new_items$definition=="sitta pottan"),]$uni_lemma = "go potty"
 new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
 
 new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (connecting)"
+new_items[which(new_items$uni_lemma=="not (routine)"),]$uni_lemma = "don't"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

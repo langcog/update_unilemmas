@@ -71,7 +71,7 @@ item_69,69_biscuit,food_drink,understands; produces,biscuit,word,NA,biscuit,bisc
 item_70,70_bread,food_drink,understands; produces,bread,word,NA,bread,bread
 item_71,71_butter,food_drink,understands; produces,butter,word,NA,butter,butter
 item_72,72_cake,food_drink,understands; produces,cake,word,NA,cake,cake
-item_73,73_carrot,food_drink,understands; produces,carrot,word,NA,carrot,carrots
+item_73,73_carrot,food_drink,understands; produces,carrot,word,NA,carrot,carrot
 item_74,74_cereal,food_drink,understands; produces,cereal,word,NA,cereal,cereal
 item_75,75_cheese,food_drink,understands; produces,cheese,word,NA,cheese,cheese
 item_76,76_chicken,food_drink,understands; produces,chicken,word,NA,chicken,chicken (food)

@@ -172,7 +172,7 @@ kruh,food_drink,kruh,word,understands; produces,item_143,NA,bread,bread
 kakao,food_drink,kakao,word,understands; produces,item_119,NA,cacao,cacao
 kolač,food_drink,kolac,word,understands; produces,item_133,NA,cake,cake
 bombon,food_drink,bombon,word,understands; produces,item_18,NA,candy,candy
-mrkva,food_drink,mrkva,word,understands; produces,item_194,NA,carrots,carrots
+mrkva,food_drink,mrkva,word,understands; produces,item_194,NA,carrots,carrot
 čokolino,food_drink,cokolino,word,understands; produces,item_40,NA,cokolino (Croatian children food),cheerios
 sir,food_drink,sir,word,understands; produces,item_285,NA,cheese,cheese
 piletina,food_drink,piletina,word,understands; produces,item_239,NA,chicken,chicken (food)

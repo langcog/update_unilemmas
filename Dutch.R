@@ -104,10 +104,27 @@ new_items[which(new_items$uni_lemma=="nail (body)"),]$uni_lemma = "nail (body pa
 new_items[which(new_items$uni_lemma=="nail (item)"),]$uni_lemma = "nail (object)"
 new_items[which(new_items$uni_lemma=="night/tonight"),]$uni_lemma = "night"
 new_items[which(new_items$uni_lemma=="moddeling clay"),]$uni_lemma = "play dough" # or clay
+new_items[which(new_items$uni_lemma=="clay modeling"),]$uni_lemma = "play dough"
 new_items[which(new_items$uni_lemma=="repair (verb)"),]$uni_lemma = "fix"
 new_items[which(new_items$uni_lemma=="picknick"),]$uni_lemma = "picnic"
 new_items[which(new_items$uni_lemma=="gift"),]$uni_lemma = "present"
 new_items[which(new_items$uni_lemma=="sofa"),]$uni_lemma = "couch"
+new_items[which(new_items$uni_lemma=="cover up (verb)"),]$uni_lemma = "cover (action)"
+new_items[which(new_items$uni_lemma=="fire truck"),]$uni_lemma = "firetruck"
+new_items[which(new_items$uni_lemma=="call (verb)"),]$uni_lemma = "call"
+new_items[which(new_items$uni_lemma=="calm/silent"),]$uni_lemma = "quiet"
+new_items[which(new_items$uni_lemma=="cut (verb)"),]$uni_lemma = "cut"
+new_items[which(new_items$uni_lemma=="glide/shove"),]$uni_lemma = "slide"
+new_items[which(new_items$uni_lemma=="go/walk"),]$uni_lemma = "go"
+new_items[which(new_items$uni_lemma=="having dinner"),]$uni_lemma = "dinner"
+new_items[which(new_items$uni_lemma=="hear (verb)"),]$uni_lemma = "hear"
+new_items[which(new_items$uni_lemma=="ice cream lollipop"),]$uni_lemma = "popsicle"
+new_items[which(new_items$uni_lemma=="going to bed"),]$uni_lemma = "go to bed"
+new_items[which(new_items$uni_lemma=="hurry up"),]$uni_lemma = "hurry"
+new_items[which(new_items$uni_lemma=="ice skate (verb)"),]$uni_lemma = "skate"
+new_items[which(new_items$uni_lemma=="if/when"),]$uni_lemma = "if"
+new_items[which(new_items$uni_lemma=="lock/close/fix"),]$uni_lemma = "lock (action)"
+new_items[which(new_items$uni_lemma=="long/tall"),]$uni_lemma = "long"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

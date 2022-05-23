@@ -149,7 +149,7 @@ item_168,fishtoeat,word,food_drink,understands; produces,fish to eat,fish to eat
 item_169,food,word,food_drink,understands; produces,food,food,food
 item_170,chips,word,food_drink,understands; produces,chips,chips,french fries
 item_171,grapes,word,food_drink,understands; produces,grapes,grapes,grapes
-item_172,carrots,word,food_drink,understands; produces,carrots,carrots,carrots
+item_172,carrots,word,food_drink,understands; produces,carrots,carrots,carrot
 item_173,gum,word,food_drink,understands; produces,gum,gum,gum
 item_174,hamburger,word,food_drink,understands; produces,hamburger,hamburger,hamburger
 item_175,ice,word,food_drink,understands; produces,ice,ice,ice
@@ -441,7 +441,7 @@ item_460,share,word,action_words,understands; produces,share,share,share
 item_461,show,word,action_words,understands; produces,show,show,show
 item_462,sign,word,action_words,understands; produces,sign,sign,
 item_463,sit,word,action_words,understands; produces,sit,sit,sit
-item_464,skate,word,action_words,understands; produces,skate,skate,skate (action)
+item_464,skate,word,action_words,understands; produces,skate,skate,skate
 item_465,sleep,word,action_words,understands; produces,sleep,sleep,sleep
 item_466,slideaction,word,action_words,understands; produces,slide (action),slide (action),slide (action)
 item_467,smile,word,action_words,understands; produces,smile,smile,smile

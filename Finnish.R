@@ -27,6 +27,7 @@ subset(new_items, uni_lemma=="")
 new_items[which(new_items$definition=="lakritsa"),]$uni_lemma = "licorice"
 new_items[which(new_items$definition=="limonadi"),]$uni_lemma = "lemonade" # juice?
 new_items[which(new_items$definition=="viili"),]$uni_lemma = NA # buttermilk? ("nordic kind of sour milk")
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 # save updated instrument(s)
 

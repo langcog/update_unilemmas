@@ -24,7 +24,7 @@ item_22,果酱,guo3jiang4,food_drink,word,produces,jam,jam
 item_23,果汁,guo3zhi1,food_drink,word,produces,juice,juice
 item_24,汉堡,han4bao3,food_drink,word,produces,hamburger,hamburger
 item_25,核桃,he2tao5,food_drink,word,produces,walnut,walnut
-item_26,胡萝卜,hu2luo2bo5,food_drink,word,produces,carrots,carrots
+item_26,胡萝卜,hu2luo2bo5,food_drink,word,produces,carrots,carrot
 item_27,花卷,hua1juan3,food_drink,word,produces,steamed twisted roll„ÄÄ,bun
 item_28,花生,hua1sheng1,food_drink,word,produces,peanut,peanut
 item_29,黄瓜,huang2gua1,food_drink,word,produces,cucumber,cucumber
@@ -41,7 +41,7 @@ item_39,可乐,ke3le4,food_drink,word,produces,coke,coke
 item_40,口香糖,kou3xiang1tang2,food_drink,word,produces,gum,gum
 item_41,辣椒,la4jiao1,food_drink,word,produces,pepper,pepper
 item_42,梨,li2,food_drink,word,produces,pear,pear
-item_43,萝卜,luo2bo5,food_drink,word,produces,carrots,carrots
+item_43,萝卜,luo2bo5,food_drink,word,produces,carrots,carrot
 item_44,麦片,mai4pian4,food_drink,word,produces,oatmeal,cereal
 item_45,馒头,man2tou5,food_drink,word,produces,bun,bun
 item_46,面包,mian4bao1,food_drink,word,produces,bread,bread
@@ -181,7 +181,7 @@ item_176,不,bu4,games_routines,word,produces,no,no
 item_177,不要,bu2yao4,games_routines,word,produces,don't,don't
 item_178,吃饭,chi1fan4,games_routines,word,produces,eat,eat
 item_179,搭积木,da1ji1mu1,games_routines,word,produces,building block,block
-item_180,打电话,da3 dian4hua4,games_routines,word,produces,call on phone,call (on phone)
+item_180,打电话,da3 dian4hua4,games_routines,word,produces,call on phone,call
 item_181,打球,da3qiu2,games_routines,word,produces,play ball,NA
 item_182,等一会儿,deng3 yi2huier4,games_routines,word,produces,wait a minute,wait
 item_183,放屁,fang4pi4,games_routines,word,produces,fart,fart
@@ -235,7 +235,7 @@ item_230,头,tou2,body_parts,word,produces,head,head
 item_230,头,tou2,body_parts,word,produces,,NA
 item_231,头发,tou2fa5,body_parts,word,produces,hair,hair
 item_232,膝盖,xi1gai4,body_parts,word,produces,knee,knee
-item_233,辫子,bian4zi5,body_parts,word,produces,braid,braid
+item_233,辫子,bian4zi5,body_parts,word,produces,braid,braid (object)
 item_234,手心,shou3xin1,body_parts,word,produces,palm,palm
 item_235,手背,shou3bei4,body_parts,word,produces,back of hand,NA
 item_236,右手,you4shou3,body_parts,word,produces,right hand,hand

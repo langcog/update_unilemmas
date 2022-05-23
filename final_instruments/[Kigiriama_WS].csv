@@ -343,7 +343,7 @@ item_340,k13cinsi,word,places,produces,Sinema,NA,Cinema,movie
 item_341,k15hossi,word,places,produces,Sipitali,NA,Hospital,hospital
 item_342,k18marso,word,places,produces,Sokoni,NA,Market,market
 item_343,k12busts,word,places,produces,Tsakani/ Vuwe,NA,Bush,country
-item_344,k14comuw,word,places,produces,Uwanjani,NA,Compound,marketplace
+item_344,k14comuw,word,places,produces,Uwanjani,NA,Compound,market
 item_345,l11matah,word,people,produces,Ahu/ Jomba/ Uncle,NA,Maternal uncle,uncle
 item_346,l7fatbab,word,people,produces,Baba,NA,Father,daddy
 item_347,l30youba,word,people,produces,Bamuhoho,NA,Younger paternal uncle,uncle
@@ -535,7 +535,7 @@ item_532,o41newmb,word,descriptive_words (adjectives),produces,Mbisha,NA,New,new
 item_533,o9hotmoh,word,descriptive_words (adjectives),produces,Moho,NA,Hot/fire,hot
 item_534,o18beamu,word,descriptive_words (adjectives),produces,Mu/Urembo,NA,"Beautiful, beauty",beautiful
 item_535,o39lonmu,word,descriptive_words (adjectives),produces,Mure/Nyire,NA,Long,long
-item_536,o38lasmw,word,descriptive_words (adjectives),produces,Mwisho/ Dumu,NA,Last long,longlasting
+item_536,o38lasmw,word,descriptive_words (adjectives),produces,Mwisho/ Dumu,NA,Last long,tough
 item_537,o12quiny,word,descriptive_words (adjectives),produces,Nyamala,NA,Quiet,quiet
 item_538,o52whiny,word,descriptive_words (adjectives),produces,Nyaruhe,NA,White,white
 item_539,o20blany,word,descriptive_words (adjectives),produces,Nyiru,NA,Black,black

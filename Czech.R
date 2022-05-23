@@ -20,6 +20,7 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 
 new_items[which(new_items$definition=="policajti"),]$uni_lemma = "police car" 
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

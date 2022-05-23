@@ -296,7 +296,7 @@ item_294,E5SPROUT,word,food_drink,produces,NA,豆芽,sprouts,sprouts
 item_295,E5MELON,word,food_drink,produces,NA,瓜,melon,melon
 item_296,E5CABBAG,word,food_drink,produces,NA,白菜,cabbage,cabbage
 item_297,E5SPINAC,word,food_drink,produces,NA,菠菜,spinach,spinach
-item_298,E5RADISH,word,food_drink,produces,NA,萝卜,carrots,carrots
+item_298,E5RADISH,word,food_drink,produces,NA,萝卜,carrots,carrot
 item_299,E5POTATO,word,food_drink,produces,NA,土豆,potato,potato
 item_300,E5TOMATO,word,food_drink,produces,NA,西红柿,tomato,tomato
 item_301,E5CUKE,word,food_drink,produces,NA,黄瓜,cucumber,cucumber
@@ -548,7 +548,7 @@ item_546,T10PENCI,word,toys,produces,NA,铅笔,pencil,pencil
 item_547,T10CRAYO,word,toys,produces,NA,蜡笔,crayon,crayon
 item_548,T10WHEEL,word,toys,produces,NA,车轮/轱辘,wheel,wheel
 item_549,T10GAME,word,toys,produces,NA,游戏,game,game
-item_550,T10CHESS,word,toys,produces,NA,棋子,chess,chess
+item_550,T10CHESS,word,toys,produces,NA,棋子,chess,board game
 item_551,T10GIFT,word,toys,produces,NA,礼物,present,present
 item_552,C11HAT,word,clothing,produces,NA,帽子,hat,hat
 item_553,C11GLOVE,word,clothing,produces,NA,手套,gloves,gloves

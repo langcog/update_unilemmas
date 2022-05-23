@@ -40,6 +40,10 @@ new_items[which(new_items$uni_lemma=="fit (action)"),]$uni_lemma = "fit"
 new_items[which(new_items$uni_lemma=="fish"),]$uni_lemma = "fish (food)"
 new_items[which(new_items$uni_lemma=="eat (action)"),]$uni_lemma = "eat"
 new_items[which(new_items$uni_lemma=="eat dinner"),]$uni_lemma = "dine"
+new_items[which(new_items$uni_lemma=="cover"),]$uni_lemma = "cover (action)"
+new_items[which(new_items$uni_lemma=="countryside"),]$uni_lemma = "country"
+new_items[which(new_items$uni_lemma=="kisses"),]$uni_lemma = "kiss"
+new_items[which(new_items$uni_lemma=="grow (action)"),]$uni_lemma = "grow"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_European", "WS", new_items %>% rename(itemID = WS))

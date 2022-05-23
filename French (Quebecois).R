@@ -28,6 +28,8 @@ new_items[which(new_items$definition=="balançoire"),]$uni_lemma = "swing (objec
 # capitalization
 new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
 
+new_items[which(new_items$uni_lemma=="cover"),]$uni_lemma = "cover (action)"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

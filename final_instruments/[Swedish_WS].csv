@@ -416,7 +416,7 @@ god natt,games_routines,god_natt,word,produces,NA,item_414,good night,good night
 handla,games_routines,handla,word,produces,NA,item_415,NA,shop,shopping
 hej,games_routines,hej,word,produces,NA,item_416,hi,hello,hi
 hej då,games_routines,hej_da,word,produces,NA,item_417,bye,good bye,bye
-inte,games_routines,inte,word,produces,NA,item_418,NA,not,not (routine)
+inte,games_routines,inte,word,produces,NA,item_418,NA,not,don't
 ja,games_routines,ja,word,produces,NA,item_419,yes,yes,yes
 lunch,games_routines,lunch,word,produces,NA,item_420,lunch,lunch,lunch
 mellanmål,games_routines,mellanmal,word,produces,NA,item_421,NA,snack,snack

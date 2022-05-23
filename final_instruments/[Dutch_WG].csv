@@ -47,7 +47,7 @@ item_45,animals,vlinder,understands;produces,vlinder,word,butterfly,butterfly
 item_46,animals,vogel,understands;produces,vogel,word,bird,bird
 item_47,animals,wolf,understands;produces,wolf,word,wolf,wolf
 item_48,vehicles,auto,understands;produces,auto,word,car,car
-item_49,vehicles,brandweerwagen/brandweerauto,understands;produces,brandweerwagen/brandweerauto,word,fire truck,fire truck
+item_49,vehicles,brandweerwagen/brandweerauto,understands;produces,brandweerwagen/brandweerauto,word,fire truck,firetruck
 item_50,vehicles,brommer/bromfiets/moto(r)/motorfiets,understands;produces,brommer/bromfiets/moto(r)/motorfiets,word,motorcycle,motorcycle
 item_51,vehicles,bus,understands;produces,bus,word,bus,bus
 item_52,vehicles,fiets,understands;produces,fiets,word,bike,bicycle
@@ -420,7 +420,7 @@ item_418,action_words,stoppen/ophouden,understands;produces,stoppen/ophouden,wor
 item_419,action_words,tekenen,understands;produces,tekenen,word,to draw,draw
 item_420,action_words,trommelen,understands;produces,trommelen,word,to drum,drum (verb)
 item_421,action_words,vliegen,understands;produces,vliegen,word,to fly,fly (action)
-item_422,action_words,zichhaasten/zichspoeden/opschieten,understands;produces,zichhaasten/zichspoeden/opschieten,word,to hurry up,hurry up
+item_422,action_words,zichhaasten/zichspoeden/opschieten,understands;produces,zichhaasten/zichspoeden/opschieten,word,to hurry up,hurry
 item_423,time_words,savonds,understands;produces,savonds,word,in the evenings,in the evenings
 item_424,time_words,smiddags,understands;produces,smiddags,word,in the afternoons,in the afternoons 
 item_425,time_words,smorgens/sochtends,understands;produces,smorgens/sochtends,word,in the mornings,in the mornings

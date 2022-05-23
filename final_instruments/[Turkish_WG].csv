@@ -186,7 +186,7 @@ Ekmek,food_drink,Ekmek,word,understands; produces,NA,item_104,bread,bread
 Elma,food_drink,Elma,word,understands; produces,NA,item_103,apple,apple
 Et,food_drink,Et,word,understands; produces,NA,item_102,meat,meat
 Fıstık,food_drink,Fistik,word,understands; produces,NA,item_101,peanut,nut
-Havuç,food_drink,Havuc,word,understands; produces,NA,item_100,carrots,carrots
+Havuç,food_drink,Havuc,word,understands; produces,NA,item_100,carrots,carrot
 Karpuz,food_drink,Karpuz,word,understands; produces,NA,item_99,watermelon,watermelon
 Kek,food_drink,Kek,word,understands; produces,NA,item_98,cake,cake
 Köfte,food_drink,Kofte,word,understands; produces,NA,item_96,meatball,meatball

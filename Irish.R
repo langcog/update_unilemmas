@@ -66,6 +66,14 @@ new_items[which(new_items$uni_lemma=="motorbike"),]$uni_lemma = "motorcycle"
 new_items[which(new_items$uni_lemma=="rashers"),]$uni_lemma = "bacon"
 new_items[which(new_items$uni_lemma=="kind"),]$uni_lemma = "nice"
 new_items[which(new_items$uni_lemma=="fly"),]$uni_lemma = "fly (animal)"
+new_items[which(new_items$uni_lemma=="bike"),]$uni_lemma = "bicycle"
+new_items[which(new_items$uni_lemma=="cornflakes"),]$uni_lemma = "cheerios"
+new_items[which(new_items$uni_lemma=="cover"),]$uni_lemma = "cover (action)"
+new_items[which(new_items$uni_lemma=="back of"),]$uni_lemma = "behind"
+new_items[which(new_items$uni_lemma=="buggy"),]$uni_lemma = "stroller"
+new_items[which(new_items$uni_lemma=="crisps"),]$uni_lemma = "chips"
+new_items[which(new_items$uni_lemma=="ice pop"),]$uni_lemma = "popsicle"
+new_items[which(new_items$uni_lemma=="highchair"),]$uni_lemma = "high chair"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

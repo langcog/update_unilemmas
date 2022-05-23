@@ -118,7 +118,7 @@ item_116,i_5_28,word,food_drink,produces,kake,NA,cake,cake,cake
 item_117,i_5_29,word,food_drink,produces,kjeks,NA,cracker,cookies,cracker
 item_118,i_5_30,word,food_drink,produces,kjøtt,NA,meat,meat,meat
 item_119,i_5_31,word,food_drink,produces,kjøttkaker,NA,NA,Meatball,meatballs
-item_120,i_5_32,word,food_drink,produces,knekkebrød,NA,NA,crispbread,crispbread
+item_120,i_5_32,word,food_drink,produces,knekkebrød,NA,NA,crispbread,cracker
 item_121,i_5_33,word,food_drink,produces,kylling (food),NA,chicken (food),chicken,chicken (food)
 item_122,i_5_34,word,food_drink,produces,leverpostei,NA,NA,liverpaste,NA
 item_123,i_5_35,word,food_drink,produces,mat,NA,food,food,food
@@ -472,7 +472,7 @@ item_470,i_14_57,word,action_words,produces,reparere,NA,NA,repair,repair
 item_471,i_14_58,word,action_words,produces,passe,NA,NA,fit,fit 
 item_472,i_14_59,word,action_words,produces,plaske,NA,splash,splash,splash
 item_473,i_14_60,word,action_words,produces,prøve,NA,NA,sample,attempt 
-item_474,i_14_61,word,action_words,produces,puste,NA,NA,breathing,breathing 
+item_474,i_14_61,word,action_words,produces,puste,NA,NA,breathing,breathe
 item_475,i_14_62,word,action_words,produces,ri,NA,ride,ri,ride
 item_476,i_14_63,word,action_words,produces,riste,NA,NA,shake,shake 
 item_477,i_14_64,word,action_words,produces,rive av,NA,NA,tear off,tear
@@ -585,7 +585,7 @@ item_583,i_15_63,word,descriptive_words,produces,vondt,NA,hurt (description),ach
 item_584,i_16_1,word,time_words,produces,dag,NA,day,day,day
 item_585,i_16_2,word,time_words,produces,etter,NA,NA,after,after 
 item_586,i_16_3,word,time_words,produces,ettermiddag,NA,NA,after dinner,afternoon 
-item_587,i_16_4,word,time_words,produces,etterpå,NA,NA,afterwards,afterwards 
+item_587,i_16_4,word,time_words,produces,etterpå,NA,NA,afterwards,after
 item_588,i_16_5,word,time_words,produces,før,NA,NA,prior to,before
 item_589,i_16_6,word,time_words,produces,formiddag,NA,NA,morning,morning
 item_590,i_16_7,word,time_words,produces,i dag,NA,today,present day,today

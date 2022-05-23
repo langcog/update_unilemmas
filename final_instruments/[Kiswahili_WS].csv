@@ -105,7 +105,7 @@ item_103,e56iceic,word,food_drink,produces,Ice cream,NA,Ice cream,ice cream
 item_104,e57jamja,word,food_drink,produces,Jam,NA,Jam,jam
 item_105,e46cofka,word,food_drink,produces,Kahawa,NA,Coffee,coffee
 item_106,e6bunkai,word,food_drink,produces,Kaimati,NA,Bun1,bun
-item_107,e8carkar,word,food_drink,produces,Karoti,NA,Carrot,carrots
+item_107,e8carkar,word,food_drink,produces,Karoti,NA,Carrot,carrot
 item_108,e7cakkek,word,food_drink,produces,Keki,NA,Cake,cake
 item_109,e66potki,word,food_drink,produces,Kiazi,NA,Potato,potato
 item_110,e58kinki,word,food_drink,produces,kiboma,NA,Kingfish,fish (food)
@@ -515,7 +515,7 @@ item_509,o6fewcha,word,descriptive_words (adjectives),produces,Chache/Kidogo,NA,
 item_510,o5dircha,word,descriptive_words (adjectives),produces,Chafu,NA,Dirty,dirty
 item_511,o31getch,word,descriptive_words (adjectives),produces,Choka,NA,Get tired,tired
 item_512,o48smado,word,descriptive_words (adjectives),produces,Dogo,NA,small,little (description)
-item_513,o38lasdu,word,descriptive_words (adjectives),produces,Dumu,NA,Last long,durable
+item_513,o38lasdu,word,descriptive_words (adjectives),produces,Dumu,NA,Last long,tough
 item_514,o8hapfu,word,descriptive_words (adjectives),produces,Furaha,NA,happiness,happy
 item_515,o24dargi,word,descriptive_words (adjectives),produces,Giza,NA,Darkness,dark
 item_516,o13sicgo,word,descriptive_words (adjectives),produces,Gonjwa,NA,Sick,sick

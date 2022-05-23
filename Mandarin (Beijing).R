@@ -31,6 +31,10 @@ new_items[which(new_items$uni_lemma=="eyebrows"),]$uni_lemma = "eyebrow"
 new_items[which(new_items$uni_lemma=="bed sheet"),]$uni_lemma = "sheet" 
 new_items[which(new_items$uni_lemma=="cinema"),]$uni_lemma = "movie"
 new_items[which(new_items$uni_lemma=="grape"),]$uni_lemma = "grapes"
+new_items[which(new_items$uni_lemma=="braid"),]$uni_lemma = "braid (object)" # body part, actually...
+new_items[which(new_items$uni_lemma=="chess"),]$uni_lemma = "board game"
+new_items[which(new_items$uni_lemma=="call (on phone)"),]$uni_lemma = "call"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

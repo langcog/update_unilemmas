@@ -102,7 +102,7 @@ item_137,NA,word,understands; produces,food_drink,krupica,NA,meal,semolina
 item_138,NA,word,understands; produces,food_drink,maslo,NA,butter,butter
 item_139,NA,word,understands; produces,food_drink,mäso,NA,meat,meat
 item_140,NA,word,understands; produces,food_drink,mlieko,NA,milk,milk
-item_141,NA,word,understands; produces,food_drink,mrkva,NA,a carrot,carrots
+item_141,NA,word,understands; produces,food_drink,mrkva,NA,a carrot,carrot
 item_142,NA,word,understands; produces,food_drink,piškóta,NA,sponge,biscuit
 item_143,NA,word,understands; produces,food_drink,polievka,NA,soup,soup
 item_144,NA,word,understands; produces,food_drink,rezance,NA,noodles,pasta
@@ -228,7 +228,7 @@ item_263,NA,word,understands; produces,other,áno,NA,Yes,yes
 item_264,NA,word,understands; produces,other,bác / bum,NA,bang / bang,boom
 item_265,NA,word,understands; produces,other,dobre,NA,all right,good
 item_266,NA,word,understands; produces,other,ešte,NA,more,also
-item_267,NA,word,understands; produces,other,fuj,NA,yuck,yuck
+item_267,NA,word,understands; produces,other,fuj,NA,yuck,yucky
 item_268,NA,word,understands; produces,other,halo,NA,hello,hello
 item_269,NA,word,understands; produces,other,kuk,NA,peekaboo,peekaboo
 item_270,NA,word,understands; produces,other,moja,NA,my,my

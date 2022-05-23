@@ -14,6 +14,8 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 
 new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="garbage"),]$uni_lemma = "trash" 
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="hafta"),]$uni_lemma = "have to"
 
 # save updated instrument(s)
 new_ws <- update_instrument("English", "WS", new_items %>% rename(itemID = WS))

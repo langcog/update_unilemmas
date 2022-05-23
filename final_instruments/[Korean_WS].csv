@@ -505,7 +505,7 @@ item_503,item_503,word,action_words,understands; produces,찍어,NA,stamp/take p
 item_504,item_504,word,action_words,understands; produces,(공을)차,NA,kick,kick
 item_505,item_505,word,action_words,understands; produces,찾아,NA,find,find
 item_506,item_506,word,action_words,understands; produces,춤춰,NA,dance,dance
-item_507,item_507,word,action_words,understands; produces,(차에)치여,NA,be hit,hit (action)
+item_507,item_507,word,action_words,understands; produces,(차에)치여,NA,be hit,hit
 item_508,item_508,word,action_words,understands; produces,치워,NA,clean up,clean (action)
 item_509,item_509,word,action_words,understands; produces,칠해,NA,color,paint (action)
 item_510,item_510,word,action_words,understands; produces,(차에)타,NA,get in the car,get in

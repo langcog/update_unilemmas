@@ -95,7 +95,7 @@ item_93,biscuit_soda,word,produces,food_drink,biscuit soda,NA,soda biscuit,crack
 item_94,bl'e_d'inde,word,produces,food_drink,blé d'inde,NA,Corn,corn
 item_95,bonbon,word,produces,food_drink,bonbon,NA,candy,candy
 item_96,caf'e,word,produces,food_drink,café,NA,coffee,coffee
-item_97,carotte,word,produces,food_drink,carotte,NA,carrot,carrots
+item_97,carotte,word,produces,food_drink,carotte,NA,carrot,carrot
 item_98,c'er'eales,word,produces,food_drink,céréales,NA,cereals,cereal
 item_99,cheerios,word,produces,food_drink,cheerios,NA,cheerios,cheerios
 item_100,chips,word,produces,food_drink,chips,NA,chips,chips
@@ -428,7 +428,7 @@ item_426,conduire,word,produces,action_words,conduire,NA,drive,drive
 item_427,construire/b^at,word,produces,action_words,construire/bâtir,NA,construct / build,build
 item_428,couper,word,produces,action_words,couper,NA,cut,cut
 item_429,courir,word,produces,action_words,courir,NA,run,run
-item_430,couvrir,word,produces,action_words,couvrir,NA,cover,cover
+item_430,couvrir,word,produces,action_words,couvrir,NA,cover,cover (action)
 item_431,cracher,word,produces,action_words,cracher,NA,to spit,spit
 item_432,danser,word,produces,action_words,danser,NA,dance,dance
 item_433,d'ebarquer,word,produces,action_words,débarquer,NA,land,get off

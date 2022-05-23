@@ -23,7 +23,7 @@ item_21,a_comer,word,games_routines,produces,a comer,NA,to eat,eat
 item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep (action)
 item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see (action)
 item_24,a_vestir,word,games_routines,produces,a vestir,NA,dress (action),dress (action)
-item_25,besitos,word,games_routines,produces,besitos,NA,kisses,kisses
+item_25,besitos,word,games_routines,produces,besitos,NA,kisses,kiss
 item_26,bueno,word,games_routines,produces,bueno (bien),NA,okay,okay
 item_27,b_dias,word,games_routines,produces,buenos días/noches,NA,good morning / good night,good morning
 item_28,carino,word,games_routines,produces,cariño,NA,affection,NA
@@ -281,7 +281,7 @@ item_273,arena,word,outside_places,produces,arena/tierra,NA,sand/land,ground
 item_274,banco,word,outside_places,produces,banco,NA,bank,bank
 item_275,caballit,word,outside_places,produces,caballitos,NA,little horses,pony
 item_276,calle,word,outside_places,produces,calle,NA,street,street
-item_277,campo,word,outside_places,produces,campo,NA,countryside,countryside
+item_277,campo,word,outside_places,produces,campo,NA,countryside,country
 item_278,casa,word,outside_places,produces,casa,NA,home,house
 item_279,cielo,word,outside_places,produces,cielo,NA,sky,sky
 item_280,cole,word,outside_places,produces,cole,NA,school,school
@@ -391,7 +391,7 @@ item_383,conducir,word,action_words,produces,conducir,NA,to drive,drive
 item_384,jugar,word,action_words,produces,jugar,NA,to play,play
 item_385,correr,word,action_words,produces,correr,NA,run,run
 item_386,cortar,word,action_words,produces,cortar,NA,to cut,cut (action)
-item_387,crecer,word,action_words,produces,crecer,NA,to grow up,grow (action)
+item_387,crecer,word,action_words,produces,crecer,NA,to grow up,grow
 item_388,cuidar,word,action_words,produces,cuidar,NA,to look after,care
 item_389,dar,word,action_words,produces,dar,NA,to give,give
 item_390,decir,word,action_words,produces,decir,NA,to tell,tell
@@ -440,7 +440,7 @@ item_432,saltar,word,action_words,produces,saltar,NA,jump,jump
 item_433,sentar,word,action_words,produces,sentar(se),NA,to sit,sit
 item_434,ser,word,action_words,produces,"ser [soy, eres, es...]",NA,to be,be
 item_435,subir,word,action_words,produces,subir(se),NA,to get up,climb
-item_436,tapar,word,action_words,produces,tapar,NA,to cover,cover
+item_436,tapar,word,action_words,produces,tapar,NA,to cover,cover (action)
 item_437,tener,word,action_words,produces,"tener [tengo, tienes...]",NA,to have,have
 item_438,tocar,word,action_words,produces,tocar,NA,to touch,touch
 item_439,tomar,word,action_words,produces,tomar(se),NA,to take,take

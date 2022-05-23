@@ -33,6 +33,11 @@ new_items[which(new_items$uni_lemma=="brush"),]$uni_lemma = "brush (object)"
 
 new_items[which(new_items$WS=="item_232"),]$uni_lemma = "back (body part)"
 
+new_items[which(new_items$uni_lemma=="cover"),]$uni_lemma = "cover (action)"
+new_items[which(new_items$uni_lemma=="mandarin"),]$uni_lemma = "tangerine"
+new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="need to"),]$uni_lemma = "need"
+
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

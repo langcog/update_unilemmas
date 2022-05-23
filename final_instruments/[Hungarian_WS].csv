@@ -145,7 +145,7 @@ item_143,item_143,kukorica,word,produces,food_drink,NA,corn,corn
 item_144,item_144,leves,word,produces,food_drink,NA,soup,soup
 item_145,item_145,lekvár,word,produces,food_drink,NA,marmalade,jam
 item_146,item_146,málna,word,produces,food_drink,NA,raspberry,raspberry
-item_147,item_147,mandarin,word,produces,food_drink,NA,mandarin,mandarin
+item_147,item_147,mandarin,word,produces,food_drink,NA,mandarin,tangerine
 item_148,item_148,mazsola,word,produces,food_drink,NA,raisin,raisin
 item_149,item_149,mogyoró,word,produces,food_drink,NA,hazelnut,hazelnut
 item_150,item_150,müzli,word,produces,food_drink,NA,muesli,granola
@@ -162,7 +162,7 @@ item_160,item_160,rágó,word,produces,food_drink,NA,gum,gum
 item_161,item_161,rizs,word,produces,food_drink,NA,rice,rice
 item_162,item_162,ropi,word,produces,food_drink,NA,cracker stick,cracker
 item_163,item_163,sajt,word,produces,food_drink,NA,cheese,cheese
-item_164,item_164,sárgarépa,word,produces,food_drink,NA,carrots,carrots
+item_164,item_164,sárgarépa,word,produces,food_drink,NA,carrots,carrot
 item_165,item_165,só,word,produces,food_drink,NA,salt,salt
 item_166,item_166,sonka,word,produces,food_drink,NA,ham,ham
 item_167,item_167,spagetti,word,produces,food_drink,NA,spaghetti,pasta
@@ -562,7 +562,7 @@ item_560,item_560,söpör,word,produces,action_words,NA,sweep,sweep
 item_561,item_561,szakít,word,produces,action_words,NA,rip,NA
 item_562,item_562,szalad,word,produces,action_words,NA,run,run
 item_563,item_563,szárít,word,produces,action_words,NA,dry,NA
-item_564,item_564,takar,word,produces,action_words,NA,cover,cover
+item_564,item_564,takar,word,produces,action_words,NA,cover,cover (action)
 item_565,item_565,takarít,word,produces,action_words,NA,clean,NA
 item_566,item_566,szeret,word,produces,action_words,NA,love,love
 item_567,item_567,talál,word,produces,action_words,NA,find,find
@@ -783,7 +783,7 @@ item_781,item_781,túl,word,produces,quantifiers,NA,too,too
 item_782,item_782,valami,word,produces,quantifiers,NA,something,something
 item_783,item_783,valamilyen,word,produces,quantifiers,NA,some kind of,NA
 item_784,item_784,fog (valamit csinálni),word,produces,helping_verbs,NA,will,will
-item_785,item_785,kell,word,produces,helping_verbs,NA,must/have to,need to
+item_785,item_785,kell,word,produces,helping_verbs,NA,must/have to,need
 item_786,item_786,lehet,word,produces,helping_verbs,NA,might,might
 item_787,item_787,lenne,word,produces,helping_verbs,NA,would,would
 item_788,item_788,próbál,word,produces,helping_verbs,NA,try,try

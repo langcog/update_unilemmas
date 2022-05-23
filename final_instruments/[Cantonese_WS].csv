@@ -94,7 +94,7 @@ item_92,E3VEGGIE,word,food_drink,produces,菜,NA,vegetable,vegetable
 item_93,E3CABBAG,word,food_drink,produces,白菜,NA,"cabbage / bok choy, chinese cabbage",cabbage
 item_94,E3TOMATC,word,food_drink,produces,蕃茄,NA,,tomato
 item_95,E3CORNC,word,food_drink,produces,粟米,NA,corn,corn
-item_96,E3RADISH,word,food_drink,produces,蘿蔔,NA,carrot / radish,carrots
+item_96,E3RADISH,word,food_drink,produces,蘿蔔,NA,carrot / radish,carrot
 item_97,E3MELON,word,food_drink,produces,瓜,NA,,melon
 item_98,E3MUSHRM,word,food_drink,produces,(冬/磨)菇,NA,,mushrooms
 item_99,E3BEAN,word,food_drink,produces,豆,NA,,beans
@@ -140,7 +140,7 @@ item_138,V4KISSC,word,action_words,produces,錫,NA,,kiss
 item_139,V4HOLD,word,action_words,produces,抱,NA,,hold
 item_140,V4HUGC,word,action_words,produces,攬,NA,,hug
 item_141,V4CARRY2,word,action_words,produces,孭,NA,carry / piggyback,carry
-item_142,V4FU,word,action_words,produces,扶,NA,hold on / help,hold on
+item_142,V4FU,word,action_words,produces,扶,NA,hold on / help,hold
 item_143,V4SIT,word,action_words,produces,坐,NA,,sit
 item_144,V4WALKC,word,action_words,produces,行,NA,,walk
 item_145,V4LEAVE,word,action_words,produces,走,NA,,leave
@@ -514,7 +514,7 @@ item_512,H10CLOCK,word,household,produces,鐘,NA,,clock
 item_513,H10CAMEC,word,household,produces,(影)相機,NA,,camera
 item_514,H10BATTC,word,household,produces,電池/電芯,NA,,battery
 item_515,H10RADIO,word,household,produces,收音機,NA,,radio
-item_516,H10CD,word,household,produces,CD/VCD/DVD,NA,,cd
+item_516,H10CD,word,household,produces,CD/VCD/DVD,NA,,CD
 item_517,H10QUILT,word,household,produces,被,NA,,blanket
 item_518,H10PILLO,word,household,produces,枕頭,NA,,pillow
 item_519,H10MEDIC,word,household,produces,藥,NA,,medicine
@@ -563,7 +563,7 @@ item_561,O11SKY,word,outside,produces,天(空),NA,,sky
 item_562,O11CLOUD,word,outside,produces,雲,NA,,cloud
 item_563,O11MOUNT,word,outside,produces,山,NA,,mountain
 item_564,O11SEA,word,outside,produces,海,NA,,sea
-item_565,O11SPINC,word,outside,produces,氹氹轉,NA,,merry-go-round
+item_565,O11SPINC,word,outside,produces,氹氹轉,NA,,carousel
 item_566,O11SWINC,word,outside,produces,韆鞦,NA,,swing (object)
 item_567,O11SLIDE,word,outside,produces,滑梯,NA,,slide (object)
 item_568,O11LADDE,word,outside,produces,梯,NA,,ladder
