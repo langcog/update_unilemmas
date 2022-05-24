@@ -341,7 +341,7 @@ item_339,oficina,word,places,produces,oficina,NA,NA,office,office
 item_340,parque,word,places,produces,parque,NA,NA,park,park
 item_341,patio2,word,places,produces,patio (places),NA,NA,playground,yard
 item_342,playa,word,places,produces,playa,NA,NA,beach,beach
-item_343,rancho,word,places,produces,rancho,NA,NA,ranch,ranch
+item_343,rancho,word,places,produces,rancho,NA,NA,ranch,farm
 item_344,rio,word,places,produces,río,NA,NA,river,river
 item_345,tienmerc,word,places,produces,tienda/mercado,NA,NA,market,market
 item_346,zoologic,word,places,produces,zoológico,NA,NA,zoo,zoo
@@ -525,7 +525,7 @@ item_523,enfermo,word,descriptive_words,produces,enfermo,NA,sick,sick,sick
 item_524,enojado,word,descriptive_words,produces,enojado,NA,angry,angry,angry
 item_525,feliz,word,descriptive_words,produces,feliz,NA,NA,happy,happy
 item_526,feo,word,descriptive_words,produces,feo,NA,ugly,ugly,ugly
-item_527,flaco,word,descriptive_words,produces,flaco,NA,NA,skinny,skinny
+item_527,flaco,word,descriptive_words,produces,flaco,NA,NA,skinny,thin
 item_528,frio,word,descriptive_words,produces,frío,NA,cold,cold,cold
 item_529,fuchi,word,descriptive_words,produces,fuchi,NA,yucky,yucky,yucky
 item_530,fuerte,word,descriptive_words,produces,fuerte,NA,NA,strong,strong

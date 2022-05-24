@@ -40,7 +40,7 @@ item_38,clothing,tut(je)/(fop)speen,understands;produces,tut(je)/(fop)speen,word
 item_39,household,fles,understands;produces,fles,word,bottle,bottle
 item_40,household,lamp/licht,understands;produces,lamp/licht,word,lamp/light,lamp
 item_41,household,telefoon,understands;produces,telefoon,word,telephone,telephone
-item_42,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch
+item_42,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch (object)
 item_43,furniture_rooms,bad,understands;produces,bad,word,bath,bath
 item_44,furniture_rooms,deur,understands;produces,deur,word,door,door
 item_45,outside,bloem,understands;produces,bloem,word,flower,flower

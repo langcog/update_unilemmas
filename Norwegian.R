@@ -70,6 +70,10 @@ new_items[which(new_items$uni_lemma=="PC"),]$uni_lemma = "computer"
 new_items[which(new_items$uni_lemma=="afterwards "),]$uni_lemma = "after"
 new_items[which(new_items$uni_lemma=="breathing "),]$uni_lemma = "breathe"
 new_items[which(new_items$uni_lemma=="crispbread"),]$uni_lemma = "cracker"
+new_items[which(new_items$uni_lemma=="at home "),]$uni_lemma = "home"
+new_items[which(new_items$uni_lemma=="meatballs"),]$uni_lemma = "meatball"
+new_items[which(new_items$uni_lemma=="on the outside"),]$uni_lemma = "outside"
+new_items[which(new_items$uni_lemma=="pet names"),]$uni_lemma = "pet's name"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

@@ -117,7 +117,7 @@ item_115,i_5_27,word,food_drink,produces,kaffe,NA,coffee,coffee,coffee
 item_116,i_5_28,word,food_drink,produces,kake,NA,cake,cake,cake
 item_117,i_5_29,word,food_drink,produces,kjeks,NA,cracker,cookies,cracker
 item_118,i_5_30,word,food_drink,produces,kjøtt,NA,meat,meat,meat
-item_119,i_5_31,word,food_drink,produces,kjøttkaker,NA,NA,Meatball,meatballs
+item_119,i_5_31,word,food_drink,produces,kjøttkaker,NA,NA,Meatball,meatball
 item_120,i_5_32,word,food_drink,produces,knekkebrød,NA,NA,crispbread,cracker
 item_121,i_5_33,word,food_drink,produces,kylling (food),NA,chicken (food),chicken,chicken (food)
 item_122,i_5_34,word,food_drink,produces,leverpostei,NA,NA,liverpaste,NA
@@ -374,7 +374,7 @@ item_372,i_12_22,word,people,produces,mann,NA,man,husband,man
 item_373,i_12_23,word,people,produces,mennesker,NA,NA,human beings,person
 item_374,i_12_24,word,people,produces,morfar,NA,grandpa,grandfather,grandpa
 item_375,i_12_25,word,people,produces,mormor,NA,grandma,Granny,grandma
-item_376,i_12_26,word,people,produces,navn på kjæledyr,NA,NA,pet names,pet names
+item_376,i_12_26,word,people,produces,navn på kjæledyr,NA,NA,pet names,pet's name
 item_377,i_12_27,word,people,produces,oldefar,NA,great grandpa,great grandfather,great grandpa
 item_378,i_12_28,word,people,produces,oldemor,NA,great grandma,great grandmother,great grandma
 item_379,i_12_29,word,people,produces,onkel,NA,uncle,Uncle,uncle
@@ -649,7 +649,7 @@ item_647,i_19_10,word,locations,produces,gjennom,NA,NA,through,through
 item_648,i_19_11,word,locations,produces,her,NA,NA,over here,here 
 item_649,i_19_12,word,locations,produces,hit,NA,NA,here,here 
 item_650,i_19_13,word,locations,produces,hjem,NA,NA,home,home
-item_651,i_19_14,word,locations,produces,hjemme,NA,NA,at home,at home 
+item_651,i_19_14,word,locations,produces,hjemme,NA,NA,at home,home
 item_652,i_19_15,word,locations,produces,hos,NA,NA,with,with 
 item_653,i_19_16,word,locations,produces,i,NA,in,in,in
 item_654,i_19_17,word,locations,produces,i stedet for,NA,NA,instead of,instead of 
@@ -674,7 +674,7 @@ item_672,i_19_35,word,locations,produces,under,NA,under,under,under
 item_673,i_19_36,word,locations,produces,ut,NA,out,out,out
 item_674,i_19_37,word,locations,produces,ute (location),NA,out,out,outside
 item_675,i_19_38,word,locations,produces,utenfor,NA,NA,outside,outside
-item_676,i_19_39,word,locations,produces,utenpå,NA,NA,surface,on the outside
+item_676,i_19_39,word,locations,produces,utenpå,NA,NA,surface,outside
 item_677,i_19_40,word,locations,produces,ved siden av,NA,NA,adjacent to,beside
 item_678,i_19_41,word,locations,produces,vekk,NA,NA,away,away
 item_679,i_20_1,word,quantifiers,produces,alle,NA,all,all of them,all

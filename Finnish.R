@@ -29,6 +29,7 @@ new_items[which(new_items$definition=="limonadi"),]$uni_lemma = "lemonade" # jui
 new_items[which(new_items$definition=="viili"),]$uni_lemma = NA # buttermilk? ("nordic kind of sour milk")
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="orange (fruit)"),]$uni_lemma = "orange (food)"
+new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 
 # save updated instrument(s)
 

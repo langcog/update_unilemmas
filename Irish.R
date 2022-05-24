@@ -81,6 +81,11 @@ new_items[which(new_items$uni_lemma=="swimming togs"),]$uni_lemma = "swimsuit"
 new_items[which(new_items$uni_lemma=="telly"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="chicken nuggets"),]$uni_lemma = "nugget"
 new_items[which(new_items$uni_lemma=="spagetti"),]$uni_lemma = "spaghetti"
+new_items[which(new_items$uni_lemma=="colouring"),]$uni_lemma = "crayon"
+new_items[which(new_items$uni_lemma=="one (of)"),]$uni_lemma = "a" # pronoun
+new_items[which(new_items$uni_lemma=="really"),]$uni_lemma = "very"
+
+new_items[which(new_items$uni_lemma=="sliotar"),]$uni_lemma = "ball"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

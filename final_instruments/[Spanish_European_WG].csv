@@ -180,7 +180,7 @@ item_172,habitaci,word,household,understands; produces,habitación/cuarto,NA,roo
 item_173,lavadora,word,household,understands; produces,lavadora,NA,washer,washer
 item_174,luz,word,household,understands; produces,luz,NA,light,light
 item_175,llaves,word,household,understands; produces,llaves,NA,keys,keys
-item_176,mando,word,household,understands; produces,mando,NA,remote control,remote
+item_176,mando,word,household,understands; produces,mando,NA,remote control,remote control
 item_177,medicina,word,household,understands; produces,medicina,NA,medicine,medicine
 item_178,mesa,word,household,understands; produces,mesa,NA,table,table
 item_179,movil,word,household,understands; produces,móvil,NA,mobile,cell phone

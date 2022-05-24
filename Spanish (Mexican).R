@@ -42,7 +42,8 @@ new_items[which(new_items$uni_lemma=="well"),]$uni_lemma = "well (modifier)"
 new_items[which(new_items$uni_lemma=="bookcase"),]$uni_lemma = "bookshelf" 
 new_items[which(new_items$uni_lemma=="lay down"),]$uni_lemma = "lie down" 
 new_items[which(new_items$uni_lemma=="salsa"),]$uni_lemma = "sauce" 
-
+new_items[which(new_items$uni_lemma=="ranch"),]$uni_lemma = "farm" 
+new_items[which(new_items$uni_lemma=="skinny"),]$uni_lemma = "thin" 
 
 
 # save updated instruments

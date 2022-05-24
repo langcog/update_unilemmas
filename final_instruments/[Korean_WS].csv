@@ -508,7 +508,7 @@ item_506,item_506,word,action_words,understands; produces,춤춰,NA,dance,dance
 item_507,item_507,word,action_words,understands; produces,(차에)치여,NA,be hit,hit
 item_508,item_508,word,action_words,understands; produces,치워,NA,clean up,clean (action)
 item_509,item_509,word,action_words,understands; produces,칠해,NA,color,paint (action)
-item_510,item_510,word,action_words,understands; produces,(차에)타,NA,get in the car,get in
+item_510,item_510,word,action_words,understands; produces,(차에)타,NA,get in the car,enter
 item_511,item_511,word,action_words,understands; produces,(차에)태워,NA,put in the car,put in
 item_512,item_512,word,action_words,understands; produces,터져,NA,burst,burst
 item_513,item_513,word,action_words,understands; produces,튀겨,NA,fry/bounce,fry
@@ -592,7 +592,7 @@ item_590,item_590,word,other,understands; produces,-로,NA,instrumental,NA
 item_591,item_591,word,other,understands; produces,-를(을),NA,accusative,NA
 item_592,item_592,word,other,understands; produces,-만,NA,-,NA
 item_593,item_593,word,other,understands; produces,-야,NA,verb ending,NA
-item_594,item_594,word,other,understands; produces,-에,NA,dative,at/in/on
+item_594,item_594,word,other,understands; produces,-에,NA,dative,on
 item_595,item_595,word,other,understands; produces,-에서,NA,dative,at
 item_596,item_596,word,other,understands; produces,-하고,NA,verb ending,with
 item_597,item_597,word,other,understands; produces,-한테/에게,NA,locative,NA

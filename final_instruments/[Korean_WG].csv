@@ -160,7 +160,7 @@ item_158,item_158,word,outside,understands; produces,시소,NA,seesaw,seesaw
 item_159,item_159,word,outside,understands; produces,하늘,NA,sky,sky
 item_160,item_160,word,outside,understands; produces,해,NA,sun,sun
 item_161,item_161,word,people,understands; produces,고모,NA,aunt (paternal),aunt
-item_162,item_162,word,people,understands; produces,누나,NA,older sister (from younger brother),older sister
+item_162,item_162,word,people,understands; produces,누나,NA,older sister (from younger brother),sister
 item_163,item_163,word,people,understands; produces,삼촌,NA,uncle (maternal),uncle
 item_164,item_164,word,people,understands; produces,선생님,NA,teacher,teacher
 item_165,item_165,word,people,understands; produces,아가,NA,baby,baby

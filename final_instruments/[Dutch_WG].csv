@@ -166,7 +166,7 @@ item_164,household,stofzuiger,understands;produces,stofzuiger,word,vacuum cleane
 item_165,household,tandenborstel,understands;produces,tandenborstel,word,toothbrush,toothbrush
 item_166,household,tas/kop(je)/beker,understands;produces,tas/kop(je)/beker,word,cup,cup
 item_167,household,telefoon,understands;produces,telefoon,word,telephone,telephone
-item_168,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch
+item_168,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch (object)
 item_169,household,vork,understands;produces,vork,word,fork,fork
 item_170,household,washandje,understands;produces,washandje,word,washcloth,washcloth
 item_171,household,zeep,understands;produces,zeep,word,soap,soap
@@ -413,7 +413,7 @@ item_411,action_words,fietsen,understands;produces,fietsen,word,"to cycle, bike"
 item_412,action_words,gaan/weggaan,understands;produces,gaan/weggaan,word,to go (away)/leave,go 
 item_413,action_words,leggen/zetten/neerzetten,understands;produces,leggen/zetten/neerzetten,word,to put down,put down
 item_414,action_words,nemen,understands;produces,nemen,word,to take,take
-item_415,action_words,oppassen,understands;produces,oppassen,word,to take care of/nurse,look after
+item_415,action_words,oppassen,understands;produces,oppassen,word,to take care of/nurse,watch (action)
 item_416,action_words,roepen/schreeuwen,understands;produces,roepen/schreeuwen,word,to scream,scream
 item_417,action_words,schommelen,understands;produces,schommelen,word,to swing,swing (action)
 item_418,action_words,stoppen/ophouden,understands;produces,stoppen/ophouden,word,to stop,stop

@@ -69,7 +69,7 @@ bréagán,item_136,TOYS,produces; doesn't produce,word,bréagán_áilleagán,0,t
 bronntanas,item_138,TOYS,produces; doesn't produce,word,bronntanas_féirín,0,toys,nouns,present,present
 camán,item_140,TOYS,produces; doesn't produce,word,camán,0,toys,nouns,hurley,hurley
 cluiche,item_142,TOYS,produces; doesn't produce,word,cluiche,0,toys,nouns,game,game
-dathú,item_145,TOYS,produces; doesn't produce,word,dathú,0,toys,nouns,colouring,colouring
+dathú,item_145,TOYS,produces; doesn't produce,word,dathú,0,toys,nouns,colouring,crayon
 druma,item_146,TOYS,produces; doesn't produce,word,druma,0,toys,nouns,NA,NA
 gunna,item_149,TOYS,produces; doesn't produce,word,gunna,0,toys,nouns,gun,gun
 leabhar,item_151,TOYS,produces; doesn't produce,word,leabhar,0,toys,nouns,book,book
@@ -78,7 +78,7 @@ míreannamearaí,item_155,TOYS,produces; doesn't produce,word,míreannamearaí,0
 peann,item_157,TOYS,produces; doesn't produce,word,peann,0,toys,nouns,pen,pen
 peannluaidhe,item_159,TOYS,produces; doesn't produce,word,peannluaidhe,0,toys,nouns,pencil,pencil
 scéal,item_161,TOYS,produces; doesn't produce,word,scéal,0,toys,nouns,story,story
-sliotarie,item_163,TOYS,produces; doesn't produce,word,sliotarie,1,toys,nouns,sliotar,sliotar
+sliotarie,item_163,TOYS,produces; doesn't produce,word,sliotarie,1,toys,nouns,sliotar,ball
 anraith,item_164,FOOD AND DRINK,produces; doesn't produce,word,anraith_súp,0,food_drink,nouns,soup,soup
 arán,item_166,FOOD AND DRINK,produces; doesn't produce,word,arán_builín,0,food_drink,nouns,bread,bread
 bagún,item_168,FOOD AND DRINK,produces; doesn't produce,word,bagún,0,food_drink,nouns,bacon,bacon
@@ -568,7 +568,7 @@ taréis,item_1124,WORDS ABOUT TIME,produces; doesn't produce,word,taréis,0,time
 tráthnóna,item_1126,WORDS ABOUT TIME,produces; doesn't produce,word,tráthnóna,0,time_words,other,afternoon,afternoon
 a,item_1128,PRONOUNS,produces; doesn't produce,word,a,0,pronouns,function_words,his/her/their,his/her/their
 ár,item_1132,PRONOUNS,produces; doesn't produce,word,ár,0,pronouns,function_words,our,our
-ceann,item_1134,PRONOUNS,produces; doesn't produce,word,ceann,0,pronouns,function_words,one,one (of)
+ceann,item_1134,PRONOUNS,produces; doesn't produce,word,ceann,0,pronouns,function_words,one,a
 do,item_1136,PRONOUNS,produces; doesn't produce,word,do,0,pronouns,function_words,your,your
 é,item_1138,PRONOUNS,produces; doesn't produce,word,é_eisean,0,pronouns,function_words,it/he/him,it/he
 féin,item_1140,PRONOUNS,produces; doesn't produce,word,féin,0,pronouns,function_words,(my)self,me
@@ -651,7 +651,7 @@ timpeall,item_1269,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,tim
 transna,item_1271,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,transna,0,locations,function_words,across,across
 alán,item_1274,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,alán_anchuid,0,quantifiers,function_words,many,a lot
 n,item_1276,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,n,0,quantifiers,function_words,the,the
-ana,item_1278,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,ana,0,quantifiers,function_words,very,really
+ana,item_1278,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,ana,0,quantifiers,function_words,very,very
 aonceann,item_1280,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,aonceann_rud,0,quantifiers,function_words,any(thing),any
 aon,item_1282,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,aon_amhain,0,quantifiers,function_words,one,one
 arís,item_1284,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,arís,0,quantifiers,function_words,again,again

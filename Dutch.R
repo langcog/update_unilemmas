@@ -138,6 +138,10 @@ new_items[which(new_items$uni_lemma=="on it"),]$uni_lemma = "on"
 new_items[which(new_items$uni_lemma=="poor (financial)"),]$uni_lemma = "poor"
 new_items[which(new_items$uni_lemma=="porch/balcony"),]$uni_lemma = "balcony"
 new_items[which(new_items$uni_lemma=="shake (verb)"),]$uni_lemma = "shake"
+new_items[which(new_items$uni_lemma=="garden hose"),]$uni_lemma = "hose"
+new_items[which(new_items$uni_lemma=="watch"),]$uni_lemma = "watch (object)"
+new_items[which(new_items$uni_lemma=="look after"),]$uni_lemma = "watch (action)"
+new_items[which(new_items$uni_lemma=="not any"),]$uni_lemma = "none" # or nothing
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

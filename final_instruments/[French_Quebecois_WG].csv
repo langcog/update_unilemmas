@@ -243,7 +243,7 @@ item_239,déjeuner,games_routines,dejeuner,word,understands; produces,lunch,lunc
 item_240,dîner,games_routines,d^iner,word,understands; produces,having dinner,dinner
 item_241,dodo,games_routines,dodo,word,understands; produces,nap,nap
 item_242,faire le tour de la maison,games_routines,faire_le_tour_de_la_maison,word,understands; produces,go around the house,go around the house
-item_243,minouche minouche,games_routines,menouche_menouche,word,understands; produces,cuddles,cuddles
+item_243,minouche minouche,games_routines,menouche_menouche,word,understands; produces,cuddles,cuddle
 item_244,merci,games_routines,merci,word,understands; produces,thank you,thank you
 item_245,non,games_routines,non,word,understands; produces,no,no
 item_246,ok,games_routines,ok,word,understands; produces,ok,ok
@@ -281,7 +281,7 @@ item_277,choisir,action_words,choisir,word,understands; produces,to choose,choos
 item_278,cogner (à),action_words,cogner_(`a),word,understands; produces,knock (at),bang
 item_279,couper,action_words,couper,word,understands; produces,cut,cut
 item_280,courir,action_words,courir,word,understands; produces,run,run
-item_281,courir après,action_words,courir_apr`es,word,understands; produces,run after,run after
+item_281,courir après,action_words,courir_apr`es,word,understands; produces,run after,chase
 item_282,cracher,action_words,cracher,word,understands; produces,to spit,spit
 item_283,danser,action_words,danser,word,understands; produces,dance,dance
 item_284,débarquer,action_words,debarquer,word,understands; produces,land,get off

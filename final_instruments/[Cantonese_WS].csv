@@ -152,7 +152,7 @@ item_150,V4GO,word,action_words,produces,去,NA,,go
 item_151,V4ASCND,word,action_words,produces,上(去),NA,,go up
 item_152,V4DOWNC,word,action_words,produces,落(去),NA,,go down
 item_153,V4EXIT,word,action_words,produces,出(去),NA,,go out
-item_154,V4ENTERC,word,action_words,produces,入(去),NA,,go in
+item_154,V4ENTERC,word,action_words,produces,入(去),NA,,enter
 item_155,V4PLAY,word,action_words,produces,玩,NA,,play
 item_156,V4LEARN,word,action_words,produces,學,NA,,learn
 item_157,V4SLEEPC,word,action_words,produces,瞓覺,NA,,sleep
@@ -800,7 +800,7 @@ item_798,J24IF,word,connecting_words,produces,如果,NA,,if
 item_799,J24ZAU,word,connecting_words,produces,就,NA,,then
 item_800,J24THOUG,word,connecting_words,produces,雖然,NA,,though
 item_801,J24BUTC,word,connecting_words,produces,但係,NA,,but
-item_802,J24EVEIF,word,connecting_words,produces,就算,NA,,even if
+item_802,J24EVEIF,word,connecting_words,produces,就算,NA,,even
 item_803,J24THENC,word,connecting_words,produces,咁樣(就),NA,,then
 item_804,J24OR,word,connecting_words,produces,或者,NA,,or
 item_805,TALKFIND,talk_functions,NA,never; sometimes; often,Talk functions-find absent things,NA,NA,NA

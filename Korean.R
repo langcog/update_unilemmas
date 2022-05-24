@@ -51,6 +51,10 @@ new_items[which(new_items$uni_lemma=="taste (action)"),]$uni_lemma = "taste"
 new_items[which(new_items$uni_lemma=="point at"),]$uni_lemma = "point"
 new_items[which(new_items$uni_lemma=="stop (action)"),]$uni_lemma = "stop"
 
+new_items[which(new_items$uni_lemma=="at/in/on"),]$uni_lemma = "on"
+new_items[which(new_items$uni_lemma=="get in"),]$uni_lemma = "enter"
+new_items[which(new_items$uni_lemma=="older sister"),]$uni_lemma = "sister"
+
 # ToDo: check blanks ("") and "at/in/on"
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

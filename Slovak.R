@@ -31,6 +31,7 @@ new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how 
 
 new_items[which(new_items$uni_lemma=="yuck"),]$uni_lemma = "yucky"
 
+
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 # ToDo: many undefined uni-lemmas, many sounds we need a native speaker to go back over!

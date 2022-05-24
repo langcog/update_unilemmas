@@ -46,6 +46,7 @@ new_items[which(new_items$uni_lemma=="kisses"),]$uni_lemma = "kiss"
 new_items[which(new_items$uni_lemma=="grow (action)"),]$uni_lemma = "grow"
 new_items[which(new_items$uni_lemma=="lentils"),]$uni_lemma = "beans"
 new_items[which(new_items$uni_lemma=="sleep (action)"),]$uni_lemma = "sleep"
+new_items[which(new_items$uni_lemma=="remote"),]$uni_lemma = "remote control"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_European", "WS", new_items %>% rename(itemID = WS))

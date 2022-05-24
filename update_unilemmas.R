@@ -74,8 +74,8 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2262 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 573 hapaxes
+  length(new_uni_tab) # 2235 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 545 hapaxes
   length(unique(new_uni$form)) # 61 forms
   
   # uni-lemmas we no longer have:
@@ -83,12 +83,12 @@ examine_new_unilemmas <- function() {
   # new uni-lemmas:
   setdiff(names(new_uni_tab), old_uni$uni_lemma) # 970
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1053 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 780 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 580 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1055 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 781 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 581 on 20+ forms
   length(new_uni_tab[which(new_uni_tab>=30)]) # 444 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 305 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 178 on 50+
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 306 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 179 on 50+
   length(new_uni_tab[which(new_uni_tab>=60)]) # 53 on 60+ 
   # attempt -> try
 

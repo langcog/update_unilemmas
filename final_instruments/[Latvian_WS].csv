@@ -347,7 +347,7 @@ item_345,345_ara,word,produces,places,ārā,NA,outside,outside
 item_346,346_baseins,word,produces,places,baseins,NA,(swimming) pool,pool
 item_347,347_baznica,word,produces,places,baznīca,NA,church,church
 item_348,348_bernudarzs,word,produces,places,bērnudārzs,NA,kindergarten,kindergarten
-item_349,349_ciemos_,word,produces,places,ciemos,NA,on a visit (i.e. visit someone as guests),ona visit
+item_349,349_ciemos_,word,produces,places,ciemos,NA,on a visit (i.e. visit someone as guests),outing
 item_350,350_cirks,word,produces,places,cirks,NA,circus,circus
 item_351,351_darbs,word,produces,places,darbs,NA,work,work
 item_352,352_grupa_b_d,word,produces,places,grupa (b/d),NA,class/group (in the kindergarten),group
@@ -601,7 +601,7 @@ item_599,599_rit,word,produces,time_words,rīt,NA,tomorrow,tomorrow
 item_600,600_rits,word,produces,time_words,rīts,NA,morning,morning
 item_601,601_sodien,word,produces,time_words,šodien,NA,today,today
 item_602,602_tagad,word,produces,time_words,tagad,NA,now,now
-item_603,603_tulit,word,produces,time_words,tūlīt,NA,promptly,promptly
+item_603,603_tulit,word,produces,time_words,tūlīt,NA,promptly,now
 item_604,604_vakar,word,produces,time_words,vakar,NA,yesterday,yesterday
 item_605,605_vakara,word,produces,time_words,vakarā,NA,in the evening,NA
 item_606,606_vakars,word,produces,time_words,vakars,NA,evening,evening

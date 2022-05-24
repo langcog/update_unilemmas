@@ -126,6 +126,8 @@ new_items[which(new_items$uni_lemma=="how (I see how rain falls)"),]$uni_lemma =
 new_items[which(new_items$uni_lemma=="on (e.g. on the chair)"),]$uni_lemma = "on"
 new_items[which(new_items$WS=="item_85"),]$uni_lemma = "paint (object)"
 new_items[which(new_items$uni_lemma=="say/tell"),]$uni_lemma = "say"
+new_items[which(new_items$uni_lemma=="ona visit"),]$uni_lemma = "outing" # maybe picnic?
+new_items[which(new_items$uni_lemma=="promptly"),]$uni_lemma = "now"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

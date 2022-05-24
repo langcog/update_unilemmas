@@ -274,7 +274,7 @@ item_272,household,tandenborstel,understands;produces,tandenborstel,word,toothbr
 item_273,household,tas/kop(je)/beker,understands;produces,tas/kop(je)/beker,word,cup,cup
 item_274,household,tekening/prent,understands;produces,tekening/prent,word,drawing,drawing
 item_275,household,telefoon,understands;produces,telefoon,word,telephone,telephone
-item_276,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch
+item_276,household,uurwerk/klok/horloge,understands;produces,uurwerk/klok/horloge,word,watch,watch (object)
 item_277,household,vork,understands;produces,vork,word,fork,fork
 item_278,household,vuilbak/vuilnisemmer,understands;produces,vuilbak/vuilnisemmer,word,bin,bin
 item_279,household,vuilnis/afval,understands;produces,vuilnis/afval,word,garbage,trash
@@ -334,7 +334,7 @@ item_332,outside,steen/kei/kiezelsteen,understands;produces,steen/kei/kiezelstee
 item_333,outside,stoep/trottoir,understands;produces,stoep/trottoir,word,sidewalk,sidewalk
 item_334,outside,stok,understands;produces,stok,word,stick,stick
 item_335,outside,straat,understands;produces,straat,word,street,street
-item_336,outside,tuinslang/waterslang,understands;produces,tuinslang/waterslang,word,garden hose,garden hose
+item_336,outside,tuinslang/waterslang,understands;produces,tuinslang/waterslang,word,garden hose,hose
 item_337,outside,vlag,understands;produces,vlag,word,flag,flag
 item_338,outside,water(plaats),understands;produces,water(plaats),word,lake,lake
 item_339,outside,wind,understands;produces,wind,word,wind,wind
@@ -662,7 +662,7 @@ item_660,quantifiers,eenbeetje,understands;produces,eenbeetje,word,a little bit,
 item_661,quantifiers,ééntweedrie,understands;produces,ééntweedrie,word,one two three,one two three
 item_662,quantifiers,elk(e)/ieder,understands;produces,elk(e)/ieder,word,each/every,all
 item_663,quantifiers,enkele/sommige,understands;produces,enkele/sommige,word,some/several,some
-item_664,quantifiers,geenenkele,understands;produces,geenenkele,word,not any,not any
+item_664,quantifiers,geenenkele,understands;produces,geenenkele,word,not any,none
 item_665,quantifiers,het(lw),understands;produces,het(lw),word,the,the
 item_666,quantifiers,meer/nog,understands;produces,meer/nog,word,more/still,more
 item_667,quantifiers,niet,understands;produces,niet,word,not,not
