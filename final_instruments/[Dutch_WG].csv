@@ -435,7 +435,7 @@ item_433,descriptive_words,schoon/proper,understands;produces,schoon/proper,word
 item_434,pronouns,dit/deze/dees,understands;produces,dit/deze/dees,word,this,this
 item_435,pronouns,zijn/haar,understands;produces,zijn/haar,word,his/her,his/her
 item_436,locations,binnen(in),understands;produces,binnen(in),word,in(side),inside
-item_437,locations,erop,understands;produces,erop,word,on it (on them),on it
+item_437,locations,erop,understands;produces,erop,word,on it (on them),on
 item_438,locations,in,understands;produces,in,word,in/into,in
 item_439,locations,weg,understands;produces,weg,word,away,away
 item_440,quantifiers,geen/niemand/niets,understands;produces,geen/niemand/niets,word,no/nobody/nothing,no

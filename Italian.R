@@ -28,6 +28,8 @@ new_items[which(new_items$uni_lemma=="photograph"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="cover"),]$uni_lemma = "cover (action)"
 new_items[which(new_items$uni_lemma=="gasoline"),]$uni_lemma = "gas"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="suspeners"),]$uni_lemma = "suspenders"
+new_items[which(new_items$uni_lemma=="iron (object)"),]$uni_lemma = "iron"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

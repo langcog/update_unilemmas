@@ -20,7 +20,7 @@ item_18,tocotoc,word,sounds,produces,tocotoc (caballo),NA,clip clop,clip clop
 item_19,uy,word,sounds,produces,¡uy!,NA,ouch,ouch
 item_20,a_banar,word,games_routines,produces,a bañar,NA,go to the bathroom,bathe
 item_21,a_comer,word,games_routines,produces,a comer,NA,to eat,eat
-item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep (action)
+item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep
 item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see (action)
 item_24,a_vestir,word,games_routines,produces,a vestir,NA,dress (action),dress (action)
 item_25,besitos,word,games_routines,produces,besitos,NA,kisses,kiss
@@ -218,7 +218,7 @@ item_210,huevo,word,food_drink,produces,huevo,NA,egg,egg
 item_211,jamon,word,food_drink,produces,jamón (york),NA,ham,ham
 item_212,leche,word,food_drink,produces,leche,NA,milk,milk
 item_213,lechuga,word,food_drink,produces,lechuga,NA,lettuce,lettuce
-item_214,lentejas,word,food_drink,produces,lentejas,NA,lentils,lentils
+item_214,lentejas,word,food_drink,produces,lentejas,NA,lentils,beans
 item_215,limon,word,food_drink,produces,limón,NA,lemon,lemon
 item_216,macarron,word,food_drink,produces,macarrones,NA,macaroni,pasta
 item_217,mandarin,word,food_drink,produces,mandarina,NA,tangerine,tangerine

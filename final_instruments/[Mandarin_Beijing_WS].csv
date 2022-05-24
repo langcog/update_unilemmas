@@ -286,7 +286,7 @@ item_284,E5HUNDUN,word,food_drink,produces,NA,馄饨,dumpling,dumpling
 item_285,E5MEAT,word,food_drink,produces,NA,肉,meat,meat
 item_286,E5FISH,word,food_drink,produces,NA,鱼,fish (food),fish (food)
 item_287,E5EGG,word,food_drink,produces,NA,蛋,egg,egg
-item_288,E5SHRIMP,word,food_drink,produces,NA,虾,shrimp,shrimp (food)
+item_288,E5SHRIMP,word,food_drink,produces,NA,虾,shrimp,shrimp
 item_289,E5CHICKN,word,food_drink,produces,NA,鸡肉,chicken (food),chicken (food)
 item_290,E5LIVER,word,food_drink,produces,NA,肝儿（猪肝、鸡肝）,liver,liver (food)
 item_291,E5VEGGIE,word,food_drink,produces,NA,菜,dish,dish

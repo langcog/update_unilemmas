@@ -129,7 +129,7 @@ item_127,V4COUGH,word,action_words,produces,咳,NA,,cough
 item_128,V4HIT,word,action_words,produces,打,NA,,hit
 item_129,V4CLAP,word,action_words,produces,拍(手),NA,,clap
 item_130,V4DRAG,word,action_words,produces,拖(住),NA,drag / hold (hands),hold
-item_131,V4SHAKE,word,action_words,produces,握(手),NA,,shake (hands)
+item_131,V4SHAKE,word,action_words,produces,握(手),NA,,shake
 item_132,V4GIVEC,word,action_words,produces,俾,NA,,give
 item_133,V4TAKE,word,action_words,produces,攞,NA,,take
 item_134,V4CARRY,word,action_words,produces,拎,NA,carry / hold,carry

@@ -74,17 +74,17 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2302 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 619 hapaxes
+  length(new_uni_tab) # 2262 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 573 hapaxes
   length(unique(new_uni$form)) # 61 forms
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 76 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 81 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 1034
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 970
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1051 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 779 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1053 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 780 on 10+ forms
   length(new_uni_tab[which(new_uni_tab>=20)]) # 580 on 20+ forms
   length(new_uni_tab[which(new_uni_tab>=30)]) # 444 on 30+ forms
   length(new_uni_tab[which(new_uni_tab>=40)]) # 305 on 40+ forms
@@ -139,7 +139,7 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="bloom") # action - OK
   subset(new_uni, uni_lemma=="board game") # game?
   subset(new_uni, uni_lemma=="braid") # Mand Beij -> braid (object)
-  subset(new_uni, uni_lemma=="cherries") # Latvian -> cherry
+  #subset(new_uni, uni_lemma=="cherries") # Latvian -> cherry
   #subset(new_uni, uni_lemma=="chess") # -> board game
   
   #subset(new_uni, uni_lemma=="quilt") # Swedish already has blanket, so OK

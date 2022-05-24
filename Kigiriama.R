@@ -27,6 +27,7 @@ new_items[which(new_items$uni_lemma=="nap (action)"),]$uni_lemma = "nap"
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="marketplace"),]$uni_lemma = "market" 
 new_items[which(new_items$uni_lemma=="longlasting"),]$uni_lemma = "tough" # or durable  
+new_items[which(new_items$uni_lemma=="palm (body part)"),]$uni_lemma = "palm" 
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

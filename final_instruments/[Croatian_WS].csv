@@ -66,7 +66,7 @@ motor,vehicles,motor,word,produces,NA,item_64,motorcycle,motorcycle,motorcycle
 sanjke,vehicles,sanjke,word,produces,NA,item_65,NA,sled,sled
 traktor,vehicles,traktor,word,produces,NA,item_66,NA,tractor,tractor
 tramvaj,vehicles,tramvaj,word,produces,NA,item_67,tram,tram,tram
-vatrogasci,vehicles,vatrogasci,word,produces,NA,item_68,NA,firetruck,NA
+vatrogasci,vehicles,vatrogasci,word,produces,NA,item_68,NA,firetruck,
 vlak,vehicles,vlak,word,produces,NA,item_69,train,train,train
 balon,toys,balon,word,produces,NA,item_70,balloon,balloon,balloon
 bojica,toys,bojica,word,produces,NA,item_71,NA,crayon,crayon/marker
@@ -381,7 +381,7 @@ daj ruku!,games_routines,daj_ruku!,word,produces,NA,item_379,NA,give me your han
 dobar dan,games_routines,dobar_dan,word,produces,NA,item_380,hello,hello,hello
 doručak,games_routines,dorucak,word,produces,NA,item_381,breakfast,breakfast,breakfast
 hajde!,games_routines,hajde!,word,produces,NA,item_382,NA,come on!,come on
-halo-halo,games_routines,halo-halo,word,produces,NA,item_383,NA,call (on phone),phone call
+halo-halo,games_routines,halo-halo,word,produces,NA,item_383,NA,call (on phone),call
 Hoću tutu,games_routines,Hocu_tutu,word,produces,NA,item_384,NA,go potty,potty
 hvala,games_routines,hvala,word,produces,NA,item_385,thank you,thank you,thank you
 kakiti,games_routines,kakiti,word,produces,NA,item_386,NA,make poop,poop
@@ -706,7 +706,7 @@ nismo,helping_verbs,nismo,word,produces,NA,item_704,NA,(we) are not,not
 nisu,helping_verbs,nisu,word,produces,NA,item_705,NA,(they) are not,not
 sam,helping_verbs,sam,word,produces,NA,item_706,NA,am,be
 si,helping_verbs,si,word,produces,NA,item_707,NA,(you) are,be
-may,helping_verbs,may,word,produces,NA,item_708,NA,(I) may,May is not a croatian word. It should be 'je' here which means '(he/she) is'.
+may,helping_verbs,may,word,produces,NA,item_708,NA,(I) may,NA
 smo,helping_verbs,smo,word,produces,NA,item_709,NA,(we) are,be
 su,helping_verbs,su,word,produces,NA,item_710,NA,(they) are,be
 treba,helping_verbs,treba,word,produces,NA,item_711,NA,should,should

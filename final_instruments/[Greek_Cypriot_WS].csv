@@ -167,7 +167,7 @@ item_165,FD68_CRISP_CG,word,food_drink,produces,τσιπς,NA,crisps CG,chips
 item_166,FD69_GUM,word,food_drink,produces,τσίχλα,NA,gum,gum
 item_167,FD70_CHEES,word,food_drink,produces,τυρί,NA,cheese,cheese
 item_168,FD71_FOOD,word,food_drink,produces,φαγητό/φαΐ,NA,food,food
-item_169,FD72_LENTI,word,food_drink,produces,φακές,NA,lentils,lentil
+item_169,FD72_LENTI,word,food_drink,produces,φακές,NA,lentils,beans
 item_170,FD73_GREEN,word,food_drink,produces,φασολάκι,NA,green beans,green beans
 item_171,FD74_BEANS,word,food_drink,produces,φασόλια,NA,beans,beans
 item_172,FD75_FISH_,word,food_drink,produces,φίσφιγκερς,NA,fish fingers,NA

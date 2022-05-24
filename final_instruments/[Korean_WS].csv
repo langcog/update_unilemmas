@@ -368,7 +368,7 @@ item_366,item_366,word,question_words,understands; produces,어떻게,NA,how,how
 item_367,item_367,word,question_words,understands; produces,언제,NA,when,when
 item_368,item_368,word,question_words,understands; produces,왜,NA,why,why
 item_369,item_369,word,action_words,understands; produces,가,NA,go,go
-item_370,item_370,word,action_words,understands; produces,가리켜,NA,point,point at
+item_370,item_370,word,action_words,understands; produces,가리켜,NA,point,point
 item_371,item_371,word,action_words,understands; produces,가져,NA,have/get/take,have
 item_372,item_372,word,action_words,understands; produces,간지럽혀,NA,tickle,tickle
 item_373,item_373,word,action_words,understands; produces,건너,NA,cross,cross
@@ -427,7 +427,7 @@ item_425,item_425,word,action_words,understands; produces,마셔,NA,drink,drink 
 item_426,item_426,word,action_words,understands; produces,만들어,NA,make,make
 item_427,item_427,word,action_words,understands; produces,(빨래/싸움)말려,NA,dry,dry (action)
 item_428,item_428,word,action_words,understands; produces,말해,NA,speak/talk,say
-item_429,item_429,word,action_words,understands; produces,맛봐,NA,taste,taste (action)
+item_429,item_429,word,action_words,understands; produces,맛봐,NA,taste,taste
 item_430,item_430,word,action_words,understands; produces,(주사를)맞아,NA,have an injection,NA
 item_431,item_431,word,action_words,understands; produces,(음식을)먹어,NA,eat,eat
 item_432,item_432,word,action_words,understands; produces,(음식을)먹여,NA,feed,feed
@@ -460,7 +460,7 @@ item_458,item_458,word,action_words,understands; produces,(물건을)사,NA,buy,
 item_459,item_459,word,action_words,understands; produces,사랑해,NA,love,love
 item_460,item_460,word,action_words,understands; produces,살아,NA,live,live
 item_461,item_461,word,action_words,understands; produces,생각해,NA,think,think
-item_462,item_462,word,action_words,understands; produces,(그 자리에)서,NA,stay,stop (action)
+item_462,item_462,word,action_words,understands; produces,(그 자리에)서,NA,stay,stop
 item_463,item_463,word,action_words,understands; produces,서둘러,NA,hurry,hurry
 item_464,item_464,word,action_words,understands; produces,손대,NA,touch,touch
 item_465,item_465,word,action_words,understands; produces,수영해,NA,swim,swim

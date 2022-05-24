@@ -74,6 +74,13 @@ new_items[which(new_items$uni_lemma=="buggy"),]$uni_lemma = "stroller"
 new_items[which(new_items$uni_lemma=="crisps"),]$uni_lemma = "chips"
 new_items[which(new_items$uni_lemma=="ice pop"),]$uni_lemma = "popsicle"
 new_items[which(new_items$uni_lemma=="highchair"),]$uni_lemma = "high chair"
+new_items[which(new_items$uni_lemma=="i see you"),]$uni_lemma = "peekaboo"
+new_items[which(new_items$uni_lemma=="sausages"),]$uni_lemma = "sausage"
+new_items[which(new_items$uni_lemma=="shoes"),]$uni_lemma = "shoe"
+new_items[which(new_items$uni_lemma=="swimming togs"),]$uni_lemma = "swimsuit"
+new_items[which(new_items$uni_lemma=="telly"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="chicken nuggets"),]$uni_lemma = "nugget"
+new_items[which(new_items$uni_lemma=="spagetti"),]$uni_lemma = "spaghetti"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

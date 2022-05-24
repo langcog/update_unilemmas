@@ -101,7 +101,7 @@ item_99,toys,schuim/zeepbellen/bellenblaas,understands;produces,schuim/zeepbelle
 item_100,toys,speelgoed(je),understands;produces,speelgoed(je),word,(little) toy,toy
 item_101,toys,spel(letje),understands;produces,spel(letje),word,(little) game,game
 item_102,toys,verhaal,understands;produces,verhaal,word,story,story
-item_103,toys,vingerverf,understands;produces,vingerverf,word,finger paint,paint
+item_103,toys,vingerverf,understands;produces,vingerverf,word,finger paint,paint (object)
 item_104,food_drink,aardappel/patatjes,understands;produces,aardappel/patatjes,word,potato,potato
 item_105,food_drink,aardbei(en),understands;produces,aardbei(en),word,strawberry,strawberry
 item_106,food_drink,appel,understands;produces,appel,word,apple,apple
@@ -310,7 +310,7 @@ item_308,furniture_rooms,terras,understands;produces,terras,word,terrace,terrace
 item_309,furniture_rooms,trap(pen),understands;produces,trap(pen),word,stairs,stairs
 item_310,furniture_rooms,TV/televisie,understands;produces,TV/televisie,word,TV/television,television
 item_311,furniture_rooms,venster/raam,understands;produces,venster/raam,word,window,window
-item_312,furniture_rooms,veranda/balkon,understands;produces,veranda/balkon,word,porch/balcony,porch/balcony
+item_312,furniture_rooms,veranda/balkon,understands;produces,veranda/balkon,word,porch/balcony,balcony
 item_313,furniture_rooms,WC/toilet,understands;produces,WC/toilet,word,toilet,toilet
 item_314,furniture_rooms,wasmachine,understands;produces,wasmachine,word,washing machine,washing machine
 item_315,furniture_rooms,wieg,understands;produces,wieg,word,carriage,cradle
@@ -322,7 +322,7 @@ item_320,outside,dak,understands;produces,dak,word,roof,roof
 item_321,outside,gieter,understands;produces,gieter,word,watering can,watering can
 item_322,outside,glijbaan/schuifaf,understands;produces,glijbaan/schuifaf,word,slide,slide
 item_323,outside,gras,understands;produces,gras,word,grass,grass
-item_324,outside,grasmachine/grasmaaier,understands;produces,grasmachine/grasmaaier,word,lawnmower,lawnmower
+item_324,outside,grasmachine/grasmaaier,understands;produces,grasmachine/grasmaaier,word,lawnmower,lawn mower
 item_325,outside,ladder,understands;produces,ladder,word,ladder,ladder
 item_326,outside,lucht/hemel,understands;produces,lucht/hemel,word,sky/heaven,sky
 item_327,outside,regen,understands;produces,regen,word,rain,rain
@@ -417,9 +417,9 @@ item_415,games_routines,sst(zwijgen)/stilzijn,understands;produces,sst(zwijgen)/
 item_416,games_routines,tandjespoetsen,understands;produces,tandjespoetsen,word,brush teeth,to brush teeth
 item_417,games_routines,totmorgen!(routine),understands;produces,totmorgen!(routine),word,see you tomorrow!,goodbye
 item_418,games_routines,winkelen,understands;produces,winkelen,word,to go shopping,shopping
-item_419,games_routines,zogroot!,understands;produces,zogroot!,word,so big!,so big!
+item_419,games_routines,zogroot!,understands;produces,zogroot!,word,so big!,so big
 item_420,descriptive_words,allesweg/op,understands;produces,allesweg/op,word,all done,all done 
-item_421,descriptive_words,arm(tgstrijk),understands;produces,arm(tgstrijk),word,poor,poor (financial)
+item_421,descriptive_words,arm(tgstrijk),understands;produces,arm(tgstrijk),word,poor,poor
 item_422,descriptive_words,bang/schrik,understands;produces,bang/schrik,word,afraid/scared,scared
 item_423,descriptive_words,beter,understands;produces,beter,word,better,better
 item_424,descriptive_words,blauw,understands;produces,blauw,word,blue,blue
@@ -484,7 +484,7 @@ item_482,action_words,afwassen,understands;produces,afwassen,word,do the dishes,
 item_483,action_words,bedekken,understands;produces,bedekken,word,cover up,cover (action)
 item_484,action_words,bijten,understands;produces,bijten,word,to bite,bite
 item_485,action_words,blazen,understands;produces,blazen,word,to blow,blow
-item_486,action_words,blijven,understands;produces,blijven,word,to stay,stay (verb)
+item_486,action_words,blijven,understands;produces,blijven,word,to stay,stay
 item_487,action_words,boetseren/kleien,understands;produces,boetseren/kleien,word,clay modeling,play dough
 item_488,action_words,botsen,understands;produces,botsen,word,to bump,bump 
 item_489,action_words,bouwen,understands;produces,bouwen,word,to build,build
@@ -507,7 +507,7 @@ item_505,action_words,geven,understands;produces,geven,word,to give,give
 item_506,action_words,glijden/schuiven,understands;produces,glijden/schuiven,word,glide/shove,slide
 item_507,action_words,gooien/werpen,understands;produces,gooien/werpen,word,to throw,to throw
 item_508,action_words,haasten/zichspoeden,understands;produces,haasten/zichspoeden,word,to hurry up,to hurry up
-item_509,action_words,haten,understands;produces,haten,word,to hate,hate (verb)
+item_509,action_words,haten,understands;produces,haten,word,to hate,hate
 item_510,action_words,hebben,understands;produces,hebben,word,to have,have
 item_511,action_words,helpen,understands;produces,helpen,word,to help,help
 item_512,action_words,herstellen/maken/repareren,understands;produces,herstellen/maken/repareren,word,to repair,fix
@@ -515,7 +515,7 @@ item_513,action_words,horen,understands;produces,horen,word,to hear,hear
 item_514,action_words,houden,understands;produces,houden,word,to keep,keep
 item_515,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love (verb)
 item_516,action_words,inschenken/gieten,understands;produces,inschenken/gieten,word,to pour,pour (verb)
-item_517,action_words,jagen,understands;produces,jagen,word,to hunt,hunt (verb)
+item_517,action_words,jagen,understands;produces,jagen,word,to hunt,hunt
 item_518,action_words,kietelen,understands;produces,kietelen,word,to tickle,tickle
 item_519,action_words,kiezen,understands;produces,kiezen,word,to choose,choose
 item_520,action_words,kijken,understands;produces,kijken,word,to look,look
@@ -536,14 +536,14 @@ item_534,action_words,likken,understands;produces,likken,word,to lick,lick
 item_535,action_words,lopen/rennen,understands;produces,lopen/rennen,word,to walk/run,walk/run (verb)
 item_536,action_words,luisteren,understands;produces,luisteren,word,to listen,listen (verb)
 item_537,action_words,maken,understands;produces,maken,word,to make,make
-item_538,action_words,morsen/knoeien,understands;produces,morsen/knoeien,word,to spill,spill (verb)
+item_538,action_words,morsen/knoeien,understands;produces,morsen/knoeien,word,to spill,spill
 item_539,action_words,neergooien/opdegrondgooien/weggooien,understands;produces,neergooien/opdegrondgooien/weggooien,word,to throw away,throw away
 item_540,action_words,nemen/pakken,understands;produces,nemen/pakken,word,to take,take
 item_541,action_words,opslotdoen/toedoen/dichtdoen/vastdoen/vastmaken,understands;produces,opslotdoen/toedoen/dichtdoen/vastdoen/vastmaken,word,to lock/close/fix,lock (action)
 item_542,action_words,openen/opendoen/openmaken,understands;produces,openen/opendoen/openmaken,word,to open,open (verb)
 item_543,action_words,passen,understands;produces,passen,word,to try on (clothes,try on
 item_544,action_words,praten,understands;produces,praten,word,to talk,talk
-item_545,action_words,proeven,understands;produces,proeven,word,to taste,taste (verb)
+item_545,action_words,proeven,understands;produces,proeven,word,to taste,taste
 item_546,action_words,puzzelen,understands;produces,puzzelen,word,to puzzle,puzzle (verb)
 item_547,action_words,rijden,understands;produces,rijden,word,to ride,ride
 item_548,action_words,schaatsen/skeelen,understands;produces,schaatsen/skeelen,word,to ice skate,skate
@@ -551,7 +551,7 @@ item_549,action_words,scheuren,understands;produces,scheuren,word,to tear up,tea
 item_550,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (verb)
 item_551,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick (verb)
 item_552,action_words,schrijven,understands;produces,schrijven,word,to write,write
-item_553,action_words,schudden,understands;produces,schudden,word,to shake,shake (verb)
+item_553,action_words,schudden,understands;produces,schudden,word,to shake,shake
 item_554,action_words,slaan,understands;produces,slaan,word,to hit,hit
 item_555,action_words,slapen,understands;produces,slapen,word,to sleep,sleep
 item_556,action_words,spatten/pletsen/spetteren,understands;produces,spatten/pletsen/spetteren,word,to splash,splash (verb)
@@ -559,7 +559,7 @@ item_557,action_words,spelen,understands;produces,spelen,word,to play,play
 item_558,action_words,springen,understands;produces,springen,word,to jump,jump
 item_559,action_words,staan,understands;produces,staan,word,to stand,stand
 item_560,action_words,stoppen,understands;produces,stoppen,word,to stop,stop
-item_561,action_words,strijken,understands;produces,strijken,word,to iron,iron (verb)
+item_561,action_words,strijken,understands;produces,strijken,word,to iron,iron (action)
 item_562,action_words,tekenen/kleuren,understands;produces,tekenen/kleuren,word,to draw/colour in,draw
 item_563,action_words,tonen/wijzen/latenzien,understands;produces,tonen/wijzen/latenzien,word,to show/point to,show (verb)
 item_564,action_words,trekken,understands;produces,trekken,word,to draw/drag,pull

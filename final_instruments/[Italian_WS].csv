@@ -42,7 +42,7 @@ cappello,clothing,cappello,word,produces,NA,item_40,hat,hat,hat
 camicia,clothing,camicia,word,produces,NA,item_41,NA,shirt,shirt
 calzettoni,clothing,calzettoni,word,produces,NA,item_42,NA,sock,sock
 calze,clothing,calze,word,produces,NA,item_43,sock,tights,tights
-bretelle,clothing,bretelle,word,produces,NA,item_44,NA,suspenders,suspeners
+bretelle,clothing,bretelle,word,produces,NA,item_44,NA,suspenders,suspenders
 bottone,clothing,bottone,word,produces,NA,item_45,button,button,button (object)
 borsa,clothing,borsa,word,produces,NA,item_46,NA,purse,purse
 bavaglino,clothing,bavaglino,word,produces,NA,item_47,NA,bib,bib
@@ -269,7 +269,7 @@ cucina,furniture_rooms,cucina,word,produces,NA,item_267,kitchen,kitchen,kitchen
 culla,furniture_rooms,culla,word,produces,NA,item_268,crib,crib,crib
 divano,furniture_rooms,divano,word,produces,NA,item_269,couch,couch,couch
 doccia,furniture_rooms,doccia,word,produces,NA,item_270,shower,shower,shower
-ferro da stiro,furniture_rooms,ferro_da_stiro,word,produces,NA,item_271,NA,iron,iron (object)
+ferro da stiro,furniture_rooms,ferro_da_stiro,word,produces,NA,item_271,NA,iron,iron
 finestra,furniture_rooms,finestra,word,produces,NA,item_272,window,window,window
 fon,furniture_rooms,fon,word,produces,NA,item_273,NA,dryer,dryer
 forno,furniture_rooms,forno,word,produces,NA,item_274,NA,oven,oven

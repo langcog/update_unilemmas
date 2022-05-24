@@ -25,6 +25,8 @@ new_items[which(new_items$definition=="cenar"),]$uni_lemma = "dine"
 
 new_items[which(new_items$definition=="camión de bomberos"),]$uni_lemma = "firetruck" 
 
+new_items[which(new_items$uni_lemma=="roller skates"),]$uni_lemma = "skates"
+
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas
 
 

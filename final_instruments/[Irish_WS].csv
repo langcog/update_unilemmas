@@ -96,7 +96,7 @@ cáis,item_187,FOOD AND DRINK,produces; doesn't produce,word,cáis,0,food_drink,
 calógarbhair,item_189,FOOD AND DRINK,produces; doesn't produce,word,calógarbhair,0,food_drink,nouns,cornflakes,cheerios
 caorafínúna,item_191,FOOD AND DRINK,produces; doesn't produce,word,caorafínúna,0,food_drink,nouns,grapes,grapes
 ceapaire,item_193,FOOD AND DRINK,produces; doesn't produce,word,ceapaire,0,food_drink,nouns,sandwich,sandwich
-cnaipínísicín,item_195,FOOD AND DRINK,produces; doesn't produce,word,cnaipínísicín,0,food_drink,nouns,chicken nuggets,chicken nuggets
+cnaipínísicín,item_195,FOOD AND DRINK,produces; doesn't produce,word,cnaipínísicín,0,food_drink,nouns,chicken nuggets,nugget
 cnónna,item_197,FOOD AND DRINK,produces; doesn't produce,word,cnónna,0,food_drink,nouns,nuts,nut
 coke,item_199,FOOD AND DRINK,produces; doesn't produce,word,coke_cóc,1,food_drink,nouns,coke,soda
 criospaí,item_200,FOOD AND DRINK,produces; doesn't produce,word,criospaí_téiteo,0,food_drink,nouns,crisps,chips
@@ -106,7 +106,7 @@ feoil,item_207,FOOD AND DRINK,produces; doesn't produce,word,feoil,0,food_drink,
 glóthach,item_209,FOOD AND DRINK,produces; doesn't produce,word,glóthach,0,food_drink,nouns,jelly,jelly
 iasc,item_211,FOOD AND DRINK,produces; doesn't produce,word,iasc,0,food_drink,nouns,fish,fish (food)
 im,item_213,FOOD AND DRINK,produces; doesn't produce,word,im,0,food_drink,nouns,butter,butter
-ispíní,item_216,FOOD AND DRINK,produces; doesn't produce,word,ispíní_sasagaí,0,food_drink,nouns,sausages,sausages
+ispíní,item_216,FOOD AND DRINK,produces; doesn't produce,word,ispíní_sasagaí,0,food_drink,nouns,sausages,sausage
 leite,item_218,FOOD AND DRINK,produces; doesn't produce,word,leite_praiseach,0,food_drink,nouns,porridge,porridge
 liamhás,item_220,FOOD AND DRINK,produces; doesn't produce,word,liamhás_más,0,food_drink,nouns,ham,ham
 líreacán,item_222,FOOD AND DRINK,produces; doesn't produce,word,líreacán,0,food_drink,nouns,lollipop,lollipop
@@ -126,7 +126,7 @@ salann,item_246,FOOD AND DRINK,produces; doesn't produce,word,salann,0,food_drin
 sceallóga,item_248,FOOD AND DRINK,produces; doesn't produce,word,sceallóga,0,food_drink,nouns,chips,chips
 seacláid,item_250,FOOD AND DRINK,produces; doesn't produce,word,seacláid,0,food_drink,nouns,chocolate,chocolate
 slisíní,item_252,FOOD AND DRINK,produces; doesn't produce,word,slisíní_bagúin,0,food_drink,nouns,rashers,bacon
-spagettiie,item_254,FOOD AND DRINK,produces; doesn't produce,word,spagettiie,1,food_drink,nouns,spagetti,spagetti
+spagettiie,item_254,FOOD AND DRINK,produces; doesn't produce,word,spagettiie,1,food_drink,nouns,spagetti,spaghetti
 sútalún,item_255,FOOD AND DRINK,produces; doesn't produce,word,sútalún,0,food_drink,nouns,strawberry,strawberry
 sú,item_257,FOOD AND DRINK,produces; doesn't produce,word,sú,0,food_drink,nouns,juice,juice
 subh,item_259,FOOD AND DRINK,produces; doesn't produce,word,subh,0,food_drink,nouns,jam,jam
@@ -141,7 +141,7 @@ uisce,item_273,FOOD AND DRINK,produces; doesn't produce,word,uisce,0,food_drink,
 bibe,item_277,CLOTHES,produces; doesn't produce,word,bibe_beannóg,0,clothing,nouns,bib,bib
 bríste,item_279,CLOTHES,produces; doesn't produce,word,bríste_treabhsar,0,clothing,nouns,trousers,pants
 brístegearra,item_281,CLOTHES,produces; doesn't produce,word,brístegearra,0,clothing,nouns,shorts,shorts
-bróga,item_283,CLOTHES,produces; doesn't produce,word,bróga,0,clothing,nouns,shoes,shoes
+bróga,item_283,CLOTHES,produces; doesn't produce,word,bróga,0,clothing,nouns,shoes,shoe
 brógareatha,item_285,CLOTHES,produces; doesn't produce,word,brógareatha,0,clothing,nouns,runners,runners
 buataisí,item_287,CLOTHES,produces; doesn't produce,word,buataisí,0,clothing,nouns,boots,boots
 caipín,item_289,CLOTHES,produces; doesn't produce,word,caipín,0,clothing,nouns,cap,hat
@@ -150,7 +150,7 @@ cnaipe,item_294,CLOTHES,produces; doesn't produce,word,cnaipe,0,clothing,nouns,b
 cóta,item_296,CLOTHES,produces; doesn't produce,word,cóta,0,clothing,nouns,coat,coat
 crios,item_298,CLOTHES,produces; doesn't produce,word,crios,0,clothing,nouns,belt,cross
 culaithleapa,item_300,CLOTHES,produces; doesn't produce,word,culaithleapa,0,clothing,nouns,pijamas,pajamas
-culaithsnámha,item_302,CLOTHES,produces; doesn't produce,word,culaithsnámha,0,clothing,nouns,swimming costume,swimming togs
+culaithsnámha,item_302,CLOTHES,produces; doesn't produce,word,culaithsnámha,0,clothing,nouns,swimming costume,swimsuit
 éadaí,item_304,CLOTHES,produces; doesn't produce,word,éadaí,0,clothing,nouns,clothes,clothes
 fáinne,item_306,CLOTHES,produces; doesn't produce,word,fáinne,0,clothing,nouns,ring,ring
 fobhríste,item_308,CLOTHES,produces; doesn't produce,word,fobhríste_brístín,0,clothing,nouns,underpants,underpants
@@ -273,7 +273,7 @@ sorn,item_538,FURNITURE AND ROOMS,produces; doesn't produce,word,sorn,0,furnitur
 staighre,item_540,FURNITURE AND ROOMS,produces; doesn't produce,word,staighre,0,furniture_rooms,nouns,stairs,stairs
 stól,item_542,FURNITURE AND ROOMS,produces; doesn't produce,word,stól,0,furniture_rooms,nouns,stool,chair
 tarraicéan,item_544,FURNITURE AND ROOMS,produces; doesn't produce,word,tarraicéan,0,furniture_rooms,nouns,drawer,drawer
-teilifís,item_546,FURNITURE AND ROOMS,produces; doesn't produce,word,teilifís,0,furniture_rooms,nouns,television,telly
+teilifís,item_546,FURNITURE AND ROOMS,produces; doesn't produce,word,teilifís,0,furniture_rooms,nouns,television,TV
 tine,item_548,FURNITURE AND ROOMS,produces; doesn't produce,word,tine,0,furniture_rooms,nouns,fire,fire
 tolg,item_550,FURNITURE AND ROOMS,produces; doesn't produce,word,tolg_cúits,0,furniture_rooms,nouns,couch,couch
 urlár,item_552,FURNITURE AND ROOMS,produces; doesn't produce,word,urlár,0,furniture_rooms,nouns,floor,floor
@@ -371,7 +371,7 @@ barróg,item_733,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,ba
 grbéarfaidhméort,item_735,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,grbéarfaidhméort,0,games_routines,other,gonna get you,gonna get you
 bricfeasta,item_737,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,bricfeasta,0,games_routines,other,breakfast,breakfast
 castimpeall,item_739,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,castimpeall,0,games_routines,other,turn around,turn around
-chímthú,item_741,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,chímthú,0,games_routines,other,I see you,i see you
+chímthú,item_741,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,chímthú,0,games_routines,other,I see you,peekaboo
 chomhmór,item_743,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,chomhmór_mórmillteach,0,games_routines,other,so big,so big 
 diadhuit,item_745,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,diadhuit,0,games_routines,other,hello,hello
 dinnéar,item_747,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,dinnéar,0,games_routines,other,dinner,dinner

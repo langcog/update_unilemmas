@@ -123,7 +123,7 @@ item_121,quesdila,word,food_drink,produces,quesadilla,NA,quesadilla,quesadilla,q
 item_122,queso,word,food_drink,produces,queso,NA,cheese,cheese,cheese
 item_123,sal,word,food_drink,produces,sal,NA,NA,salt,salt
 item_124,salchch,word,food_drink,produces,salchicha,NA,hot dog,hot dog,hot dog
-item_125,salsa,word,food_drink,produces,salsa,NA,NA,salsa,salsa
+item_125,salsa,word,food_drink,produces,salsa,NA,NA,salsa,sauce
 item_126,sandia,word,food_drink,produces,sandía,NA,NA,watermelon,watermelon
 item_127,soda,word,food_drink,produces,soda/refresco,NA,soda,soda water,soda
 item_128,sopa,word,food_drink,produces,sopa,NA,soup,soup,soup

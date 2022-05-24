@@ -31,6 +31,7 @@ new_items[which(new_items$uni_lemma=="merry-go-round"),]$uni_lemma = "carousel"
 new_items[which(new_items$uni_lemma=="cd"),]$uni_lemma = "CD"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="hold on"),]$uni_lemma = "hold"
+new_items[which(new_items$uni_lemma=="shake (hands)"),]$uni_lemma = "shake"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

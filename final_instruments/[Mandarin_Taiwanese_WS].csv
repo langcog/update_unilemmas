@@ -33,7 +33,7 @@ item_31,a01_31,word,animals,produces,小雞,NA,chicken,chicken (animal)
 item_32,a01_32,word,animals,produces,蟑螂,NA,cockroach,cockroach
 item_33,a01_33,word,animals,produces,鱷魚,NA,alligator,alligator
 item_34,a01_34,word,animals,produces,毛毛蟲,NA,caterpillar,caterpillar
-item_35,a01_35,word,animals,produces,蝦子,NA,shrimp,shrimp (animal)
+item_35,a01_35,word,animals,produces,蝦子,NA,shrimp,shrimp
 item_36,a01_36,word,animals,produces,公雞,NA,rooster,rooster
 item_37,a01_37,word,animals,produces,河馬,NA,hippo,hippopotamus
 item_38,a01_38,word,animals,produces,蒼蠅,NA,fly,fly (animal)
@@ -155,7 +155,7 @@ item_153,a04_52,word,food_drink,produces,雞肉,NA,chicken,chicken (food)
 item_154,a04_53,word,food_drink,produces,果凍,NA,jelly,jelly
 item_155,a04_54,word,food_drink,produces,爆米花,NA,popcorn,popcorn
 item_156,a04_55,word,food_drink,produces,口香糖,NA,chewing gum,gum
-item_157,a04_56,word,food_drink,produces,雞塊,NA,chicken nuggets,nuggets (food)
+item_157,a04_56,word,food_drink,produces,雞塊,NA,chicken nuggets,nugget
 item_158,a04_57,word,food_drink,produces,點心,NA,snack,snack
 item_159,a04_58,word,food_drink,produces,檸檬,NA,lemon,lemon
 item_160,a04_59,word,food_drink,produces,三明治,NA,sandwich,sandwich

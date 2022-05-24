@@ -83,7 +83,7 @@ item_81,81_formina_s,word,produces,toys,formiņa (smilšu k.),NA,sand mold,sandb
 item_82,82_grabeklis,word,produces,toys,grābeklis,NA,rake,rake
 item_83,83_gramata,word,produces,toys,grāmata,NA,book,book
 item_84,84_klucisi,word,produces,toys,klucīši,NA,blocks,blocks
-item_85,85_krasas,word,produces,toys,krāsas,NA,paints,paint
+item_85,85_krasas,word,produces,toys,krāsas,NA,paints,paint (object)
 item_86,86_lapsta,word,produces,toys,lāpsta,NA,rake,shovel
 item_87,87_lelle,word,produces,toys,lelle,NA,doll,doll
 item_88,88_ota,word,produces,toys,ota,NA,paintbrush,brush (object)
@@ -519,7 +519,7 @@ item_517,517_sukat_kemm,word,produces,action_words,sukāt/ķemmēt,NA,brush,brus
 item_518,518_skaudit,word,produces,action_words,šķaudīt,NA,sneeze,sneeze
 item_519,519_slakstinat,word,produces,action_words,šļakstināt,NA,splash,splash
 item_520,520_supot,word,produces,action_words,šūpot,NA,rock/swing,say
-item_521,521_teikt_saci,word,produces,action_words,teikt/sacīt,NA,say/tell,say/tell
+item_521,521_teikt_saci,word,produces,action_words,teikt/sacīt,NA,say/tell,say
 item_522,522_tirit,word,produces,action_words,tīrīt,NA,clean,clean (action)
 item_523,523_turet,word,produces,action_words,turēt,NA,hold,hold
 item_524,524_varit,word,produces,action_words,vārīt,NA,cook,cook
@@ -669,7 +669,7 @@ item_667,667_talak,word,produces,locations,tālāk,NA,further,further
 item_668,668_tur,word,produces,locations,tur,NA,there,there
 item_669,669_turp,word,produces,locations,turp,NA,there (as in “go there”),there
 item_670,670_tuvak,word,produces,locations,tuvāk,NA,closer,closer
-item_671,671_uz_uz_kre,word,produces,locations,uz (uz krēsla),NA,on (e.g. on the chair),on (e.g. on the chair)
+item_671,671_uz_uz_kre,word,produces,locations,uz (uz krēsla),NA,on (e.g. on the chair),on
 item_672,672_virs_virs,word,produces,locations,virs/ virsū,NA,above,above
 item_673,673_zem,word,produces,locations,zem,NA,under,under
 item_674,674_abi_abas,word,produces,quantifiers,abi/abas,NA,both,both
