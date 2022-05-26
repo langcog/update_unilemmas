@@ -684,7 +684,7 @@ item_682,a18_13,word,quantifiers,produces,很多,NA,much,much
 item_683,a18_14,word,quantifiers,produces,更多,NA,more,more
 item_684,a19_01,word,question_words,produces,什麼？,NA,what,what
 item_685,a19_02,word,question_words,produces,哪裡？,NA,where,where
-item_686,a19_03,word,question_words,produces,哪一個？,NA,which,which
+item_686,a19_03,word,question_words,produces,哪一個？,NA,which,which (question)
 item_687,a19_04,word,question_words,produces,誰？,NA,who,who
 item_688,a19_05,word,question_words,produces,怎麼(辦)？,NA,how,how
 item_689,a19_06,word,question_words,produces,咦？,NA,why,why

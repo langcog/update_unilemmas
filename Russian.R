@@ -55,6 +55,7 @@ new_items[which(new_items$uni_lemma=="back (object)"),]$uni_lemma = "back (body 
 new_items[which(new_items$uni_lemma=="country house"),]$uni_lemma = "cabin" 
 new_items[which(new_items$uni_lemma=="cheerful"),]$uni_lemma = "happy" 
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="in order to"),]$uni_lemma = "to"
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

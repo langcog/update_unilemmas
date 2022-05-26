@@ -7,7 +7,7 @@ item_5,item_5,csihuhu,word,produces,sounds,NA,choo-choo (train),choo choo
 item_6,item_6,gá-gá,word,produces,sounds,NA,honk (goose),NA
 item_7,item_7,háp-háp,word,produces,sounds,NA,quack quack (duck),quack quack
 item_8,item_8,ham-ham,word,produces,sounds,NA,yum yum,yum yum
-item_9,item_9,hoppá,word,produces,sounds,NA,oops,oops
+item_9,item_9,hoppá,word,produces,sounds,NA,oops,uh oh
 item_10,item_10,hu-hu,word,produces,sounds,NA,whoo-whoo (owl),hoot
 item_11,item_11,jaj,word,produces,sounds,NA,ouch,ouch
 item_12,item_12,kukurikú,word,produces,sounds,NA,cockadoodledoo (rooster),cockadoodledoo
@@ -210,7 +210,7 @@ item_208,item_208,pizsama,word,produces,clothing,NA,pajamas,pajamas
 item_209,item_209,póló,word,produces,clothing,NA,t-shirt,shirt
 item_210,item_210,pulóver,word,produces,clothing,NA,sweater,sweater
 item_211,item_211,rövidnadrag,word,produces,clothing,NA,shorts,shorts
-item_212,item_212,ruha,word,produces,clothing,NA,dress,dress
+item_212,item_212,ruha,word,produces,clothing,NA,dress,dress (object)
 item_213,item_213,sál,word,produces,clothing,NA,scarf,scarf
 item_214,item_214,sapka,word,produces,clothing,NA,cap,hat
 item_215,item_215,szandál,word,produces,clothing,NA,sandal,sandal

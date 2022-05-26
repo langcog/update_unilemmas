@@ -453,7 +453,7 @@ item_451,i_14_38,word,action_words,produces,kjøre,NA,drive,driving,drive
 item_452,i_14_39,word,action_words,produces,klappe,NA,NA,pat,pat
 item_453,i_14_40,word,action_words,produces,klatre,NA,NA,climb,climb 
 item_454,i_14_41,word,action_words,produces,klemme,NA,hug,clamp,hug
-item_455,i_14_42,word,action_words,produces,kle på,NA,NA,dress,dress 
+item_455,i_14_42,word,action_words,produces,kle på,NA,NA,dress,dress (action)
 item_456,i_14_43,word,action_words,produces,koste,NA,NA,cost,sweep 
 item_457,i_14_44,word,action_words,produces,kysse,NA,kiss,kiss,kiss
 item_458,i_14_45,word,action_words,produces,lage mat,NA,NA,cook,cook 

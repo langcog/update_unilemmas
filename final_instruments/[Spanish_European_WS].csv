@@ -31,7 +31,7 @@ item_29,c_lobito,word,games_routines,produces,cinco lobitos,NA,five little wolve
 item_30,cochino,word,games_routines,produces,cochino,NA,nasty,nasty
 item_31,cuidado,word,games_routines,produces,cuidado,NA,watch out,NA
 item_32,dejame,word,games_routines,produces,déjame,NA,let me,NA
-item_33,eso_no,word,games_routines,produces,eso no,NA,not that,not that
+item_33,eso_no,word,games_routines,produces,eso no,NA,not that,don't
 item_34,espera,word,games_routines,produces,espera,NA,wait,wait
 item_35,e_quieto,word,games_routines,produces,estáte quieto,NA,be quiet,shh
 item_36,gracias,word,games_routines,produces,gracias,NA,thank you,thank you
@@ -273,7 +273,7 @@ item_265,pijama,word,clothing,produces,pijima,NA,pajamas,pajamas
 item_266,ropa,word,clothing,produces,ropa,NA,clothing,clothing
 item_267,sandalia,word,clothing,produces,sandalia,NA,sandal,sandal
 item_268,sombrero,word,clothing,produces,sombrero,NA,hat,hat
-item_269,vestido,word,clothing,produces,vestido,NA,dress,dress
+item_269,vestido,word,clothing,produces,vestido,NA,dress,dress (object)
 item_270,zapatill,word,clothing,produces,zapatilla/s,NA,sneakers,sneaker
 item_271,zapatos,word,clothing,produces,zapato/s,NA,shoes,shoe
 item_272,arbol,word,outside_places,produces,árbol,NA,tree,tree
@@ -325,7 +325,7 @@ item_317,crema,word,household,produces,crema,NA,NA,NA
 item_318,cuchara,word,household,produces,cuchara,NA,spoon,spoon
 item_319,cuchillo,word,household,produces,cuchillo,NA,knife,knife
 item_320,cuna,word,household,produces,cuna,NA,crib,crib
-item_321,ducha,word,household,produces,ducha,NA,shower,shower (object)
+item_321,ducha,word,household,produces,ducha,NA,shower,shower
 item_322,enchufe,word,household,produces,enchufe,NA,outlet/plug,plug
 item_323,escalera,word,household,produces,escalera,NA,stairs,stairs
 item_324,escoba,word,household,produces,escoba,NA,broom,broom

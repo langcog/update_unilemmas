@@ -36,6 +36,7 @@ new_items[which(new_items$uni_lemma=="even if"),]$uni_lemma = "even"
 new_items[which(new_items$uni_lemma=="go in"),]$uni_lemma = "enter"
 new_items[which(new_items$WS=="item_254"),]$uni_lemma = "tie (object)"
 new_items[which(new_items$WS=="item_597"),]$uni_lemma = "tie (action)"
+new_items[which(new_items$uni_lemma=="helper's name"),]$uni_lemma = "babysitter's name"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

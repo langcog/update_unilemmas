@@ -177,7 +177,7 @@ item_175,clothing,hemd/bloes,understands;produces,hemd/bloes,word,shirt,shirt
 item_176,clothing,hoed,understands;produces,hoed,word,hat,hat
 item_177,clothing,jas,understands;produces,jas,word,jacket,jacket
 item_178,clothing,jeans(broek)/spijkerbroek,understands;produces,jeans(broek)/spijkerbroek,word,jeans,jeans
-item_179,clothing,kleedje/jurkje,understands;produces,kleedje/jurkje,word,dress,dress
+item_179,clothing,kleedje/jurkje,understands;produces,kleedje/jurkje,word,dress,dress (object)
 item_180,clothing,knoop,understands;produces,knoop,word,button,button
 item_181,clothing,kous/sok,understands;produces,kous/sok,word,sock,sock 
 item_182,clothing,kousebroek/collants/maillot,understands;produces,kousebroek/collants/maillot,word,pantyhose,pantyhose
@@ -288,7 +288,7 @@ item_286,furniture_rooms,badkamer,understands;produces,badkamer,word,bathroom,ba
 item_287,furniture_rooms,bed,understands;produces,bed,word,bed,bed
 item_288,furniture_rooms,deur,understands;produces,deur,word,door,door
 item_289,furniture_rooms,douche,understands;produces,douche,word,shower,shower
-item_290,furniture_rooms,droogkast/droogtrommel,understands;produces,droogkast/droogtrommel,word,tumble dryer,tumble dryer
+item_290,furniture_rooms,droogkast/droogtrommel,understands;produces,droogkast/droogtrommel,word,tumble dryer,dryer
 item_291,furniture_rooms,garage,understands;produces,garage,word,garage,garage
 item_292,furniture_rooms,gootsteen/afwasbak,understands;produces,gootsteen/afwasbak,word,sink,sink
 item_293,furniture_rooms,kachel/openhaard,understands;produces,kachel/openhaard,word,heater/fireplace,heater/fireplace
@@ -407,7 +407,7 @@ item_405,games_routines,inbadgaan,understands;produces,inbadgaan,word,take a bat
 item_406,games_routines,ja,understands;produces,ja,word,yes,yes
 item_407,games_routines,kiekeboe/piep!,understands;produces,kiekeboe/piep!,word,peek a boo,peek a boo
 item_408,games_routines,middageten,understands;produces,middageten,word,lunch,lunch
-item_409,games_routines,(middag)slaapje/dutjedoen,understands;produces,(middag)slaapje/dutjedoen,word,(take a) nap,to sleep
+item_409,games_routines,(middag)slaapje/dutjedoen,understands;produces,(middag)slaapje/dutjedoen,word,(take a) nap,sleep
 item_410,games_routines,nee,understands;produces,nee,word,no,no
 item_411,games_routines,ontbijt/ontbijten,understands;produces,ontbijt/ontbijten,word,(to have) breakfast,breakfast (action)
 item_412,games_routines,ophetpotjegaanofzitten,understands;produces,ophetpotjegaanofzitten,word,go potty,go potty
@@ -686,7 +686,7 @@ item_684,helping_verbs,was(bvbhijwas),understands;produces,was(bvbhijwas),word,w
 item_685,helping_verbs,zijn(bvbwijzijn),understands;produces,zijn(bvbwijzijn),word,are,be
 item_686,helping_verbs,zoujekunnen,understands;produces,zoujekunnen,word,would you be able to,NA
 item_687,helping_verbs,zou/zouden,understands;produces,zou/zouden,word,would,would
-item_688,helping_verbs,zullen,understands;produces,zullen,word,will,will (verb)
+item_688,helping_verbs,zullen,understands;produces,zullen,word,will,will
 item_689,connecting_words,als,understands;produces,als,word,if/when,if
 item_690,connecting_words,daarom,understands;produces,daarom,word,therefore,therefore
 item_691,connecting_words,dan,understands;produces,dan,word,then,then

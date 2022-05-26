@@ -21,6 +21,7 @@ new_items[which(new_items$definition=="luz"),]$uni_lemma = "light (object)"
 new_items[which(new_items$definition=="llaves"),]$uni_lemma = "key" # singular
 new_items[which(new_items$definition=="nana"),]$uni_lemma = "babysitter" # or housekeeper?
 
+new_items[which(new_items$uni_lemma=="orange (fruit)"),]$uni_lemma = "orange (food)"
 
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas
 

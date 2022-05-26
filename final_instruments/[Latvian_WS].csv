@@ -74,7 +74,7 @@ item_72,72_ratini,word,produces,vehicles,ratiņi,NA,pram,stroller
 item_73,73_ritenis__,word,produces,vehicles,ritenis / velosipēds,NA,bicycle,bicycle
 item_74,74_traktors,word,produces,vehicles,traktors,NA,tractor,tractor
 item_75,75_tramvajs,word,produces,vehicles,tramvajs,NA,tram,tram
-item_76,76_trolejbuss,word,produces,vehicles,trolejbuss,NA,trolleybus,trolleybus
+item_76,76_trolejbuss,word,produces,vehicles,trolejbuss,NA,trolleybus,trolley
 item_77,77_vilciens,word,produces,vehicles,vilciens,NA,train,train
 item_78,78_balons,word,produces,toys,balons,NA,balloon,balloon
 item_79,79_bumba,word,produces,toys,bumba,NA,ball,ball

@@ -105,7 +105,7 @@ item_103,clothing,hemd/bloes,understands;produces,hemd/bloes,word,shirt,shirt
 item_104,clothing,hoed,understands;produces,hoed,word,hat,hat
 item_105,clothing,jas,understands;produces,jas,word,jacket,jacket
 item_106,clothing,jeans(broek)/spijkerbroek,understands;produces,jeans(broek)/spijkerbroek,word,jeans,jeans
-item_107,clothing,kleedje/jurkje,understands;produces,kleedje/jurkje,word,dress,dress
+item_107,clothing,kleedje/jurkje,understands;produces,kleedje/jurkje,word,dress,dress (object)
 item_108,clothing,knoop,understands;produces,knoop,word,button,button
 item_109,clothing,kous/sok,understands;produces,kous/sok,word,sock,sock 
 item_110,clothing,laarsjes/botjes,understands;produces,laarsjes/botjes,word,boots,boot
@@ -368,7 +368,7 @@ item_366,toys,naamvanknuffel/doekje/lappenpopvanhetkind,understands;produces,naa
 item_367,toys,schommelpaard/hobbelpaard,understands;produces,schommelpaard/hobbelpaard,word,rocking horse,rocking horse
 item_368,food_drink,beschuit,understands;produces,beschuit,word,Dutch rusk/biscuit rusk,cookie
 item_369,food_drink,cola,understands;produces,cola,word,coke,soda
-item_370,food_drink,fruitpap/fruithapje,understands;produces,fruitpap/fruithapje,word,fruit puree,fruit puree
+item_370,food_drink,fruitpap/fruithapje,understands;produces,fruitpap/fruithapje,word,fruit puree,smoothie
 item_371,food_drink,limonade,understands;produces,limonade,word,lemonade,lemonade
 item_372,food_drink,yoghurt,understands;produces,yoghurt,word,yoghurt,yogurt
 item_373,games_routines,a.u.b./alsjeblieft,understands;produces,a.u.b./alsjeblieft,word,please,please

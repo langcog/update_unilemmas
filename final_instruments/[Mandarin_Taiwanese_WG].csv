@@ -349,7 +349,7 @@ item_347,d16_05,word,pronouns,understands; produces,還有,NA,NA,NA
 item_348,d16_06,word,pronouns,understands; produces,那個,NA,NA,NA
 item_349,d17_01,word,question_words,understands; produces,什麼？,NA,what,what
 item_350,d17_02,word,question_words,understands; produces,哪裡？,NA,where,where
-item_351,d17_03,word,question_words,understands; produces,哪一個？,NA,which,which
+item_351,d17_03,word,question_words,understands; produces,哪一個？,NA,which,which (question)
 item_352,d17_04,word,question_words,understands; produces,誰？,NA,who,who
 item_353,d17_05,word,question_words,understands; produces,怎麼(辦)？,NA,how,how
 item_354,d17_06,word,question_words,understands; produces,咦？,NA,why,why

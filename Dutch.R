@@ -144,6 +144,11 @@ new_items[which(new_items$uni_lemma=="look after"),]$uni_lemma = "watch (action)
 new_items[which(new_items$uni_lemma=="not any"),]$uni_lemma = "none" # or nothing
 new_items[which(new_items$uni_lemma=="knock (verb)"),]$uni_lemma = "knock"
 new_items[which(new_items$uni_lemma=="tear up"),]$uni_lemma = "tear"
+new_items[which(new_items$uni_lemma=="dress"),]$uni_lemma = "dress (object)"
+new_items[which(new_items$uni_lemma=="tumble dryer"),]$uni_lemma = "dryer"
+new_items[which(new_items$uni_lemma=="to sleep"),]$uni_lemma = "sleep"
+new_items[which(new_items$uni_lemma=="fruit puree"),]$uni_lemma = "smoothie"
+new_items[which(new_items$uni_lemma=="will (verb)"),]$uni_lemma = "will"
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

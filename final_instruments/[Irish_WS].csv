@@ -154,8 +154,8 @@ culaithsnámha,item_302,CLOTHES,produces; doesn't produce,word,culaithsnámha,0,
 éadaí,item_304,CLOTHES,produces; doesn't produce,word,éadaí,0,clothing,nouns,clothes,clothes
 fáinne,item_306,CLOTHES,produces; doesn't produce,word,fáinne,0,clothing,nouns,ring,ring
 fobhríste,item_308,CLOTHES,produces; doesn't produce,word,fobhríste_brístín,0,clothing,nouns,underpants,underpants
-geansaí,item_310,CLOTHES,produces; doesn't produce,word,geansaí,0,clothing,nouns,jumper,jumper
-gúna,item_312,CLOTHES,produces; doesn't produce,word,gúna,0,clothing,nouns,dress,dress
+geansaí,item_310,CLOTHES,produces; doesn't produce,word,geansaí,0,clothing,nouns,jumper,sweater
+gúna,item_312,CLOTHES,produces; doesn't produce,word,gúna,0,clothing,nouns,dress,dress (object)
 hata,item_314,CLOTHES,produces; doesn't produce,word,hata,0,clothing,nouns,hat,hat
 lámhainní,item_316,CLOTHES,produces; doesn't produce,word,lámhainní_miteogaí,0,clothing,nouns,gloves,gloves
 léine,item_318,CLOTHES,produces; doesn't produce,word,léine,0,clothing,nouns,shirt,shirt
@@ -667,7 +667,7 @@ píosa,item_1301,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,píosa,
 ró,item_1303,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,ró,0,quantifiers,function_words,too,too
 roinnt,item_1305,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,roinnt_beagáinín,0,quantifiers,function_words,some,some
 saghas,item_1307,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,saghas_cineál_sórt,0,quantifiers,function_words,kind of,sort of
-(ag)iarraidh,item_1309,HELPING VERBS,produces; doesn't produce,word,(ag)iarraidh,0,helping_verbs,function_words,try (to),try to
+(ag)iarraidh,item_1309,HELPING VERBS,produces; doesn't produce,word,(ag)iarraidh,0,helping_verbs,function_words,try (to),try
 (is)féidir,item_1311,HELPING VERBS,produces; doesn't produce,word,(is)féidir_ábalta,0,helping_verbs,function_words,can,can
 beidh,item_1313,HELPING VERBS,produces; doesn't produce,word,beidh,0,helping_verbs,function_words,will be,will be
 bhfuil,item_1315,HELPING VERBS,produces; doesn't produce,word,bhfuil,0,helping_verbs,function_words,is,is

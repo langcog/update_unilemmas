@@ -86,7 +86,7 @@ item_84,leche,word,food_drink,understands; produces,leche,NA,milk,milk
 item_85,manzana,word,food_drink,understands; produces,manzana,NA,apple,apple
 item_86,mate,word,food_drink,understands; produces,mate,NA,mate,tea
 item_87,mantequilla,word,food_drink,understands; produces,mantequilla/margarina,NA,butter/margarine,butter
-item_88,naranja,word,food_drink,understands; produces,naranja,NA,orange,orange (fruit)
+item_88,naranja,word,food_drink,understands; produces,naranja,NA,orange,orange (food)
 item_89,pan,word,food_drink,understands; produces,pan,NA,bread,bread
 item_90,papas,word,food_drink,understands; produces,papas,NA,potatoes,potato
 item_91,pastel,word,food_drink,understands; produces,pastel/torta,NA,pie/cake,cake

@@ -69,14 +69,16 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2310 uni-lemmas
+  # how it's going: 2203 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2221 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 530 hapaxes
+  length(new_uni_tab) # 2203 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 514 hapaxes
   length(unique(new_uni$form)) # 62 forms
+  
+  write_csv(new_unit)
   
   # uni-lemmas we no longer have:
   setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 92 corrections/changes
