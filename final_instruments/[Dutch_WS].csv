@@ -521,7 +521,7 @@ item_519,action_words,kiezen,understands;produces,kiezen,word,to choose,choose
 item_520,action_words,kijken,understands;produces,kijken,word,to look,look
 item_521,action_words,klappen(inhanden),understands;produces,klappen(inhanden),word,to clap (hands),clap
 item_522,action_words,klimmen,understands;produces,klimmen,word,to climb,climb
-item_523,action_words,kloppen,understands;produces,kloppen,word,to knock,knock (verb)
+item_523,action_words,kloppen,understands;produces,kloppen,word,to knock,knock
 item_524,action_words,knippen,understands;produces,knippen,word,to cut,cut
 item_525,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug (verb)
 item_526,action_words,koken/etenmaken,understands;produces,koken/etenmaken,word,to cook,cook
@@ -547,7 +547,7 @@ item_545,action_words,proeven,understands;produces,proeven,word,to taste,taste
 item_546,action_words,puzzelen,understands;produces,puzzelen,word,to puzzle,puzzle (verb)
 item_547,action_words,rijden,understands;produces,rijden,word,to ride,ride
 item_548,action_words,schaatsen/skeelen,understands;produces,schaatsen/skeelen,word,to ice skate,skate
-item_549,action_words,scheuren,understands;produces,scheuren,word,to tear up,tear up
+item_549,action_words,scheuren,understands;produces,scheuren,word,to tear up,tear
 item_550,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (verb)
 item_551,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick (verb)
 item_552,action_words,schrijven,understands;produces,schrijven,word,to write,write

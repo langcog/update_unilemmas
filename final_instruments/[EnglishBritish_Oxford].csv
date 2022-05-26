@@ -54,7 +54,7 @@ item_52,52_motor-bike,vehicles,understands; produces,motor-bike,word,NA,motor-bi
 item_53,53_bus,vehicles,understands; produces,bus,word,NA,bus,bus
 item_54,54_car,vehicles,understands; produces,car,word,NA,car,car
 item_55,55_fire_engine,vehicles,understands; produces,fire engine,word,NA,fire engine,firetruck
-item_56,56_pushchair_buggy,vehicles,understands; produces,pushchair / buggy,word,NA,pushchair / buggy,stoller
+item_56,56_pushchair_buggy,vehicles,understands; produces,pushchair / buggy,word,NA,pushchair / buggy,stroller
 item_57,57_train,vehicles,understands; produces,train,word,NA,train,train
 item_58,58_ball,toys,understands; produces,ball,word,NA,ball,ball
 item_59,59_balloon,toys,understands; produces,balloon,word,NA,balloon,balloon

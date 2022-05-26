@@ -410,9 +410,9 @@ aprire,action_words,aprire,word,produces,NA,item_408,open (action),open,open (ac
 arrampicarsi,action_words,arrampicarsi,word,produces,NA,item_409,NA,climb,climb
 asciugare,action_words,asciugare,word,produces,NA,item_410,NA,dry,dry (action)
 aspettare,action_words,aspettare,word,produces,NA,item_411,wait,wait,wait
-aver fame,action_words,aver_fame,word,produces,NA,item_412,NA,hungry,be hungry
-aver sete,action_words,aver_sete,word,produces,NA,item_413,NA,thirsty,be thirsty
-aver sonno,action_words,aver_sonno,word,produces,NA,item_414,NA,sleepy,be sleepy
+aver fame,action_words,aver_fame,word,produces,NA,item_412,NA,hungry,hungry
+aver sete,action_words,aver_sete,word,produces,NA,item_413,NA,thirsty,thirsty
+aver sonno,action_words,aver_sonno,word,produces,NA,item_414,NA,sleepy,sleepy
 baciare,action_words,baciare,word,produces,NA,item_415,kiss,kiss,kiss
 ballare,action_words,ballare,word,produces,NA,item_416,dance,dance,dance
 bere,action_words,bere,word,produces,NA,item_417,drink (action),drink,drink (action)

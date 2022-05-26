@@ -465,7 +465,7 @@ item_463,i_14_50,word,action_words,produces,lese,NA,read,read,read
 item_464,i_14_51,word,action_words,produces,like,NA,NA,equally,like 
 item_465,i_14_52,word,action_words,produces,lukke,NA,close,close,close
 item_466,i_14_53,word,action_words,produces,løpe,NA,run,run,run
-item_467,i_14_54,word,action_words,produces,male,NA,NA,paint,paint 
+item_467,i_14_54,word,action_words,produces,male,NA,NA,paint,paint (action)
 item_468,i_14_55,word,action_words,produces,mate,NA,feed,feed,feed
 item_469,i_14_56,word,action_words,produces,miste,NA,NA,Lose,lose
 item_470,i_14_57,word,action_words,produces,reparere,NA,NA,repair,repair 

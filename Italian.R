@@ -30,6 +30,9 @@ new_items[which(new_items$uni_lemma=="gasoline"),]$uni_lemma = "gas"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="suspeners"),]$uni_lemma = "suspenders"
 new_items[which(new_items$uni_lemma=="iron (object)"),]$uni_lemma = "iron"
+new_items[which(new_items$uni_lemma=="be hungry"),]$uni_lemma = "hungry"
+new_items[which(new_items$uni_lemma=="be sleepy"),]$uni_lemma = "sleepy"
+new_items[which(new_items$uni_lemma=="be thirsty"),]$uni_lemma = "thirsty"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

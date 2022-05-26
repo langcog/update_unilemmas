@@ -250,7 +250,7 @@ item_248,V4RINSE,word,action_words,produces,NA,冲,rinse,rinse
 item_249,V4HELP,word,action_words,produces,NA,帮助/帮忙,help,help
 item_250,V4DRAG,word,action_words,produces,NA,拖,pull,pull
 item_251,V4SWING,word,action_words,produces,NA,悠,swing (action),swing (action)
-item_252,V4TIEUP,word,action_words,produces,NA,绑,tie,tie
+item_252,V4TIEUP,word,action_words,produces,NA,绑,tie,tie (action)
 item_253,V4STIR,word,action_words,produces,NA,搅,stir,stir
 item_254,V4RAO,word,action_words,produces,NA,绕,go around,go around
 item_255,V4PRESS,word,action_words,produces,NA,摁（按）,press,press

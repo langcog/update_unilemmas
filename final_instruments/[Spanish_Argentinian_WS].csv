@@ -504,7 +504,7 @@ item_502,pegar_se,pegar_se,action_words,word,produces,NA,hit,hit
 item_503,peinar_se,peinar_se,action_words,word,produces,NA,comb (action),comb (action)
 item_504,pensar,pensar,action_words,word,produces,NA,think,think
 item_505,perder,perder,action_words,word,produces,NA,waste,waste
-item_506,pintar,pintar,action_words,word,produces,NA,paint,paint
+item_506,pintar,pintar,action_words,word,produces,NA,paint,paint (action)
 item_507,poder,poder,action_words,word,produces,NA,poser,can
 item_508,poner_se,poner_se,action_words,word,produces,NA,put,put
 item_509,prender,prender,action_words,word,produces,NA,switch on,turn on

@@ -238,7 +238,7 @@ item_230,llorar,word,action_words,understands; produces,llorar,NA,to cry,cry
 item_231,mirar,word,action_words,understands; produces,mirar,NA,to look,look
 item_232,pegar,word,action_words,understands; produces,pegar(se),NA,to hit,hit
 item_233,peinar,word,action_words,understands; produces,peinar(se),NA,to comb,comb (action)
-item_234,pintar,word,action_words,understands; produces,pintar,NA,to paint,paint
+item_234,pintar,word,action_words,understands; produces,pintar,NA,to paint,paint (action)
 item_235,poder,word,action_words,understands; produces,poder [puedes…],NA,can,can (auxiliary)
 item_236,poner,word,action_words,understands; produces,poner(se),NA,put,put
 item_237,quemar,word,action_words,understands; produces,quemar,NA,to burn,burn

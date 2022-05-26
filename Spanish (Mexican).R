@@ -44,7 +44,7 @@ new_items[which(new_items$uni_lemma=="lay down"),]$uni_lemma = "lie down"
 new_items[which(new_items$uni_lemma=="salsa"),]$uni_lemma = "sauce" 
 new_items[which(new_items$uni_lemma=="ranch"),]$uni_lemma = "farm" 
 new_items[which(new_items$uni_lemma=="skinny"),]$uni_lemma = "thin" 
-
+new_items[which(new_items$uni_lemma=="sink (object)"),]$uni_lemma = "sink"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_Mexican", "WS", new_items %>% rename(itemID = WS))

@@ -304,7 +304,7 @@ item_302,cuna,word,furniture_rooms,produces,cuna,NA,crib,crib,crib
 item_303,escalera,word,furniture_rooms,produces,escaleras,NA,NA,stairs,stairs
 item_304,estufa,word,furniture_rooms,produces,estufa,NA,stove,stove,stove
 item_305,horno,word,furniture_rooms,produces,horno,NA,oven,oven,oven
-item_306,lavabo,word,furniture_rooms,produces,lavabo,NA,sink,sink,sink (object)
+item_306,lavabo,word,furniture_rooms,produces,lavabo,NA,sink,sink,sink
 item_307,lavadora,word,furniture_rooms,produces,lavadora,NA,NA,washing machine,washing machine
 item_308,librero,word,furniture_rooms,produces,librero,NA,NA,bookcase,bookshelf
 item_309,mesa,word,furniture_rooms,produces,mesa,NA,table,table top,table

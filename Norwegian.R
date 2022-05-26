@@ -74,6 +74,7 @@ new_items[which(new_items$uni_lemma=="at home "),]$uni_lemma = "home"
 new_items[which(new_items$uni_lemma=="meatballs"),]$uni_lemma = "meatball"
 new_items[which(new_items$uni_lemma=="on the outside"),]$uni_lemma = "outside"
 new_items[which(new_items$uni_lemma=="pet names"),]$uni_lemma = "pet's name"
+new_items[which(new_items$uni_lemma=="paint "),]$uni_lemma = "paint (action)"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

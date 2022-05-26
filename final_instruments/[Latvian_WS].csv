@@ -437,7 +437,7 @@ item_435,435_darit,word,produces,action_words,darīt,NA,do,do
 item_436,436_dejot,word,produces,action_words,dejot,NA,dance,dance
 item_437,437_domat,word,produces,action_words,domāt,NA,think,think
 item_438,438_dot,word,produces,action_words,dot,NA,give,give
-item_439,439_dusmoties,word,produces,action_words,dusmoties,NA,be angry,be angry
+item_439,439_dusmoties,word,produces,action_words,dusmoties,NA,be angry,angry
 item_440,440_dzert,word,produces,action_words,dzert,NA,drink,drink
 item_441,441_dziedat,word,produces,action_words,dziedāt,NA,sing,sing
 item_442,442_dzirdet,word,produces,action_words,dzirdēt,NA,hear,hear
@@ -457,7 +457,7 @@ item_455,455_klauvet,word,produces,action_words,klauvēt,NA,knock,knock
 item_456,456_kliegt,word,produces,action_words,kliegt,NA,scream,scream
 item_457,457_kniebt,word,produces,action_words,kniebt,NA,pinch,pinch
 item_458,458_kost,word,produces,action_words,kost,NA,bite,bite
-item_459,459_krasot,word,produces,action_words,krāsot,NA,pain,paint
+item_459,459_krasot,word,produces,action_words,krāsot,NA,pain,paint (action)
 item_460,460_krist,word,produces,action_words,krist,NA,fall,fall
 item_461,461_kert,word,produces,action_words,ķert,NA,catch,catch
 item_462,462_laizit,word,produces,action_words,laizīt,NA,lick,lick
@@ -562,7 +562,7 @@ item_560,560_noguris,word,produces,descriptive_words,noguris,NA,tired,tired
 item_561,561_pedejais,word,produces,descriptive_words,pēdējais,NA,last,last
 item_562,562_pilns,word,produces,descriptive_words,pilns,NA,full,full
 item_563,563_pirmais,word,produces,descriptive_words,pirmais,NA,first,first
-item_564,564_pliks,word,produces,descriptive_words,pliks,NA,naked,nude
+item_564,564_pliks,word,produces,descriptive_words,pliks,NA,naked,naked
 item_565,565_priecigs_p,word,produces,descriptive_words,priecīgs/priecīgi,NA,happy,happy
 item_566,566_roza,word,produces,descriptive_words,rozā,NA,pink,pink
 item_567,567_salauzts_,word,produces,descriptive_words,salauzts/ salūzis,NA,broken,broken
@@ -636,7 +636,7 @@ item_634,634_vinam,word,produces,pronouns,viņam,NA,he.dat.sg.,he.dat.sg.
 item_635,635_vini,word,produces,pronouns,viņi,NA,they.nom.pl.,they.nom.pl.
 item_636,636_viniem,word,produces,pronouns,viņiem,NA,they.dat.pl.,they.dat.pl.
 item_637,637_vins,word,produces,pronouns,viņš,NA,he.nom.sg.,he.nom.sg.
-item_638,638_cik_,word,produces,question_words,cik?,NA,how many?,how many?
+item_638,638_cik_,word,produces,question_words,cik?,NA,how many?,how many
 item_639,639_ka_,word,produces,question_words,kā?,NA,how?,how
 item_640,640_kad_,word,produces,question_words,kad?,NA,when?,when (question)
 item_641,641_kads_,word,produces,question_words,kāds?,NA,what kind?,what kind
@@ -716,7 +716,7 @@ item_714,714_ja_,word,produces,connecting_words,ja,NA,if,if
 item_715,715_jo_,word,produces,connecting_words,jo,NA,because,because
 item_716,716_ka_apals_,word,produces,connecting_words,kā (apaļš kā pūpols),NA,like (e.g. round like a willow-catkin),like
 item_717,717_ka_es_red,word,produces,connecting_words,"ka (es redzu, ka līst lietus)",NA,how (I see how rain falls),how (connecting)
-item_718,718_lai_,word,produces,connecting_words,lai,NA,so that,so that
+item_718,718_lai_,word,produces,connecting_words,lai,NA,so that,so
 item_719,719_tacu_,word,produces,connecting_words,taču,NA,however,however
 item_720,720_tapec_ka_,word,produces,connecting_words,tāpēc ka,NA,because,because
 item_721,721_tadel,word,produces,connecting_words,tādēļ,NA,therefore,therefore

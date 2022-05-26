@@ -74,22 +74,22 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2235 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 545 hapaxes
-  length(unique(new_uni$form)) # 61 forms
+  length(new_uni_tab) # 2221 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 530 hapaxes
+  length(unique(new_uni$form)) # 62 forms
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 81 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 92 corrections/changes
   # new uni-lemmas:
   setdiff(names(new_uni_tab), old_uni$uni_lemma) # 970
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1055 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 781 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 581 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 444 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 306 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 179 on 50+
-  length(new_uni_tab[which(new_uni_tab>=60)]) # 53 on 60+ 
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1058 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 784 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 583 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 449 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 312 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 185 on 50+
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 58 on 60+ 
   # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
@@ -124,7 +124,7 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful, cute (39)
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   subset(new_uni, uni_lemma=="light") # -> light (object)
-  
+  subset(new_uni, uni_lemma=="donut") # vs. pastry - combine, or no?
   
   # going after hapaxes
   View(new_uni_tab)
@@ -156,6 +156,9 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="be thirsty") # Italian thirst?
   subset(new_uni, uni_lemma=="be angry") # Latvian
   subset(new_uni, uni_lemma=="brother's name") # Russian -> "sibling's name" ?
+  subset(new_uni, uni_lemma=="sister's name") # Russian -> "sibling's name" ?
+  subset(new_uni, uni_lemma=="his/her/their")
+  subset(new_uni, uni_lemma=="how many?")
   
   subset(new_uni, uni_lemma=="bi boo (siren)")
   #subset(new_uni, uni_lemma=="colour") # Irish -> color (action)

@@ -180,7 +180,7 @@ item_178,cuna,word,furniture_rooms,understands; produces,cuna,NA,crib,crib
 item_179,escaler,word,furniture_rooms,understands; produces,escalera,NA,stairs,stairs
 item_180,estufa,word,furniture_rooms,understands; produces,estufa,NA,stove,stove
 item_181,horno,word,furniture_rooms,understands; produces,horno,NA,oven,oven
-item_182,lavabo,word,furniture_rooms,understands; produces,lavabo,NA,sink,sink (object)
+item_182,lavabo,word,furniture_rooms,understands; produces,lavabo,NA,sink,sink
 item_183,mesa,word,furniture_rooms,understands; produces,mesa,NA,table top,table
 item_184,puerta,word,furniture_rooms,understands; produces,puerta,NA,gate,door
 item_185,recamar,word,furniture_rooms,understands; produces,recámara,NA,bedroom,bedroom

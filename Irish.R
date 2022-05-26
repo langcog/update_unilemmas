@@ -86,6 +86,8 @@ new_items[which(new_items$uni_lemma=="one (of)"),]$uni_lemma = "a" # pronoun
 new_items[which(new_items$uni_lemma=="really"),]$uni_lemma = "very"
 
 new_items[which(new_items$uni_lemma=="sliotar"),]$uni_lemma = "ball"
+new_items[which(new_items$uni_lemma=="kitten"),]$uni_lemma = "kitty"
+new_items[which(new_items$uni_lemma=="paint"),]$uni_lemma = "paint (action)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

@@ -113,7 +113,7 @@ item_111,g2ear,word,body_parts,understands; produces,Sikiro,NA,Ear,ear
 item_112,g4face,word,body_parts,understands; produces,Uso,NA,Face,face
 item_113,h1bag,word,household,understands; produces,Bagi/Pochi/Mukoba,NA,Bag,bag
 item_114,h5bowl,word,household,understands; produces,Bakuli,NA,Bowl,bowl
-item_115,h2basi,word,household,understands; produces,Beseni,NA,Basin,sink (object)
+item_115,h2basi,word,household,understands; produces,Beseni,NA,Basin,sink
 item_116,h19medi,word,household,understands; produces,Dawa,NA,Medicine,medicine
 item_117,h30stic,word,household,understands; produces,Fimbo,NA,StickH,stick (object)
 item_118,h15key,word,household,understands; produces,Funguo,NA,Keys,keys

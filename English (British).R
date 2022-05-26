@@ -27,6 +27,9 @@ new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police"
 new_items[which(new_items$uni_lemma=="band-aid"),]$uni_lemma = "bandaid" 
 new_items[which(new_items$uni_lemma=="blade"),]$uni_lemma = "knife" 
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
+new_items[which(new_items$uni_lemma=="peculiar"),]$uni_lemma = "strange"
+new_items[which(new_items$uni_lemma=="stamp"),]$uni_lemma = "stamp (action)" # or object?? (no category..)
+new_items[which(new_items$uni_lemma=="stoller"),]$uni_lemma = "stroller"
 
 #subset(new_items, uni_lemma=="")
 

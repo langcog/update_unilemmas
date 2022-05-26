@@ -566,7 +566,7 @@ item_564,a15_69,word,action_words,produces,罵,NA,to scold,scold
 item_565,a15_70,word,action_words,produces,喜歡,NA,love,love
 item_566,a15_71,word,action_words,produces,忘記,NA,forget,forget
 item_567,a15_72,word,action_words,produces,倒,NA,pour,pour
-item_568,a15_73,word,action_words,produces,綁,NA,tie,tie
+item_568,a15_73,word,action_words,produces,綁,NA,tie,tie (action)
 item_569,a15_74,word,action_words,produces,推,NA,push,push
 item_570,a15_75,word,action_words,produces,蹲,NA,squat,squat
 item_571,a15_76,word,action_words,produces,想,NA,miss,think

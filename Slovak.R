@@ -30,7 +30,7 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$definition=="koľko?"),]$uni_lemma = "how" # was 'how much'
 
 new_items[which(new_items$uni_lemma=="yuck"),]$uni_lemma = "yucky"
-
+new_items[which(new_items$uni_lemma=="strongly"),]$uni_lemma = "strong"
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

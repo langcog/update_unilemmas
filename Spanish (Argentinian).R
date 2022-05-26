@@ -22,6 +22,7 @@ new_items[which(new_items$definition=="acostar(se)"),]$uni_lemma = "stone"
 new_items[which(new_items$definition=="llorar"),]$uni_lemma = "cry" 
 new_items[which(new_items$definition=="bajar(se)"),]$uni_lemma = "descend" 
 new_items[which(new_items$definition=="cenar"),]$uni_lemma = "dine" 
+new_items[which(new_items$uni_lemma=="paint"),]$uni_lemma = "paint (action)"
 
 new_items[which(new_items$definition=="camión de bomberos"),]$uni_lemma = "firetruck" 
 

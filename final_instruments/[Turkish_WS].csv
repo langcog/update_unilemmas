@@ -418,7 +418,7 @@ Ara,action_words,Ara,word,produces,NA,item_416,look for,look for,look for
 Atla,action_words,Atla,word,produces,NA,item_417,jump,jump,jump
 At (action),action_words,At,word,produces,NA,item_418,throw,throw,throw
 Bağır,action_words,Bagir,word,produces,NA,item_419,shout,yell/shout,shout
-Bağla,action_words,Bagla,word,produces,NA,item_420,NA,tie/connect,tie
+Bağla,action_words,Bagla,word,produces,NA,item_420,NA,tie/connect,tie (action)
 Bak,action_words,Bak,word,produces,NA,item_421,look,look,look
 Bas,action_words,Bas,word,produces,NA,item_422,press,press/step,press
 Başla,action_words,Basla,word,produces,NA,item_423,begin,begin/start,begin

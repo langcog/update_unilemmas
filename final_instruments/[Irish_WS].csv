@@ -36,7 +36,7 @@ moncaí,item_76,ANIMALS (Real or toy),produces; doesn't produce,word,moncaí_mon
 muc,item_77,ANIMALS (Real or toy),produces; doesn't produce,word,muc,0,animals,nouns,pig,pig
 nathair,item_79,ANIMALS (Real or toy),produces; doesn't produce,word,nathair,0,animals,nouns,snake,snake
 piongain,item_81,ANIMALS (Real or toy),produces; doesn't produce,word,piongain,0,animals,nouns,penguin,penguin
-piscín,item_83,ANIMALS (Real or toy),produces; doesn't produce,word,piscín_acaitín,0,animals,nouns,kitten,kitten
+piscín,item_83,ANIMALS (Real or toy),produces; doesn't produce,word,piscín_acaitín,0,animals,nouns,kitten,kitty
 préachán,item_85,ANIMALS (Real or toy),produces; doesn't produce,word,préachán,0,animals,nouns,crow,crow
 séabra,item_87,ANIMALS (Real or toy),produces; doesn't produce,word,séabra,0,animals,nouns,zebra,zebra
 seilide,item_89,ANIMALS (Real or toy),produces; doesn't produce,word,seilide_seilmide,0,animals,nouns,snail,snail
@@ -414,7 +414,7 @@ doirt,item_816,ACTION WORDS,produces; doesn't produce,word,doirt_sil,0,action_wo
 dreap,item_818,ACTION WORDS,produces; doesn't produce,word,dreap,0,action_words,verbs,climb,climb
 dúisigh,item_820,ACTION WORDS,produces; doesn't produce,word,dúisigh,0,action_words,verbs,wake,wake
 oscail,item_822,ACTION WORDS,produces; doesn't produce,word,oscail,0,action_words,verbs,open,open
-péinteáíl,item_824,ACTION WORDS,produces; doesn't produce,word,péinteáíl,0,action_words,verbs,paint,paint
+péinteáíl,item_824,ACTION WORDS,produces; doesn't produce,word,péinteáíl,0,action_words,verbs,paint,paint (action)
 pioc,item_826,ACTION WORDS,produces; doesn't produce,word,pioc,0,action_words,verbs,pick,pick
 póg,item_828,ACTION WORDS,produces; doesn't produce,word,póg,0,action_words,verbs,kiss,kiss
 réab,item_830,ACTION WORDS,produces; doesn't produce,word,réab_srac_stróic,0,action_words,verbs,tear,rip

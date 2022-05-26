@@ -2,7 +2,7 @@ itemID,item,type,choices,category,definition,complexity_category,gloss,uni_lemma
 item_13,dinosaur,word,produces,NA,dinosaur,NA,dinosaur,dinosaur
 item_14,glass,word,produces,NA,glass,NA,glass,glass
 item_15,catch,word,produces,NA,catch,NA,catch,catch
-item_16,peculiar,word,produces,NA,peculiar,NA,peculiar,peculiar
+item_16,peculiar,word,produces,NA,peculiar,NA,peculiar,strange
 item_17,donkey,word,produces,NA,donkey,NA,donkey,donkey
 item_18,jar,word,produces,NA,jar,NA,jar,jar
 item_19,drop,word,produces,NA,drop,NA,drop,drop
@@ -16,7 +16,7 @@ item_26,material,word,produces,NA,material,NA,material,material
 item_27,forget_forgot,word,produces,NA,forget/forgot,NA,forget/forgot,forget
 item_28,today,word,produces,NA,today,NA,today,today
 item_29,drum,word,produces,NA,drum,NA,drum,drum
-item_30,stamp,word,produces,NA,stamp,NA,stamp,stamp
+item_30,stamp,word,produces,NA,stamp,NA,stamp,stamp (action)
 item_31,hate,word,produces,NA,hate,NA,hate,hate
 item_32,week,word,produces,NA,week,NA,week,week
 item_33,football,word,produces,NA,football,NA,football,soccer

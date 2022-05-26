@@ -335,7 +335,7 @@ item_327,grifo,word,household,produces,grifo,NA,tap,faucet
 item_328,habitaci,word,household,produces,habitación/cuarto,NA,room,room
 item_329,jabon,word,household,produces,jabón,NA,soap,soap
 item_330,jarabe,word,household,produces,jarabe,NA,syrup,syrup
-item_331,lavabo,word,household,produces,lavabo,NA,sink,sink (object)
+item_331,lavabo,word,household,produces,lavabo,NA,sink,sink
 item_332,lavadora,word,household,produces,lavadora,NA,washer,washer
 item_333,luz,word,household,produces,luz,NA,light,light
 item_334,llaves,word,household,produces,llaves,NA,keys,keys
@@ -426,7 +426,7 @@ item_418,pasear,word,action_words,produces,pasear,NA,walk,walk
 item_419,pegar,word,action_words,produces,pegar(se),NA,to hit,hit
 item_420,peinar,word,action_words,produces,peinar(se),NA,to comb,comb (action)
 item_421,perder,word,action_words,produces,perder(se),NA,to miss,miss
-item_422,pintar,word,action_words,produces,pintar,NA,to paint,paint
+item_422,pintar,word,action_words,produces,pintar,NA,to paint,paint (action)
 item_423,poder,word,action_words,produces,poder,NA,to be able,can
 item_424,poner,word,action_words,produces,poner(se),NA,put,put
 item_425,querer,word,action_words,produces,querer,NA,to want,want

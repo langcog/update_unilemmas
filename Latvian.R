@@ -128,6 +128,11 @@ new_items[which(new_items$WS=="item_85"),]$uni_lemma = "paint (object)"
 new_items[which(new_items$uni_lemma=="say/tell"),]$uni_lemma = "say"
 new_items[which(new_items$uni_lemma=="ona visit"),]$uni_lemma = "outing" # maybe picnic?
 new_items[which(new_items$uni_lemma=="promptly"),]$uni_lemma = "now"
+new_items[which(new_items$uni_lemma=="be angry"),]$uni_lemma = "angry"
+new_items[which(new_items$uni_lemma=="nude"),]$uni_lemma = "naked"
+new_items[which(new_items$uni_lemma=="so that"),]$uni_lemma = "so"
+new_items[which(new_items$uni_lemma=="paint"),]$uni_lemma = "paint (action)"
+new_items[which(new_items$uni_lemma=="how many?"),]$uni_lemma = "how many"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

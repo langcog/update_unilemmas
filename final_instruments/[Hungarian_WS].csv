@@ -325,8 +325,8 @@ item_323,item_323,hűtő,word,produces,furniture_rooms,NA,refrigerator,refrigera
 item_324,item_324,kanapé,word,produces,furniture_rooms,NA,sofa,couch
 item_325,item_325,konyha,word,produces,furniture_rooms,NA,kitchen,kitchen
 item_326,item_326,lépcső,word,produces,furniture_rooms,NA,stairs,stairs
-item_327,item_327,mosdó,word,produces,furniture_rooms,NA,washbasin,sink (object)
-item_328,item_328,mosogató,word,produces,furniture_rooms,NA,sink,sink (object)
+item_327,item_327,mosdó,word,produces,furniture_rooms,NA,washbasin,sink
+item_328,item_328,mosogató,word,produces,furniture_rooms,NA,sink,sink
 item_329,item_329,mosógép,word,produces,furniture_rooms,NA,washing machine,washing machine
 item_330,item_330,nappali,word,produces,furniture_rooms,NA,living room,living room
 item_331,item_331,pad,word,produces,furniture_rooms,NA,bench,bench

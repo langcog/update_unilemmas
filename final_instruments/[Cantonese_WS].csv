@@ -252,7 +252,7 @@ item_250,V4STICKC,word,action_words,produces,貼/黐,NA,,stick
 item_251,V4PILEUP,word,action_words,produces,砌,NA,,build
 item_252,V4CHOP,word,action_words,produces,切,NA,,chop
 item_253,V4CUT,word,action_words,produces,剪,NA,,cut
-item_254,V4TIEUPC,word,action_words,produces,綁/紮,NA,,tie
+item_254,V4TIEUPC,word,action_words,produces,綁/紮,NA,,tie (object)
 item_255,V4CRAWL,word,action_words,produces,爬,NA,,crawl
 item_256,V4ROLLC,word,action_words,produces,碌 (打滾),NA,,roll (action)
 item_257,V4CLIMB,word,action_words,produces,擒,NA,,climb
@@ -595,7 +595,7 @@ item_593,C12DIAPR,word,clothing,produces,尿片/片片,NA,,diaper
 item_594,C12BIBC,word,clothing,produces,口水肩/Bib,NA,,bib
 item_595,C12HAT,word,clothing,produces,帽,NA,,hat
 item_596,C12SCARC,word,clothing,produces,頸巾,NA,,scarf
-item_597,C12TIE,word,clothing,produces,(領)呔,NA,,tie
+item_597,C12TIE,word,clothing,produces,(領)呔,NA,,tie (action)
 item_598,C12BELT,word,clothing,produces,皮帶,NA,,belt
 item_599,C12GLOVC,word,clothing,produces,手套/手襪,NA,,gloves
 item_600,C12BUTTC,word,clothing,produces,(衫)鈕/扣,NA,,button

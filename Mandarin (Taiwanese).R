@@ -25,6 +25,7 @@ new_items[which(new_items$uni_lemma=="kiwi fruit"),]$uni_lemma = "kiwi"
 new_items[which(new_items$uni_lemma=="mister"),]$uni_lemma = "sir"
 new_items[which(new_items$uni_lemma=="nuggets (food)"),]$uni_lemma = "nugget"
 new_items[which(new_items$uni_lemma=="shrimp (animal)"),]$uni_lemma = "shrimp"
+new_items[which(new_items$uni_lemma=="tie"),]$uni_lemma = "tie (action)"
 
 new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
