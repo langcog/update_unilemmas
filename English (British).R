@@ -30,6 +30,8 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="peculiar"),]$uni_lemma = "strange"
 new_items[which(new_items$uni_lemma=="stamp"),]$uni_lemma = "stamp (action)" # or object?? (no category..)
 new_items[which(new_items$uni_lemma=="stoller"),]$uni_lemma = "stroller"
+new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="tire"),]$uni_lemma = "tire (object)"
 
 #subset(new_items, uni_lemma=="")
 

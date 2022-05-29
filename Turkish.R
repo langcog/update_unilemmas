@@ -21,6 +21,10 @@ new_items[which(new_items$uni_lemma=="photograph"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="play house"),]$uni_lemma = "playhouse"
 new_items[which(new_items$uni_lemma=="tie"),]$uni_lemma = "tie (action)"
+new_items[which(new_items$uni_lemma=="work"),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (question)"
+new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
 
 # some empty
 new_items[which(new_items$definition=="Oku"),]$uni_lemma = "read"

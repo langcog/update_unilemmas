@@ -315,7 +315,7 @@ item_313,d14_59,word,action_words,understands; produces,牽(手),NA,hand,hand
 item_314,d15_01,word,descriptive_words,understands; produces,好熱/熱熱的,NA,hot,hot
 item_315,d15_02,word,descriptive_words,understands; produces,好燙/燙燙的,NA,very hot,hot
 item_316,d15_03,word,descriptive_words,understands; produces,好棒,NA,good,good
-item_317,d15_04,word,descriptive_words,understands; produces,好痛/痛痛的,NA,hurt,hurt
+item_317,d15_04,word,descriptive_words,understands; produces,好痛/痛痛的,NA,hurt,hurt (description)
 item_318,d15_05,word,descriptive_words,understands; produces,好臭/臭臭的,NA,smelly,sticky
 item_319,d15_06,word,descriptive_words,understands; produces,髒髒的/骯髒的,NA,dirty,dirty
 item_320,d15_07,word,descriptive_words,understands; produces,害怕的(好恐怖),NA,scared,scared
@@ -348,7 +348,7 @@ item_346,d16_04,word,pronouns,understands; produces,沒半個/沒有,NA,NA,NA
 item_347,d16_05,word,pronouns,understands; produces,還有,NA,NA,NA
 item_348,d16_06,word,pronouns,understands; produces,那個,NA,NA,NA
 item_349,d17_01,word,question_words,understands; produces,什麼？,NA,what,what
-item_350,d17_02,word,question_words,understands; produces,哪裡？,NA,where,where
+item_350,d17_02,word,question_words,understands; produces,哪裡？,NA,where,where (question)
 item_351,d17_03,word,question_words,understands; produces,哪一個？,NA,which,which (question)
 item_352,d17_04,word,question_words,understands; produces,誰？,NA,who,who
 item_353,d17_05,word,question_words,understands; produces,怎麼(辦)？,NA,how,how

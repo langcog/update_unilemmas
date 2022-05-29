@@ -340,7 +340,7 @@ item_333,公园,gong1yuan2,places,word,produces,park,park
 item_334,海边,hai3bian5,places,word,produces,beach,beach
 item_335,加油站,jia1you2zhan4,places,word,produces,gas station,gas station
 item_336,家,jia1,places,word,produces,home,home
-item_337,森林,sen1lin2,places,word,produces,woods,woods
+item_337,森林,sen1lin2,places,word,produces,woods,forest
 item_338,停车场,ting2che1chang3,places,word,produces,park,NA
 item_339,图书馆,tu2shu1guan3,places,word,produces,library,library
 item_340,幼儿园,you4er2yuan2,places,word,produces,kindergarten,kindergarten
@@ -627,7 +627,7 @@ item_616,窗帘,chuang1lian2,furniture_rooms,word,produces,curtain,curtain
 item_617,床,chuang2,furniture_rooms,word,produces,bed,bed
 item_618,凳子,deng4zi5,furniture_rooms,word,produces,stool,stool
 item_619,电话,dian4hua4,furniture_rooms,word,produces,phone,telephone
-item_620,电视,dian4shi4,furniture_rooms,word,produces,tv,tv
+item_620,电视,dian4shi4,furniture_rooms,word,produces,tv,TV
 item_621,柜子,gui4zi5,furniture_rooms,word,produces,closet,closet
 item_622,客厅,ke4ting1,furniture_rooms,word,produces,living room,living room
 item_623,空调,kong1tiao2,furniture_rooms,word,produces,air conditioner,air conditioner

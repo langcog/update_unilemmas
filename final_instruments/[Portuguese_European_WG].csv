@@ -16,7 +16,7 @@ item_14,oh,word,sounds,understands; produces,Oh!,NA,oh,Oh (interjection),oh,NA
 item_15,piu_piu,word,sounds,understands; produces,Piu-piu (pintainho),NA,piu_piu,Piu_piu (baby chicken sound),NA,NA
 item_16,pumba_pum,word,sounds,understands; produces,Pumba! / Pum!,NA,pumba_pum,"Pumba_pum (interjection, used to indicate that something or someone fell)",uh oh,NA
 item_17,qua_qua,word,sounds,understands; produces,Quá-Quá (pato),NA,quá_quá,Quá_quá (duck's sound),quack quack,NA
-item_18,vrum_vrum,word,sounds,understands; produces,Vrum-vrum (carro),NA,vrum_vrum,Vrum_vrum (car's sound),vroom vroom,NA
+item_18,vrum_vrum,word,sounds,understands; produces,Vrum-vrum (carro),NA,vrum_vrum,Vrum_vrum (car's sound),vroom,NA
 item_19,tinoni,word,sounds,understands; produces,Tinoni (ambulância),NA,tinoni,Tinoni (ambulance's sound),NA,NA
 item_20,ui,word,sounds,understands; produces,Ui!,NA,ui,"Ui (interjection, hurting)",ouch,NA
 item_21,uau,word,sounds,understands; produces,Uau!,NA,uau,"Uau (interjection, surprise)",oh,NA

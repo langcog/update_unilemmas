@@ -699,13 +699,13 @@ vill,helping_verbs,vill,word,produces,NA,item_696,NA,want,want
 därför,connecting_words,darfor,word,produces,NA,item_698,NA,becuase,because
 hur,connecting_words,hur,word,produces,NA,item_699,NA,how,how
 men,connecting_words,men,word,produces,NA,item_700,NA,but,but
-när,connecting_words,nar,word,produces,NA,item_701,NA,when,when
+när,connecting_words,nar,word,produces,NA,item_701,NA,when,when (conjunction)
 och,connecting_words,och,word,produces,NA,item_702,NA,and,and
 om,connecting_words,om,word,produces,NA,item_703,NA,if,if
 sen,connecting_words,sen,word,produces,NA,item_704,NA,late,late
 sa,connecting_words,sa,word,produces,NA,item_705,NA,said,said
 vad,connecting_words,vad,word,produces,NA,item_706,NA,what,what
-var,connecting_words,var,word,produces,NA,item_707,NA,where,where
+var,connecting_words,var,word,produces,NA,item_707,NA,where,where (conjunction)
 varför,connecting_words,varfor,word,produces,NA,item_708,NA,why,why
 vem,connecting_words,vem,word,produces,NA,item_709,NA,who,who
 vilka,connecting_words,vilka,word,produces,NA,item_710,NA,which,which (connecting)

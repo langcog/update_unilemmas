@@ -27,7 +27,7 @@ item_22,黄瓜,22_huang2gua1,food_drink,word,understands; produces,cucumber,cucu
 item_23,豆腐,23_dou4fu5,food_drink,word,understands; produces,tofu,tofu
 item_24,萝卜,24_luo2bo5,food_drink,word,understands; produces,carrots,carrot
 item_25,床,25_chuang2,furniture_rooms,word,understands; produces,bed,bed
-item_26,电视,26_dian4shi4,furniture_rooms,word,understands; produces,tv,tv
+item_26,电视,26_dian4shi4,furniture_rooms,word,understands; produces,tv,TV
 item_27,门,27_men2,furniture_rooms,word,understands; produces,door,door
 item_28,楼梯,28_lou2ti1,furniture_rooms,word,understands; produces,stairs,stairs
 item_29,桌子,29_zhuo1zi5,furniture_rooms,word,understands; produces,table,table

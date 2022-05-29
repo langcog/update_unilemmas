@@ -69,30 +69,30 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2203 uni-lemmas
+  # how it's going: 2162 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2203 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 514 hapaxes
+  length(new_uni_tab) # 2159 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 499 hapaxes
   length(unique(new_uni$form)) # 62 forms
   
-  write_csv(new_unit)
+  new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
+  #write_csv(new_unis, file="uni-lemma_list.csv")
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 92 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 107 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 970
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 889
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1058 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1054 used in 5+ forms
   length(new_uni_tab[which(new_uni_tab>=10)]) # 784 on 10+ forms
   length(new_uni_tab[which(new_uni_tab>=20)]) # 583 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 449 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 312 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 185 on 50+
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 453 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 314 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 189 on 50+
   length(new_uni_tab[which(new_uni_tab>=60)]) # 58 on 60+ 
-  # attempt -> try
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
@@ -127,6 +127,14 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
   subset(new_uni, uni_lemma=="light") # -> light (object)
   subset(new_uni, uni_lemma=="donut") # vs. pastry - combine, or no?
+  subset(new_uni, uni_lemma=="backyard") # 4 -> yard ? (a couple forms do have both..)
+  subset(new_uni, uni_lemma=="wardrobe") # 9 -> closet (21 forms)
+  #subset(new_uni, uni_lemma=="village") # 6 -> town (5)
+  
+  # siren noises?
+  subset(new_uni, uni_lemma=="weee") # Russian
+  subset(new_uni, uni_lemma=="bi boo (siren)") # Cantonese
+  # nino nino ?
   
   # going after hapaxes
   View(new_uni_tab)

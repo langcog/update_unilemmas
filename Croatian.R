@@ -67,6 +67,9 @@ new_items[which(new_items$uni_lemma=="funfair/theme park"),]$uni_lemma = "fair"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="phone call"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="walk (noun)"),]$uni_lemma = "outing"
+new_items[which(new_items$uni_lemma=="baby walker"),]$uni_lemma = "walker"
+new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
+new_items[which(new_items$uni_lemma=="tin can"),]$uni_lemma = "can (object)"
 
 new_items[which(new_items$WS=="item_708"),]$uni_lemma = NA
 

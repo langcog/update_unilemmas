@@ -25,6 +25,9 @@ new_items[which(new_items$definition=="dagplejemors navn"),]$uni_lemma = "babysi
 new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="tear (action)"),]$uni_lemma = "tear"
+new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (conjunction)"
+
+new_items[which(new_items$WS=="item_235"),]$uni_lemma = "can (object)"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

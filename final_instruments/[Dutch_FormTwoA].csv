@@ -95,7 +95,7 @@ item_93,action_words,passen,understands;produces,passen,word,to try on (clothes,
 item_94,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (verb)
 item_95,action_words,verstoppen,understands;produces,verstoppen,word,to hide,hide
 item_96,action_words,zitten,understands;produces,zitten,word,to sit,sit
-item_97,action_words,zwaaien/wuiven,understands;produces,zwaaien/wuiven,word,to wave,wave (verb)
+item_97,action_words,zwaaien/wuiven,understands;produces,zwaaien/wuiven,word,to wave,wave
 item_98,time_words,later/straks,understands;produces,later/straks,word,later/soon,soon
 item_99,time_words,voor(tijd),understands;produces,voor(tijd),word,before ,before
 item_100,pronouns,ik,understands;produces,ik,word,I,i

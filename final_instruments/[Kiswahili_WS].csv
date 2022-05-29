@@ -297,7 +297,7 @@ item_294,i6potpot,word,furniture_rooms,produces,Poti,NA,Potty,potty
 item_295,i15flosa,word,furniture_rooms,produces,Sakafu/Simiti,NA,Floor,floor
 item_296,i8sofsof,word,furniture_rooms,produces,Sofa/Kochi,NA,Sofa set,couch
 item_297,i9stostu,word,furniture_rooms,produces,stuli,NA,Stool,stool
-item_298,i19telte,word,furniture_rooms,produces,Televisheni/runinga/TV,NA,Television,tv
+item_298,i19telte,word,furniture_rooms,produces,Televisheni/runinga/TV,NA,Television,TV
 item_299,i18strua,word,furniture_rooms,produces,Uani,NA,Structure with walls but no roof,bib
 item_300,i11verve,word,furniture_rooms,produces,Veranda/baraza,NA,Veranda,balcony
 item_301,j9roabar,word,outside,produces,Barabara,NA,Road,road
@@ -334,7 +334,7 @@ item_331,k5moska,word,places,produces,Kanisani/Msikitini,NA,Mosque/Church,church
 item_332,k22worka,word,places,produces,Kazini,NA,Workplace,work (place)
 item_333,k20petki,word,places,produces,Kituo cha mafuta/Petroli/Jina la kituo,NA,Petrol station,gas station
 item_334,k17islma,word,places,produces,Madrasa/chuoni,NA,Islamic school for children,NA
-item_335,k12busmw,word,places,produces,Mwituni,NA,Bush,village
+item_335,k12busmw,word,places,produces,Mwituni,NA,Bush,town
 item_336,k13homny,word,places,produces,Nyumba,NA,House,house
 item_337,k3hommud,word,places,produces,Nyumbani,NA,Home,home
 item_338,k1farsha,word,places,produces,Shambani,NA,Farm,farm

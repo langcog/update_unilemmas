@@ -134,7 +134,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 рубашка,clothing,NA,word,understands; produces,NA,item_160,shirt,shirt
 сапоги,clothing,NA,word,understands; produces,NA,item_161,boots,boots
 тапки,clothing,NA,word,understands; produces,NA,item_162,slippers,slipper
-трусы,clothing,NA,word,understands; produces,NA,item_163,underpants,underwear
+трусы,clothing,NA,word,understands; produces,NA,item_163,underpants,underpants
 туфли,clothing,NA,word,understands; produces,NA,item_164,shoes,shoe
 шапка,clothing,NA,word,understands; produces,NA,item_165,hat,hat
 шарф,clothing,NA,word,understands; produces,NA,item_166,scarf,scarf
@@ -382,7 +382,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 тяжело,descriptive_words (adverbs),NA,word,understands; produces,NA,item_408,heavily,heavy
 холодно,descriptive_words (adverbs),NA,word,understands; produces,NA,item_409,cold,cold
 хорошо,descriptive_words (adverbs),NA,word,understands; produces,NA,item_410,good,good
-чисто,descriptive_words (adverbs),NA,word,understands; produces,NA,item_411,cleanly,clean
+чисто,descriptive_words (adverbs),NA,word,understands; produces,NA,item_411,cleanly,clean (description)
 днем,time_words,NA,word,understands; produces,NA,item_412,in the afternoon,day
 ночью,time_words,NA,word,understands; produces,NA,item_413,by night,night
 утром,time_words,NA,word,understands; produces,NA,item_414,in the morning,morning

@@ -156,7 +156,7 @@ item_148,futbol,word,toys,produces,fútbol,NA,soccer ball,ball
 item_149,globo,word,toys,produces,globo,NA,balloon,balloon
 item_150,gol,word,toys,produces,gol,NA,goal,goal
 item_151,guitarra,word,toys,produces,guitarra,NA,guitar,guitar
-item_152,juguete,word,toys,produces,juguete,NA,toy,toy
+item_152,juguete,word,toys,produces,juguete,NA,toy,toy (object)
 item_153,lapiz,word,toys,produces,lápiz,NA,pencil,Pencil
 item_154,muneca,word,toys,produces,muñeca,NA,doll,doll
 item_155,musica,word,toys,produces,música,NA,music,music
@@ -285,7 +285,7 @@ item_277,campo,word,outside_places,produces,campo,NA,countryside,country
 item_278,casa,word,outside_places,produces,casa,NA,home,house
 item_279,cielo,word,outside_places,produces,cielo,NA,sky,sky
 item_280,cole,word,outside_places,produces,cole,NA,school,school
-item_281,columpio,word,outside_places,produces,columpio,NA,swing,swing
+item_281,columpio,word,outside_places,produces,columpio,NA,swing,swing (object)
 item_282,estrella,word,outside_places,produces,estrella,NA,star,star
 item_283,fiesta,word,outside_places,produces,fiesta,NA,party,party
 item_284,flor,word,outside_places,produces,flor,NA,flower,flower
@@ -336,7 +336,7 @@ item_328,habitaci,word,household,produces,habitación/cuarto,NA,room,room
 item_329,jabon,word,household,produces,jabón,NA,soap,soap
 item_330,jarabe,word,household,produces,jarabe,NA,syrup,syrup
 item_331,lavabo,word,household,produces,lavabo,NA,sink,sink
-item_332,lavadora,word,household,produces,lavadora,NA,washer,washer
+item_332,lavadora,word,household,produces,lavadora,NA,washer,washing machine
 item_333,luz,word,household,produces,luz,NA,light,light
 item_334,llaves,word,household,produces,llaves,NA,keys,keys
 item_335,martillo,word,household,produces,martillo,NA,hammer,hammer
@@ -445,7 +445,7 @@ item_437,tener,word,action_words,produces,"tener [tengo, tienes...]",NA,to have,
 item_438,tocar,word,action_words,produces,tocar,NA,to touch,touch
 item_439,tomar,word,action_words,produces,tomar(se),NA,to take,take
 item_440,toser,word,action_words,produces,toser,NA,cough,cough
-item_441,trabajar,word,action_words,produces,trabajar,NA,to work,work
+item_441,trabajar,word,action_words,produces,trabajar,NA,to work,work (action)
 item_442,traer,word,action_words,produces,traer,NA,to bring,bring
 item_443,valer,word,action_words,produces,valer,NA,to value,value (action)
 item_444,venir,word,action_words,produces,"venir [ven, vente]",NA,to come,come
@@ -527,7 +527,7 @@ item_519,tuyos,word,pronouns,produces,tuyos/tuyas,NA,yours,yours
 item_520,yo,word,pronouns,produces,yo,NA,I,I
 item_521,como,word,question_words,produces,cómo,NA,how,how
 item_522,cual,word,question_words,produces,cuál,NA,which,which (question)
-item_523,cuando,word,question_words,produces,cuándo,NA,when,when
+item_523,cuando,word,question_words,produces,cuándo,NA,when,when (question)
 item_524,cuantos,word,question_words,produces,cuántos,NA,how many,how many
 item_525,donde,word,question_words,produces,dónde,NA,where,where (question)
 item_526,por_que_,word,question_words,produces,por qué,NA,why,why

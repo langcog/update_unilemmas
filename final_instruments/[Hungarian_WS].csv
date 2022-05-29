@@ -91,7 +91,7 @@ item_89,item_89,ceruza,word,produces,toys,NA,pencil,pen/pencil
 item_90,item_90,gereblye,word,produces,toys,NA,rake,rake (object)
 item_91,item_91,golyó,word,produces,toys,NA,ball (hard like taws),ball
 item_92,item_92,gyurma,word,produces,toys,NA,play dough,play dough
-item_93,item_93,játék,word,produces,toys,NA,toy (or game in general),toy
+item_93,item_93,játék,word,produces,toys,NA,toy (or game in general),toy (object)
 item_94,item_94,kártya,word,produces,toys,NA,card,card
 item_95,item_95,kirakós,word,produces,toys,NA,puzzle,puzzle
 item_96,item_96,kocka,word,produces,toys,NA,block,blocks
@@ -357,7 +357,7 @@ item_355,item_355,ég,word,produces,outside,NA,sky,sky
 item_356,item_356,erdő,word,produces,outside,NA,woods,forest
 item_357,item_357,eső,word,produces,outside,NA,rain,rain
 item_358,item_358,fa,word,produces,outside,NA,tree,tree
-item_359,item_359,falu,word,produces,outside,NA,village,village
+item_359,item_359,falu,word,produces,outside,NA,village,town
 item_360,item_360,felhő,word,produces,outside,NA,cloud,cloud
 item_361,item_361,fű,word,produces,outside,NA,grass,grass
 item_362,item_362,fűnyírógép,word,produces,outside,NA,lawn mower,lawn mower

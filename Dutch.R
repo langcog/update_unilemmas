@@ -149,6 +149,28 @@ new_items[which(new_items$uni_lemma=="tumble dryer"),]$uni_lemma = "dryer"
 new_items[which(new_items$uni_lemma=="to sleep"),]$uni_lemma = "sleep"
 new_items[which(new_items$uni_lemma=="fruit puree"),]$uni_lemma = "smoothie"
 new_items[which(new_items$uni_lemma=="will (verb)"),]$uni_lemma = "will"
+new_items[which(new_items$uni_lemma=="a bit"),]$uni_lemma = "a little"
+new_items[which(new_items$uni_lemma=="(to be) thirsty"),]$uni_lemma = "thirsty"
+new_items[which(new_items$uni_lemma=="(to be) hungry"),]$uni_lemma = "hungry"
+new_items[which(new_items$uni_lemma=="(to be in) pain"),]$uni_lemma = "hurt (description)"
+new_items[which(new_items$uni_lemma=="yuk"),]$uni_lemma = "yucky"
+new_items[which(new_items$uni_lemma=="work (verb)"),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
+new_items[which(new_items$uni_lemma=="well behaved"),]$uni_lemma = "well-behaved" # or just 'good'
+new_items[which(new_items$uni_lemma=="well done"),]$uni_lemma = "bravo"
+new_items[which(new_items$uni_lemma=="wave (verb)"),]$uni_lemma = "wave"
+new_items[which(new_items$uni_lemma=="water (drink)"),]$uni_lemma = "water (beverage)"
+new_items[which(new_items$uni_lemma=="walk/run (verb)"),]$uni_lemma = "run" # 
+new_items[which(new_items$uni_lemma=="wake up"),]$uni_lemma = "wake"  
+new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
+new_items[which(new_items$uni_lemma=="touch (verb)"),]$uni_lemma = "touch"
+new_items[which(new_items$uni_lemma=="to brush teeth"),]$uni_lemma = "brush teeth"
+new_items[which(new_items$uni_lemma=="clean"),]$uni_lemma = "clean (description)"
+new_items[which(new_items$uni_lemma=="tick-tock"),]$uni_lemma = "tick tock"
+new_items[which(new_items$uni_lemma=="throw away"),]$uni_lemma = "throw"
+new_items[which(new_items$uni_lemma=="television"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="tape"),]$uni_lemma = "tape (object)"
+
 
 # ToDo: review changes, and output all various forms
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

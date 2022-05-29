@@ -272,7 +272,7 @@ item_270,shower,word,furniture_rooms,produces,shower,NA,shower,shower
 item_271,sink,word,furniture_rooms,produces,sink,NA,sink,sink
 item_272,stairs,word,furniture_rooms,produces,stairs,NA,stairs,stairs
 item_273,table,word,furniture_rooms,produces,table,NA,table,table
-item_274,TV,word,furniture_rooms,produces,TV,NA,TV,tv
+item_274,TV,word,furniture_rooms,produces,TV,NA,TV,TV
 item_275,veranda/porch,word,furniture_rooms,produces,veranda/porch,NA,veranda/porch,porch
 item_276,wardrobe,word,furniture_rooms,produces,wardrobe,NA,wardrobe,wardrobe
 item_277,washing_machine,word,furniture_rooms,produces,washing machine,NA,washing machine,washing machine

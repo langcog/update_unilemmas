@@ -66,7 +66,7 @@ item_64,64_gramata,word,understands; produces,toys,grāmata,NA,book,book
 item_65,65_klucisi,word,understands; produces,toys,klucīši,NA,blocks,blocks
 item_66,66_lapsta,word,understands; produces,toys,lāpsta,NA,rake,shovel
 item_67,67_lelle,word,understands; produces,toys,lelle,NA,doll,doll
-item_68,68_rotallieta,word,understands; produces,toys,rotaļlieta/mantiņa,NA,toy,toy
+item_68,68_rotallieta,word,understands; produces,toys,rotaļlieta/mantiņa,NA,toy,toy (object)
 item_69,69_spainitis,word,understands; produces,toys,spainītis,NA,bucket,bucket
 item_70,70_abols,word,understands; produces,food_drink,ābols,NA,apple,apple
 item_71,71_apelsins,word,understands; produces,food_drink,apelsīns,NA,orage,orange (food)
@@ -104,7 +104,7 @@ item_102,102_zivs,word,understands; produces,food_drink,zivs,NA,fish,fish (food)
 item_103,103_zupa,word,understands; produces,food_drink,zupa,NA,soup,soup
 item_104,104_autinbiksi,word,understands; produces,clothing,autiņbiksītes /pampers,NA,diapers,diaper
 item_105,105_bikses,word,understands; produces,clothing,bikses,NA,trousers,pants
-item_106,106_biksites,word,understands; produces,clothing,biksītes,NA,knickers,underwear
+item_106,106_biksites,word,understands; produces,clothing,biksītes,NA,knickers,underpants
 item_107,107_cepure,word,understands; produces,clothing,cepure,NA,hat,hat
 item_108,108_cimdi,word,understands; produces,clothing,cimdi,NA,mittens,mitten
 item_109,109_cibas,word,understands; produces,clothing,čības,NA,slippers,slipper
@@ -215,7 +215,7 @@ item_213,213_maja,word,understands; produces,outside,māja,NA,house,house
 item_214,214_majas,word,understands; produces,outside,mājas,NA,home,home
 item_215,215_makonis,word,understands; produces,outside,mākonis,NA,cloud,cloud
 item_216,216_meness,word,understands; produces,outside,mēness,NA,moon,moon
-item_217,217_mezs,word,understands; produces,outside,mežs,NA,forest,woods
+item_217,217_mezs,word,understands; produces,outside,mežs,NA,forest,forest
 item_218,218_pagalms,word,understands; produces,outside,pagalms,NA,yard,backyard
 item_219,219_parks,word,understands; produces,outside,parks,NA,park,park
 item_220,220_pelke,word,understands; produces,outside,peļķe,NA,puddle,puddle

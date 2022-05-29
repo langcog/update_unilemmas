@@ -38,6 +38,10 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="see-saw"),]$uni_lemma = "seesaw"
 new_items[which(new_items$uni_lemma=="shrimp (food)"),]$uni_lemma = "shrimp"
 new_items[which(new_items$uni_lemma=="tie"),]$uni_lemma = "tie (action)"
+new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
+new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="tidy (action)"),]$uni_lemma = "clean (action)"
+
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

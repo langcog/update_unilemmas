@@ -28,6 +28,10 @@ new_items[which(new_items$definition=="camión de bomberos"),]$uni_lemma = "fire
 
 new_items[which(new_items$uni_lemma=="roller skates"),]$uni_lemma = "skates"
 
+new_items[which(new_items$uni_lemma=="violet"),]$uni_lemma = "purple"
+new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+
+
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas
 
 

@@ -91,6 +91,16 @@ new_items[which(new_items$uni_lemma=="paint"),]$uni_lemma = "paint (action)"
 new_items[which(new_items$uni_lemma=="dress"),]$uni_lemma = "dress (object)"
 new_items[which(new_items$uni_lemma=="try to"),]$uni_lemma = "try"
 new_items[which(new_items$uni_lemma=="jumper"),]$uni_lemma = "sweater"
+new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (description)"
+
+new_items[which(new_items$definition=="obair"),]$uni_lemma = "work (place)"
+new_items[which(new_items$definition=="oibrigh"),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (conjunction)"
+new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
+
+new_items[which(new_items$WS=="item_904"),]$uni_lemma = "clean (action)"
+new_items[which(new_items$WS=="item_1056"),]$uni_lemma = "clean (description)"
+new_items[which(new_items$uni_lemma=="swing"),]$uni_lemma = "swing (action)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

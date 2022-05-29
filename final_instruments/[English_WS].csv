@@ -151,7 +151,7 @@ item_149,strawberry,word,food_drink,produces,strawberry,NA,strawberry,strawberry
 item_150,toast,word,food_drink,produces,toast,NA,toast,toast
 item_151,tuna,word,food_drink,produces,tuna,NA,tuna,tuna
 item_152,vanilla,word,food_drink,produces,vanilla,NA,vanilla,vanilla
-item_153,vitamins,word,food_drink,produces,vitamins,NA,vitamins,vitamins
+item_153,vitamins,word,food_drink,produces,vitamins,NA,vitamins,vitamin
 item_154,water.beverage,word,food_drink,produces,water (beverage),NA,water (beverage),water (beverage)
 item_155,yogurt,word,food_drink,produces,yogurt,NA,yogurt,yogurt
 item_156,beads,word,clothing,produces,beads,NA,beads,beads
@@ -249,7 +249,7 @@ item_247,radio,word,household,produces,radio,NA,radio,radio
 item_248,scissors,word,household,produces,scissors,NA,scissors,scissors
 item_249,soap,word,household,produces,soap,NA,soap,soap
 item_250,spoon,word,household,produces,spoon,NA,spoon,spoon
-item_251,tape,word,household,produces,tape,NA,tape,tape
+item_251,tape,word,household,produces,tape,NA,tape,tape (object)
 item_252,telephone,word,household,produces,telephone,NA,telephone,telephone
 item_253,tissue,word,household,produces,tissue/kleenex,NA,tissue/kleenex,tissue
 item_254,toothbrush,word,household,produces,toothbrush,NA,toothbrush,toothbrush
@@ -341,7 +341,7 @@ item_339,picnic,word,places,produces,picnic,NA,picnic,picnic
 item_340,playground,word,places,produces,playground,NA,playground,playground
 item_341,school,word,places,produces,school,NA,school,school
 item_342,store,word,places,produces,store,NA,store,store
-item_343,woods,word,places,produces,woods,NA,woods,woods
+item_343,woods,word,places,produces,woods,NA,woods,forest
 item_344,work.place,word,places,produces,work (place),NA,work (place),work (place)
 item_345,yard,word,places,produces,yard,NA,yard,yard
 item_346,zoo,word,places,produces,zoo,NA,zoo,zoo

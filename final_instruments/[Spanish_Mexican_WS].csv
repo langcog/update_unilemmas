@@ -625,7 +625,7 @@ item_623,tuyos,word,pronouns,produces,tuyos,NA,your,yours,yours
 item_624,yo,word,pronouns,produces,yo,NA,i,I,I
 item_625,como,word,question_words,produces,cómo,NA,how,as,how
 item_626,cual,word,question_words,produces,cuál,NA,which (question),which,which (question)
-item_627,cuando,word,question_words,produces,cuándo,NA,NA,when,when
+item_627,cuando,word,question_words,produces,cuándo,NA,NA,when,when (question)
 item_628,donde,word,question_words,produces,dónde,NA,NA,where,where (question)
 item_629,porque,word,question_words,produces,por qué,NA,why,why,why
 item_630,que1,word,question_words,produces,qué (question_words),NA,NA,what,what

@@ -601,7 +601,7 @@ item_599,a16_08,word,connecting_words,produces,後來,NA,then,then
 item_600,a17_01,word,descriptive_words,produces,好熱/熱熱的,NA,hot,hot
 item_601,a17_02,word,descriptive_words,produces,好燙/燙燙的,NA,very hot,hot
 item_602,a17_03,word,descriptive_words,produces,好棒,NA,good,good
-item_603,a17_04,word,descriptive_words,produces,好痛/痛痛的,NA,hurt,hurt
+item_603,a17_04,word,descriptive_words,produces,好痛/痛痛的,NA,hurt,hurt (description)
 item_604,a17_05,word,descriptive_words,produces,好臭/臭臭的,NA,smelly,sticky
 item_605,a17_06,word,descriptive_words,produces,髒髒的/骯髒的,NA,dirty,dirty
 item_606,a17_07,word,descriptive_words,produces,害怕的(好恐怖),NA,scared,scared
@@ -683,7 +683,7 @@ item_681,a18_12,word,quantifiers,produces,那些,NA,those,those
 item_682,a18_13,word,quantifiers,produces,很多,NA,much,much
 item_683,a18_14,word,quantifiers,produces,更多,NA,more,more
 item_684,a19_01,word,question_words,produces,什麼？,NA,what,what
-item_685,a19_02,word,question_words,produces,哪裡？,NA,where,where
+item_685,a19_02,word,question_words,produces,哪裡？,NA,where,where (question)
 item_686,a19_03,word,question_words,produces,哪一個？,NA,which,which (question)
 item_687,a19_04,word,question_words,produces,誰？,NA,who,who
 item_688,a19_05,word,question_words,produces,怎麼(辦)？,NA,how,how

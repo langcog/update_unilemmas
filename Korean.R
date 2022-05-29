@@ -54,6 +54,11 @@ new_items[which(new_items$uni_lemma=="stop (action)"),]$uni_lemma = "stop"
 new_items[which(new_items$uni_lemma=="at/in/on"),]$uni_lemma = "on"
 new_items[which(new_items$uni_lemma=="get in"),]$uni_lemma = "enter"
 new_items[which(new_items$uni_lemma=="older sister"),]$uni_lemma = "sister"
+new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (question)"
+new_items[which(new_items$uni_lemma=="weird"),]$uni_lemma = "strange"
+new_items[which(new_items$uni_lemma=="vroom vroom"),]$uni_lemma = "vroom"
+new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+
 
 # ToDo: check blanks ("") and "at/in/on"
 subset(new_items, uni_lemma=="")

@@ -447,7 +447,7 @@ item_445,action_words,ravistaa,ravistaa,produces,word,shake,shake
 item_446,action_words,riisua,riisua,produces,word,take off,take off
 item_447,action_words,roiskuttaa,roiskuttaa,produces,word,splatter,splash
 item_448,action_words,sanoa,sanoa,produces,word,say,say
-item_449,action_words,siivota,siivota,produces,word,clean up,clean
+item_449,action_words,siivota,siivota,produces,word,clean up,clean (action)
 item_450,action_words,soittaa,soittaa,produces,word,ring,call
 item_451,action_words,suukottaa,suukottaa,produces,word,kiss,kiss
 item_452,action_words,syöttää,syöttää,produces,word,feed,feed

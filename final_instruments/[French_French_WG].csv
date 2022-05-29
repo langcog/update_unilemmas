@@ -250,7 +250,7 @@ item_281,item_281,word,furniture_rooms,understands; produces,pot,item_236,Meuble
 item_282,item_282,word,furniture_rooms,understands; produces,salle de bain,item_221,Meubles et pièces,bathroom,bathroom
 item_283,item_283,word,furniture_rooms,understands; produces,salon,item_233,Meubles et pièces,living room,living room
 item_284,item_284,word,furniture_rooms,understands; produces,table,item_242,Meubles et pièces,table,table
-item_285,item_285,word,furniture_rooms,understands; produces,télé,item_243,Meubles et pièces,tv,tv
+item_285,item_285,word,furniture_rooms,understands; produces,télé,item_243,Meubles et pièces,tv,TV
 item_286,item_286,word,furniture_rooms,understands; produces,tiroir,item_229,Meubles et pièces,drawer,drawer
 item_287,item_287,word,outside_places,understands; produces,arbre,item_410,Objets extérieurs,,tree
 item_288,item_288,word,outside_places,understands; produces,balançoire,item_409,Objets extérieurs,,swing (object)

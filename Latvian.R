@@ -134,6 +134,14 @@ new_items[which(new_items$uni_lemma=="so that"),]$uni_lemma = "so"
 new_items[which(new_items$uni_lemma=="paint"),]$uni_lemma = "paint (action)"
 new_items[which(new_items$uni_lemma=="how many?"),]$uni_lemma = "how many"
 new_items[which(new_items$uni_lemma=="trolleybus"),]$uni_lemma = "trolley"
+#new_items[which(new_items$uni_lemma=="work"),]
+new_items[which(new_items$WS=="item_351"),]$uni_lemma = "work (place)"
+new_items[which(new_items$WS=="item_516"),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
+new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
+new_items[which(new_items$uni_lemma=="tidy"),]$uni_lemma = "clean (description)"
+
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

@@ -56,6 +56,17 @@ new_items[which(new_items$uni_lemma=="country house"),]$uni_lemma = "cabin"
 new_items[which(new_items$uni_lemma=="cheerful"),]$uni_lemma = "happy" 
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="in order to"),]$uni_lemma = "to"
+new_items[which(new_items$uni_lemma=="[possessive]"),]$uni_lemma = "at" # "at/in "for example, at Anya's place" 
+new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
+new_items[which(new_items$uni_lemma=="which (conjunction)"),]$uni_lemma = "which (connecting)"
+new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
+new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+new_items[which(new_items$uni_lemma=="tire"),]$uni_lemma = "tire (action)"
+new_items[which(new_items$uni_lemma=="clean"),]$uni_lemma = "clean (description)"
+
+
+
+
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))

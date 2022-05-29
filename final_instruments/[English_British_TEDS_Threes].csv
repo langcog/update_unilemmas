@@ -20,7 +20,7 @@ item_30,stamp,word,produces,NA,stamp,NA,stamp,stamp (action)
 item_31,hate,word,produces,NA,hate,NA,hate,hate
 item_32,week,word,produces,NA,week,NA,week,week
 item_33,football,word,produces,NA,football,NA,football,soccer
-item_34,tyre,word,produces,NA,tyre,NA,tyre,tire
+item_34,tyre,word,produces,NA,tyre,NA,tyre,tire (object)
 item_35,hurry,word,produces,NA,hurry,NA,hurry,hurry
 item_36,yesterday,word,produces,NA,yesterday,NA,yesterday,yesterday
 item_37,microscope,word,produces,NA,microscope,NA,microscope,microscope

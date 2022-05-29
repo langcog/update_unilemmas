@@ -9,7 +9,7 @@ item_7,sounds,miauw/mauw(poes),understands;produces,miauw/mauw(poes),word,meow,m
 item_8,sounds,mjammjam(lekker),understands;produces,mjammjam(lekker),word,yum yum,yum yum
 item_9,sounds,ohooh(verbazing),understands;produces,ohooh(verbazing),word,,wow
 item_10,sounds,ssss(slang),understands;produces,ssss(slang),word,hiss,hiss
-item_11,sounds,tiktak(klok),understands;produces,tiktak(klok),word,tick-tock,tick-tock
+item_11,sounds,tiktak(klok),understands;produces,tiktak(klok),word,tick-tock,tick tock
 item_12,sounds,tjoek(e)tjoek(trein),understands;produces,tjoek(e)tjoek(trein),word,choo choo,choo choo
 item_13,sounds,vroem/broem(auto),understands;produces,vroem/broem(auto),word,vroom,vroom
 item_14,sounds,wafwaf(hond),understands;produces,wafwaf(hond),word,woof woof,woof woof
@@ -63,7 +63,7 @@ item_61,games_routines,ja,understands;produces,ja,word,yes,yes
 item_62,games_routines,nee,understands;produces,nee,word,no,no
 item_63,descriptive_words,allesweg/op,understands;produces,allesweg/op,word,all done,all done 
 item_64,descriptive_words,warm/heet,understands;produces,warm/heet,word,warm/hot,warm
-item_65,action_words,aanraken/aankomen,understands;produces,aanraken/aankomen,word,touch,touch (verb)
+item_65,action_words,aanraken/aankomen,understands;produces,aanraken/aankomen,word,touch,touch
 item_66,action_words,blazen,understands;produces,blazen,word,to blow,blow
 item_67,action_words,botsen,understands;produces,botsen,word,to bump,bump 
 item_68,action_words,dansen,understands;produces,dansen,word,to dance,dance
@@ -82,13 +82,13 @@ item_80,question_words,wie,understands;produces,wie,word,who,who
 item_81,locations,daar,understands;produces,daar,word,there,there
 item_82,locations,uit,understands;produces,uit,word,out,out
 item_83,quantifiers,meer/nog,understands;produces,meer/nog,word,more/still,more
-item_84,sounds,bah(vies/vuil),understands;produces,bah(vies/vuil),word,yuk,yuk
+item_84,sounds,bah(vies/vuil),understands;produces,bah(vies/vuil),word,yuk,yucky
 item_85,sounds,boem(ietsdatvaltofbotst),understands;produces,boem(ietsdatvaltofbotst),word,boom,boom
 item_86,sounds,toktok(kip),understands;produces,toktok(kip),word,cluck-cluck,cluck
 item_87,vehicles,buggy,understands;produces,buggy,word,buggy,pram
 item_88,vehicles,kinderwagen/koets,understands;produces,kinderwagen/koets,word,pram/stroller,pram
 item_89,toys,naamvanknuffel/doekje/lappenpopvanhetkind,understands;produces,naamvanknuffel/doekje/lappenpopvanhetkind,word,,NA
-item_90,games_routines,bravo!,understands;produces,bravo!,word,bravo!/well done,well done
+item_90,games_routines,bravo!,understands;produces,bravo!,word,bravo!/well done,bravo
 item_91,games_routines,eenbadnemen,understands;produces,eenbadnemen,word,to take a bath,take a bath
 item_92,games_routines,eendutje/tukjedoen,understands;produces,eendutje/tukjedoen,word,to take a nap ,take a nap
 item_93,games_routines,handjesdraaien,understands;produces,handjesdraaien,word,to turn hands,turn hands

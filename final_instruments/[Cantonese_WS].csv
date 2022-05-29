@@ -200,7 +200,7 @@ item_198,V4SMELL,word,action_words,produces,聞/嗍*,NA,,smell
 item_199,V4RUBC,word,action_words,produces,抹*,NA,,wipe
 item_200,V4WASH,word,action_words,produces,洗,NA,,wash
 item_201,V4HANGC,word,action_words,produces,晾(衫),NA,,hang
-item_202,V4TIDYC,word,action_words,produces,執(收拾/拾起),NA,,tidy (action)
+item_202,V4TIDYC,word,action_words,produces,執(收拾/拾起),NA,,clean (action)
 item_203,V4PILUP2,word,action_words,produces,疊*(起),NA,,stack (action)
 item_204,V4MOVE,word,action_words,produces,搬,NA,,move
 item_205,V4RINSE,word,action_words,produces,沖,NA,,rinse
@@ -588,7 +588,7 @@ item_586,C12COATC,word,clothing,produces,褸/Jacket,NA,,coat
 item_587,C12TSHIR,word,clothing,produces,T恤,NA,shirt / t shirt,shirt
 item_588,C12SWEAC,word,clothing,produces,冷衫,NA,,sweater
 item_589,C12PANTS,word,clothing,produces,褲,NA,,pants
-item_590,C12PANTC,word,clothing,produces,底褲/內褲,NA,,underwear
+item_590,C12PANTC,word,clothing,produces,底褲/內褲,NA,,underpants
 item_591,C12JEANS,word,clothing,produces,牛仔褲,NA,,jeans
 item_592,C12SKIRT,word,clothing,produces,裙,NA,,skirt
 item_593,C12DIAPR,word,clothing,produces,尿片/片片,NA,,diaper

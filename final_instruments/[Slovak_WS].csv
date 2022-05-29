@@ -590,7 +590,7 @@ item_588,NA,word,understands; produces,descriptive_words (adverbs),už,NA,alread
 item_589,NA,word,understands; produces,descriptive_words (adverbs),veľmi,NA,very,very
 item_590,NA,word,understands; produces,descriptive_words (adverbs),zle,NA,ill,bad
 item_591,NA,word,understands; produces,other,aha,NA,I see,NA
-item_592,NA,word,understands; produces,other,akože,NA,by way of,well
+item_592,NA,word,understands; produces,other,akože,NA,by way of,well (modifier)
 item_593,NA,word,understands; produces,other,áno / hej,NA,Yes / hey,yes
 item_594,NA,word,understands; produces,other,asi / možno,NA,probably / maybe,maybe
 item_595,NA,word,understands; produces,other,iba,NA,only,only

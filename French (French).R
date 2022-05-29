@@ -25,6 +25,8 @@ new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$definition=="je"),]$uni_lemma = "I"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="skate (action)"),]$uni_lemma = "skate"
+new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
+
 
 subset(new_items, uni_lemma=="")
 

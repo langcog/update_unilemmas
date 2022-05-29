@@ -219,7 +219,7 @@ bočica (s dudom),household,bocica_(s_dudom),word,produces,NA,item_213,pacifier,
 četka,household,cetka,word,produces,NA,item_218,brush (object),brush,brush (object)
 četkica za zube,household,cetkica_za_zube,word,produces,NA,item_219,NA,toothbrush,toothbrush
 deka,household,deka,word,produces,NA,item_220,blanket,blanket,blanket
-hodalica,household,hodalica,word,produces,NA,item_221,NA,walker,baby walker
+hodalica,household,hodalica,word,produces,NA,item_221,NA,walker,walker
 igla,household,igla,word,produces,NA,item_222,NA,needle,needle
 jastuk,household,jastuk,word,produces,NA,item_223,pillow,pillow,pillow
 kamera,household,kamera,word,produces,NA,item_224,NA,camera,camera
@@ -232,7 +232,7 @@ kuhača,household,kuhaca,word,produces,NA,item_230,NA,ladle,wooden ladle
 kutija,household,kutija,word,produces,NA,item_231,box,box,box
 lavor,household,lavor,word,produces,NA,item_232,NA,washbowl,sink
 lijek,household,lijek,word,produces,NA,item_233,medicine,medicine,medicine
-limenka,household,limenka,word,produces,NA,item_234,NA,can,tin can
+limenka,household,limenka,word,produces,NA,item_234,NA,can,can (object)
 lonac,household,lonac,word,produces,NA,item_235,NA,pot,pot
 lopatica (za smeće),household,lopatica_(za_smece),word,produces,NA,item_236,NA,dustpan,dustpan
 metla,household,metla,word,produces,NA,item_237,broom,broom,broom
@@ -337,7 +337,7 @@ park,places,park,word,produces,NA,item_335,NA,park,park
 plaža,places,plaza,word,produces,NA,item_336,NA,beach,beach
 posao,places,posao,word,produces,NA,item_337,NA,work,work (place)
 proslava,places,proslava,word,produces,NA,item_338,NA,party,party
-selo,places,selo,word,produces,NA,item_339,NA,farm,village
+selo,places,selo,word,produces,NA,item_339,NA,farm,town
 šetnja,places,setnja,word,produces,NA,item_340,NA,walk,outing
 škola,places,skola,word,produces,NA,item_341,NA,school,school
 šuma,places,suma,word,produces,NA,item_342,NA,woods,forest

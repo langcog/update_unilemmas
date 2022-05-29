@@ -33,6 +33,8 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="colored pencil"),]$uni_lemma = "crayon"
 new_items[which(new_items$uni_lemma=="cuddles"),]$uni_lemma = "cuddle"
 new_items[which(new_items$uni_lemma=="run after"),]$uni_lemma = "chase"
+new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
+new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

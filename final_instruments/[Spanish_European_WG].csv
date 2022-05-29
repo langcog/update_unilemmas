@@ -108,7 +108,7 @@ item_100,fotos,word,toys,understands; produces,fotos (cámara),NA,photos,photo
 item_101,futbol,word,toys,understands; produces,fútbol,NA,soccer ball,ball
 item_102,globo,word,toys,understands; produces,globo,NA,balloon,balloon
 item_103,gol,word,toys,understands; produces,gol,NA,goal,goal
-item_104,juguete,word,toys,understands; produces,juguete,NA,toy,toy
+item_104,juguete,word,toys,understands; produces,juguete,NA,toy,toy (object)
 item_105,lapiz,word,toys,understands; produces,lápiz,NA,pencil,Pencil
 item_106,muneca,word,toys,understands; produces,muñeca,NA,doll,doll
 item_107,musica,word,toys,understands; produces,música,NA,music,music
@@ -177,7 +177,7 @@ item_169,esponja,word,household,understands; produces,esponja,NA,sponge,sponge
 item_170,flor,word,household,understands; produces,flor,NA,flower,flower
 item_171,jarabe,word,household,understands; produces,jarabe,NA,syrup,syrup
 item_172,habitaci,word,household,understands; produces,habitación/cuarto,NA,room,room
-item_173,lavadora,word,household,understands; produces,lavadora,NA,washer,washer
+item_173,lavadora,word,household,understands; produces,lavadora,NA,washer,washing machine
 item_174,luz,word,household,understands; produces,luz,NA,light,light
 item_175,llaves,word,household,understands; produces,llaves,NA,keys,keys
 item_176,mando,word,household,understands; produces,mando,NA,remote control,remote control
@@ -205,7 +205,7 @@ item_197,arena,word,outside_places,understands; produces,arena/tierra,NA,sand/la
 item_198,caballit,word,outside_places,understands; produces,caballitos,NA,little horses,pony
 item_199,casa,word,outside_places,understands; produces,casa,NA,home,house
 item_200,calle,word,outside_places,understands; produces,calle,NA,street,street
-item_201,columpio,word,outside_places,understands; produces,columpio,NA,swing,swing
+item_201,columpio,word,outside_places,understands; produces,columpio,NA,swing,swing (object)
 item_202,luna,word,outside_places,understands; produces,luna,NA,moon,moon
 item_203,lluvia,word,outside_places,understands; produces,lluvia,NA,rain,rain
 item_204,mar,word,outside_places,understands; produces,mar,NA,sea,sea

@@ -7,7 +7,7 @@ item_5,a9donhih,word,sounds,produces,Hi hoo hihoo,NA,Donkey,hee haw
 item_6,a8doghuu,word,sounds,produces,Huu huu huu,NA,Dog,woof woof
 item_7,a11monki,word,sounds,produces,Kima/Tsalu,NA,monkey,monkey
 item_8,a5cockok,word,sounds,produces,Kokoikoo,NA,Cockerel,cockadoodledoo
-item_9,a4chikru,word,sounds,produces,Kru kru kru,NA,Chicken calling chicks,peep peep
+item_9,a4chikru,word,sounds,produces,Kru kru kru,NA,Chicken calling chicks,tweet tweet
 item_10,a7crokun,word,sounds,produces,Kunguru,NA,Crow,crow
 item_11,a12ouclu,word,sounds,produces,Lumira,NA,Ouch,ouch
 item_12,a10goame,word,sounds,produces,Mee mee,NA,Goat,baa baa
@@ -27,7 +27,7 @@ item_25,b22cocjo,word,animals,produces,Jogolo,NA,Cockerel,rooster
 item_26,b36spiju,word,animals,produces,Juijui,NA,Spider,spider
 item_27,b30lizka,word,animals,produces,Kajonjoloka,NA,Lizard,lizard
 item_28,b26harka,word,animals,produces,Katsungula,NA,"Hare, rabbit",bunny
-item_29,b16torko,word,animals,produces,Kobe,NA,Tortoise,tortoise
+item_29,b16torko,word,animals,produces,Kobe,NA,Tortoise,turtle
 item_30,b12henko,word,animals,produces,Kolo,NA,Hen,hen
 item_31,b4chikuk,word,animals,produces,Kuku,NA,Chicken,chicken (animal)
 item_32,b19bedku,word,animals,produces,Kunguni,NA,Bed bug,bed bug
@@ -172,13 +172,13 @@ item_169,f37tsful,word,clothing,produces,Fulana,NA,T-Shirt,t-shirt
 item_170,f6niphom,word,clothing,produces,Hombo/Kopo ra mwana/Nyonyo,NA,Nipple,NA
 item_171,f27jacja,word,clothing,produces,Jaketi,NA,Jacket,jacket
 item_172,f28jeaji,word,clothing,produces,Jinzi,NA,Jeans,jeans
-item_173,f31petka,word,clothing,produces,Kamisi,NA,Petticoat,underwear
+item_173,f31petka,word,clothing,produces,Kamisi,NA,Petticoat,underpants
 item_174,f20cloka,word,clothing,produces,Kanga,NA,Cloth1,NA
 item_175,f19butki,word,clothing,produces,Kifungo/Kipingo,NA,Button,button
 item_176,f21cloki,word,clothing,produces,Kikoi,NA,Cloth2,scarf
 item_177,f10shoki,word,clothing,produces,Kipande/Suruale fuhi,NA,Shorts,shorts
 item_178,f9shokir,word,clothing,produces,Kirahu,NA,Shoe,shoe
-item_179,f32petki,word,clothing,produces,Kirinda,NA,Petticoat,underwear
+item_179,f32petki,word,clothing,produces,Kirinda,NA,Petticoat,underpants
 item_180,f26heaki,word,clothing,produces,Kitambaa cha kitswa/Hijab,NA,Headscarf,scarf
 item_181,f33pieki,word,clothing,produces,Kithambaa,NA,Piece of cloth,NA
 item_182,f25hatko,word,clothing,produces,Kofia/,NA,Hat/cap,hat
@@ -427,7 +427,7 @@ item_424,n53tougu,word,action_words,produces,Guta,NA,Touch,touch
 item_425,n7catgwi,word,action_words,produces,Gwira/Ganda,NA,Catch/hold,catch
 item_426,n50takha,word,action_words,produces,Hala,NA,Take,take
 item_427,n66dohen,word,action_words,produces,Henda,NA,Do,do
-item_428,n108worh,word,action_words,produces,Henda kazi,NA,Work,work
+item_428,n108worh,word,action_words,produces,Henda kazi,NA,Work,work (action)
 item_429,n30lauhe,word,action_words,produces,Henda mwii/Tseka,NA,Laugh/smile,laugh
 item_430,n84lovhe,word,action_words,produces,Henza,NA,"Love, like",love
 item_431,n92slihe,word,action_words,produces,Hereza,NA,slip,slip

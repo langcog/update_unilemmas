@@ -267,7 +267,7 @@ item_286,room,word,furniture_rooms,understands; produces,room,room,room
 item_287,shower,word,furniture_rooms,understands; produces,shower,shower,shower
 item_288,stairs,word,furniture_rooms,understands; produces,stairs,stairs,stairs
 item_289,table,word,furniture_rooms,understands; produces,table,table,table
-item_290,tv,word,furniture_rooms,understands; produces,tv,tv,tv
+item_290,tv,word,furniture_rooms,understands; produces,tv,tv,TV
 item_291,washingmachine,word,furniture_rooms,understands; produces,washing machine,washing machine,washing machine
 item_292,window,word,furniture_rooms,understands; produces,window,window,window
 item_293,garden,word,outside,understands; produces,garden,garden,garden
@@ -507,7 +507,7 @@ item_526,heavy,word,descriptive_words,understands; produces,heavy,heavy,heavy
 item_527,high,word,descriptive_words,understands; produces,high,high,high
 item_528,hot,word,descriptive_words,understands; produces,hot,hot,hot
 item_529,hungry,word,descriptive_words,understands; produces,hungry,hungry,hungry
-item_530,hurt,word,descriptive_words,understands; produces,hurt,hurt,hurt
+item_530,hurt,word,descriptive_words,understands; produces,hurt,hurt,hurt (description)
 item_531,last,word,descriptive_words,understands; produces,last,last,last
 item_532,little,word,descriptive_words,understands; produces,little,little,little (description)
 item_533,long,word,descriptive_words,understands; produces,long,long,long

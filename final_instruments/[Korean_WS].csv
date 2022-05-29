@@ -96,7 +96,7 @@ item_94,item_094,word,clothing,understands; produces,장갑,NA,gloves,gloves
 item_95,item_095,word,clothing,understands; produces,주머니,NA,pocket,pocket
 item_96,item_096,word,clothing,understands; produces,치마,NA,skirt,skirt
 item_97,item_097,word,clothing,understands; produces,코트/외투,NA,coat,coat
-item_98,item_098,word,clothing,understands; produces,팬티,NA,underpants,underwear
+item_98,item_098,word,clothing,understands; produces,팬티,NA,underpants,underpants
 item_99,item_099,word,clothing,understands; produces,허리띠,NA,belt,belt
 item_100,item_100,word,furniture_rooms,understands; produces,계단,NA,stairs,stairs
 item_101,item_101,word,furniture_rooms,understands; produces,냉장고,NA,refrigerator,refrigerator
@@ -365,7 +365,7 @@ item_363,item_363,word,question_words,understands; produces,어디,NA,where,wher
 item_364,item_364,word,question_words,understands; produces,어디서,NA,where from,where from
 item_365,item_365,word,question_words,understands; produces,어떤,NA,which,which (question)
 item_366,item_366,word,question_words,understands; produces,어떻게,NA,how,how
-item_367,item_367,word,question_words,understands; produces,언제,NA,when,when
+item_367,item_367,word,question_words,understands; produces,언제,NA,when,when (question)
 item_368,item_368,word,question_words,understands; produces,왜,NA,why,why
 item_369,item_369,word,action_words,understands; produces,가,NA,go,go
 item_370,item_370,word,action_words,understands; produces,가리켜,NA,point,point
@@ -553,7 +553,7 @@ item_551,item_551,word,descriptive_words,understands; produces,아파,NA,sick,si
 item_552,item_552,word,descriptive_words,understands; produces,어두워,NA,dim,dim
 item_553,item_553,word,descriptive_words,understands; produces,없어,NA,nothing,nothing
 item_554,item_554,word,descriptive_words,understands; produces,예뻐,NA,pretty,pretty
-item_555,item_555,word,descriptive_words,understands; produces,이상해,NA,weird,weird
+item_555,item_555,word,descriptive_words,understands; produces,이상해,NA,weird,strange
 item_556,item_556,word,descriptive_words,understands; produces,있어,NA,be,there is
 item_557,item_557,word,descriptive_words,understands; produces,작아,NA,small,small
 item_558,item_558,word,descriptive_words,understands; produces,재미있어,NA,fun,fun

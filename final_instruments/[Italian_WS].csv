@@ -448,7 +448,7 @@ guardare,action_words,guardare,word,produces,NA,item_446,NA,look,look
 guidare,action_words,guidare,word,produces,NA,item_447,NA,drive,drive
 lanciare,action_words,lanciare,word,produces,NA,item_448,NA,throw,throw
 lavare,action_words,lavare,word,produces,NA,item_449,wash,wash,wash
-lavorare,action_words,lavorare,word,produces,NA,item_450,NA,work,work
+lavorare,action_words,lavorare,word,produces,NA,item_450,NA,work,work (action)
 leccare,action_words,leccare,word,produces,NA,item_451,lick,lick,lick
 leggere,action_words,leggere,word,produces,NA,item_452,read,read,read
 levare/togliere,action_words,levare/togliere,word,produces,NA,item_453,take off,take off/remove,take off
@@ -645,7 +645,7 @@ puoi,helping_verbs,puoi,word,produces,NA,item_643,NA,can,can (auxiliary)
 può,helping_verbs,puo,word,produces,NA,item_644,NA,can,can (auxiliary)
 voglio,helping_verbs,voglio,word,produces,NA,item_645,NA,want,want
 vuoi,helping_verbs,vuoi,word,produces,NA,item_646,NA,want,want
-vuole,helping_verbs,vuole,word,produces,NA,item_647,NA,wants,wants
+vuole,helping_verbs,vuole,word,produces,NA,item_647,NA,wants,want
 devo,helping_verbs,devo,word,produces,NA,item_648,NA,have to,have to
 devi,helping_verbs,devi,word,produces,NA,item_649,NA,have to,have to
 deve,helping_verbs,deve,word,produces,NA,item_650,NA,has to,has to

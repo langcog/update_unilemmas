@@ -154,7 +154,7 @@ item_152,152_settee_sofa,furniture_rooms,understands; produces,settee / sofa,wor
 item_153,153_sink,furniture_rooms,understands; produces,sink,word,NA,sink,sink
 item_154,154_stairs,furniture_rooms,understands; produces,stairs,word,NA,stairs,stairs
 item_155,155_table,furniture_rooms,understands; produces,table,word,NA,table,table
-item_156,156_TV_television,furniture_rooms,understands; produces,TV / television,word,NA,TV / television,tv
+item_156,156_TV_television,furniture_rooms,understands; produces,TV / television,word,NA,TV / television,TV
 item_157,157_window,furniture_rooms,understands; produces,window,word,NA,window,window
 item_158,158_beach,outside,understands; produces,beach,word,NA,beach,beach
 item_159,159_bucket,outside,understands; produces,bucket,word,NA,bucket,bucket

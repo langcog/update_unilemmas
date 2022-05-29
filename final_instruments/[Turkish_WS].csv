@@ -321,7 +321,7 @@ Ev,places,Ev,word,produces,NA,item_319,home,home/house,home
 Hastane,places,Hastane,word,produces,NA,item_320,NA,hospital,hospital
 İş,places,Is,word,produces,NA,item_321,work (place),work,work (place)
 Komşu,places,Komsu,word,produces,NA,item_322,NA,neighbor,neighbor
-Köy,places,Koy,word,produces,NA,item_323,village,village,village
+Köy,places,Koy,word,produces,NA,item_323,village,village,town
 Kreş/Yuva,places,Kres/Yuva,word,produces,NA,item_324,NA,daycare center,NA
 Maç,places,Mac,word,produces,NA,item_325,NA,match/game,game
 Market,places,Market,word,produces,NA,item_326,market,market,market
@@ -435,7 +435,7 @@ Boz,action_words,Boz,word,produces,NA,item_433,NA,pull apart,NA
 Bul,action_words,Bul,word,produces,NA,item_434,find,find,find
 Büyü,action_words,Buyu,word,produces,NA,item_435,NA,grow up,NA
 Çağır,action_words,Cagir,word,produces,NA,item_436,NA,call,call
-Çalış,action_words,Calis,word,produces,NA,item_437,NA,work,work
+Çalış,action_words,Calis,word,produces,NA,item_437,NA,work,work (action)
 Çek,action_words,Cek,word,produces,NA,item_438,pull,pull,pull
 Çevir,action_words,Cevir,word,produces,NA,item_439,NA,turn/spin,turn
 Çıkar,action_words,Cikar,word,produces,NA,item_440,take off,take off,remove
@@ -652,7 +652,7 @@ Kaç tane,question_words,Kac_tane,word,produces,NA,item_650,NA,how many,how
 Kim,question_words,Kim,word,produces,NA,item_651,who,who,who
 Nasıl,question_words,Nasil,word,produces,NA,item_652,how,how,how
 Ne,question_words,Ne,word,produces,NA,item_653,what,what,what
-Ne zaman,question_words,Ne_zaman,word,produces,NA,item_654,NA,when,when
+Ne zaman,question_words,Ne_zaman,word,produces,NA,item_654,NA,when,when (question)
 Neden,question_words,Neden,word,produces,NA,item_655,why,why,why
 Ne kadar,question_words,Ne_kadar,word,produces,NA,item_656,NA,how many/how much,how
 Nereye,question_words,Nereye,word,produces,NA,item_657,where (question),where to,where (question)

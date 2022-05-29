@@ -259,7 +259,7 @@ item_257,V4WORK,word,action_words,produces,NA,工作,work (action),work (action)
 item_258,V4TRY2,word,action_words,produces,NA,试,try,try
 item_259,V4SELL,word,action_words,produces,NA,卖,sell,sell
 item_260,V4DAN,word,action_words,produces,NA,掸掸,wipe,wipe
-item_261,V4TIDY,word,action_words,produces,NA,收拾,tidy (action),tidy (action)
+item_261,V4TIDY,word,action_words,produces,NA,收拾,tidy (action),clean (action)
 item_262,V4FORGT,word,action_words,produces,NA,忘记,forget,forget
 item_263,V4PRETE,word,action_words,produces,NA,假装,pretend,pretend
 item_264,V4HOPE,word,action_words,produces,NA,希望,hope,hope
@@ -589,7 +589,7 @@ item_587,F12STOOL,word,furniture_rooms,produces,NA,凳子,stool,stool
 item_588,F12CHAIR,word,furniture_rooms,produces,NA,椅子,chair,chair
 item_589,F12COUCH,word,furniture_rooms,produces,NA,沙发,couch,couch
 item_590,F12COFFT,word,furniture_rooms,produces,NA,茶几,stairs,stairs
-item_591,F12TV,word,furniture_rooms,produces,NA,电视,tv,tv
+item_591,F12TV,word,furniture_rooms,produces,NA,电视,tv,TV
 item_592,F12FRIDG,word,furniture_rooms,produces,NA,冰箱,refrigerator,refrigerator
 item_593,F12STOVE,word,furniture_rooms,produces,NA,炉子/灶,stove,stove
 item_594,F12WASHE,word,furniture_rooms,produces,NA,洗衣机,washing machine,washing machine

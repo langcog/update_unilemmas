@@ -231,7 +231,7 @@ Mutfak,furniture_rooms,Mutfak,word,understands; produces,NA,item_161,kitchen,kit
 Oda,furniture_rooms,Oda,word,understands; produces,NA,item_162,room,room
 Pencere,furniture_rooms,Pencere,word,understands; produces,NA,item_163,window,window
 Sandalye/İskemle,furniture_rooms,Sandalye/Iskemle,word,understands; produces,NA,item_164,chair,chair
-Televizyon,furniture_rooms,Televizyon,word,understands; produces,NA,item_165,TV,tv
+Televizyon,furniture_rooms,Televizyon,word,understands; produces,NA,item_165,TV,TV
 Tuvalet,furniture_rooms,Tuvalet,word,understands; produces,NA,item_166,toilet,potty
 Yastık,furniture_rooms,Yastik,word,understands; produces,NA,item_168,pillow,pillow
 Yatak,furniture_rooms,Yatak,word,understands; produces,NA,item_167,bed,bed
@@ -354,7 +354,7 @@ Dışarı,places,Disari_,word,understands; produces,NA,item_194,outside,outside
 Dükkan,places,Dukkan,word,understands; produces,NA,item_196,shop/store,store
 Ev,places,Ev,word,understands; produces,NA,item_197,home/house,home
 İş,places,Is,word,understands; produces,NA,item_198,work,work (place)
-Köy,places,Koy,word,understands; produces,NA,item_199,village,village
+Köy,places,Koy,word,understands; produces,NA,item_199,village,town
 Market,places,Market,word,understands; produces,NA,item_200,market,market
 Okul,places,Okul,word,understands; produces,NA,item_201,school,school
 Park,places,Park,word,understands; produces,NA,item_202,park/playground,park

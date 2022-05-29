@@ -30,6 +30,13 @@ new_items[which(new_items$uni_lemma=="longlasting"),]$uni_lemma = "tough" # or d
 new_items[which(new_items$uni_lemma=="palm (body part)"),]$uni_lemma = "palm" 
 new_items[which(new_items$uni_lemma=="sink (object)"),]$uni_lemma = "sink"
 new_items[which(new_items$uni_lemma=="dress"),]$uni_lemma = "dress (object)"
+new_items[which(new_items$uni_lemma=="work"),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="what (question)"),]$uni_lemma = "what"
+new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+new_items[which(new_items$uni_lemma=="peep peep"),]$uni_lemma = "tweet tweet"
+new_items[which(new_items$uni_lemma=="tortoise"),]$uni_lemma = "turtle"
+
+
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

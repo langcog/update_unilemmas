@@ -183,7 +183,7 @@ item_181,i_6_25,word,clothing,produces,strømpebukse,NA,tights,tights,tights
 item_182,i_6_26,word,clothing,produces,strømper,NA,NA,stockings,stockings
 item_183,i_6_27,word,clothing,produces,t-skjorte,NA,t-shirt,T-shirt,t-shirt
 item_184,i_6_28,word,clothing,produces,tøfler,NA,NA,slippers,slipper
-item_185,i_6_29,word,clothing,produces,underbukse,NA,NA,briefs,underwear
+item_185,i_6_29,word,clothing,produces,underbukse,NA,NA,briefs,underpants
 item_186,i_6_30,word,clothing,produces,votter,NA,mittens,mittens,mitten
 item_187,i_7_1,word,body_parts,produces,ankel,NA,NA,Ankle,ankle
 item_188,i_7_2,word,body_parts,produces,ansikt,NA,face,face,face
@@ -412,7 +412,7 @@ item_410,i_13_24,word,games_routines,produces,takk,NA,thank you,thank you,thank 
 item_411,i_13_25,word,games_routines,produces,vær så snill,NA,please,por favor,please
 item_412,i_13_26,word,games_routines,produces,vent,NA,wait,hold it,wait
 item_413,i_13_27,word,games_routines,produces,vil,NA,wanna,want to,wanna
-item_414,i_14_1,word,action_words,produces,jobbe,NA,NA,work,work 
+item_414,i_14_1,word,action_words,produces,jobbe,NA,NA,work,work (action)
 item_415,i_14_2,word,action_words,produces,bite,NA,bite,bite,bite
 item_416,i_14_3,word,action_words,produces,blåse,NA,blow,blow,blow
 item_417,i_14_4,word,action_words,produces,bråke,NA,NA,brawl,fight
@@ -471,7 +471,7 @@ item_469,i_14_56,word,action_words,produces,miste,NA,NA,Lose,lose
 item_470,i_14_57,word,action_words,produces,reparere,NA,NA,repair,repair 
 item_471,i_14_58,word,action_words,produces,passe,NA,NA,fit,fit 
 item_472,i_14_59,word,action_words,produces,plaske,NA,splash,splash,splash
-item_473,i_14_60,word,action_words,produces,prøve,NA,NA,sample,attempt 
+item_473,i_14_60,word,action_words,produces,prøve,NA,NA,sample,try
 item_474,i_14_61,word,action_words,produces,puste,NA,NA,breathing,breathe
 item_475,i_14_62,word,action_words,produces,ri,NA,ride,ri,ride
 item_476,i_14_63,word,action_words,produces,riste,NA,NA,shake,shake 
@@ -515,7 +515,7 @@ item_513,i_14_100,word,action_words,produces,slå seg,NA,NA,settle,hurt
 item_514,i_14_101,word,action_words,produces,vise,NA,show,view,show
 item_515,i_14_102,word,action_words,produces,velte,NA,NA,topple,NA
 item_516,i_14_103,word,action_words,produces,være glad i,NA,NA,be fond of,love
-item_517,i_14_104,word,action_words,produces,våkne,NA,NA,wake up,wake up 
+item_517,i_14_104,word,action_words,produces,våkne,NA,NA,wake up,wake
 item_518,i_14_105,word,action_words,produces,ødelegge,NA,break,tear up,break
 item_519,i_14_106,word,action_words,produces,ønske,NA,NA,desire,wish 
 item_520,i_14_107,word,action_words,produces,åpne,NA,open (action),open up,open (action)
@@ -552,7 +552,7 @@ item_550,i_15_30,word,descriptive_words,produces,ny,NA,NA,new,new
 item_551,i_15_31,word,descriptive_words,produces,ødelagt,NA,broken,destroyed,broken
 item_552,i_15_32,word,descriptive_words,produces,oransje,NA,NA,orange,orange
 item_553,i_15_33,word,descriptive_words,produces,pen,NA,pretty,pretty,pretty
-item_554,i_15_34,word,descriptive_words,produces,rar,NA,NA,rar,weird
+item_554,i_15_34,word,descriptive_words,produces,rar,NA,NA,rar,strange
 item_555,i_15_35,word,descriptive_words,produces,redd,NA,scared,afraid,scared
 item_556,i_15_36,word,descriptive_words,produces,ren,NA,clean (description),clean,clean (description)
 item_557,i_15_37,word,descriptive_words,produces,rød,NA,red,red,red
@@ -720,7 +720,7 @@ item_718,i_21_18,word,helping_verbs,produces,skulle,NA,NA,should,should
 item_719,i_21_19,word,helping_verbs,produces,være,NA,NA,be,be
 item_720,i_21_20,word,helping_verbs,produces,var,NA,NA,was,was
 item_721,i_21_21,word,helping_verbs,produces,vil,NA,NA,want to,want
-item_722,i_21_22,word,helping_verbs,produces,ville,NA,NA,would,wanted
+item_722,i_21_22,word,helping_verbs,produces,ville,NA,NA,would,want
 item_723,i_22_1,word,connecting_words,produces,at,NA,NA,that,that
 item_724,i_22_2,word,connecting_words,produces,eller,NA,NA,or,or
 item_725,i_22_3,word,connecting_words,produces,for,NA,NA,for the,for

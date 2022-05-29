@@ -124,7 +124,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 булка,food_drink,NA,word,produces,NA,item_123,loaf (baguette),bun
 варенье,food_drink,NA,word,produces,NA,item_124,jam,jam
 виноград,food_drink,NA,word,produces,NA,item_125,grapes,grapes
-витамины,food_drink,NA,word,produces,NA,item_126,vitamins,vitamins
+витамины,food_drink,NA,word,produces,NA,item_126,vitamins,vitamin
 вода,food_drink,NA,word,produces,NA,item_127,water,water (beverage)
 груша,food_drink,NA,word,produces,NA,item_128,pear,pear
 горох,food_drink,NA,word,produces,NA,item_129,peas,peas
@@ -209,7 +209,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 сапоги,clothing,NA,word,produces,NA,item_208,boots,boots
 свитер,clothing,NA,word,produces,NA,item_209,sweater,sweater
 тапки,clothing,NA,word,produces,NA,item_210,slippers,slipper
-трусы,clothing,NA,word,produces,NA,item_211,underpants,underwear
+трусы,clothing,NA,word,produces,NA,item_211,underpants,underpants
 туфли,clothing,NA,word,produces,NA,item_212,shoes,shoe
 шапка,clothing,NA,word,produces,NA,item_213,hat,hat
 шарф,clothing,NA,word,produces,NA,item_214,scarf,scarf
@@ -363,7 +363,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 дом,places,NA,word,produces,NA,item_362,house,house
 зоопарк,places,NA,word,produces,NA,item_363,zoo,zoo
 качели,places,NA,word,produces,NA,item_364,swing,swing (object)
-лес,places,NA,word,produces,NA,item_365,woods,woods
+лес,places,NA,word,produces,NA,item_365,woods,forest
 магазин,places,NA,word,produces,NA,item_366,shop,store
 озеро,places,NA,word,produces,NA,item_367,lake,lake
 парк,places,NA,word,produces,NA,item_368,park,park
@@ -519,7 +519,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 тащить,action_words,NA,word,produces,NA,item_518,drag/carry/bring,carry
 толкать,action_words,NA,word,produces,NA,item_519,push,push
 улыбаться,action_words,NA,word,produces,NA,item_520,smile,smile
-устать,action_words,NA,word,produces,NA,item_521,get tired,tire
+устать,action_words,NA,word,produces,NA,item_521,get tired,tire (action)
 хватать,action_words,NA,word,produces,NA,item_522,catch,grab
 хлопать,action_words,NA,word,produces,NA,item_523,clap,clap
 хотеть,action_words,NA,word,produces,NA,item_524,want,wanna
@@ -608,7 +608,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 тяжело,descriptive_words (adverbs),NA,word,produces,NA,item_607,heavily,heavy
 холодно,descriptive_words (adverbs),NA,word,produces,NA,item_608,cold,cold
 хорошо,descriptive_words (adverbs),NA,word,produces,NA,item_609,good,good
-чисто,descriptive_words (adverbs),NA,word,produces,NA,item_610,cleanly,clean
+чисто,descriptive_words (adverbs),NA,word,produces,NA,item_610,cleanly,clean (description)
 вечер,time_words,NA,word,produces,NA,item_611,evening,evening
 день,time_words,NA,word,produces,NA,item_612,day,day
 ночь,time_words,NA,word,produces,NA,item_613,night,night
@@ -690,7 +690,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 сюда,locations,NA,word,produces,NA,item_689,here,to here
 там,locations,NA,word,produces,NA,item_690,there,there
 под (напр. по стулом),locations,NA,word,produces,NA,item_691,under,under
-у (напр. у Ани),locations,NA,word,produces,NA,item_692,s,[possessive]
+у (напр. у Ани),locations,NA,word,produces,NA,item_692,s,at
 близко/ближе,locations,NA,word,produces,NA,item_693,near,near
 далеко,locations,NA,word,produces,NA,item_694,far,far
 домой,locations,NA,word,produces,NA,item_695,home,home
@@ -718,9 +718,9 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 и,connecting_words,NA,word,produces,NA,item_717,and,and
 или,connecting_words,NA,word,produces,NA,item_718,or,or
 как,connecting_words,NA,word,produces,NA,item_719,as/like,as
-какой,connecting_words,NA,word,produces,NA,item_720,what,which (conjunction)
+какой,connecting_words,NA,word,produces,NA,item_720,what,which (connecting)
 когда,connecting_words,NA,word,produces,NA,item_721,when,when (conjunction)
-который,connecting_words,NA,word,produces,NA,item_722,which,which (conjunction)
+который,connecting_words,NA,word,produces,NA,item_722,which,which (connecting)
 но,connecting_words,NA,word,produces,NA,item_723,but,but
 потому что,connecting_words,NA,word,produces,NA,item_724,because,because
 тоже,connecting_words,NA,word,produces,NA,item_725,too,also

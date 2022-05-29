@@ -76,6 +76,14 @@ new_items[which(new_items$uni_lemma=="on the outside"),]$uni_lemma = "outside"
 new_items[which(new_items$uni_lemma=="pet names"),]$uni_lemma = "pet's name"
 new_items[which(new_items$uni_lemma=="paint "),]$uni_lemma = "paint (action)"
 new_items[which(new_items$uni_lemma=="dress "),]$uni_lemma = "dress (action)"
+new_items[which(new_items$uni_lemma=="attempt "),]$uni_lemma = "try"
+new_items[which(new_items$uni_lemma=="work "),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="weird"),]$uni_lemma = "strange"
+new_items[which(new_items$uni_lemma=="wanted"),]$uni_lemma = "want"
+new_items[which(new_items$uni_lemma=="wake up "),]$uni_lemma = "wake"
+new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+
+
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

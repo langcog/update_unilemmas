@@ -148,7 +148,7 @@ item_146,thon,word,produces,food_drink,thon,NA,tuna,tuna
 item_147,toast,word,produces,food_drink,toast,NA,toast,toast
 item_148,vanille,word,produces,food_drink,vanille,NA,vanilla,vanilla
 item_149,viande,word,produces,food_drink,viande,NA,meat,meat
-item_150,vitamine,word,produces,food_drink,vitamine,NA,vitamin,vitamins
+item_150,vitamine,word,produces,food_drink,vitamine,NA,vitamin,vitamin
 item_151,yogourt,word,produces,food_drink,yogourt,NA,yogurt,yogurt
 item_152,bas,word,produces,clothing,bas,NA,low,sock
 item_153,bavette,word,produces,clothing,bavette,NA,bib,bib
@@ -283,7 +283,7 @@ item_281,salon,word,produces,furniture_rooms,salon,NA,living room,living room
 item_282,s'echeuse,word,produces,furniture_rooms,sécheuse,NA,dryer,dryer
 item_283,sous-sol,word,produces,furniture_rooms,sous-sol,NA,subsoil,basement
 item_284,table,word,produces,furniture_rooms,table,NA,table,table
-item_285,t'el'evision,word,produces,furniture_rooms,télévision,NA,television,tv
+item_285,t'el'evision,word,produces,furniture_rooms,télévision,NA,television,TV
 item_286,tiroir,word,produces,furniture_rooms,tiroir,NA,drawer,drawer
 item_287,arbre,word,produces,outside,arbre,NA,tree,tree
 item_288,arrosoir,word,produces,outside,arrosoir,NA,watering can,watering can

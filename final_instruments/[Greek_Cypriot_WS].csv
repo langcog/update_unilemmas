@@ -555,8 +555,8 @@ item_553,V69_FEEL_H_CG,word,action_words,produces,πυρώννω,NA,feel hot CG,
 item_554,V70_THROW,word,action_words,produces,ρίχνω,NA,throw,throw
 item_555,V71_WIPE_P,word,action_words,produces,σκουπίζομαι,NA,wipe-PASSIVE,wipe
 item_556,V72_WIPE,word,action_words,produces,σκουπίζω,NA,wipe,wipe
-item_557,V73_SWING_,word,action_words,produces,σούζομαι,NA,swing-PASSIVE,swing
-item_558,V74_SWING,word,action_words,produces,σούζω,NA,swing,swing
+item_557,V73_SWING_,word,action_words,produces,σούζομαι,NA,swing-PASSIVE,swing (action)
+item_558,V74_SWING,word,action_words,produces,σούζω,NA,swing,swing (action)
 item_559,V75_BREAK,word,action_words,produces,σπάζω,NA,break,break
 item_560,V76_PUSH,word,action_words,produces,σπρώχνω,NA,push,push
 item_561,V77_STOP,word,action_words,produces,σταματώ,NA,stop,stop
@@ -652,7 +652,7 @@ item_650,P20_CINEMA,word,places,produces,σινεμά,NA,cinema,movie
 item_651,P21_HOUSE,word,places,produces,σπίτι,NA,house,house
 item_652,P22_SCHOOL,word,places,produces,σχολείο,NA,school,school
 item_653,P23_CIRCUS,word,places,produces,τσίρκο,NA,circus,circus
-item_654,P24_VILLAG,word,places,produces,χωριό,NA,village,village
+item_654,P24_VILLAG,word,places,produces,χωριό,NA,village,town
 item_655,AQ1_OTHER_,word,articles,produces,άλλη,NA,other (female singular),another
 item_656,AQ2_OTHER_,word,articles,produces,άλλο,NA,other (neutral singular),another
 item_657,AQ3_OTHER_,word,articles,produces,άλλος,NA,other (male singular),another

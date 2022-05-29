@@ -90,7 +90,7 @@ item_88,88_ota,word,produces,toys,ota,NA,paintbrush,brush (object)
 item_89,89_pasaka,word,produces,toys,pasaka,NA,fairytale,story
 item_90,90_pildspalva,word,produces,toys,pildspalva,NA,pen,pen
 item_91,91_plastilins,word,produces,toys,plastilīns,NA,playdough,play dough
-item_92,92_rotallieta,word,produces,toys,rotaļlieta/mantiņa,NA,toy,toy
+item_92,92_rotallieta,word,produces,toys,rotaļlieta/mantiņa,NA,toy,toy (object)
 item_93,93_spainitis,word,produces,toys,spainītis,NA,bucket,bucket
 item_94,94_spele,word,produces,toys,spēle,NA,game,game
 item_95,95_zimulis,word,produces,toys,zīmulis,NA,pencil/crayon,pencil
@@ -165,7 +165,7 @@ item_163,163_zupa,word,produces,food_drink,zupa,NA,soup,soup
 item_164,164_apavi,word,produces,clothing,apavi,NA,shoes,shoe
 item_165,165_apgerbs,word,produces,clothing,apģērbs,NA,clothes,clothes
 item_166,166_bikses,word,produces,clothing,bikses,NA,trousers,pants
-item_167,167_biksites,word,produces,clothing,biksītes,NA,knickers,underwear
+item_167,167_biksites,word,produces,clothing,biksītes,NA,knickers,underpants
 item_168,168_botes,word,produces,clothing,botes,NA,high overshoes,boot
 item_169,169_cepure,word,produces,clothing,cepure,NA,hat,hat
 item_170,170_cimdi,word,produces,clothing,cimdi,NA,mittens,mitten
@@ -349,7 +349,7 @@ item_347,347_baznica,word,produces,places,baznīca,NA,church,church
 item_348,348_bernudarzs,word,produces,places,bērnudārzs,NA,kindergarten,kindergarten
 item_349,349_ciemos_,word,produces,places,ciemos,NA,on a visit (i.e. visit someone as guests),outing
 item_350,350_cirks,word,produces,places,cirks,NA,circus,circus
-item_351,351_darbs,word,produces,places,darbs,NA,work,work
+item_351,351_darbs,word,produces,places,darbs,NA,work,work (place)
 item_352,352_grupa_b_d,word,produces,places,grupa (b/d),NA,class/group (in the kindergarten),group
 item_353,353_kino,word,produces,places,kino,NA,movies,movie
 item_354,354_koncerts,word,produces,places,koncerts,NA,concert,concert
@@ -514,7 +514,7 @@ item_512,512_staigat,word,produces,action_words,staigāt,NA,walk,walk
 item_513,513_stastit,word,produces,action_words,stāstīt,NA,tell,tell
 item_514,514_stavet,word,produces,action_words,stāvēt,NA,stand,stand
 item_515,515_steigties,word,produces,action_words,steigties,NA,hurry,hurry
-item_516,516_stradat,word,produces,action_words,strādāt,NA,work,work
+item_516,516_stradat,word,produces,action_words,strādāt,NA,work,work (action)
 item_517,517_sukat_kemm,word,produces,action_words,sukāt/ķemmēt,NA,brush,brush (action)
 item_518,518_skaudit,word,produces,action_words,šķaudīt,NA,sneeze,sneeze
 item_519,519_slakstinat,word,produces,action_words,šļakstināt,NA,splash,splash
@@ -545,7 +545,7 @@ item_543,543_jauks_jauk,word,produces,descriptive_words,jauks/jauki,NA,nice,nice
 item_544,544_jauns,word,produces,descriptive_words,jauns,NA,new,new
 item_545,545_jautrs_jau,word,produces,descriptive_words,jautrs/jautri,NA,merry,fun
 item_546,546_karsts_kar,word,produces,descriptive_words,karsts/karsti,NA,hot,hot
-item_547,547_kartigs,word,produces,descriptive_words,kārtīgs,NA,tidy,tidy
+item_547,547_kartigs,word,produces,descriptive_words,kārtīgs,NA,tidy,clean (description)
 item_548,548_kluss_klus,word,produces,descriptive_words,kluss/klusi,NA,quiet,quiet
 item_549,549_labi,word,produces,descriptive_words,labi,NA,fine (okay),ok
 item_550,550_labs,word,produces,descriptive_words,labs,NA,good,good

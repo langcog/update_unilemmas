@@ -150,7 +150,7 @@ item_146,pot,furniture_rooms,pot,word,understands; produces,pot,pot
 item_147,salle de bain/toilette,furniture_rooms,salle_de_bain/_toilette,word,understands; produces,bathroom / toilet,bathroom
 item_148,salon,furniture_rooms,salon,word,understands; produces,living room,living room
 item_149,table,furniture_rooms,table,word,understands; produces,table,table
-item_150,télévision,furniture_rooms,television,word,understands; produces,television,tv
+item_150,télévision,furniture_rooms,television,word,understands; produces,television,TV
 item_151,tiroir,furniture_rooms,tiroir,word,understands; produces,drawer,drawer
 item_152,aspirateur,household,aspirateur,word,understands; produces,vacuum,vacuum
 item_153,assiette,household,assiette,word,understands; produces,plate,plate

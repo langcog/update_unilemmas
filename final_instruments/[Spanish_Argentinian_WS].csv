@@ -142,12 +142,12 @@ item_140,zapallo,zapallo,food_drink,word,produces,NA,pumpkin,pumpkin
 item_141,anteojos_lentes,anteojos_lentes,clothing,word,produces,NA,glasses,glasses
 item_142,aros,aros,clothing,word,produces,NA,earrings,earring
 item_143,babero,babero,clothing,word,produces,NA,bib,bib
-item_144,bombacha,bombacha,clothing,word,produces,NA,panties,underwear
+item_144,bombacha,bombacha,clothing,word,produces,NA,panties,underpants
 item_145,botas,botas,clothing,word,produces,NA,boots,boots
 item_146,botón,botón,clothing,word,produces,NA,button,button
 item_147,bufanda,bufanda,clothing,word,produces,NA,scarf,scarf
 item_148,buzo,buzo,clothing,word,produces,NA,sweatshirt,sweatshirt
-item_149,calzoncillo,calzoncillo,clothing,word,produces,NA,underpants,underwear
+item_149,calzoncillo,calzoncillo,clothing,word,produces,NA,underpants,underpants
 item_150,camisa,camisa,clothing,word,produces,NA,shirt,shirt
 item_151,campera,campera,clothing,word,produces,NA,jacket,jacket
 item_152,cartera,cartera,clothing,word,produces,NA,bag,bag
@@ -583,7 +583,7 @@ item_581,último,último,descriptive_words,word,produces,NA,last,last
 item_582,vacío,vacío,descriptive_words,word,produces,NA,empty,empty
 item_583,verde,verde,descriptive_words,word,produces,NA,green,green
 item_584,viejo,viejo,descriptive_words,word,produces,NA,old,old
-item_585,violeta,violeta,descriptive_words,word,produces,NA,violet,violet
+item_585,violeta,violeta,descriptive_words,word,produces,NA,violet,purple
 item_586,a_la_mañana,a_la_mañana,time_words,word,produces,NA,in the morning,NA
 item_587,a_la_noche,a_la_noche,time_words,word,produces,NA,at night,NA
 item_588,a_la_tarde,a_la_tarde,time_words,word,produces,NA,in the afternoon,NA

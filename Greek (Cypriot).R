@@ -29,6 +29,8 @@ new_items[which(new_items$uni_lemma=="bye bye"),]$uni_lemma = "bye"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="lentil"),]$uni_lemma = "beans"
 new_items[which(new_items$uni_lemma=="sink (object)"),]$uni_lemma = "sink"
+new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
+new_items[which(new_items$uni_lemma=="swing"),]$uni_lemma = "swing (action)"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

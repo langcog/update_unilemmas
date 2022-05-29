@@ -52,6 +52,11 @@ new_items[which(new_items$uni_lemma=="paint"),]$uni_lemma = "paint (action)"
 new_items[which(new_items$uni_lemma=="dress"),]$uni_lemma = "dress (object)"
 new_items[which(new_items$uni_lemma=="shower (object)"),]$uni_lemma = "shower"
 new_items[which(new_items$uni_lemma=="not that"),]$uni_lemma = "don't"
+new_items[which(new_items$uni_lemma=="work"),]$uni_lemma = "work (action)"
+new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (question)"
+new_items[which(new_items$uni_lemma=="washer"),]$uni_lemma = "washing machine"
+new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
+new_items[which(new_items$uni_lemma=="swing"),]$uni_lemma = "swing (object)"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_European", "WS", new_items %>% rename(itemID = WS))

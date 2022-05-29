@@ -233,7 +233,7 @@ item_231,i_08_18,word,household,produces,småpenge,NA,penny,petty cash,penny
 item_232,i_08_19,word,household,produces,dyne,NA,blanket,quilt,blanket
 item_233,i_08_20,word,household,produces,køkkenrulle,NA,NA,paper towels,NA
 item_234,i_08_21,word,household,produces,spand,NA,NA,bucket,bucket
-item_235,i_08_22,word,household,produces,dåse,NA,NA,can,can
+item_235,i_08_22,word,household,produces,dåse,NA,NA,can,can (object)
 item_236,i_08_23,word,household,produces,lampe,NA,lamp,lamp,lamp
 item_237,i_08_24,word,household,produces,støvsuger,NA,vacuum,vacuum cleaner,vacuum
 item_238,i_08_25,word,household,produces,flaske,NA,bottle,bottle,bottle
@@ -717,7 +717,7 @@ item_715,i_21_18,word,helping_verbs,produces,(at) ville,NA,NA,(That) would,would
 item_716,i_21_19,word,helping_verbs,produces,havde,NA,NA,had,had
 item_717,i_21_20,word,helping_verbs,produces,skal,NA,NA,must,must
 item_718,i_21_21,word,helping_verbs,produces,være,NA,NA,be,because
-item_719,i_22_1,word,connecting_words,produces,da,NA,NA,when,when
+item_719,i_22_1,word,connecting_words,produces,da,NA,NA,when,when (conjunction)
 item_720,i_22_2,word,connecting_words,produces,men,NA,NA,but,but
 item_721,i_22_3,word,connecting_words,produces,sådan,NA,NA,such,such
 item_722,i_22_4,word,connecting_words,produces,fordi,NA,NA,because,because

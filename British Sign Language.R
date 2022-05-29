@@ -19,6 +19,8 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="skate (action)"),]$uni_lemma = "skate"
+new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (description)"
+new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 
 
 # now join and re-save in raw_data/instruments format, e.g.
