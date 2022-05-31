@@ -93,24 +93,24 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2065 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 457 hapaxes
+  length(new_uni_tab) # 2052 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 456 hapaxes
   length(unique(new_uni$form)) # 63 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
   #write_csv(new_unis, file="uni-lemma_list.csv")
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 137 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 140 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 822
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 812
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1061 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1060 used in 5+ forms
   length(new_uni_tab[which(new_uni_tab>=10)]) # 786 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 590 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 473 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 591 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 474 on 30+ forms
   length(new_uni_tab[which(new_uni_tab>=40)]) # 327 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 204 on 50+
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 206 on 50+
   length(new_uni_tab[which(new_uni_tab>=60)]) # 75 on 60+ 
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)

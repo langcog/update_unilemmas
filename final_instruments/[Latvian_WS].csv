@@ -195,7 +195,7 @@ item_193,193_acs_acis,word,produces,body_parts,acs/acis,NA,eye/eyes,eye
 item_194,194_auss_ausis,word,produces,body_parts,auss/ausis,NA,ear/ears,ear
 item_195,195_celis,word,produces,body_parts,celis,NA,knee,knee
 item_196,196_deguns,word,produces,body_parts,deguns,NA,nose,nose
-item_197,197_dibens,word,produces,body_parts,dibens,NA,bottom,bottom
+item_197,197_dibens,word,produces,body_parts,dibens,NA,bottom,butt
 item_198,198_elkonis,word,produces,body_parts,elkonis,NA,elbow,elbow
 item_199,199_galva,word,produces,body_parts,galva,NA,head,head
 item_200,200_kaja,word,produces,body_parts,kāja,NA,leg,leg
@@ -277,7 +277,7 @@ item_275,275_balkons,word,produces,furniture_rooms,balkons,NA,balcony,balcony
 item_276,276_divans,word,produces,furniture_rooms,dīvāns,NA,couch,couch
 item_277,277_durvis,word,produces,furniture_rooms,durvis,NA,door,door
 item_278,278_dusa,word,produces,furniture_rooms,duša,NA,shower,shower
-item_279,279_gaitenis,word,produces,furniture_rooms,gaitenis,NA,corridor,hallway
+item_279,279_gaitenis,word,produces,furniture_rooms,gaitenis,NA,corridor,corridor
 item_280,280_galds,word,produces,furniture_rooms,galds,NA,table,table
 item_281,281_garaza,word,produces,furniture_rooms,garāža,NA,garage,garage
 item_282,282_grida,word,produces,furniture_rooms,grīda,NA,floor,floor

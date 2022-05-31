@@ -449,7 +449,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 закрыть,action_words,NA,word,produces,NA,item_448,close,close
 залезть,action_words,NA,word,produces,NA,item_449,climb,climb
 звать,action_words,NA,word,produces,NA,item_450,call/invite,invite
-звонить,action_words,NA,word,produces,NA,item_451,ring/call,call on phone
+звонить,action_words,NA,word,produces,NA,item_451,ring/call,call
 играть,action_words,NA,word,produces,NA,item_452,play,play
 идти/пойти,action_words,NA,word,produces,NA,item_453,go,go
 искать,action_words,NA,word,produces,NA,item_454,look for,look for

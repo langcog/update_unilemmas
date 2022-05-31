@@ -43,7 +43,7 @@ camicia,clothing,camicia,word,produces,NA,item_41,NA,shirt,shirt
 calzettoni,clothing,calzettoni,word,produces,NA,item_42,NA,sock,sock
 calze,clothing,calze,word,produces,NA,item_43,sock,tights,tights
 bretelle,clothing,bretelle,word,produces,NA,item_44,NA,suspenders,suspenders
-bottone,clothing,bottone,word,produces,NA,item_45,button,button,button (object)
+bottone,clothing,bottone,word,produces,NA,item_45,button,button,button
 borsa,clothing,borsa,word,produces,NA,item_46,NA,purse,purse
 bavaglino,clothing,bavaglino,word,produces,NA,item_47,NA,bib,bib
 zucchine,food_drink,zucchine,word,produces,NA,item_48,NA,courgette,zucchini

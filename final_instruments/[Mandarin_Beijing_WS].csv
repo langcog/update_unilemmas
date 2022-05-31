@@ -53,7 +53,7 @@ item_51,G3EAT,word,games_routines,produces,NA,吃饭,eat,eat
 item_52,G3WASH,word,games_routines,produces,NA,洗澡,bath,bath
 item_53,G3NAP,word,games_routines,produces,NA,休息/歇会儿,nap,nap
 item_54,G3BUY,word,games_routines,produces,NA,买(东西),buy,buy
-item_55,G3PHONE,word,games_routines,produces,NA,打（电话）,phone,call on phone
+item_55,G3PHONE,word,games_routines,produces,NA,打（电话）,phone,call
 item_56,G3HIDE,word,games_routines,produces,NA,藏猫猫,hide and seek,hide and seek
 item_57,G3GOTYA,word,games_routines,produces,NA,抓（逮）住了!,catch,catch
 item_58,G3CLAP,word,games_routines,produces,NA,你拍一，我拍一,clap,clap
@@ -209,13 +209,13 @@ item_207,V4DAMAG,word,action_words,produces,NA,打破/打碎,break,break
 item_208,V4TWIST,word,action_words,produces,NA,扭,twist,twist
 item_209,V4STOP,word,action_words,produces,NA,停,stop,stop
 item_210,V4SQUIS,word,action_words,produces,NA,压,squeeze,squeeze
-item_211,V4CRASH,word,action_words,produces,NA,撞,bump,bump (action)
+item_211,V4CRASH,word,action_words,produces,NA,撞,bump,bump
 item_212,V4INSER,word,action_words,produces,NA,插,insert,insert
 item_213,V4HUG,word,action_words,produces,NA,搂,hug,hug
 item_214,V4BRING,word,action_words,produces,NA,带,bring,bring
 item_215,V4DA,word,action_words,produces,NA,搭,ride,ride
 item_216,V4FOLLO,word,action_words,produces,NA,跟着,follow,follow
-item_217,V4DIAL,word,action_words,produces,NA,拨（电话）,,call on phone
+item_217,V4DIAL,word,action_words,produces,NA,拨（电话）,,call
 item_218,V4TEASE,word,action_words,produces,NA,逗,amuse,amuse
 item_219,V4LINE,word,action_words,produces,NA,排（队）,queue,queue
 item_220,V4DO,word,action_words,produces,NA,干（什么）,,do

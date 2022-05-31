@@ -130,7 +130,7 @@ item_128,item_128,hús,word,produces,food_drink,NA,meat,meat
 item_129,item_129,ital,word,produces,food_drink,NA,drink,drink (object)
 item_130,item_130,jégkrém,word,produces,food_drink,NA,popsicle,popsicle
 item_131,item_131,joghurt,word,produces,food_drink,NA,yogurt,yogurt
-item_132,item_132,kakaó,word,produces,food_drink,NA,cacao (drink),cacao
+item_132,item_132,kakaó,word,produces,food_drink,NA,cacao (drink),cocoa
 item_133,item_133,kaja,word,produces,food_drink,NA,food (informal),food
 item_134,item_134,kávé,word,produces,food_drink,NA,coffee,coffee
 item_135,item_135,keksz,word,produces,food_drink,NA,cracker,cracker
@@ -448,7 +448,7 @@ item_446,item_446,reggeli,word,produces,games_routines,NA,breakfast,breakfast
 item_447,item_447,szia,word,produces,games_routines,NA,hi,hi
 item_448,item_448,szívesen,word,produces,games_routines,NA,you're welcome,NA
 item_449,item_449,*szundi,word,produces,games_routines,NA,nap,nap
-item_450,item_450,telefon!,word,produces,games_routines,NA,call (on phone),call on phone
+item_450,item_450,telefon!,word,produces,games_routines,NA,call (on phone),call
 item_451,item_451,tízórai,word,produces,games_routines,NA,mid-morning snack,snack
 item_452,item_452,vacsora,word,produces,games_routines,NA,dinner,dinner
 item_453,item_453,vásárlás,word,produces,games_routines,NA,shopping,shopping
@@ -525,7 +525,7 @@ item_523,item_523,lát,word,produces,action_words,NA,see,see
 item_524,item_524,lesz,word,produces,action_words,NA,will' (future tense of verb 'be'),NA
 item_525,item_525,lép,word,produces,action_words,NA,step,NA
 item_526,item_526,lovagol,word,produces,action_words,NA,ride,ride
-item_527,item_527,lök,word,produces,action_words,NA,bump,bump (action)
+item_527,item_527,lök,word,produces,action_words,NA,bump,bump
 item_528,item_528,marad,word,produces,action_words,NA,stay,NA
 item_529,item_529,mászik,word,produces,action_words,NA,climb,climb
 item_530,item_530,megáll,word,produces,action_words,NA,stop (moving),stop

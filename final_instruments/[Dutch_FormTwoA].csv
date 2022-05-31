@@ -1,7 +1,7 @@
 itemID,category,definition,choices,item,type,gloss,uni_lemma
 item_1,sounds,behbeh(schaap),understands;produces,behbeh(schaap),word,baa baa,baa baa
 item_2,sounds,beu/boe/meu/moeh(koe),understands;produces,beu/boe/meu/moeh(koe),word,moo,moo
-item_3,sounds,ie-aaie-aa(ezel),understands;produces,ie-aaie-aa(ezel),word,hee-haw,bray
+item_3,sounds,ie-aaie-aa(ezel),understands;produces,ie-aaie-aa(ezel),word,hee-haw,hee haw
 item_4,sounds,ohooh(verbazing),understands;produces,ohooh(verbazing),word,,wow
 item_5,sounds,tjoek(e)tjoek(trein),understands;produces,tjoek(e)tjoek(trein),word,choo choo,choo choo
 item_6,sounds,vroem/broem(auto),understands;produces,vroem/broem(auto),word,vroom,vroom

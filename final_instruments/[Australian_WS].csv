@@ -361,7 +361,7 @@ item_359,teacher,word,people,produces,teacher,NA,teacher,teacher
 item_360,uncle,word,people,produces,uncle,NA,uncle,uncle
 item_361,bath,word,games_routines,produces,bath,NA,bath,bath
 item_362,breakfast,word,games_routines,produces,breakfast,NA,breakfast,breakfast
-item_363,call_phone,word,games_routines,produces,call(phone),NA,call(phone),call on phone
+item_363,call_phone,word,games_routines,produces,call(phone),NA,call(phone),call
 item_364,dinner,word,games_routines,produces,dinner,NA,dinner,dinner
 item_365,give_me_five,word,games_routines,produces,give me five!,NA,give me five!,give me five
 item_366,goodbye_bye_bye,word,games_routines,produces,goodbye/bye bye,NA,goodbye/bye bye,bye

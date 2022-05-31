@@ -20,6 +20,7 @@ new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
 new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
 new_items[which(new_items$uni_lemma=="tape"),]$uni_lemma = "tape (object)"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 
 
 # save updated instrument(s)

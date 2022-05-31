@@ -74,6 +74,7 @@ new_items[which(new_items$uni_lemma=="semolina"),]$uni_lemma = "porridge"
 new_items[which(new_items$uni_lemma=="lower"),]$uni_lemma = "lower (action)"
 new_items[which(new_items$uni_lemma=="i"),]$uni_lemma = "I"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+new_items[which(new_items$uni_lemma=="cacao"),]$uni_lemma = "cocoa"
 
 
 new_items[which(new_items$WS=="item_708"),]$uni_lemma = NA

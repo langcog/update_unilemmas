@@ -169,7 +169,7 @@ mok(ro),descriptive_words,mok(ro),word,understands; produces,item_190,NA,wet,wet
 jabuka,food_drink,jabuka,word,understands; produces,item_104,NA,apple,apple
 banana,food_drink,banana,word,understands; produces,item_7,NA,banana,banana
 kruh,food_drink,kruh,word,understands; produces,item_143,NA,bread,bread
-kakao,food_drink,kakao,word,understands; produces,item_119,NA,cacao,cacao
+kakao,food_drink,kakao,word,understands; produces,item_119,NA,cacao,cocoa
 kolač,food_drink,kolac,word,understands; produces,item_133,NA,cake,cake
 bombon,food_drink,bombon,word,understands; produces,item_18,NA,candy,candy
 mrkva,food_drink,mrkva,word,understands; produces,item_194,NA,carrots,carrot

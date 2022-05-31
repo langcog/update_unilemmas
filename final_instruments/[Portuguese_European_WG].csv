@@ -93,7 +93,7 @@ item_91,guarda_chuva,word,clothing,understands; produces,Guarda-Chuva / Chapéu 
 item_92,meias,word,clothing,understands; produces,Meias,NA,meias,Socks,sock,NA
 item_93,pijama,word,clothing,understands; produces,Pijama,NA,pijama,Pajamas,pajamas,NA
 item_94,relogio,word,clothing,understands; produces,Relógio,NA,relógio,Watch,watch (object),NA
-item_95,roupa,word,clothing,understands; produces,Roupa,NA,roupa,Clothes,clothing,NA
+item_95,roupa,word,clothing,understands; produces,Roupa,NA,roupa,Clothes,clothes,NA
 item_96,saia,word,clothing,understands; produces,Saia,NA,saia,Skirt,skirt,NA
 item_97,sapatilhas,word,clothing,understands; produces,Sapatilhas / Ténis,NA,sapatilhas,Sneakers/ trainers,shoe,NA
 item_98,sapato,word,clothing,understands; produces,Sapato(s),NA,sapato,Shoe(s),shoe,NA

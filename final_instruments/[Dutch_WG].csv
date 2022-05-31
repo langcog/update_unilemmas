@@ -100,7 +100,7 @@ item_98,food_drink,vis(eten),understands;produces,vis(eten),word,fish (food),fis
 item_99,food_drink,vlees,understands;produces,vlees,word,meat/flesh,meat
 item_100,food_drink,water(eten),understands;produces,water(eten),word,water (drink),water (beverage)
 item_101,food_drink,wortel(tjes),understands;produces,wortel(tjes),word,carrot(s),carrot
-item_102,clothing,(hals)ketting,understands;produces,(hals)ketting,word,chain,chain (jewellery)
+item_102,clothing,(hals)ketting,understands;produces,(hals)ketting,word,chain,necklace
 item_103,clothing,hemd/bloes,understands;produces,hemd/bloes,word,shirt,shirt
 item_104,clothing,hoed,understands;produces,hoed,word,hat,hat
 item_105,clothing,jas,understands;produces,jas,word,jacket,jacket
@@ -124,8 +124,8 @@ item_122,clothing,T-shirt,understands;produces,T-shirt,word,T-shirt,t-shirt
 item_123,clothing,tut(je)/(fop)speen,understands;produces,tut(je)/(fop)speen,word,dummy,dummy
 item_124,body_parts,arm,understands;produces,arm,word,arm,arm
 item_125,body_parts,been,understands;produces,been,word,leg,leg
-item_126,body_parts,billen/poep,understands;produces,billen/poep,word,buttock/poo,buttock/poo
-item_127,body_parts,buik,understands;produces,buik,word,belly,belly
+item_126,body_parts,billen/poep,understands;produces,billen/poep,word,buttock/poo,butt
+item_127,body_parts,buik,understands;produces,buik,word,belly,tummy
 item_128,body_parts,gezicht,understands;produces,gezicht,word,face,face
 item_129,body_parts,haar(lichaam),understands;produces,haar(lichaam),word,hair,hair
 item_130,body_parts,hand,understands;produces,hand,word,hand,hand
@@ -181,7 +181,7 @@ item_179,furniture_rooms,kachel/openhaard,understands;produces,kachel/openhaard,
 item_180,furniture_rooms,kast,understands;produces,kast,word,cupboard,cupboard
 item_181,furniture_rooms,kelder,understands;produces,kelder,word,cellar,cellar
 item_182,furniture_rooms,keuken,understands;produces,keuken,word,kitchen,kitchen
-item_183,furniture_rooms,kinderstoel,understands;produces,kinderstoel,word,baby chair,baby chair
+item_183,furniture_rooms,kinderstoel,understands;produces,kinderstoel,word,baby chair,high chair
 item_184,furniture_rooms,koelkast/frigo/ijskast/diepvries,understands;produces,koelkast/frigo/ijskast/diepvries,word,fridge/freezer,fridge/freezer
 item_185,furniture_rooms,lade/schuif,understands;produces,lade/schuif,word,drawer,drawer
 item_186,furniture_rooms,oven,understands;produces,oven,word,oven,oven
@@ -281,7 +281,7 @@ item_279,action_words,afdrogen,understands;produces,afdrogen,word,dry,dry (actio
 item_280,action_words,bijten,understands;produces,bijten,word,to bite,bite
 item_281,action_words,blazen,understands;produces,blazen,word,to blow,blow
 item_282,action_words,botsen,understands;produces,botsen,word,to bump,bump 
-item_283,action_words,breken/kapotmaken,understands;produces,breken/kapotmaken,word,to break,break (verb)
+item_283,action_words,breken/kapotmaken,understands;produces,breken/kapotmaken,word,to break,break
 item_284,action_words,brengen,understands;produces,brengen,word,to bring,bring
 item_285,action_words,dansen,understands;produces,dansen,word,to dance,dance
 item_286,action_words,drinken,understands;produces,drinken,word,to drink,drink (action)
@@ -392,7 +392,7 @@ item_390,household,video(recorder),understands;produces,video(recorder),word,vid
 item_391,furniture_rooms,zolder,understands;produces,zolder,word,attic,attic
 item_392,furniture_rooms,afval/rommel,understands;produces,afval/rommel,word,trash,trash
 item_393,furniture_rooms,bezem,understands;produces,bezem,word,broom,broom
-item_394,furniture_rooms,borstel/veger,understands;produces,borstel/veger,word,brush/broom,brush/broom
+item_394,furniture_rooms,borstel/veger,understands;produces,borstel/veger,word,brush/broom,broom
 item_395,furniture_rooms,handtas/tas,understands;produces,handtas/tas,word,handbag,bag
 item_396,household,kam,understands;produces,kam,word,comb,comb (object)
 item_397,furniture_rooms,klok,understands;produces,klok,word,clock,clock

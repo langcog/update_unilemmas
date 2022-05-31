@@ -39,6 +39,7 @@ new_items[which(new_items$uni_lemma=="seek"),]$uni_lemma = "search"
 new_items[which(new_items$uni_lemma=="put out"),]$uni_lemma = "turn off"
 new_items[which(new_items$uni_lemma=="little"),]$uni_lemma = "little (description)"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+new_items[which(new_items$uni_lemma=="button (object)"),]$uni_lemma = "button"
 
 
 

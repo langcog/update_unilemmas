@@ -30,6 +30,7 @@ new_items[which(new_items$uni_lemma=="sneakers"),]$uni_lemma = "sneaker"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
+new_items[which(new_items$uni_lemma=="hallway"),]$uni_lemma = "corridor"
 
 
 subset(new_items, uni_lemma=="")

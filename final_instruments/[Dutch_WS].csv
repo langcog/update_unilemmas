@@ -5,7 +5,7 @@ item_3,sounds,beu/boe/meu/moeh(koe),understands;produces,beu/boe/meu/moeh(koe),w
 item_4,sounds,blubblub(vis),understands;produces,blubblub(vis),word,,NA
 item_5,sounds,grrr(grommen),understands;produces,grrr(grommen),word,rawr,roar
 item_6,sounds,hallo(telefoon),understands;produces,hallo(telefoon),word,hello,hello
-item_7,sounds,ie-aaie-aa(ezel),understands;produces,ie-aaie-aa(ezel),word,hee-haw,bray
+item_7,sounds,ie-aaie-aa(ezel),understands;produces,ie-aaie-aa(ezel),word,hee-haw,hee haw
 item_8,sounds,juujuu/huuhuu(paard),understands;produces,juujuu/huuhuu(paard),word,neigh,neigh
 item_9,sounds,knorknor/ngrngr(varken),understands;produces,knorknor/ngrngr(varken),word,oink,oink
 item_10,sounds,kukelukuu(haan),understands;produces,kukelukuu(haan),word,cock-a-doodle-doo,cock-a-doodle-doo
@@ -71,7 +71,7 @@ item_69,vehicles,boot,understands;produces,boot,word,boat,boat
 item_70,vehicles,brandweerwagen/brandweerauto,understands;produces,brandweerwagen/brandweerauto,word,fire truck,firetruck
 item_71,vehicles,brommer/bromfiets/moto(r)/motorfiets,understands;produces,brommer/bromfiets/moto(r)/motorfiets,word,motorcycle,motorcycle
 item_72,vehicles,buggy/koets/kinderwagen,understands;produces,buggy/koets/kinderwagen,word,pram,stroller
-item_73,vehicles,bulldozer,understands;produces,bulldozer,word,bulldozer,bulldozer
+item_73,vehicles,bulldozer,understands;produces,bulldozer,word,bulldozer,digger
 item_74,vehicles,bus,understands;produces,bus,word,bus,bus
 item_75,vehicles,fiets,understands;produces,fiets,word,bike,bicycle
 item_76,vehicles,helicopter,understands;produces,helicopter,word,helicopter,helicopter
@@ -171,7 +171,7 @@ item_169,food_drink,worst,understands;produces,worst,word,sausage,sausage
 item_170,food_drink,wortel(tjes),understands;produces,wortel(tjes),word,carrot(s),carrot
 item_171,food_drink,yoghurt/plattekaas/kaas,understands;produces,yoghurt/plattekaas/kaas,word,yogurt,yogurt
 item_172,food_drink,zout,understands;produces,zout,word,salt,salt
-item_173,clothing,(hals)ketting,understands;produces,(hals)ketting,word,chain,chain (jewellery)
+item_173,clothing,(hals)ketting,understands;produces,(hals)ketting,word,chain,necklace
 item_174,clothing,handschoenen/wanten,understands;produces,handschoenen/wanten,word,gloves,gloves
 item_175,clothing,hemd/bloes,understands;produces,hemd/bloes,word,shirt,shirt
 item_176,clothing,hoed,understands;produces,hoed,word,hat,hat
@@ -202,9 +202,9 @@ item_200,clothing,tut(je)/(fop)speen,understands;produces,tut(je)/(fop)speen,wor
 item_201,clothing,zwembroek/zwempak/badpak,understands;produces,zwembroek/zwempak/badpak,word,swimming pants/swimming suit,swimsuit
 item_202,body_parts,arm,understands;produces,arm,word,arm,arm
 item_203,body_parts,been,understands;produces,been,word,leg,leg
-item_204,body_parts,billen/poep,understands;produces,billen/poep,word,buttock/poo,buttock/poo
+item_204,body_parts,billen/poep,understands;produces,billen/poep,word,buttock/poo,butt
 item_205,body_parts,borst,understands;produces,borst,word,breast,breast
-item_206,body_parts,buik,understands;produces,buik,word,belly,belly
+item_206,body_parts,buik,understands;produces,buik,word,belly,tummy
 item_207,body_parts,duim,understands;produces,duim,word,thumb,thumb
 item_208,body_parts,enkel,understands;produces,enkel,word,ankle,ankle
 item_209,body_parts,gezicht,understands;produces,gezicht,word,face,face
@@ -232,7 +232,7 @@ item_230,body_parts,vinger,understands;produces,vinger,word,finger,finger
 item_231,body_parts,voeten,understands;produces,voeten,word,feet,foot
 item_232,body_parts,wang/kaak,understands;produces,wang/kaak,word,cheek/jaw,cheek/jaw
 item_233,household,bord,understands;produces,bord,word,plate,plate
-item_234,household,borstel/bezem/veger,understands;produces,borstel/bezem/veger,word,brush/broom,brush/broom
+item_234,household,borstel/bezem/veger,understands;produces,borstel/bezem/veger,word,brush/broom,broom
 item_235,household,bril,understands;produces,bril,word,glasses,glasses
 item_236,household,camera/fototoestel,understands;produces,camera/fototoestel,word,camera,camera
 item_237,household,computer,understands;produces,computer,word,computer,computer
@@ -296,7 +296,7 @@ item_294,furniture_rooms,kamer,understands;produces,kamer,word,room,room
 item_295,furniture_rooms,kast,understands;produces,kast,word,cupboard,cupboard
 item_296,furniture_rooms,kelder,understands;produces,kelder,word,cellar,cellar
 item_297,furniture_rooms,keuken,understands;produces,keuken,word,kitchen,kitchen
-item_298,furniture_rooms,kinderstoel,understands;produces,kinderstoel,word,baby chair,baby chair
+item_298,furniture_rooms,kinderstoel,understands;produces,kinderstoel,word,baby chair,high chair
 item_299,furniture_rooms,koelkast/frigo/ijskast/diepvries,understands;produces,koelkast/frigo/ijskast/diepvries,word,fridge/freezer,fridge/freezer
 item_300,furniture_rooms,lade/schuif,understands;produces,lade/schuif,word,drawer,drawer
 item_301,furniture_rooms,oven,understands;produces,oven,word,oven,oven
@@ -488,7 +488,7 @@ item_486,action_words,blijven,understands;produces,blijven,word,to stay,stay
 item_487,action_words,boetseren/kleien,understands;produces,boetseren/kleien,word,clay modeling,play dough
 item_488,action_words,botsen,understands;produces,botsen,word,to bump,bump 
 item_489,action_words,bouwen,understands;produces,bouwen,word,to build,build
-item_490,action_words,breken/kapotmaken,understands;produces,breken/kapotmaken,word,to break,break (verb)
+item_490,action_words,breken/kapotmaken,understands;produces,breken/kapotmaken,word,to break,break
 item_491,action_words,brengen,understands;produces,brengen,word,to bring,bring
 item_492,action_words,dansen,understands;produces,dansen,word,to dance,dance
 item_493,action_words,delen/verdelen,understands;produces,delen/verdelen,word,to divide,divide

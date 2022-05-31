@@ -42,6 +42,10 @@ new_items[which(new_items$uni_lemma=="lift"),]$uni_lemma = "lift (action)"
 
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 
+new_items[which(new_items$uni_lemma=="cacao"),]$uni_lemma = "cocoa"
+new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
+
+
 
 # save updated instrument(s)
 new_ws <- update_instrument("German", "WS", new_items %>% rename(itemID = WS))

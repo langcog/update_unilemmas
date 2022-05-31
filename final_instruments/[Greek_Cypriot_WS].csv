@@ -563,7 +563,7 @@ item_561,V77_STOP,word,action_words,produces,σταματώ,NA,stop,stop
 item_562,V78_THROW__CG,word,action_words,produces,σύρνω,NA,throw CG,throw
 item_563,V79_FEED,word,action_words,produces,ταΐζω,NA,feed,feed
 item_564,V80_FINISH,word,action_words,produces,τελειώνω,NA,finish,finish
-item_565,V81_CALL_P,word,action_words,produces,τηλεφωνώ,NA,call (phone),call on phone
+item_565,V81_CALL_P,word,action_words,produces,τηλεφωνώ,NA,call (phone),call
 item_566,V82_PULL,word,action_words,produces,τραβώ,NA,pull,pull
 item_567,V83_SING,word,action_words,produces,τραγουδώ,NA,sing,sing
 item_568,V84_RUN,word,action_words,produces,τρέχω,NA,run,run

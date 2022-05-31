@@ -4,7 +4,7 @@ item_2,S1WEI,word,sounds,produces,喂?/ 喂!,NA,hi / hey,hi
 item_3,S1AIYOU,word,sounds,produces,哎吔,NA,,uh oh
 item_4,S1YUMMY,word,sounds,produces,Mem Mem (好味),NA,,yum yum
 item_5,S1CARC,word,sounds,produces,𠼭𠼭 (車聲),NA,,beep beep
-item_6,S1BIBOO,word,sounds,produces,Bi Boo (救傷車聲),NA,,bi boo (siren)
+item_6,S1BIBOO,word,sounds,produces,Bi Boo (救傷車聲),NA,,wee woo
 item_7,S1BANGC,word,sounds,produces,嘭嘭 (槍聲),NA,,bang bang
 item_8,S1DOGC,word,sounds,produces,Wou Wou (狗吠聲),NA,,woof woof
 item_9,S1CAT,word,sounds,produces,喵 (貓叫聲),NA,,meow
@@ -317,7 +317,7 @@ item_315,G5GREATC,word,games_routines,produces,好嘢,NA,,yay
 item_316,G5OK,word,games_routines,produces,好啦,NA,ok / sure,ok
 item_317,G5FASTC,word,games_routines,produces,快啲,NA,,quick
 item_318,G5WAITC,word,games_routines,produces,等陣,NA,,wait
-item_319,G5PHONE,word,games_routines,produces,打電話,NA,,call on phone
+item_319,G5PHONE,word,games_routines,produces,打電話,NA,,call
 item_320,G5LISTE,word,games_routines,produces,聽話,NA,,listen
 item_321,G5HELP,word,games_routines,produces,救命,NA,,help
 item_322,G5ONEYR,word,games_routines,produces,一歲/兩歲,NA,,years old

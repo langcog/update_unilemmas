@@ -270,7 +270,7 @@ item_262,pantalon,word,clothing,produces,pantalón/es,NA,pants,pants
 item_263,panal,word,clothing,produces,pañal,NA,diaper,diaper
 item_264,pendient,word,clothing,produces,pendientes,NA,earrings,earring
 item_265,pijama,word,clothing,produces,pijima,NA,pajamas,pajamas
-item_266,ropa,word,clothing,produces,ropa,NA,clothing,clothing
+item_266,ropa,word,clothing,produces,ropa,NA,clothing,clothes
 item_267,sandalia,word,clothing,produces,sandalia,NA,sandal,sandal
 item_268,sombrero,word,clothing,produces,sombrero,NA,hat,hat
 item_269,vestido,word,clothing,produces,vestido,NA,dress,dress (object)
@@ -346,7 +346,7 @@ item_338,microond,word,household,produces,microondas,NA,microwave,microwave
 item_339,monedas,word,household,produces,monedas,NA,coin,coin
 item_340,movil,word,household,produces,móvil,NA,mobile,cell phone
 item_341,nevera,word,household,produces,nevera/frigorífico,NA,refrigerator,refrigerator
-item_342,pasillo,word,household,produces,pasillo,NA,hall,hall
+item_342,pasillo,word,household,produces,pasillo,NA,hall,corridor
 item_343,peine,word,household,produces,peine,NA,comb,comb (object)
 item_344,pila,word,household,produces,pila,NA,battery,battery
 item_345,plato,word,household,produces,plato,NA,plate,plate

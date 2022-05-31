@@ -121,7 +121,7 @@ item_119,Bier,food_drink,Bier,word,produces,NA,beer,beer
 item_120,Gummibärchen,food_drink,Gummibarchen,word,produces,NA,fruit gum,NA
 item_121,Spinat,food_drink,Spinat,word,produces,NA,spinach,spinach
 item_122,Birne,food_drink,Birne,word,produces,NA,pear,pear
-item_123,Kakao,food_drink,Kakao,word,produces,NA,caocao,cacao
+item_123,Kakao,food_drink,Kakao,word,produces,NA,caocao,cocoa
 item_124,Tomate,food_drink,Tomate,word,produces,NA,tomato,tomato
 item_125,Fischstäbchen,food_drink,Fischstabchen,word,produces,NA,fish fingers,NA
 item_126,Nachtisch,food_drink,Nachtisch,word,produces,NA,desert,dessert
@@ -325,7 +325,7 @@ item_323,danke,games_routines,danke,word,produces,NA,thank you,thank you
 item_324,psst leise,games_routines,psst_leise,word,produces,NA,shh quiet,shh
 item_325,einkaufen,games_routines,einkaufen,word,produces,NA,shop,shopping
 item_326,tschüss,games_routines,tschuss,word,produces,NA,bye,bye
-item_327,telefonieren,games_routines,telefonieren,word,produces,NA,call on phone,call on phone
+item_327,telefonieren,games_routines,telefonieren,word,produces,NA,call on phone,call
 item_328,warten,games_routines,warten,word,produces,NA,wait,wait
 item_329,guck guck,games_routines,guck_guck,word,produces,NA,peekaboo,peekaboo
 item_330,bitte,games_routines,bitte,word,produces,NA,please,please

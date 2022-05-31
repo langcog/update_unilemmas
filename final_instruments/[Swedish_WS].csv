@@ -178,7 +178,7 @@ jeans,clothing,jeans,word,produces,NA,item_176,jeans,jeans,jeans
 kalsonger,clothing,kalsonger,word,produces,NA,item_177,NA,underpants,underpants
 kappa,clothing,kappa,word,produces,NA,item_178,NA,coat,coat
 kjol,clothing,kjol,word,produces,NA,item_179,NA,skirt,skirt
-kläder,clothing,klader,word,produces,NA,item_180,NA,clothing,clothing
+kläder,clothing,klader,word,produces,NA,item_180,NA,clothing,clothes
 klänning,clothing,klanning,word,produces,NA,item_181,NA,dress,dress (object)
 knapp,clothing,knapp,word,produces,NA,item_182,button,button,button
 kortbyxor,clothing,kortbyxor,word,produces,NA,item_183,NA,shorts,shorts
@@ -422,7 +422,7 @@ lunch,games_routines,lunch,word,produces,NA,item_420,lunch,lunch,lunch
 mellanmål,games_routines,mellanmal,word,produces,NA,item_421,NA,snack,snack
 middag,games_routines,middag,word,produces,NA,item_422,dinner,dinner,dinner
 nej,games_routines,nej,word,produces,NA,item_423,no,no,no
-ringa,games_routines,ringa,word,produces,NA,item_424,NA,call,call on phone
+ringa,games_routines,ringa,word,produces,NA,item_424,NA,call,call
 sitta pottan,games_routines,sitta_pottan,word,produces,NA,item_425,NA,sit potty,go potty
 sova middag,games_routines,sova_middag,word,produces,NA,item_426,nap,nap,nap
 sch/hysch,games_routines,sch/hysch,word,produces,NA,item_427,NA,shh/shush/hush,shh

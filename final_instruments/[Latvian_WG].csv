@@ -145,7 +145,7 @@ item_143,143_zobi,word,understands; produces,body_parts,zobi,NA,teeth,tooth
 item_144,144_divans,word,understands; produces,furniture_rooms,dīvāns,NA,couch,couch
 item_145,145_durvis,word,understands; produces,furniture_rooms,durvis,NA,door,door
 item_146,146_dusa,word,understands; produces,furniture_rooms,duša,NA,shower,shower
-item_147,147_gaitenis,word,understands; produces,furniture_rooms,gaitenis,NA,corridor,hallway
+item_147,147_gaitenis,word,understands; produces,furniture_rooms,gaitenis,NA,corridor,corridor
 item_148,148_galds,word,understands; produces,furniture_rooms,galds,NA,table,table
 item_149,149_gulta,word,understands; produces,furniture_rooms,gulta,NA,bed,bed
 item_150,150_istaba,word,understands; produces,furniture_rooms,istaba,NA,room,room

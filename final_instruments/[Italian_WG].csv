@@ -95,7 +95,7 @@ item_126,uva,word,food_drink,understands; produces,uva,grapes,grapes
 item_127,yogurt,word,food_drink,understands; produces,yogurt,yogurt,yogurt
 item_128,zucchero,word,food_drink,understands; produces,zucchero,sugar,sugar
 item_129,bavaglino,word,food_drink,understands; produces,bavaglino,bib,bib
-item_130,bottone,word,clothing,understands; produces,bottone,button,button (object)
+item_130,bottone,word,clothing,understands; produces,bottone,button,button
 item_131,calze,word,clothing,understands; produces,calze,tights,tights
 item_132,cappello,word,clothing,understands; produces,cappello,hat,hat
 item_133,cappotto,word,clothing,understands; produces,cappotto,coat,coat

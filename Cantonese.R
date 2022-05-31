@@ -42,6 +42,9 @@ new_items[which(new_items$uni_lemma=="tidy (action)"),]$uni_lemma = "clean (acti
 new_items[which(new_items$uni_lemma=="piece of"),]$uni_lemma = "piece"
 new_items[which(new_items$uni_lemma=="mushrooms"),]$uni_lemma = "mushroom"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+new_items[which(new_items$uni_lemma=="bi boo (siren)"),]$uni_lemma = "wee woo"
+new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
+
 
 
 

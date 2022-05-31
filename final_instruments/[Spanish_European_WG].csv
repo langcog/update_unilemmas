@@ -156,7 +156,7 @@ item_148,pantalon,word,clothing,understands; produces,pantalón/es,NA,pants,pant
 item_149,panal,word,clothing,understands; produces,pañal,NA,diaper,diaper
 item_150,pendient,word,clothing,understands; produces,pendientes,NA,earrings,earring
 item_151,pijama,word,clothing,understands; produces,pijima,NA,pajamas,pajamas
-item_152,ropa,word,clothing,understands; produces,ropa,NA,clothing,clothing
+item_152,ropa,word,clothing,understands; produces,ropa,NA,clothing,clothes
 item_153,zapatill,word,clothing,understands; produces,zapatilla/s,NA,sneakers,sneaker
 item_154,zapatos,word,clothing,understands; produces,zapato/s,NA,shoes,shoe
 item_155,banera,word,household,understands; produces,bañera,NA,bathtub,bathtub

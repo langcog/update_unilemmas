@@ -204,6 +204,18 @@ new_items[which(new_items$uni_lemma=="fries"),]$uni_lemma = "french fries"
 new_items[which(new_items$uni_lemma=="dry (verb)"),]$uni_lemma = "dry (action)"
 new_items[which(new_items$uni_lemma=="dirty/yuk"),]$uni_lemma = "dirty" 
 new_items[which(new_items$uni_lemma=="cry (verb)"),]$uni_lemma = "cry" 
+new_items[which(new_items$uni_lemma=="baby chair"),]$uni_lemma = "high chair"
+new_items[which(new_items$uni_lemma=="belly"),]$uni_lemma = "tummy" 
+new_items[which(new_items$uni_lemma=="bray"),]$uni_lemma = "hee haw" 
+new_items[which(new_items$uni_lemma=="break (verb)"),]$uni_lemma = "break" 
+new_items[which(new_items$uni_lemma=="brush/broom"),]$uni_lemma = "broom" 
+new_items[which(new_items$uni_lemma=="bulldozer"),]$uni_lemma = "digger"
+new_items[which(new_items$uni_lemma=="buttock/poo"),]$uni_lemma = "butt" 
+new_items[which(new_items$uni_lemma=="chain (jewellery)"),]$uni_lemma = "necklace" 
+
+
+
+
 
 
 

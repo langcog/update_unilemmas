@@ -507,7 +507,7 @@ item_587,item_587,word,body_parts,understands; produces,pénis/zizi…,item_217,
 item_588,item_588,word,body_parts,understands; produces,vagin/zezette…,item_219,Parties du corps,,vagina
 item_589,item_589,word,furniture_rooms,understands; produces,cuisine,item_232,Meubles et pièces,kitchen,kitchen
 item_590,item_590,word,furniture_rooms,understands; produces,étendage,item_245,Meubles et pièces,,dryer
-item_591,item_591,word,furniture_rooms,understands; produces,entrée,item_246,Meubles et pièces,entrance,hallway
+item_591,item_591,word,furniture_rooms,understands; produces,entrée,item_246,Meubles et pièces,entrance,corridor
 item_592,item_592,word,furniture_rooms,understands; produces,douche,item_247,Meubles et pièces,shower,shower
 item_593,item_593,word,furniture_rooms,understands; produces,pièce,item_248,Meubles et pièces,room,room
 item_594,item_594,word,furniture_rooms,understands; produces,cave,item_249,Meubles et pièces,cellar,basement
