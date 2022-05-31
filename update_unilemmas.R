@@ -93,9 +93,9 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2052 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 456 hapaxes
-  length(unique(new_uni$form)) # 63 forms
+  length(new_uni_tab) # 2066 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 438 hapaxes
+  length(unique(new_uni$form)) # 65 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
   #write_csv(new_unis, file="uni-lemma_list.csv")
