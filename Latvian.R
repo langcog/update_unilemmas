@@ -145,6 +145,9 @@ new_items[which(new_items$uni_lemma=="slide"),]$uni_lemma = "slide (action)"
 new_items[which(new_items$uni_lemma=="shop"),]$uni_lemma = "store"
 new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (action)"
 new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
+new_items[which(new_items$uni_lemma=="little"),]$uni_lemma = "little (amount)"
+new_items[which(new_items$WS=="item_234"),]$uni_lemma = "light (object)"
+new_items[which(new_items$WS=="item_589"),]$uni_lemma = "light (description)"
 
 
 

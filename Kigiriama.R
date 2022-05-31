@@ -37,6 +37,7 @@ new_items[which(new_items$uni_lemma=="peep peep"),]$uni_lemma = "tweet tweet"
 new_items[which(new_items$uni_lemma=="tortoise"),]$uni_lemma = "turtle"
 new_items[which(new_items$uni_lemma=="sweet"),]$uni_lemma = "sweets" # food (noun, not adj)
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
 
 
 # ToDo: check empty uni-lemmas ("")

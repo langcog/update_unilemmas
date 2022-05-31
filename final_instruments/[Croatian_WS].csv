@@ -480,7 +480,7 @@ slomiti,action_words,slomiti,word,produces,NA,item_478,NA,break,break
 slušati,action_words,slusati,word,produces,NA,item_479,NA,listen,listen
 smijati se,action_words,smijati_se,word,produces,NA,item_480,laugh,smile,laugh
 spavati,action_words,spavati,word,produces,NA,item_481,sleep,sleep,sleep
-spuštati,action_words,spustati,word,produces,NA,item_482,NA,lower,lower
+spuštati,action_words,spustati,word,produces,NA,item_482,NA,lower,lower (action)
 stajati,action_words,stajati,word,produces,NA,item_483,NA,stand,stand
 stati,action_words,stati,word,produces,NA,item_484,stop,stop,stop
 staviti,action_words,staviti,word,produces,NA,item_485,put,put,put
@@ -577,7 +577,7 @@ sada,time_words,sada,word,produces,NA,item_575,NA,now,now
 sati,time_words,sati,word,produces,NA,item_576,NA,hours,hour
 sutra,time_words,sutra,word,produces,NA,item_577,tomorrow,tomorrow,tomorrow
 večeras,time_words,veceras,word,produces,NA,item_578,tonight,tonight,tonight
-ja,pronouns,ja,word,produces,NA,item_579,i,I,i
+ja,pronouns,ja,word,produces,NA,item_579,i,I,I
 mene/me,pronouns,mene/me,word,produces,NA,item_580,NA,me,me
 meni/mi,pronouns,meni/mi,word,produces,NA,item_581,NA,to me,me
 mi,pronouns,mi,word,produces,NA,item_582,NA,we,we

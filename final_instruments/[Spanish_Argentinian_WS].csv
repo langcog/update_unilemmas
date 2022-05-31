@@ -532,7 +532,7 @@ item_530,bueno,bueno,descriptive_words,word,produces,NA,good,good
 item_531,caca_popó,caca_popó,descriptive_words,word,produces,NA,poo,poop
 item_532,caliente,caliente,descriptive_words,word,produces,NA,hot,hot
 item_533,cansado,cansado,descriptive_words,word,produces,NA,tired,tired
-item_534,chico_chiquito,chico_chiquito,descriptive_words,word,produces,NA,little,little
+item_534,chico_chiquito,chico_chiquito,descriptive_words,word,produces,NA,little,little (description)
 item_535,despierto,despierto,descriptive_words,word,produces,NA,awake,awake
 item_536,diferente_distinto,diferente_distinto,descriptive_words,word,produces,NA,different,different
 item_537,difícil,difícil,descriptive_words,word,produces,NA,difficult,hard

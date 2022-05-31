@@ -71,7 +71,7 @@ item_69,action_words,drinken,understands;produces,drinken,word,to drink,drink (a
 item_70,action_words,eten(ww),understands;produces,eten(ww),word,to eat,eat
 item_71,action_words,geven,understands;produces,geven,word,to give,give
 item_72,action_words,kijken,understands;produces,kijken,word,to look,look
-item_73,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug (verb)
+item_73,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug
 item_74,action_words,slapen,understands;produces,slapen,word,to sleep,sleep
 item_75,action_words,springen,understands;produces,springen,word,to jump,jump
 item_76,action_words,zingen,understands;produces,zingen,word,to sing,sing

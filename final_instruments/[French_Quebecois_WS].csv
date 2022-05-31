@@ -224,7 +224,7 @@ item_222,fourchette,word,produces,household,fourchette,NA,fork,fork
 item_223,horloge,word,produces,household,horloge,NA,clock,clock
 item_224,image,word,produces,household,image,NA,picture,picture
 item_225,lampe,word,produces,household,lampe,NA,lamp,lamp
-item_226,lumi`ere,word,produces,household,lumière,NA,light,light
+item_226,lumi`ere,word,produces,household,lumière,NA,light,light (object)
 item_227,lunettes,word,produces,household,lunettes,NA,glasses,glasses
 item_228,marteau,word,produces,household,marteau,NA,hammer,hammer
 item_229,m'edicament,word,produces,household,médicament,NA,drug,medicine

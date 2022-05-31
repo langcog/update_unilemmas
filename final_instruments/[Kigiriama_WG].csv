@@ -141,7 +141,7 @@ item_139,h25plat,word,household,understands; produces,Sahani,NA,Plate,plate
 item_140,h6box,word,household,understands; produces,Sanduku,NA,Box,box
 item_141,h23phon,word,household,understands; produces,Simu,NA,Phone,NA
 item_142,h20meta,word,household,understands; produces,Sinia,NA,Metal tray,NA
-item_143,h17ligh,word,household,understands; produces,Taa,NA,Light,light
+item_143,h17ligh,word,household,understands; produces,Taa,NA,Light,light (object)
 item_144,h32towe,word,household,understands; produces,Tauli,NA,Towel,towel
 item_145,h4bott,word,household,understands; produces,Thupa,NA,Bottle,bottle
 item_146,h33wast,word,household,understands; produces,Uchafu,NA,Waste,trash

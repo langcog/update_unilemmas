@@ -386,7 +386,7 @@ item_384,A7ANIMAL,word,animals,produces,NA,动物,animal,animal
 item_385,A7DUCK,word,animals,produces,NA,鸭子,duck,duck
 item_386,A7BIRD,word,animals,produces,NA,鸟,bird,bird
 item_387,A7CHICK,word,animals,produces,NA,小鸡,chick,chick
-item_388,A7SWALLO,word,animals,produces,NA,燕子,swallow,swallow
+item_388,A7SWALLO,word,animals,produces,NA,燕子,swallow,swallow (animal)
 item_389,A7PIGEON,word,animals,produces,NA,鸽子,pigeon,pigeon
 item_390,A7GOOSE,word,animals,produces,NA,鹅,goose,goose
 item_391,A7PENGUI,word,animals,produces,NA,企鹅,penguin,penguin

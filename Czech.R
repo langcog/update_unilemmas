@@ -25,6 +25,7 @@ new_items[which(new_items$uni_lemma=="shhh"),]$uni_lemma = "shh"
 new_items[which(new_items$uni_lemma=="seek"),]$uni_lemma = "search"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="mushrooms"),]$uni_lemma = "mushroom"
+new_items[which(new_items$uni_lemma=="i"),]$uni_lemma = "I"
 
 
 

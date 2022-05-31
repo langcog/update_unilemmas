@@ -213,7 +213,7 @@ item_211,body_parts,hand,understands;produces,hand,word,hand,hand
 item_212,body_parts,hoofd,understands;produces,hoofd,word,head,head
 item_213,body_parts,kin,understands;produces,kin,word,chin,chin
 item_214,body_parts,knie,understands;produces,knie,word,knee,knee
-item_215,body_parts,lippen,understands;produces,lippen,word,lips,lip
+item_215,body_parts,lippen,understands;produces,lippen,word,lips,lips
 item_216,body_parts,mond,understands;produces,mond,word,mouth,mouth
 item_217,body_parts,nagel(lichaam),understands;produces,nagel(lichaam),word,nail,nail (body part)
 item_218,body_parts,navel,understands;produces,navel,word,navel,belly button
@@ -513,7 +513,7 @@ item_511,action_words,helpen,understands;produces,helpen,word,to help,help
 item_512,action_words,herstellen/maken/repareren,understands;produces,herstellen/maken/repareren,word,to repair,fix
 item_513,action_words,horen,understands;produces,horen,word,to hear,hear
 item_514,action_words,houden,understands;produces,houden,word,to keep,keep
-item_515,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love (verb)
+item_515,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love
 item_516,action_words,inschenken/gieten,understands;produces,inschenken/gieten,word,to pour,pour
 item_517,action_words,jagen,understands;produces,jagen,word,to hunt,hunt
 item_518,action_words,kietelen,understands;produces,kietelen,word,to tickle,tickle
@@ -523,18 +523,18 @@ item_521,action_words,klappen(inhanden),understands;produces,klappen(inhanden),w
 item_522,action_words,klimmen,understands;produces,klimmen,word,to climb,climb
 item_523,action_words,kloppen,understands;produces,kloppen,word,to knock,knock
 item_524,action_words,knippen,understands;produces,knippen,word,to cut,cut
-item_525,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug (verb)
+item_525,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug
 item_526,action_words,koken/etenmaken,understands;produces,koken/etenmaken,word,to cook,cook
 item_527,action_words,kopen,understands;produces,kopen,word,to buy,buy
 item_528,action_words,krijgen,understands;produces,krijgen,word,to get,get
 item_529,action_words,kuisen/poetsen/schoonmaken,understands;produces,kuisen/poetsen/schoonmaken,word,to clean,clean (verb)
-item_530,action_words,kussen/kusjegeven/zoenen,understands;produces,kussen/kusjegeven/zoenen,word,to kiss,kiss (verb)
+item_530,action_words,kussen/kusjegeven/zoenen,understands;produces,kussen/kusjegeven/zoenen,word,to kiss,kiss
 item_531,action_words,lachen,understands;produces,lachen,word,to smile,smile
 item_532,action_words,latenvallen,understands;produces,latenvallen,word,to drop,drop
 item_533,action_words,lezen,understands;produces,lezen,word,to read,read
 item_534,action_words,likken,understands;produces,likken,word,to lick,lick
 item_535,action_words,lopen/rennen,understands;produces,lopen/rennen,word,to walk/run,run
-item_536,action_words,luisteren,understands;produces,luisteren,word,to listen,listen (verb)
+item_536,action_words,luisteren,understands;produces,luisteren,word,to listen,listen
 item_537,action_words,maken,understands;produces,maken,word,to make,make
 item_538,action_words,morsen/knoeien,understands;produces,morsen/knoeien,word,to spill,spill
 item_539,action_words,neergooien/opdegrondgooien/weggooien,understands;produces,neergooien/opdegrondgooien/weggooien,word,to throw away,throw
@@ -549,7 +549,7 @@ item_547,action_words,rijden,understands;produces,rijden,word,to ride,ride
 item_548,action_words,schaatsen/skeelen,understands;produces,schaatsen/skeelen,word,to ice skate,skate
 item_549,action_words,scheuren,understands;produces,scheuren,word,to tear up,tear
 item_550,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (action)
-item_551,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick (verb)
+item_551,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick
 item_552,action_words,schrijven,understands;produces,schrijven,word,to write,write
 item_553,action_words,schudden,understands;produces,schudden,word,to shake,shake
 item_554,action_words,slaan,understands;produces,slaan,word,to hit,hit
@@ -610,7 +610,7 @@ item_608,pronouns,hethare/haar,understands;produces,hethare/haar,word,her,her (p
 item_609,pronouns,hetzijne/zijn,understands;produces,hetzijne/zijn,word,his,his
 item_610,pronouns,hij,understands;produces,hij,word,he,he
 item_611,pronouns,hun,understands;produces,hun,word,them,them
-item_612,pronouns,ik,understands;produces,ik,word,I,i
+item_612,pronouns,ik,understands;produces,ik,word,I,I
 item_613,pronouns,jezelf,understands;produces,jezelf,word,yourself,yourself
 item_614,pronouns,jij,understands;produces,jij,word,you,you
 item_615,pronouns,jouw(e)/vanjou/dejou(we),understands;produces,jouw(e)/vanjou/dejou(we),word,your,your

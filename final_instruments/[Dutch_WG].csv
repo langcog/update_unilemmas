@@ -292,18 +292,18 @@ item_290,action_words,geven,understands;produces,geven,word,to give,give
 item_291,action_words,gooien/werpen,understands;produces,gooien/werpen,word,to throw,to throw
 item_292,action_words,hebben,understands;produces,hebben,word,to have,have
 item_293,action_words,helpen,understands;produces,helpen,word,to help,help
-item_294,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love (verb)
+item_294,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love
 item_295,action_words,kijken,understands;produces,kijken,word,to look,look
-item_296,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug (verb)
+item_296,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug
 item_297,action_words,krijgen,understands;produces,krijgen,word,to get,get
 item_298,action_words,kuisen/poetsen/schoonmaken,understands;produces,kuisen/poetsen/schoonmaken,word,to clean,clean (verb)
-item_299,action_words,kussen/kusjegeven/zoenen,understands;produces,kussen/kusjegeven/zoenen,word,to kiss,kiss (verb)
+item_299,action_words,kussen/kusjegeven/zoenen,understands;produces,kussen/kusjegeven/zoenen,word,to kiss,kiss
 item_300,action_words,lachen,understands;produces,lachen,word,to smile,smile
 item_301,action_words,lezen,understands;produces,lezen,word,to read,read
 item_302,action_words,lopen/rennen,understands;produces,lopen/rennen,word,to walk/run,run
 item_303,action_words,openen/opendoen/openmaken,understands;produces,openen/opendoen/openmaken,word,to open,open (action)
 item_304,action_words,rijden,understands;produces,rijden,word,to ride,ride
-item_305,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick (verb)
+item_305,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick
 item_306,action_words,schrijven,understands;produces,schrijven,word,to write,write
 item_307,action_words,slaan,understands;produces,slaan,word,to hit,hit
 item_308,action_words,slapen,understands;produces,slapen,word,to sleep,sleep
@@ -327,7 +327,7 @@ item_325,time_words,nu,understands;produces,nu,word,now,now
 item_326,pronouns,dat,understands;produces,dat,word,that,that
 item_327,pronouns,deze,understands;produces,deze,word,this,this
 item_328,pronouns,het(vnw),understands;produces,het(vnw),word,it,it
-item_329,pronouns,ik,understands;produces,ik,word,I,i
+item_329,pronouns,ik,understands;produces,ik,word,I,I
 item_330,pronouns,jij,understands;produces,jij,word,you,you
 item_331,pronouns,jouw(e)/vanjou/dejou(we),understands;produces,jouw(e)/vanjou/dejou(we),word,your,your
 item_332,pronouns,mij,understands;produces,mij,word,me,me

@@ -316,7 +316,7 @@ spéir,item_624,OUTSIDE THINGS,produces; doesn't produce,word,spéir,0,outside,n
 sráid,item_626,OUTSIDE THINGS,produces; doesn't produce,word,sráid,0,outside,nouns,street,street
 uisce,item_628,OUTSIDE THINGS,produces; doesn't produce,word,uisce,0,outside,nouns,water,water (not beverage)
 abhaile,item_630,PLACES TO GO,produces; doesn't produce,word,abhaile_baile,0,places,other,home,home
-aifreann,item_632,PLACES TO GO,produces; doesn't produce,word,aifreann,0,places,other,mass,mass
+aifreann,item_632,PLACES TO GO,produces; doesn't produce,word,aifreann,0,places,other,mass,church
 amuigh,item_634,PLACES TO GO,produces; doesn't produce,word,amuigh,0,places,other,outside,outside
 campáil,item_636,PLACES TO GO,produces; doesn't produce,word,campáil,0,places,other,camping,camping
 cathair,item_638,PLACES TO GO,produces; doesn't produce,word,cathair_bailemór,0,places,other,city,city
@@ -520,7 +520,7 @@ dorcha,item_1028,DESCRIPTIVE WORDS,produces; doesn't produce,word,dorcha,0,descr
 dubh,item_1030,DESCRIPTIVE WORDS,produces; doesn't produce,word,dubh,0,descriptive_words,adjectives,black,black
 (ina)codladh,item_1032,DESCRIPTIVE WORDS,produces; doesn't produce,word,(ina)codladh,0,descriptive_words,adjectives,asleep,asleep
 (ina)dúiseacht,item_1034,DESCRIPTIVE WORDS,produces; doesn't produce,word,(ina)dúiseacht,0,descriptive_words,adjectives,awake,awake
-éadrom,item_1036,DESCRIPTIVE WORDS,produces; doesn't produce,word,éadrom,0,descriptive_words,adjectives,light,light
+éadrom,item_1036,DESCRIPTIVE WORDS,produces; doesn't produce,word,éadrom,0,descriptive_words,adjectives,light,light (description)
 eaglach,item_1038,DESCRIPTIVE WORDS,produces; doesn't produce,word,eaglach_scanraithe,0,descriptive_words,adjectives,scared,scared
 fada,item_1040,DESCRIPTIVE WORDS,produces; doesn't produce,word,fada,0,descriptive_words,adjectives,long,long
 feargach,item_1042,DESCRIPTIVE WORDS,produces; doesn't produce,word,feargach_crosta_olc,0,descriptive_words,adjectives,angry,angry

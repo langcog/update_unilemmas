@@ -175,7 +175,7 @@ item_173,173_bloda,word,understands; produces,household,bļoda,NA,dish,dish
 item_174,174_brilles,word,understands; produces,household,brilles,NA,glasses,glasses
 item_175,175_daksina,word,understands; produces,household,dakšiņa,NA,fork,fork
 item_176,176_dvielis,word,understands; produces,household,dvielis,NA,towel,towel
-item_177,177_gaisma,word,understands; produces,household,gaisma,NA,light,light
+item_177,177_gaisma,word,understands; produces,household,gaisma,NA,light,light (object)
 item_178,178_glaze,word,understands; produces,household,glāze,NA,class,glass
 item_179,179_karote,word,understands; produces,household,karote,NA,spoon,spoon
 item_180,180_kaste,word,understands; produces,household,kaste,NA,box,box
@@ -394,7 +394,7 @@ item_392,392_uz,word,understands; produces,locations,uz,NA,on,on
 item_393,393_virs_virs,word,understands; produces,locations,"virs, virsū",NA,above,above
 item_394,394_zem,word,understands; produces,locations,zem,NA,under,under
 item_395,395_daudz,word,understands; produces,quantifiers,daudz,NA,a lot,a lot
-item_396,396_drusku_dru,word,understands; produces,quantifiers,drusku/drusciņ,NA,a bit,little
+item_396,396_drusku_dru,word,understands; produces,quantifiers,drusku/drusciņ,NA,a bit,little (amount)
 item_397,397_maz,word,understands; produces,quantifiers,maz,NA,little,little (amount)
 item_398,398_mazliet,word,understands; produces,quantifiers,mazliet,NA,a little bit,little (amount)
 item_399,399_neka_nav,word,understands; produces,quantifiers,nekā nav,NA,nothing,nothing

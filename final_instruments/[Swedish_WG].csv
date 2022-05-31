@@ -356,7 +356,7 @@ det,pronouns,det,word,understands; produces,NA,item_354,it,it
 du/din,pronouns,du/din,word,understands; produces,NA,item_355,you/yours,you
 hans,pronouns,hans,word,understands; produces,NA,item_356,his,his
 henne,pronouns,henne,word,understands; produces,NA,item_357,her,her
-jag,pronouns,jag,word,understands; produces,NA,item_358,I,i
+jag,pronouns,jag,word,understands; produces,NA,item_358,I,I
 mig,pronouns,mig,word,understands; produces,NA,item_359,me,my
 min,pronouns,min,word,understands; produces,NA,item_360,my,mine
 hur,question_words,hur,word,understands; produces,NA,item_361,how,how

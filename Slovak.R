@@ -38,7 +38,8 @@ new_items[which(new_items$uni_lemma=="semolina"),]$uni_lemma = "porridge"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
 new_items[which(new_items$uni_lemma=="pump"),]$uni_lemma = "pump (object)"
-
+new_items[which(new_items$uni_lemma=="swallow"),]$uni_lemma = "swallow (animal)"
+new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

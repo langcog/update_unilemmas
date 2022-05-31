@@ -8,7 +8,7 @@ item_6,cu_cu,word,sounds,understands; produces,Cu-cu,NA,cu_cu,Cu_cu (playing Pee
 item_7,eh,word,sounds,understands; produces,Eh!,NA,eh,Eh (interjection),oh,NA
 item_8,ena,word,sounds,understands; produces,Ena!,NA,ena,"Ena (interjection, surprise)",oh,NA
 item_9,hi_hi,word,sounds,understands; produces,Hi-hi (cavalo),NA,hi_hi,Hi_hi (horse's sound),neigh,NA
-item_10,io_io,word,sounds,understands; produces,I-ó / I-ó (burro),NA,ió_io,Ió_ió (donkey's sound),hee haw,NA
+item_10,io_io,word,sounds,understands; produces,I-ó / I-ó (burro),NA,ió_io,Mé_mé (sheep's sound),hee haw,NA
 item_11,me_me,word,sounds,understands; produces,Mé mé (ovelha),NA,mé_mé,Mé_mé (sheep's sound),baa baa,NA
 item_12,miau,word,sounds,understands; produces,Miau miau (gato),NA,miau,Miau (cat's sound),meow,NA
 item_13,mu_muuu,word,sounds,understands; produces,Mu-Muuu (vaca),NA,mu_muuu,Mu_muuu (cow's sound),moo,NA
@@ -136,7 +136,7 @@ item_134,garfo,word,household,understands; produces,Garfo,NA,garfo,Fork,fork,NA
 item_135,garrafa,word,household,understands; produces,Garrafa,NA,garrafa,Bottle,bottle,NA
 item_136,lencois,word,household,understands; produces,Lençóis,NA,lençois,(Bed) sheet,sheet,NA
 item_137,lixo,word,household,understands; produces,Lixo,NA,lixo,Garbage,trash,NA
-item_138,luz,word,household,understands; produces,Luz,NA,luz,Light,light,NA
+item_138,luz,word,household,understands; produces,Luz,NA,luz,Light,light (object),NA
 item_139,papel_higienico,word,household,understands; produces,Papel higiénico,NA,papel_higiénico,Toilet paper,tissue,NA
 item_140,pente,word,household,understands; produces,Pente,NA,pente,Comb,comb (object),NA
 item_141,pote,word,household,understands; produces,Pote / penico / bacio,NA,pote,Potty,potty,NA

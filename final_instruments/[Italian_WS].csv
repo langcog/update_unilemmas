@@ -663,7 +663,7 @@ li/l,locations,li/l,word,produces,NA,item_661,NA,there,there
 molto,locations,molto,word,produces,NA,item_662,NA,much,much
 nessuno,locations,nessuno,word,produces,NA,item_663,NA,none,none
 niente,locations,niente,word,produces,NA,item_664,NA,any,nothing
-poco,locations,poco,word,produces,NA,item_665,NA,little/few,little
+poco,locations,poco,word,produces,NA,item_665,NA,little/few,little (description)
 qui/qua,locations,qui/qua,word,produces,NA,item_666,NA,here,here
 tanto,locations,tanto,word,produces,NA,item_667,NA,a lot,a lot
 troppo,locations,troppo,word,produces,NA,item_668,NA,too,too

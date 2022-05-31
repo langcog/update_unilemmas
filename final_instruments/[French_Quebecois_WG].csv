@@ -168,7 +168,7 @@ item_164,fourchette,household,fourchette,word,understands; produces,fork,fork
 item_165,horloge,household,horloge,word,understands; produces,clock,clock
 item_166,image,household,image,word,understands; produces,picture,picture
 item_167,lampe,household,lampe,word,understands; produces,lamp,lamp
-item_168,lumière,household,lumi`ere,word,understands; produces,light,light
+item_168,lumière,household,lumi`ere,word,understands; produces,light,light (object)
 item_169,lunettes,household,lunettes,word,understands; produces,glasses,glasses
 item_170,marteau,household,marteau,word,understands; produces,hammer,hammer
 item_171,médicament,household,medicament,word,understands; produces,drug,medicine

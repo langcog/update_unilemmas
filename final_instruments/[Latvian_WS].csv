@@ -232,7 +232,7 @@ item_230,230_daksina,word,produces,household,dakšiņa,NA,fork,fork
 item_231,231_dators,word,produces,household,dators,NA,computer,computer
 item_232,232_dvielis,word,produces,household,dvielis,NA,towel,towel
 item_233,233_fotoaparat,word,produces,household,fotoaparāts,NA,camera,camera
-item_234,234_gaisma,word,produces,household,gaisma,NA,light,light
+item_234,234_gaisma,word,produces,household,gaisma,NA,light,light (object)
 item_235,235_glaze,word,produces,household,glāze,NA,class,glass
 item_236,236_gludeklis,word,produces,household,gludeklis,NA,iron,iron
 item_237,237_grozs,word,produces,household,grozs,NA,basket,basket
@@ -587,7 +587,7 @@ item_585,585_tumss,word,produces,descriptive_words,tumšs,NA,dark,dark
 item_586,586_tuvu,word,produces,descriptive_words,tuvu,NA,close,close
 item_587,587_uzmanigs_,word,produces,descriptive_words,uzmanīgs /uzmanīgi,NA,careful,careful
 item_588,588_vecs,word,produces,descriptive_words,vecs,NA,old,old
-item_589,589_viegls_vie,word,produces,descriptive_words,viegls/viegli,NA,light/easy,light
+item_589,589_viegls_vie,word,produces,descriptive_words,viegls/viegli,NA,light/easy,light (description)
 item_590,590_zals,word,produces,descriptive_words,zaļš,NA,green,green
 item_591,591_zils,word,produces,descriptive_words,zils,NA,blue,blue
 item_592,592_agri,word,produces,time_words,agri,NA,early,early
@@ -677,7 +677,7 @@ item_675,675_ari,word,produces,quantifiers,arī,NA,too,too
 item_676,676_cits_,word,produces,quantifiers,cits,NA,other,other
 item_677,677_daudz,word,produces,quantifiers,daudz,NA,a lot,a lot
 item_678,678_dazi,word,produces,quantifiers,daži,NA,some,some
-item_679,679_drusku_dru,word,produces,quantifiers,drusku/drusciņ,NA,a bit,little
+item_679,679_drusku_dru,word,produces,quantifiers,drusku/drusciņ,NA,a bit,little (amount)
 item_680,680_ikviens_,word,produces,quantifiers,ikviens,NA,each,each
 item_681,681_katrs,word,produces,quantifiers,katrs,NA,every,every
 item_682,682_maz,word,produces,quantifiers,maz,NA,little,little (amount)

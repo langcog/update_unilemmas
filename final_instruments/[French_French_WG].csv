@@ -203,7 +203,7 @@ item_235,item_235,word,household,understands; produces,feuille,item_500,Petits o
 item_236,item_236,word,household,understands; produces,fourchette,item_475,Petits objets ménagers,fork,fork
 item_237,item_237,word,household,understands; produces,horloge,item_471,Petits objets ménagers,clock,clock
 item_238,item_238,word,household,understands; produces,lampe,item_480,Petits objets ménagers,lamp,lamp
-item_239,item_239,word,household,understands; produces,lumière,item_481,Petits objets ménagers,light,light
+item_239,item_239,word,household,understands; produces,lumière,item_481,Petits objets ménagers,light,light (object)
 item_240,item_240,word,household,understands; produces,lunettes,item_477,Petits objets ménagers,glasses,glasses
 item_241,item_241,word,household,understands; produces,marteau,item_478,Petits objets ménagers,hammer,hammer
 item_242,item_242,word,household,understands; produces,médicaments,item_482,Petits objets ménagers,medicine,medicine

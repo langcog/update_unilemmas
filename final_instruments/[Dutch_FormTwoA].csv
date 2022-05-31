@@ -38,7 +38,7 @@ item_36,clothing,T-shirt,understands;produces,T-shirt,word,T-shirt,t-shirt
 item_37,clothing,zwembroek/zwempak/badpak,understands;produces,zwembroek/zwempak/badpak,word,swimming pants/swimming suit,swimsuit
 item_38,body_parts,borst,understands;produces,borst,word,breast,breast
 item_39,body_parts,hand,understands;produces,hand,word,hand,hand
-item_40,body_parts,lippen,understands;produces,lippen,word,lips,lip
+item_40,body_parts,lippen,understands;produces,lippen,word,lips,lips
 item_41,body_parts,neus,understands;produces,neus,word,nose,nose
 item_42,household,bord,understands;produces,bord,word,plate,plate
 item_43,household,camera/fototoestel,understands;produces,camera/fototoestel,word,camera,camera
@@ -84,12 +84,12 @@ item_82,descriptive_words,warm/heet,understands;produces,warm/heet,word,warm/hot
 item_83,descriptive_words,zwart,understands;produces,zwart,word,black,black
 item_84,action_words,botsen,understands;produces,botsen,word,to bump,bump 
 item_85,action_words,haasten/zichspoeden,understands;produces,haasten/zichspoeden,word,to hurry up,to hurry up
-item_86,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love (verb)
+item_86,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love
 item_87,action_words,inschenken/gieten,understands;produces,inschenken/gieten,word,to pour,pour
 item_88,action_words,kietelen,understands;produces,kietelen,word,to tickle,tickle
 item_89,action_words,latenvallen,understands;produces,latenvallen,word,to drop,drop
 item_90,action_words,likken,understands;produces,likken,word,to lick,lick
-item_91,action_words,luisteren,understands;produces,luisteren,word,to listen,listen (verb)
+item_91,action_words,luisteren,understands;produces,luisteren,word,to listen,listen
 item_92,action_words,maken,understands;produces,maken,word,to make,make
 item_93,action_words,passen,understands;produces,passen,word,to try on (clothes,try on
 item_94,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (action)
@@ -98,7 +98,7 @@ item_96,action_words,zitten,understands;produces,zitten,word,to sit,sit
 item_97,action_words,zwaaien/wuiven,understands;produces,zwaaien/wuiven,word,to wave,wave
 item_98,time_words,later/straks,understands;produces,later/straks,word,later/soon,soon
 item_99,time_words,voor(tijd),understands;produces,voor(tijd),word,before ,before
-item_100,pronouns,ik,understands;produces,ik,word,I,i
+item_100,pronouns,ik,understands;produces,ik,word,I,I
 item_101,question_words,wat,understands;produces,wat,word,what,what
 item_102,locations,aan,understands;produces,aan,word,to,to
 item_103,locations,beneden,understands;produces,beneden,word,beneath,under

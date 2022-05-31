@@ -421,7 +421,7 @@ item_419,sauber machen,action_words,sauber_machen,word,produces,NA,clean,clean (
 item_420,klettern,action_words,klettern,word,produces,NA,climb,climb
 item_421,spazieren gehen,action_words,spazieren_gehen,word,produces,NA,go for walk,go for a walk
 item_422,rutschen,action_words,rutschen,word,produces,NA,slide,slide (action)
-item_423,aufheben,action_words,aufheben,word,produces,NA,pick up,lift
+item_423,aufheben,action_words,aufheben,word,produces,NA,pick up,lift (action)
 item_424,haben,action_words,haben,word,produces,NA,have,have
 item_425,weinen,action_words,weinen,word,produces,NA,cry,cry
 item_426,wünschen,action_words,wunschen,word,produces,NA,wish,wish

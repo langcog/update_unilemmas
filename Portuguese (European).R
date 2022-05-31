@@ -24,6 +24,7 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="vroom vroom"),]$uni_lemma = "vroom"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
+new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
 
 
 # ToDo: look at blanks

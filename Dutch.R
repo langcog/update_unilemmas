@@ -190,6 +190,14 @@ new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (descriptio
 new_items[which(new_items$uni_lemma=="open (verb)"),]$uni_lemma = "open (action)"
 new_items[which(new_items$uni_lemma=="mother"),]$uni_lemma = "mommy"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+new_items[which(new_items$uni_lemma=="love (verb)"),]$uni_lemma = "love"
+new_items[which(new_items$uni_lemma=="listen (verb)"),]$uni_lemma = "listen"
+new_items[which(new_items$uni_lemma=="lip"),]$uni_lemma = "lips"
+new_items[which(new_items$uni_lemma=="kiss (verb)"),]$uni_lemma = "kiss"
+new_items[which(new_items$uni_lemma=="kick (verb)"),]$uni_lemma = "kick"
+new_items[which(new_items$uni_lemma=="i"),]$uni_lemma = "I"
+new_items[which(new_items$uni_lemma=="hug (verb)"),]$uni_lemma = "hug"
+
 
 
 

@@ -432,7 +432,7 @@ item_451,love,word,action_words,understands; produces,love,love,love
 item_452,make,word,action_words,understands; produces,make,make,make
 item_453,open,word,action_words,understands; produces,open,open,open (action)
 item_454,paint,word,action_words,understands; produces,paint,paint,paint (action)
-item_455,pick,word,action_words,understands; produces,pick,pick,pick (action)
+item_455,pick,word,action_words,understands; produces,pick,pick,pick
 item_456,play,word,action_words,understands; produces,play,play,play
 item_457,see,word,action_words,understands; produces,see,see,see
 item_458,searchfor,word,action_words,understands; produces,search for,search for,

@@ -27,7 +27,7 @@ item_25,NA,word,understands; produces,animals,kukučka,NA,cuckoo,NA
 item_26,NA,word,understands; produces,animals,kuriatko / sliepka,NA,chicken,chicken (animal)
 item_27,NA,word,understands; produces,animals,labka,NA,paw,paw
 item_28,NA,word,understands; produces,animals,labuť,NA,swan,swan
-item_29,NA,word,understands; produces,animals,lastovička,NA,swallow,swallow
+item_29,NA,word,understands; produces,animals,lastovička,NA,swallow,swallow (animal)
 item_30,NA,word,understands; produces,animals,lev,NA,lion,lion
 item_31,NA,word,understands; produces,animals,lienka,NA,ladybird,ladybug
 item_32,NA,word,understands; produces,animals,líška,NA,Fox,fox
@@ -488,7 +488,7 @@ item_486,NA,word,understands; produces,action_words,točiť (sa) / krútiť (sa)
 item_487,NA,word,understands; produces,action_words,vidieť,NA,see,see
 item_488,NA,word,understands; produces,action_words,voňať,NA,smell,smell
 item_489,NA,word,understands; produces,action_words,vstávať,NA,get up,get up
-item_490,NA,word,understands; produces,action_words,vybrať,NA,choose,pick (action)
+item_490,NA,word,understands; produces,action_words,vybrať,NA,choose,pick
 item_491,NA,word,understands; produces,action_words,zamknúť,NA,lock,lock (action)
 item_492,NA,word,understands; produces,action_words,zašpiniť,NA,dirty,dirty (action)
 item_493,NA,word,understands; produces,action_words,zívať,NA,gape,yawn

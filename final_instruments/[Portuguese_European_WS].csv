@@ -259,7 +259,7 @@ item_257,guardanapos,word,household,produces,Guardanapos,NA,Guardanapos,Napkin,n
 item_258,lata,word,household,produces,Lata,NA,Lata,Can,bottle,NA
 item_259,lencois,word,household,produces,Lençóis,NA,Lençóis,(Bed) sheet,sheet,NA
 item_260,lixo,word,household,produces,Lixo,NA,Lixo,Garbage,trash,NA
-item_261,luz,word,household,produces,Luz,NA,Luz,Light,light,NA
+item_261,luz,word,household,produces,Luz,NA,Luz,Light,light (object),NA
 item_262,manta,word,household,produces,Manta,NA,Manta,Wrap,blanket,NA
 item_263,mola,word,household,produces,Mola (roupa),NA,Mola,Clothespin/ clothespeg,NA,NA
 item_264,moeda,word,household,produces,Moeda / Tostão,NA,Moeda,Coin,coin,NA

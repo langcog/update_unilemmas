@@ -37,6 +37,8 @@ new_items[which(new_items$uni_lemma=="work"),]$uni_lemma = "work (action)"
 new_items[which(new_items$uni_lemma=="wants"),]$uni_lemma = "want"
 new_items[which(new_items$uni_lemma=="seek"),]$uni_lemma = "search"
 new_items[which(new_items$uni_lemma=="put out"),]$uni_lemma = "turn off"
+new_items[which(new_items$uni_lemma=="little"),]$uni_lemma = "little (description)"
+
 
 
 # ToDo: check empty uni-lemmas ("")

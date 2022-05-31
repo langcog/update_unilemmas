@@ -88,25 +88,25 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2162 uni-lemmas
+  # how it's going: 2089 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2098 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 467 hapaxes
+  length(new_uni_tab) # 2089 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 464 hapaxes
   length(unique(new_uni$form)) # 63 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
   #write_csv(new_unis, file="uni-lemma_list.csv")
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 127 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 131 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 845
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 839
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1063 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 787 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1062 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 786 on 10+ forms
   length(new_uni_tab[which(new_uni_tab>=20)]) # 589 on 20+ forms
   length(new_uni_tab[which(new_uni_tab>=30)]) # 471 on 30+ forms
   length(new_uni_tab[which(new_uni_tab>=40)]) # 323 on 40+ forms
@@ -152,6 +152,13 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="biscuit") # are these 11 'cookie'?
   # combine all 'pen' and 'pencil' into 'pen/pencil' ?
   # mittens -> mitten ?
+  # stick -> stick (object) / (action)
+  # mad (2) -> angry ?
+  # keys -> key ?
+  # hurt -> (action) / (description)
+  # horrible <-> terrible ?
+  
+  # various songbirds: swallow, sparrow, robin (1), pigeon, magpie (1)
   
   # siren noises?
   subset(new_uni, uni_lemma=="weee") # Russian

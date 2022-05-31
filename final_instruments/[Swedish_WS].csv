@@ -486,7 +486,7 @@ läsa,action_words,lasa,word,produces,NA,item_484,read,read,read
 mata,action_words,mata,word,produces,NA,item_485,feed,feed,feed
 måla,action_words,mala,word,produces,NA,item_486,NA,paint,paint (action)
 plaska,action_words,plaska,word,produces,NA,item_487,splash,splash,splash
-plocka,action_words,plocka,word,produces,NA,item_488,NA,pick,pick (action)
+plocka,action_words,plocka,word,produces,NA,item_488,NA,pick,pick
 prata,action_words,prata,word,produces,NA,item_489,NA,talk,talk
 pussa,action_words,pussa,word,produces,NA,item_490,kiss,kiss,kiss
 ramla,action_words,ramla,word,produces,NA,item_491,NA,fall,fall
@@ -615,7 +615,7 @@ henne,pronouns,henne,word,produces,NA,item_613,her,her,her
 hennes,pronouns,hennes,word,produces,NA,item_614,NA,hers,hers
 hon,pronouns,hon,word,produces,NA,item_615,NA,she,she
 honom,pronouns,honom,word,produces,NA,item_616,NA,him,him
-jag,pronouns,jag,word,produces,NA,item_617,i,I,i
+jag,pronouns,jag,word,produces,NA,item_617,i,I,I
 mig,pronouns,mig,word,produces,NA,item_618,my,me,my
 min,pronouns,min,word,produces,NA,item_619,mine,my,mine
 mina,pronouns,mina,word,produces,NA,item_620,NA,mine,mine

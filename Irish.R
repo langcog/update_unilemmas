@@ -107,7 +107,8 @@ new_items[which(new_items$uni_lemma=="side"),]$uni_lemma = "beside"
 new_items[which(new_items$uni_lemma=="shop"),]$uni_lemma = "store"
 new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
 new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
-
+new_items[which(new_items$uni_lemma=="mass"),]$uni_lemma = "church"
+new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (description)"
 
 
 # ToDo: check empty uni-lemmas ("")

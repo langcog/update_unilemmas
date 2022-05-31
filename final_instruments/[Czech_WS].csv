@@ -486,7 +486,7 @@ item_484,484_vcera,word,time_words,produces,včera,NA,yesterday,yesterday
 item_485,485_vecer,word,time_words,produces,večer,NA,evening,evening
 item_486,486_zachvilku,word,time_words,produces,za chvilku,NA,in a while,NA
 item_487,487_zitra,word,time_words,produces,zítra,NA,tomorrow,tomorrow
-item_488,488_ja1,word,pronouns,produces,já,NA,I,i
+item_488,488_ja1,word,pronouns,produces,já,NA,I,I
 item_489,489_ty1,word,pronouns,produces,ty,NA,you,you
 item_490,490_on1,word,pronouns,produces,on,NA,he,he
 item_491,491_ona,word,pronouns,produces,ona,NA,she,she

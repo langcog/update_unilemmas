@@ -48,3 +48,5 @@ new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
 
 new_wg <- update_instrument(language, "WG", new_items %>% rename(itemID = WG))
 # "41 new uni-lemmas defined for Hebrew"
+# "All itemIDs accounted for in new file: FALSE"
+# "All definitions accounted for in new file: FALSE"

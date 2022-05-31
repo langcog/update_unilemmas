@@ -337,7 +337,7 @@ item_329,jabon,word,household,produces,jabón,NA,soap,soap
 item_330,jarabe,word,household,produces,jarabe,NA,syrup,syrup
 item_331,lavabo,word,household,produces,lavabo,NA,sink,sink
 item_332,lavadora,word,household,produces,lavadora,NA,washer,washing machine
-item_333,luz,word,household,produces,luz,NA,light,light
+item_333,luz,word,household,produces,luz,NA,light,light (object)
 item_334,llaves,word,household,produces,llaves,NA,keys,keys
 item_335,martillo,word,household,produces,martillo,NA,hammer,hammer
 item_336,mechero,word,household,produces,mechero,NA,lighter,lighter

@@ -38,6 +38,9 @@ new_items[which(new_items$definition=="jeder"),]$uni_lemma = "each" # was beach,
 
 new_items[which(new_items$definition=="keine"),]$uni_lemma = "none" # was 'no'
 
+new_items[which(new_items$uni_lemma=="lift"),]$uni_lemma = "lift (action)"
+
+
 # save updated instrument(s)
 new_ws <- update_instrument("German", "WS", new_items %>% rename(itemID = WS))
 # "122 new uni-lemmas defined for German"

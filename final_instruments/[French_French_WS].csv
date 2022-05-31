@@ -234,7 +234,7 @@ item_220,item_220,word,household,produces,feuille,paper,paper
 item_221,item_221,word,household,produces,fourchette,fork,fork
 item_222,item_222,word,household,produces,horloge,clock,clock
 item_223,item_223,word,household,produces,lampe,lamp,lamp
-item_224,item_224,word,household,produces,lumière,light,light
+item_224,item_224,word,household,produces,lumière,light,light (object)
 item_225,item_225,word,household,produces,lunettes,glasses,glasses
 item_226,item_226,word,household,produces,marteau,hammer,hammer
 item_227,item_227,word,household,produces,médicaments,medicine,medicine
