@@ -102,7 +102,7 @@ item_100,FD3_AUBERG_CG,word,food_drink,produces,βαζάνι,NA,aubergine CG,egg
 item_101,FD4_BUTTER,word,food_drink,produces,βούτυρος,NA,butter,butter
 item_102,FD5_MILK,word,food_drink,produces,γάλα,NA,milk,milk
 item_103,FD6_YOGURT,word,food_drink,produces,γιαούρτι,NA,yogurt,yogurt
-item_104,FD7_SWEET,word,food_drink,produces,γλυκό/γλύκισμα,NA,sweet,sweet
+item_104,FD7_SWEET,word,food_drink,produces,γλυκό/γλύκισμα,NA,sweet,sweets
 item_105,FD8_LOLLIP,word,food_drink,produces,γλειφιτζούρι,NA,lollipop,lollipop
 item_106,FD9_CEREAL,word,food_drink,produces,δημητριακά*,NA,cereal,cereal
 item_107,FD10_HAM,word,food_drink,produces,ζαμπόν,NA,ham,ham
@@ -660,7 +660,7 @@ item_658,AQ4_THE_FE,word,articles,produces,η,NA,the (female singular - definite
 item_659,AQ5_A_NEUT,word,articles,produces,ένα,NA,a (neutral singular - indefinite article),a
 item_660,AQ6_A_MALE,word,articles,produces,ένας,NA,a (male singular - indefinite article),a
 item_661,AQ7_EVERY,word,articles,produces,κάθε,NA,every,every
-item_662,AQ8_MORE,word,articles,produces,κι άλλο,NA,more,some more
+item_662,AQ8_MORE,word,articles,produces,κι άλλο,NA,more,more
 item_663,AQ9_A_LITT,word,articles,produces,λίγο,NA,a little,little (amount)
 item_664,AQ10_A_FEM,word,articles,produces,μια,NA,a (female singular - indefinite article),a
 item_665,AQ11_THE_M,word,articles,produces,ο,NA,the (male singular - definite article),the

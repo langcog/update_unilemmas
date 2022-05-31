@@ -58,6 +58,12 @@ new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (question)"
 new_items[which(new_items$uni_lemma=="weird"),]$uni_lemma = "strange"
 new_items[which(new_items$uni_lemma=="vroom vroom"),]$uni_lemma = "vroom"
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+new_items[which(new_items$uni_lemma=="roll"),]$uni_lemma = "roll (action)"
+new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
+new_items[which(new_items$uni_lemma=="ramen"),]$uni_lemma = "noodles"
+new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
+
+
 
 
 # ToDo: check blanks ("") and "at/in/on"

@@ -46,7 +46,7 @@ item_44,furniture_rooms,deur,understands;produces,deur,word,door,door
 item_45,outside,bloem,understands;produces,bloem,word,flower,flower
 item_46,outside,boom,understands;produces,boom,word,tree,tree
 item_47,outside,zon,understands;produces,zon,word,sun,sun
-item_48,places,buiten,understands;produces,buiten,word,outdoor,outdoors
+item_48,places,buiten,understands;produces,buiten,word,outdoor,outside
 item_49,people,baby,understands;produces,baby,word,baby,baby
 item_50,people,broer(tje),understands;produces,broer(tje),word,(little) brother,brother
 item_51,people,kind(je),understands;produces,kind(je),word,child,child
@@ -85,8 +85,8 @@ item_83,quantifiers,meer/nog,understands;produces,meer/nog,word,more/still,more
 item_84,sounds,bah(vies/vuil),understands;produces,bah(vies/vuil),word,yuk,yucky
 item_85,sounds,boem(ietsdatvaltofbotst),understands;produces,boem(ietsdatvaltofbotst),word,boom,boom
 item_86,sounds,toktok(kip),understands;produces,toktok(kip),word,cluck-cluck,cluck
-item_87,vehicles,buggy,understands;produces,buggy,word,buggy,pram
-item_88,vehicles,kinderwagen/koets,understands;produces,kinderwagen/koets,word,pram/stroller,pram
+item_87,vehicles,buggy,understands;produces,buggy,word,buggy,stroller
+item_88,vehicles,kinderwagen/koets,understands;produces,kinderwagen/koets,word,pram/stroller,stroller
 item_89,toys,naamvanknuffel/doekje/lappenpopvanhetkind,understands;produces,naamvanknuffel/doekje/lappenpopvanhetkind,word,,NA
 item_90,games_routines,bravo!,understands;produces,bravo!,word,bravo!/well done,bravo
 item_91,games_routines,eenbadnemen,understands;produces,eenbadnemen,word,to take a bath,take a bath

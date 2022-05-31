@@ -33,6 +33,12 @@ new_items[which(new_items$uni_lemma=="yuck"),]$uni_lemma = "yucky"
 new_items[which(new_items$uni_lemma=="strongly"),]$uni_lemma = "strong"
 
 new_items[which(new_items$uni_lemma=="well"),]$uni_lemma = "well (modifier)"
+new_items[which(new_items$uni_lemma=="slide"),]$uni_lemma = "slide (action)"
+new_items[which(new_items$uni_lemma=="semolina"),]$uni_lemma = "porridge"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
+new_items[which(new_items$uni_lemma=="pump"),]$uni_lemma = "pump (object)"
+
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

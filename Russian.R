@@ -39,7 +39,7 @@ new_items[which(new_items$WS=="item_598"),]$uni_lemma = "careful"
 new_items[which(new_items$WS=="item_599"),]$uni_lemma = "bad"
 new_items[which(new_items$WS=="item_600"),]$uni_lemma = "strong"
 new_items[which(new_items$WS=="item_601"),]$uni_lemma = "sweet"
-new_items[which(new_items$WS=="item_602"),]$uni_lemma = "quite" # totally/very?
+new_items[which(new_items$WS=="item_602"),]$uni_lemma = "very" 
 new_items[which(new_items$WS=="item_603"),]$uni_lemma = "dry"
 new_items[which(new_items$WS=="item_604"),]$uni_lemma = "dark"
 new_items[which(new_items$WS=="item_605"),]$uni_lemma = "warm"
@@ -63,6 +63,12 @@ new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
 new_items[which(new_items$uni_lemma=="tire"),]$uni_lemma = "tire (action)"
 new_items[which(new_items$uni_lemma=="clean"),]$uni_lemma = "clean (description)"
+new_items[which(new_items$uni_lemma=="stomp stomp"),]$uni_lemma = "stomp"
+new_items[which(new_items$uni_lemma=="sss"),]$uni_lemma = "hiss"
+new_items[which(new_items$uni_lemma=="brother's name"),]$uni_lemma = "brother" # OK?
+new_items[which(new_items$uni_lemma=="sister's name"),]$uni_lemma = "sister" # OK?
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
 
 
 

@@ -41,6 +41,8 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="durable"),]$uni_lemma = "tough"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+
 
 # ToDo: check empty uni-lemmas ("")
 subset(new_items, uni_lemma=="")

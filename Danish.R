@@ -28,6 +28,7 @@ new_items[which(new_items$uni_lemma=="tear (action)"),]$uni_lemma = "tear"
 new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (conjunction)"
 
 new_items[which(new_items$WS=="item_235"),]$uni_lemma = "can (object)"
+new_items[which(new_items$uni_lemma=="stomach"),]$uni_lemma = "tummy"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

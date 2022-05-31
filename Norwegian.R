@@ -82,6 +82,10 @@ new_items[which(new_items$uni_lemma=="weird"),]$uni_lemma = "strange"
 new_items[which(new_items$uni_lemma=="wanted"),]$uni_lemma = "want"
 new_items[which(new_items$uni_lemma=="wake up "),]$uni_lemma = "wake"
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+new_items[which(new_items$uni_lemma=="spin around "),]$uni_lemma = "ring around the rosie"
+new_items[which(new_items$uni_lemma=="slide "),]$uni_lemma = "slide (action)"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (description)"
 
 
 

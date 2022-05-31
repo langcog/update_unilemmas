@@ -138,7 +138,7 @@ item_136,item_136,word,food_drink,understands; produces,도너츠,NA,donut,donut
 item_137,item_137,word,food_drink,understands; produces,딸기,NA,strawberry,strawberry
 item_138,item_138,word,food_drink,understands; produces,땅콩,NA,peanuts,peanut
 item_139,item_139,word,food_drink,understands; produces,떡,NA,rice cake,rice cake
-item_140,item_140,word,food_drink,understands; produces,라면,NA,ramen,ramen
+item_140,item_140,word,food_drink,understands; produces,라면,NA,ramen,noodles
 item_141,item_141,word,food_drink,understands; produces,메론,NA,melon,melon
 item_142,item_142,word,food_drink,understands; produces,무/무우,NA,radish,radish
 item_143,item_143,word,food_drink,understands; produces,물,NA,water,water (beverage)
@@ -636,7 +636,7 @@ item_634,item_634,word,pronouns,understands; produces,이거,NA,this,this
 item_635,item_635,word,pronouns,understands; produces,저기,NA,over there,there
 item_636,item_636,word,helping_verbs,understands; produces,-고 있다,NA,-ing,NA
 item_637,item_637,word,helping_verbs,understands; produces,-놓다,NA,put,put
-item_638,item_638,word,helping_verbs,understands; produces,-말다,NA,roll,roll
+item_638,item_638,word,helping_verbs,understands; produces,-말다,NA,roll,roll (action)
 item_639,item_639,word,helping_verbs,understands; produces,-보다,NA,see,see
 item_640,item_640,word,helping_verbs,understands; produces,-싶다,NA,hope to,wanna
 item_641,item_641,word,helping_verbs,understands; produces,-주다,NA,give,give

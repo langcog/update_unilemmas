@@ -35,6 +35,9 @@ new_items[which(new_items$uni_lemma=="cuddles"),]$uni_lemma = "cuddle"
 new_items[which(new_items$uni_lemma=="run after"),]$uni_lemma = "chase"
 new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
+
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

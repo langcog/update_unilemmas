@@ -74,7 +74,7 @@ item_72,a02_17,word,body_parts,produces,舌頭,NA,tongue,tongue
 item_73,a02_18,word,body_parts,produces,脖子,NA,neck,neck
 item_74,a02_19,word,body_parts,produces,腳趾頭,NA,toe,toe
 item_75,a02_20,word,body_parts,produces,胸部(ㄋㄟㄋㄟ),NA,vagina,breast
-item_76,a02_21,word,body_parts,produces,指甲,NA,nail,nail
+item_76,a02_21,word,body_parts,produces,指甲,NA,nail,nail (body part)
 item_77,a02_22,word,body_parts,produces,嘴唇,NA,lip,lips
 item_78,a02_23,word,body_parts,produces,背,NA,back,back
 item_79,a02_24,word,body_parts,produces,下巴,NA,chin,chin
@@ -102,7 +102,7 @@ item_100,a03_16,word,vehicles,produces,直昇機,NA,helicopter,helicopter
 item_101,a03_17,word,vehicles,produces,吊車,NA,crane,crane
 item_102,a04_01,word,food_drink,produces,牛奶(ㄋㄟㄋㄟ),NA,milk,milk
 item_103,a04_02,word,food_drink,produces,水(茶茶),NA,water,water (beverage)
-item_104,a04_03,word,food_drink,produces,麵,NA,noodles,noodle
+item_104,a04_03,word,food_drink,produces,麵,NA,noodles,noodles
 item_105,a04_04,word,food_drink,produces,飯,NA,rice,rice
 item_106,a04_05,word,food_drink,produces,餅乾,NA,cookies,cookie
 item_107,a04_06,word,food_drink,produces,香蕉,NA,banana,banana
@@ -197,7 +197,7 @@ item_195,a05_17,word,clothing,produces,安全帽,NA,helmet,helmet
 item_196,a05_18,word,clothing,produces,內褲(三角褲),NA,briefs,underpants
 item_197,a05_19,word,clothing,produces,口罩,NA,mask,mask
 item_198,a05_20,word,clothing,produces,雨衣,NA,raincoat,raincoat
-item_199,a05_21,word,clothing,produces,涼鞋,NA,sandals,sandals
+item_199,a05_21,word,clothing,produces,涼鞋,NA,sandals,sandal
 item_200,a05_22,word,clothing,produces,布鞋(運動鞋),NA,sneakers,sneaker
 item_201,a05_23,word,clothing,produces,項鍊,NA,necklace,necklace
 item_202,a05_24,word,clothing,produces,圍巾,NA,scarf,scarf
@@ -284,7 +284,7 @@ item_282,a07_54,word,household,produces,水桶,NA,bucket,bucket
 item_283,a07_55,word,household,produces,玻璃(玻璃杯),NA,glasses,glasses
 item_284,a07_56,word,household,produces,罐子,NA,jar,jar
 item_285,a07_57,word,household,produces,水壺,NA,water bottle,bottle
-item_286,a07_58,word,household,produces,釘子,NA,nail,nail
+item_286,a07_58,word,household,produces,釘子,NA,nail,nail (object)
 item_287,a08_01,word,furniture_rooms,produces,椅子,NA,chair,chair
 item_288,a08_02,word,furniture_rooms,produces,門,NA,door,door
 item_289,a08_03,word,furniture_rooms,produces,桌子,NA,table,table
@@ -327,7 +327,7 @@ item_325,a09_12,word,outside,produces,草,NA,grass,grass
 item_326,a09_13,word,outside,produces,鞦韆,NA,swing,swing (object)
 item_327,a09_14,word,outside,produces,雲,NA,cloud,cloud
 item_328,a09_15,word,outside,produces,風,NA,wind,wind
-item_329,a09_16,word,outside,produces,翹翹板,NA,seesaw,seesaw (object)
+item_329,a09_16,word,outside,produces,翹翹板,NA,seesaw,seesaw
 item_330,a09_17,word,outside,produces,馬路,NA,road,road
 item_331,a09_18,word,outside,produces,土/泥土,NA,mud,mud
 item_332,a09_19,word,outside,produces,打雷,NA,thunder,thunder
@@ -370,7 +370,7 @@ item_368,a10_25,word,places,produces,大樓,NA,building,building
 item_369,a11_01,word,games_routines,produces,再見(byebye),NA,bye or bye bye,bye
 item_370,a11_02,word,games_routines,produces,謝謝,NA,thank you,thank you
 item_371,a11_03,word,games_routines,produces,睡覺,NA,nap,nap
-item_372,a11_04,word,games_routines,produces,晚安,NA,night night,night night
+item_372,a11_04,word,games_routines,produces,晚安,NA,night night,good night
 item_373,a11_05,word,games_routines,produces,吃飯,NA,eat,eat
 item_374,a11_06,word,games_routines,produces,洗澡,NA,bath,bath
 item_375,a11_07,word,games_routines,produces,刷牙,NA,brush,brush (action)
@@ -383,7 +383,7 @@ item_381,a11_13,word,games_routines,produces,唱歌,NA,sing,sing
 item_382,a11_14,word,games_routines,produces,看電視,NA,watch TV,NA
 item_383,a11_15,word,games_routines,produces,對不起,NA,sorry,sorry
 item_384,a11_16,word,games_routines,produces,打電話,NA,call (on phone),call
-item_385,a11_17,word,games_routines,produces,躲貓貓,NA,peekaboo,peekabo
+item_385,a11_17,word,games_routines,produces,躲貓貓,NA,peekaboo,peekaboo
 item_386,a11_18,word,games_routines,produces,逛街/買東西,NA,shopping,shopping
 item_387,a11_19,word,games_routines,produces,玩遊戲,NA,patty cake,pattycake
 item_388,a11_20,word,games_routines,produces,上廁所(尿尿、便便),NA,go potty,potty
@@ -527,7 +527,7 @@ item_525,a15_30,word,action_words,produces,擦,NA,wipe,wipe
 item_526,a15_31,word,action_words,produces,好了,NA,finish,finish
 item_527,a15_32,word,action_words,produces,給,NA,give,give
 item_528,a15_33,word,action_words,produces,不可以/不行,NA,don't/can't,not
-item_529,a15_34,word,action_words,produces,笑,NA,smile,smile (action)
+item_529,a15_34,word,action_words,produces,笑,NA,smile,smile
 item_530,a15_35,word,action_words,produces,快點/快一點,NA,hurry,hurry
 item_531,a15_36,word,action_words,produces,撿,NA,pick up,pick up
 item_532,a15_37,word,action_words,produces,摸,NA,touch,touch

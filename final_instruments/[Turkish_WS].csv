@@ -409,7 +409,7 @@ Yok,games_routines,Yok,word,produces,NA,item_407,all gone,absent/allgone,all gon
 Acı (canı),action_words,Aci_(cani),word,produces,NA,item_408,hurt (action),hurt,hurt (action)
 Acık,action_words,Acik,word,produces,NA,item_409,get hungry,get hungry,get hungry
 Aç,action_words,Ac,word,produces,NA,item_410,open (action),open,open (action)
-Açıl,action_words,Acil,word,produces,NA,item_411,be opened,be opened,open
+Açıl,action_words,Acil,word,produces,NA,item_411,be opened,be opened,open (action)
 Ağla,action_words,Agla,word,produces,NA,item_412,cry,cry,cry
 Al,action_words,Al,word,produces,NA,item_413,take,take,take
 Anla,action_words,Anla,word,produces,NA,item_414,understand,understand,understand
@@ -482,7 +482,7 @@ Kana,action_words,Kana,word,produces,NA,item_480,NA,bleed,bleed
 Kapan,action_words,Kapan,word,produces,NA,item_481,NA,be closed,NA
 Kapat,action_words,Kapat,word,produces,NA,item_482,close,close/shut,close
 Karıştır,action_words,Karistir,word,produces,NA,item_483,NA,mix,mix
-Kay,action_words,Kay,word,produces,NA,item_484,NA,slide,slide
+Kay,action_words,Kay,word,produces,NA,item_484,NA,slide,slide (action)
 Kes,action_words,Kes,word,produces,NA,item_485,NA,cut,cut
 Kır,action_words,Kir,word,produces,NA,item_486,break,break,break
 Kırıl,action_words,Kiril,word,produces,NA,item_487,NA,be broken,break

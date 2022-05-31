@@ -26,7 +26,7 @@ item_24,cocodrilo,cocodrilo,animals,word,produces,NA,crocodile,crocodile
 item_25,conejo,conejo,animals,word,produces,NA,rabbit,bunny
 item_26,cucaracha,cucaracha,animals,word,produces,NA,cockroach,cockroach
 item_27,elefante,elefante,animals,word,produces,NA,elephant,elephant
-item_28,foca,foca,animals,word,produces,NA,seal,seal
+item_28,foca,foca,animals,word,produces,NA,seal,seal (animal)
 item_29,gallina,gallina,animals,word,produces,NA,hen,hen
 item_30,gato,gato,animals,word,produces,NA,cat,cat
 item_31,gusano,gusano,animals,word,produces,NA,catterpillar,caterpillar
@@ -319,7 +319,7 @@ item_317,maceta,maceta,outside,word,produces,NA,flower pot,flower pot
 item_318,manguera,manguera,outside,word,produces,NA,hose,hose
 item_319,nieve,nieve,outside,word,produces,NA,snow,snow
 item_320,nube,nube,outside,word,produces,NA,cloud,cloud
-item_321,pala,pala,outside,word,produces,NA,shovel,shovel (object)
+item_321,pala,pala,outside,word,produces,NA,shovel,shovel
 item_322,palo,palo,outside,word,produces,NA,stick,stick
 item_323,pasto,pasto,outside,word,produces,NA,grass,grass
 item_324,piedra,piedra,outside,word,produces,NA,stone,stone
@@ -475,7 +475,7 @@ item_473,barrer,barrer,action_words,word,produces,NA,sweep,sweep
 item_474,besar,besar,action_words,word,produces,NA,kiss,kiss
 item_475,buscar,buscar,action_words,word,produces,NA,search,search
 item_476,caer_se,caer_se,action_words,word,produces,NA,fall,fall
-item_477,callar_se,callar_se,action_words,word,produces,NA,shut up,shut up
+item_477,callar_se,callar_se,action_words,word,produces,NA,shut up,quiet (action)
 item_478,caminar,caminar,action_words,word,produces,NA,walk,walk
 item_479,cantar,cantar,action_words,word,produces,NA,sing,sing
 item_480,cenar,cenar,action_words,word,produces,NA,eat dinner,dine
@@ -662,7 +662,7 @@ item_660,unas,unas,quantifiers,word,produces,NA,some (feminine plural),some
 item_661,unos,unos,quantifiers,word,produces,NA,some (masculine plural),some
 item_662,así,así,descriptive_words (adverbs),word,produces,NA,like this/that,like this
 item_663,bien,bien,descriptive_words (adverbs),word,produces,NA,good,good
-item_664,despacio,despacio,descriptive_words (adverbs),word,produces,NA,slowly,slow
+item_664,despacio,despacio,descriptive_words (adverbs),word,produces,NA,slowly,slowly
 item_665,mal,mal,descriptive_words (adverbs),word,produces,NA,wrong,wrong
 item_666,más,más,descriptive_words (adverbs),word,produces,NA,more,more
 item_667,mucho,mucho,descriptive_words (adverbs),word,produces,NA,a lot,a lot

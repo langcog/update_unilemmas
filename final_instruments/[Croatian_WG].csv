@@ -190,7 +190,7 @@ naranča,food_drink,naranca,word,understands; produces,item_198,NA,orange,orange
 grašak,food_drink,grasak,word,understands; produces,item_80,NA,peas,peas
 kašica,food_drink,kasica,word,understands; produces,item_125,NA,gruel,cereal
 krumpir,food_drink,krumpir,word,understands; produces,item_144,NA,potato,potato
-griz,food_drink,griz,word,understands; produces,item_82,NA,grits,semolina
+griz,food_drink,griz,word,understands; produces,item_82,NA,grits,porridge
 juha,food_drink,juha,word,understands; produces,item_115,NA,soup,soup
 tijesto,food_drink,tijesto,word,understands; produces,item_334,NA,pasta,pasta
 špinat,food_drink,spinat,word,understands; produces,item_301,NA,spinach,spinach

@@ -43,6 +43,10 @@ new_items[which(new_items$uni_lemma=="dress"),]$uni_lemma = "dress (object)"
 new_items[which(new_items$uni_lemma=="oops"),]$uni_lemma = "uh oh"
 new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
+new_items[which(new_items$uni_lemma=="scone"),]$uni_lemma = "muffin" 
+new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
+new_items[which(new_items$uni_lemma=="nail"),]$uni_lemma = "nail (object)"
+
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

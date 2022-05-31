@@ -74,8 +74,8 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2159 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 499 hapaxes
+  length(new_uni_tab) # 2107 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 481 hapaxes
   length(unique(new_uni$form)) # 62 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
@@ -84,7 +84,7 @@ examine_new_unilemmas <- function() {
   # uni-lemmas we no longer have:
   setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 107 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 889
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 845
   
   length(new_uni_tab[which(new_uni_tab>4)]) # 1054 used in 5+ forms
   length(new_uni_tab[which(new_uni_tab>=10)]) # 784 on 10+ forms
@@ -130,6 +130,8 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="backyard") # 4 -> yard ? (a couple forms do have both..)
   subset(new_uni, uni_lemma=="wardrobe") # 9 -> closet (21 forms)
   #subset(new_uni, uni_lemma=="village") # 6 -> town (5)
+  subset(new_uni, uni_lemma=="biscuit") # are these 11 'cookie'?
+  # combine all 'pen' and 'pencil' into 'pen/pencil' ?
   
   # siren noises?
   subset(new_uni, uni_lemma=="weee") # Russian

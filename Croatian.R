@@ -70,6 +70,7 @@ new_items[which(new_items$uni_lemma=="walk (noun)"),]$uni_lemma = "outing"
 new_items[which(new_items$uni_lemma=="baby walker"),]$uni_lemma = "walker"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
 new_items[which(new_items$uni_lemma=="tin can"),]$uni_lemma = "can (object)"
+new_items[which(new_items$uni_lemma=="semolina"),]$uni_lemma = "porridge"
 
 new_items[which(new_items$WS=="item_708"),]$uni_lemma = NA
 

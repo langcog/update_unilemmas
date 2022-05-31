@@ -113,7 +113,7 @@ item_111,item_111,word,toys,produces,poupée,doll,doll
 item_112,item_112,word,toys,produces,puzzle,puzzle,puzzle
 item_113,item_113,word,toys,produces,raquette,racket,bat (object)
 item_114,item_114,word,toys,produces,stylo,pen/pencil,pen/pencil
-item_115,item_115,word,clothing,produces,basket,trainers,sneakers
+item_115,item_115,word,clothing,produces,basket,trainers,sneaker
 item_116,item_116,word,clothing,produces,bavoir/bavette,bib,bib
 item_117,item_117,word,clothing,produces,body,(??),
 item_118,item_118,word,clothing,produces,bottes,boots,boots
@@ -246,7 +246,7 @@ item_232,item_232,word,household,produces,oreiller,pillow,pillow
 item_233,item_233,word,household,produces,panier,basket,basket
 item_234,item_234,word,household,produces,papier,paper,paper
 item_235,item_235,word,household,produces,peigne,comb (object),comb (object)
-item_236,item_236,word,household,produces,photo,photos,photos
+item_236,item_236,word,household,produces,photo,photos,photo
 item_237,item_237,word,household,produces,plante,plant,plant
 item_238,item_238,word,household,produces,plat,dish,dish
 item_239,item_239,word,household,produces,plateau,tray,tray

@@ -72,9 +72,9 @@ item_70,item_070,word,clothing,understands; produces,옷/꼬까,NA,dress,dress (
 item_71,item_071,word,clothing,understands; produces,장갑,NA,gloves,gloves
 item_72,item_072,word,clothing,understands; produces,팬티,NA,underpants,underpants
 item_73,item_073,word,toys,understands; produces,공,NA,ball,ball
-item_74,item_074,word,toys,understands; produces,반지,NA,ring,ring
+item_74,item_074,word,toys,understands; produces,반지,NA,ring,ring (object)
 item_75,item_075,word,toys,understands; produces,블록,NA,block,block
-item_76,item_076,word,toys,understands; produces,사진,NA,photo,photos
+item_76,item_076,word,toys,understands; produces,사진,NA,photo,photo
 item_77,item_077,word,toys,understands; produces,종이,NA,paper,paper
 item_78,item_078,word,toys,understands; produces,연필,NA,pencil,pencil
 item_79,item_079,word,toys,understands; produces,인형,NA,doll,doll
@@ -94,7 +94,7 @@ item_92,item_092,word,food_drink,understands; produces,껌,NA,gum,gum
 item_93,item_093,word,food_drink,understands; produces,꿀,NA,honey,honey
 item_94,item_094,word,food_drink,understands; produces,딸기,NA,strawberry,strawberry
 item_95,item_095,word,food_drink,understands; produces,떡,NA,rice cake,rice cake
-item_96,item_096,word,food_drink,understands; produces,라면,NA,ramen,ramen
+item_96,item_096,word,food_drink,understands; produces,라면,NA,ramen,noodles
 item_97,item_097,word,food_drink,understands; produces,맘마,NA,food (infant-directed),meal
 item_98,item_098,word,food_drink,understands; produces,무/무우,NA,radish,radish
 item_99,item_099,word,food_drink,understands; produces,물,NA,water,water (beverage)

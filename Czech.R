@@ -22,6 +22,9 @@ new_items[which(new_items$definition=="policajti"),]$uni_lemma = "police car"
 new_items[which(new_items$uni_lemma=="policeman"),]$uni_lemma = "police" 
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="shhh"),]$uni_lemma = "shh"
+new_items[which(new_items$uni_lemma=="seek"),]$uni_lemma = "search"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

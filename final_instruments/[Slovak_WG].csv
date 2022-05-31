@@ -98,7 +98,7 @@ item_133,NA,word,understands; produces,food_drink,keksík,NA,cookie,cookie
 item_134,NA,word,understands; produces,food_drink,koláčik,NA,tartlet,cake
 item_135,NA,word,understands; produces,food_drink,kompót,NA,compote,jam
 item_136,NA,word,understands; produces,food_drink,kôrka,NA,crust,NA
-item_137,NA,word,understands; produces,food_drink,krupica,NA,meal,semolina
+item_137,NA,word,understands; produces,food_drink,krupica,NA,meal,porridge
 item_138,NA,word,understands; produces,food_drink,maslo,NA,butter,butter
 item_139,NA,word,understands; produces,food_drink,mäso,NA,meat,meat
 item_140,NA,word,understands; produces,food_drink,mlieko,NA,milk,milk
@@ -123,7 +123,7 @@ item_158,NA,word,understands; produces,clothing,plienka,NA,diaper,diaper
 item_159,NA,word,understands; produces,clothing,ponožky,NA,socks,sock
 item_160,NA,word,understands; produces,clothing,pršiplášť,NA,raincoat,raincoat
 item_161,NA,word,understands; produces,clothing,pyžamo,NA,pajamas,pajamas
-item_162,NA,word,understands; produces,clothing,sandálky,NA,Sandals,sandals
+item_162,NA,word,understands; produces,clothing,sandálky,NA,Sandals,sandal
 item_163,NA,word,understands; produces,clothing,svetrík / pulóver,NA,Sweatshirt / pullover,sweater
 item_164,NA,word,understands; produces,clothing,šál,NA,scarf,scarf
 item_165,NA,word,understands; produces,clothing,tepláky,NA,tracksuit,tracksuit
@@ -161,7 +161,7 @@ item_196,NA,word,understands; produces,household,hodiny,NA,hours,clock
 item_197,NA,word,understands; produces,household,kamera,NA,video camera,camera
 item_198,NA,word,understands; produces,household,kefa,NA,brush,brush (object)
 item_199,NA,word,understands; produces,household,kľúče,NA,keys,keys
-item_200,NA,word,understands; produces,household,koliesko,NA,ring,ring
+item_200,NA,word,understands; produces,household,koliesko,NA,ring,ring (object)
 item_201,NA,word,understands; produces,household,krhlička,NA,spout,faucet
 item_202,NA,word,understands; produces,household,kvety,NA,flowers,flower
 item_203,NA,word,understands; produces,household,liek / kvapky / sirup,NA,medication / drops / syrup,medicine
@@ -174,7 +174,7 @@ item_209,NA,word,understands; produces,household,okuliare,NA,spectacles,glasses
 item_210,NA,word,understands; produces,household,palica,NA,stick,stick
 item_211,NA,word,understands; produces,household,pena,NA,foam,foam
 item_212,NA,word,understands; produces,household,prádlo,NA,clothes,laundry
-item_213,NA,word,understands; produces,household,pumpa,NA,pump,pump
+item_213,NA,word,understands; produces,household,pumpa,NA,pump,pump (object)
 item_214,NA,word,understands; produces,household,smeti,NA,trash,trash
 item_215,NA,word,understands; produces,household,svetlo,NA,the light,light (object)
 item_216,NA,word,understands; produces,household,sviečka / kahanček,NA,Candle,candle

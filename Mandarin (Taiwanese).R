@@ -29,6 +29,16 @@ new_items[which(new_items$uni_lemma=="tie"),]$uni_lemma = "tie (action)"
 new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (question)"
 new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (description)"
 new_items[which(new_items$uni_lemma=="where"),]$uni_lemma = "where (question)"
+new_items[which(new_items$uni_lemma=="smile (action)"),]$uni_lemma = "smile"
+new_items[which(new_items$uni_lemma=="seesaw (object)"),]$uni_lemma = "seesaw"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="noodle"),]$uni_lemma = "noodles"
+new_items[which(new_items$uni_lemma=="peekabo"),]$uni_lemma = "peekaboo"
+new_items[which(new_items$uni_lemma=="night night"),]$uni_lemma = "good night"
+new_items[which(new_items$WS=="item_76"),]$uni_lemma = "nail (body part)"
+new_items[which(new_items$WS=="item_286"),]$uni_lemma = "nail (object)"
+
+
 
 new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

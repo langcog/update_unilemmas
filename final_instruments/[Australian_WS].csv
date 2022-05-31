@@ -168,7 +168,7 @@ item_166,shorts,word,clothing,produces,shorts,NA,shorts,shorts
 item_167,slippers,word,clothing,produces,slipper(s),NA,slipper(s),slipper
 item_168,socks,word,clothing,produces,sock(s),NA,sock(s),sock
 item_169,sunglasses_sunnies,word,clothing,produces,sunglasses/sunnies,NA,sunglasses/sunnies,sunglasses
-item_170,thongs,word,clothing,produces,thongs,NA,thongs,sandals
+item_170,thongs,word,clothing,produces,thongs,NA,thongs,sandal
 item_171,underpants_undies,word,clothing,produces,underpants/undies,NA,underpants/undies,underpants
 item_172,zipper,word,clothing,produces,zipper,NA,zipper,zipper
 item_173,ankle,word,body_parts,produces,ankle,NA,ankle,ankle
@@ -239,7 +239,7 @@ item_237,dish,word,household,produces,dish,NA,dish,dish
 item_238,fork,word,household,produces,fork,NA,fork,fork
 item_239,mug,word,household,produces,mug,NA,mug,cup
 item_240,newspaper_paper,word,household,produces,newspaper/paper,NA,newspaper/paper,paper
-item_241,photo,word,household,produces,photo,NA,photo,photos
+item_241,photo,word,household,produces,photo,NA,photo,photo
 item_242,picture,word,household,produces,picture,NA,picture,picture
 item_243,pillow,word,household,produces,pillow,NA,pillow,pillow
 item_244,plant,word,household,produces,plant,NA,plant,plant

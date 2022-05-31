@@ -39,7 +39,7 @@ item_37,guajolot,word,animals,produces,guajolote,NA,turkey,turkey,turkey
 item_38,gato,word,animals,produces,gato,NA,cat,cat,cat
 item_39,ganso,word,animals,produces,ganso,NA,NA,goose,goose
 item_40,gallina,word,animals,produces,gallina,NA,hen,hen,hen
-item_41,foca,word,animals,produces,foca,NA,NA,seal,seal
+item_41,foca,word,animals,produces,foca,NA,NA,seal,seal (animal)
 item_42,elefante,word,animals,produces,elefante,NA,elephant,elephant,elephant
 item_43,conejo,word,animals,produces,conejo,NA,bunny,rabbit,bunny
 item_44,cocdrilo,word,animals,produces,cocodrilo,NA,NA,crocodile,crocodile
@@ -277,7 +277,7 @@ item_275,manguera,word,outside,produces,manguera,NA,NA,hose,hose
 item_276,muncniev,word,outside,produces,muñeco de nieve,NA,NA,snowman,snowman
 item_277,nieve,word,outside,produces,nieve,NA,snow,snow,snow
 item_278,nube,word,outside,produces,nube,NA,cloud,cloud,cloud
-item_279,pala,word,outside,produces,pala,NA,NA,shovel,shovel (object)
+item_279,pala,word,outside,produces,pala,NA,NA,shovel,shovel
 item_280,palo,word,outside,produces,palo,NA,NA,stick,stick
 item_281,pasto,word,outside,produces,pasto,NA,NA,grass,grass
 item_282,piedra,word,outside,produces,piedra,NA,rock (object),stone,rock (object)
@@ -471,7 +471,7 @@ item_469,brincar,word,action_words,produces,brincar,NA,jump,to hop,jump
 item_470,buscar,word,action_words,produces,buscar,NA,NA,search for,watch (action)
 item_471,caber,word,action_words,produces,caber,NA,NA,to fit,fit
 item_472,caer,word,action_words,produces,caer(se),NA,fall,to fall,fall
-item_473,callarse,word,action_words,produces,callar(se),NA,NA,shut up,silence (action)
+item_473,callarse,word,action_words,produces,callar(se),NA,NA,shut up,quiet (action)
 item_474,caminar,word,action_words,produces,caminar,NA,walk,walk,walk
 item_475,cantar,word,action_words,produces,cantar,NA,sing,to sing,sing
 item_476,cargar,word,action_words,produces,cargar,NA,NA,to load,carry

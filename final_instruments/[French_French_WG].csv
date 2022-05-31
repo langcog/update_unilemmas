@@ -152,7 +152,7 @@ item_184,item_184,word,people,understands; produces,papa,item_426,Personnes,dadd
 item_185,item_185,word,people,understands; produces,personne,item_434,Personnes,person,person
 item_186,item_186,word,people,understands; produces,sœur,item_435,Personnes,sister,sister
 item_187,item_187,word,people,understands; produces,tante,item_419,Personnes,aunt,aunt
-item_188,item_188,word,clothing,understands; produces,basket,item_188,Vêtements,trainers,sneakers
+item_188,item_188,word,clothing,understands; produces,basket,item_188,Vêtements,trainers,sneaker
 item_189,item_189,word,clothing,understands; produces,bavoir/bavette,item_164,Vêtements,bib,bib
 item_190,item_190,word,clothing,understands; produces,body,item_171,Vêtements,(??),
 item_191,item_191,word,clothing,understands; produces,bottes,NA,NA,boots,boots
@@ -212,8 +212,8 @@ item_244,item_244,word,household,understands; produces,musique,item_501,Petits o
 item_245,item_245,word,household,understands; produces,oreiller,item_487,Petits objets ménagers,pillow,pillow
 item_246,item_246,word,household,understands; produces,papier,item_484,Petits objets ménagers,paper,paper
 item_247,item_247,word,household,understands; produces,peigne,item_472,Petits objets ménagers,comb (object),comb (object)
-item_248,item_248,word,household,understands; produces,photo,item_486,Petits objets ménagers,photos,photos
-item_248,item_248,word,household,understands; produces,photo,item_508,Petits objets ménagers,photos,photos
+item_248,item_248,word,household,understands; produces,photo,item_486,Petits objets ménagers,photos,photo
+item_248,item_248,word,household,understands; produces,photo,item_508,Petits objets ménagers,photos,photo
 item_249,item_249,word,household,understands; produces,plante,NA,NA,plant,plant
 item_250,item_250,word,household,understands; produces,plat,item_474,Petits objets ménagers,dish,dish
 item_251,item_251,word,household,understands; produces,porte-monnaie,item_489,Petits objets ménagers,coat hanger,coat hanger

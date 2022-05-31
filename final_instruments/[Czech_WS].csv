@@ -165,7 +165,7 @@ item_163,163_ponozky,word,clothing,produces,ponožky,NA,socks,sock
 item_164,164_puncochace,word,clothing,produces,punčocháče,NA,stockings,tights
 item_165,165_pyzamo,word,clothing,produces,pyžamo,NA,pajamas,pajamas
 item_166,166_rukavice,word,clothing,produces,rukavice,NA,gloves,gloves
-item_167,167_sandale,word,clothing,produces,sandále,NA,sandals,sandals
+item_167,167_sandale,word,clothing,produces,sandále,NA,sandals,sandal
 item_168,168_sukne,word,clothing,produces,sukně,NA,skirt,skirt
 item_169,169_svetr,word,clothing,produces,svetr,NA,sweater,sweater
 item_170,170_sala,word,clothing,produces,šála,NA,scarf,scarf
@@ -337,7 +337,7 @@ item_335,335_drzet,word,action_words,produces,držet,NA,hold,hold
 item_336,336_dupat,word,action_words,produces,dupat,NA,stomp,stomp
 item_337,337_foukat,word,action_words,produces,foukat,NA,blow,blow
 item_338,338_hazet,word,action_words,produces,házet,NA,throw,throw
-item_339,339_hledat,word,action_words,produces,hledat,NA,search/look for,seek
+item_339,339_hledat,word,action_words,produces,hledat,NA,search/look for,search
 item_340,340_hodit,word,action_words,produces,hodit,NA,throw,throw
 item_341,341_honit,word,action_words,produces,honit,NA,chase,chase
 item_342,342_houpatse,word,action_words,produces,houpat se,NA,swing,swing (action)

@@ -141,6 +141,11 @@ new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
 new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
 new_items[which(new_items$uni_lemma=="tidy"),]$uni_lemma = "clean (description)"
+new_items[which(new_items$uni_lemma=="slide"),]$uni_lemma = "slide (action)"
+new_items[which(new_items$uni_lemma=="shop"),]$uni_lemma = "store"
+new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (action)"
+new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
+
 
 
 # ToDo: check empty uni-lemmas ("")

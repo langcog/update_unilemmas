@@ -110,7 +110,7 @@ item_108,e48driki,word,food_drink,produces,Kinywadzi/Nyunya,NA,DrinkN,drink (bev
 item_109,e66potki,word,food_drink,produces,Kirazi,NA,Potato,potato
 item_109,e66potki,word,food_drink,produces,Kirazi,NA,,potato
 item_110,e43bunki,word,food_drink,produces,Kitumbua,NA,Bun2,NA
-item_111,e74sweko,word,food_drink,produces,Koo,NA,Sweet,sweet
+item_111,e74sweko,word,food_drink,produces,Koo,NA,Sweet,sweets
 item_112,e11chiku,word,food_drink,produces,Kuku,NA,Chicken,chicken (food)
 item_113,e30sarku,word,food_drink,produces,Kumbu,NA,Sardine,fish (food)
 item_114,e47cowku,word,food_drink,produces,Kunde,NA,Cow peas,peas
@@ -190,7 +190,7 @@ item_187,f14undnd,word,clothing,produces,Ndaweya,NA,Underpants,underpants
 item_188,f5napnep,word,clothing,produces,Nepi,NA,Nappy,diaper
 item_189,f2clongu,word,clothing,produces,Nguo,NA,Clothes,clothes
 item_190,f23dreri,word,clothing,produces,Rinda/ Joho,NA,Dress,dress (object)
-item_191,f7sansap,word,clothing,produces,Sapata,NA,Sandals,sandals
+item_191,f7sansap,word,clothing,produces,Sapata,NA,Sandals,sandal
 item_192,f8shisha,word,clothing,produces,Shati,NA,Shirt,shirt
 item_193,f34shesh,word,clothing,produces,Shuka/Shiti,NA,Sheet,sheet
 item_194,f35skisi,word,clothing,produces,Sikati,NA,Skirt,skirt

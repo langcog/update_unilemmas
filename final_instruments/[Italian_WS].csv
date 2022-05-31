@@ -421,7 +421,7 @@ buttare,action_words,buttare,word,produces,NA,item_419,dump,dump,dump
 cadere,action_words,cadere,word,produces,NA,item_420,fall,fall,fall
 camminare,action_words,camminare,word,produces,NA,item_421,walk,walk,walk
 cantare,action_words,cantare,word,produces,NA,item_422,sing,sing,sing
-cercare,action_words,cercare,word,produces,NA,item_423,seek,seek,seek
+cercare,action_words,cercare,word,produces,NA,item_423,seek,seek,search
 chiudere,action_words,chiudere,word,produces,NA,item_424,close,close,close
 colorare,action_words,colorare,word,produces,NA,item_425,NA,paint,paint (action)
 comprare,action_words,comprare,word,produces,NA,item_426,NA,buy,buy
@@ -484,7 +484,7 @@ sedersi,action_words,sedersi,word,produces,NA,item_482,sit,sit,sit
 sentire,action_words,sentire,word,produces,NA,item_483,hear,hear/listen,hear
 soffiare,action_words,soffiare,word,produces,NA,item_484,blow,blow,blow
 spazzare,action_words,spazzare,word,produces,NA,item_485,NA,sweep,sweep
-spegnere,action_words,spegnere,word,produces,NA,item_486,put out,put out,put out
+spegnere,action_words,spegnere,word,produces,NA,item_486,put out,put out,turn off
 spingere,action_words,spingere,word,produces,NA,item_487,push,push,push
 sporcarsi,action_words,sporcarsi,word,produces,NA,item_488,NA,get dirty,dirty (action)
 sputare,action_words,sputare,word,produces,NA,item_489,spit,spit,spit

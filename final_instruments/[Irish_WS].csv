@@ -152,7 +152,7 @@ crios,item_298,CLOTHES,produces; doesn't produce,word,crios,0,clothing,nouns,bel
 culaithleapa,item_300,CLOTHES,produces; doesn't produce,word,culaithleapa,0,clothing,nouns,pijamas,pajamas
 culaithsnámha,item_302,CLOTHES,produces; doesn't produce,word,culaithsnámha,0,clothing,nouns,swimming costume,swimsuit
 éadaí,item_304,CLOTHES,produces; doesn't produce,word,éadaí,0,clothing,nouns,clothes,clothes
-fáinne,item_306,CLOTHES,produces; doesn't produce,word,fáinne,0,clothing,nouns,ring,ring
+fáinne,item_306,CLOTHES,produces; doesn't produce,word,fáinne,0,clothing,nouns,ring,ring (object)
 fobhríste,item_308,CLOTHES,produces; doesn't produce,word,fobhríste_brístín,0,clothing,nouns,underpants,underpants
 geansaí,item_310,CLOTHES,produces; doesn't produce,word,geansaí,0,clothing,nouns,jumper,sweater
 gúna,item_312,CLOTHES,produces; doesn't produce,word,gúna,0,clothing,nouns,dress,dress (object)
@@ -310,7 +310,7 @@ réalta,item_612,OUTSIDE THINGS,produces; doesn't produce,word,réalta,0,outside
 scamall,item_614,OUTSIDE THINGS,produces; doesn't produce,word,scamall,0,outside,nouns,cloud,cloud
 sceach,item_616,OUTSIDE THINGS,produces; doesn't produce,word,sceach,0,outside,nouns,bush,bush
 simléar,item_618,OUTSIDE THINGS,produces; doesn't produce,word,simléar,0,outside,nouns,chimney,chimney
-sleamhnán,item_620,OUTSIDE THINGS,produces; doesn't produce,word,sleamhnán,0,outside,nouns,slide,slide
+sleamhnán,item_620,OUTSIDE THINGS,produces; doesn't produce,word,sleamhnán,0,outside,nouns,slide,slide (object)
 sneachta,item_622,OUTSIDE THINGS,produces; doesn't produce,word,sneachta,0,outside,nouns,snow,snow
 spéir,item_624,OUTSIDE THINGS,produces; doesn't produce,word,spéir,0,outside,nouns,sky,sky
 sráid,item_626,OUTSIDE THINGS,produces; doesn't produce,word,sráid,0,outside,nouns,street,street
@@ -331,7 +331,7 @@ páirc,item_654,PLACES TO GO,produces; doesn't produce,word,páirc,0,places,othe
 naíonra,item_656,PLACES TO GO,produces; doesn't produce,word,naíonra,0,places,other,playschool,preschool
 naíolann,item_658,PLACES TO GO,produces; doesn't produce,word,naíolann,0,places,other,creche,nursery
 scoil,item_661,PLACES TO GO,produces; doesn't produce,word,scoil,0,places,other,school,school
-siopa,item_663,PLACES TO GO,produces; doesn't produce,word,siopa,0,places,other,shop,shop
+siopa,item_663,PLACES TO GO,produces; doesn't produce,word,siopa,0,places,other,shop,store
 teach,item_666,PLACES TO GO,produces; doesn't produce,word,teach_tigh,0,places,other,house,house
 trá,item_668,PLACES TO GO,produces; doesn't produce,word,trá_tráigh,0,places,other,beach,beach
 zú,item_670,PLACES TO GO,produces; doesn't produce,word,zú,0,places,other,zoo,zoo
@@ -413,7 +413,7 @@ déan,item_814,ACTION WORDS,produces; doesn't produce,word,déan_dein,0,action_w
 doirt,item_816,ACTION WORDS,produces; doesn't produce,word,doirt_sil,0,action_words,verbs,spill,spill
 dreap,item_818,ACTION WORDS,produces; doesn't produce,word,dreap,0,action_words,verbs,climb,climb
 dúisigh,item_820,ACTION WORDS,produces; doesn't produce,word,dúisigh,0,action_words,verbs,wake,wake
-oscail,item_822,ACTION WORDS,produces; doesn't produce,word,oscail,0,action_words,verbs,open,open
+oscail,item_822,ACTION WORDS,produces; doesn't produce,word,oscail,0,action_words,verbs,open,open (action)
 péinteáíl,item_824,ACTION WORDS,produces; doesn't produce,word,péinteáíl,0,action_words,verbs,paint,paint (action)
 pioc,item_826,ACTION WORDS,produces; doesn't produce,word,pioc,0,action_words,verbs,pick,pick
 póg,item_828,ACTION WORDS,produces; doesn't produce,word,póg,0,action_words,verbs,kiss,kiss
@@ -645,7 +645,7 @@ le,item_1257,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,le,0,loca
 ó,item_1259,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,ó,0,locations,function_words,from,from
 síos,item_1261,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,síos_thios,0,locations,function_words,down,down
 suas,item_1263,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,suas_thuas,0,locations,function_words,up,up
-taobh,item_1265,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,taobh,0,locations,function_words,side,side
+taobh,item_1265,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,taobh,0,locations,function_words,side,beside
 thar,item_1267,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,thar_thall,0,locations,function_words,over,over
 timpeall,item_1269,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,timpeall,0,locations,function_words,round,around
 transna,item_1271,PREPOSITIONS AND LOCATIONS,produces; doesn't produce,word,transna,0,locations,function_words,across,across
@@ -666,7 +666,7 @@ na,item_1300,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,na,0,quanti
 píosa,item_1301,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,píosa,0,quantifiers,function_words,piece,piece
 ró,item_1303,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,ró,0,quantifiers,function_words,too,too
 roinnt,item_1305,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,roinnt_beagáinín,0,quantifiers,function_words,some,some
-saghas,item_1307,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,saghas_cineál_sórt,0,quantifiers,function_words,kind of,sort of
+saghas,item_1307,QUANTIFIERS AND ARTICLES,produces; doesn't produce,word,saghas_cineál_sórt,0,quantifiers,function_words,kind of,type
 (ag)iarraidh,item_1309,HELPING VERBS,produces; doesn't produce,word,(ag)iarraidh,0,helping_verbs,function_words,try (to),try
 (is)féidir,item_1311,HELPING VERBS,produces; doesn't produce,word,(is)féidir_ábalta,0,helping_verbs,function_words,can,can
 beidh,item_1313,HELPING VERBS,produces; doesn't produce,word,beidh,0,helping_verbs,function_words,will be,will be

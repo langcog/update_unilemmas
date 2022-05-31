@@ -25,6 +25,9 @@ new_items[which(new_items$uni_lemma=="work"),]$uni_lemma = "work (action)"
 new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (question)"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
+new_items[which(new_items$uni_lemma=="slide"),]$uni_lemma = "slide (action)"
+new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
+
 
 # some empty
 new_items[which(new_items$definition=="Oku"),]$uni_lemma = "read"

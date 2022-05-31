@@ -13,7 +13,7 @@ item_11,piopio,word,sounds,understands; produces,pío pío,NA,tweet tweet,tweet 
 item_12,quiquiri,word,sounds,understands; produces,quiquiriquí,NA,cockadoodledoo,cockadoodledoo
 item_13,tictac,word,sounds,understands; produces,tic-tac,NA,NA,NA
 item_14,tocotoc,word,sounds,understands; produces,tocotoc (caballo),NA,clip clop,clip clop
-item_15,a_ver,word,games_routines,understands; produces,a ver,NA,let’s see,see (action)
+item_15,a_ver,word,games_routines,understands; produces,a ver,NA,let’s see,see
 item_16,a_vestir,word,games_routines,understands; produces,a vestir,NA,dress (action),dress (action)
 item_17,adios,word,games_routines,understands; produces,adiós,NA,bye bye,bye
 item_18,bien,word,games_routines,understands; produces,bien,NA,good,good
@@ -109,7 +109,7 @@ item_101,futbol,word,toys,understands; produces,fútbol,NA,soccer ball,ball
 item_102,globo,word,toys,understands; produces,globo,NA,balloon,balloon
 item_103,gol,word,toys,understands; produces,gol,NA,goal,goal
 item_104,juguete,word,toys,understands; produces,juguete,NA,toy,toy (object)
-item_105,lapiz,word,toys,understands; produces,lápiz,NA,pencil,Pencil
+item_105,lapiz,word,toys,understands; produces,lápiz,NA,pencil,pen/pencil
 item_106,muneca,word,toys,understands; produces,muñeca,NA,doll,doll
 item_107,musica,word,toys,understands; produces,música,NA,music,music
 item_108,osito,word,toys,understands; produces,osito,NA,teddybear,teddybear

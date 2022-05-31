@@ -31,6 +31,9 @@ new_items[which(new_items$uni_lemma=="lentil"),]$uni_lemma = "beans"
 new_items[which(new_items$uni_lemma=="sink (object)"),]$uni_lemma = "sink"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
 new_items[which(new_items$uni_lemma=="swing"),]$uni_lemma = "swing (action)"
+new_items[which(new_items$WS=="item_104"),]$uni_lemma = "sweets" # noun (food), not adj
+new_items[which(new_items$uni_lemma=="some more"),]$uni_lemma = "more"
+
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

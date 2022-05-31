@@ -30,6 +30,11 @@ new_items[which(new_items$uni_lemma=="roller skates"),]$uni_lemma = "skates"
 
 new_items[which(new_items$uni_lemma=="violet"),]$uni_lemma = "purple"
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
+new_items[which(new_items$definition=="despacio"),]$uni_lemma = "slowly" # (better than 'slow')
+new_items[which(new_items$uni_lemma=="shut up"),]$uni_lemma = "quiet (action)"
+new_items[which(new_items$uni_lemma=="shovel (object)"),]$uni_lemma = "shovel"
+new_items[which(new_items$uni_lemma=="seal"),]$uni_lemma = "seal (animal)"
+
 
 
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas

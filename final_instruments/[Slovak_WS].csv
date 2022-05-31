@@ -158,7 +158,7 @@ item_156,NA,word,understands; produces,food_drink,klobása,NA,sausage,sausage
 item_157,NA,word,understands; produces,food_drink,koláčik,NA,tartlet,cake
 item_158,NA,word,understands; produces,food_drink,kompót,NA,compote,jam
 item_159,NA,word,understands; produces,food_drink,kôrka,NA,crust,NA
-item_160,NA,word,understands; produces,food_drink,krupica,NA,meal,semolina
+item_160,NA,word,understands; produces,food_drink,krupica,NA,meal,porridge
 item_161,NA,word,understands; produces,food_drink,kukurica,NA,sweet corn,corn
 item_162,NA,word,understands; produces,food_drink,lízatko / lízanka,NA,sucker / lollipop,lollipop
 item_163,NA,word,understands; produces,food_drink,maslo,NA,butter,butter
@@ -203,7 +203,7 @@ item_201,NA,word,understands; produces,clothing,ponožky,NA,socks,sock
 item_202,NA,word,understands; produces,clothing,pršiplášť,NA,raincoat,raincoat
 item_203,NA,word,understands; produces,clothing,pyžamo,NA,pajamas,pajamas
 item_204,NA,word,understands; produces,clothing,rukavice,NA,gloves,gloves
-item_205,NA,word,understands; produces,clothing,sandálky,NA,Sandals,sandals
+item_205,NA,word,understands; produces,clothing,sandálky,NA,Sandals,sandal
 item_206,NA,word,understands; produces,clothing,sukňa,NA,skirt,skirt
 item_207,NA,word,understands; produces,clothing,svetrík / pulóver,NA,Sweatshirt / pullover,sweater
 item_208,NA,word,understands; produces,clothing,šál,NA,scarf,scarf
@@ -275,7 +275,7 @@ item_273,NA,word,understands; produces,household,kamera,NA,video camera,camera
 item_274,NA,word,understands; produces,household,kefa,NA,brush,brush (object)
 item_275,NA,word,understands; produces,household,kladivo,NA,hammer,hammer
 item_276,NA,word,understands; produces,household,kľúče,NA,keys,keys
-item_277,NA,word,understands; produces,household,koliesko,NA,ring,ring
+item_277,NA,word,understands; produces,household,koliesko,NA,ring,ring (object)
 item_278,NA,word,understands; produces,household,kosť,NA,bone,bone
 item_279,NA,word,understands; produces,household,košík,NA,basket,basket
 item_280,NA,word,understands; produces,household,krhlička,NA,spout,faucet
@@ -299,7 +299,7 @@ item_297,NA,word,understands; produces,household,peniažky,NA,money,money
 item_298,NA,word,understands; produces,household,pero / ceruzka,NA,pen / pencil,pen
 item_299,NA,word,understands; produces,household,pokrievka,NA,pokrievka,cover (object)
 item_300,NA,word,understands; produces,household,prádlo,NA,clothes,laundry
-item_301,NA,word,understands; produces,household,pumpa,NA,pump,pump
+item_301,NA,word,understands; produces,household,pumpa,NA,pump,pump (object)
 item_302,NA,word,understands; produces,household,smeti,NA,trash,trash
 item_303,NA,word,understands; produces,household,udica,NA,fishing rod,NA
 item_304,NA,word,understands; produces,household,sviečka / kahanček,NA,Candle,candle
@@ -479,7 +479,7 @@ item_477,NA,word,understands; produces,action_words,spievať,NA,to sing,sing
 item_478,NA,word,understands; produces,action_words,spláchnuť,NA,flush,flush
 item_479,NA,word,understands; produces,action_words,stáť / zastaviť,NA,cost / stop,stop
 item_480,NA,word,understands; produces,action_words,svietiť,NA,shine,shine
-item_481,NA,word,understands; produces,action_words,šmýkať (sa),NA,slide,slide
+item_481,NA,word,understands; produces,action_words,šmýkať (sa),NA,slide,slide (action)
 item_482,NA,word,understands; produces,action_words,telefonovať,NA,call,call on phone
 item_483,NA,word,understands; produces,action_words,tiecť,NA,to flow,flow
 item_484,NA,word,understands; produces,action_words,umývať (sa),NA,Wash,wash

@@ -27,7 +27,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 прыг,sounds,NA,word,understands; produces,NA,item_54,Hop-hop,hop
 ррр,sounds,NA,word,understands; produces,NA,item_55,Grrrr,grrr
 тик-так,sounds,NA,word,understands; produces,NA,item_56,Tick-tock,tick tock
-топ-топ,sounds,NA,word,understands; produces,NA,item_57,Stomp-stomp,stomp stomp
+топ-топ,sounds,NA,word,understands; produces,NA,item_57,Stomp-stomp,stomp
 тсс,sounds,NA,word,understands; produces,NA,item_58,Shh,shh
 тук-тук,sounds,NA,word,understands; produces,NA,item_59,Rat-a-tat,knock knock
 ту-ту/чух-чух,sounds,NA,word,understands; produces,NA,item_60,Choo-choo,choo choo
@@ -35,7 +35,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 фу,sounds,NA,word,understands; produces,NA,item_62,,yucky
 хрр/хрю,sounds,NA,word,understands; produces,NA,item_63,Oink-oink,oink
 чик,sounds,NA,word,understands; produces,NA,item_64,Click-click,click
-шш,sounds,NA,word,understands; produces,NA,item_65,Sss,sss
+шш,sounds,NA,word,understands; produces,NA,item_65,Sss,hiss
 бабочка,animals,NA,word,understands; produces,NA,item_66,butterfly,butterfly
 баран/овечка,animals,NA,word,understands; produces,NA,item_67,ram/sheep,sheep
 белка,animals,NA,word,understands; produces,NA,item_68,squirrel,squirrel
@@ -119,7 +119,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 яблоко,food_drink,NA,word,understands; produces,NA,item_145,apple,apple
 ягода,food_drink,NA,word,understands; produces,NA,item_146,berry,berry
 яйцо,food_drink,NA,word,understands; produces,NA,item_147,egg,egg
-босоножки,clothing,NA,word,understands; produces,NA,item_148,open-toe sandals,sandals
+босоножки,clothing,NA,word,understands; produces,NA,item_148,open-toe sandals,sandal
 ботинки,clothing,NA,word,understands; produces,NA,item_149,boots,boots
 варежки/рукавицы,clothing,NA,word,understands; produces,NA,item_150,mittens,mittens
 колготки,clothing,NA,word,understands; produces,NA,item_151,tights,tights

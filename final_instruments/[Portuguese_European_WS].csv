@@ -194,7 +194,7 @@ item_192,pijama,word,clothing,produces,Pijama,NA,Pijama,Pajamas,pajamas,NA
 item_193,relogio,word,clothing,produces,Relógio,NA,Relógio,Watch,watch (object),NA
 item_194,roupa,word,clothing,produces,Roupa,NA,Roupa,Clothes,clothing,NA
 item_195,saia,word,clothing,produces,Saia,NA,Saia,Skirt,skirt,NA
-item_196,sandalias,word,clothing,produces,Sandálias,NA,Sandálias,Sandals,sandals,NA
+item_196,sandalias,word,clothing,produces,Sandálias,NA,Sandálias,Sandals,sandal,NA
 item_197,sapatilhas,word,clothing,produces,Sapatilhas / Ténis,NA,Sapatilhas,Sneakers/ trainers,shoe,NA
 item_198,sapato,word,clothing,produces,Sapato,NA,Sapato,Shoe(s),shoe,NA
 item_199,totos,word,clothing,produces,Totós (elásticos de cabelo),NA,Totós,Hair ties/ elastics,hair tie,NA
@@ -252,7 +252,7 @@ item_250,duche,word,household,produces,Duche,NA,Duche,Shower,shower,NA
 item_251,escova,word,household,produces,Escova,NA,Escova,Brush,brush (object),NA
 item_252,escova_dentes,word,household,produces,Escova de dentes,NA,Escova_dentes,Toothbrush,toothbrush,NA
 item_253,faca,word,household,produces,Faca,NA,Faca,Knife,knife,NA
-item_254,fotografia,word,household,produces,Fotografia,NA,Fotografia,Photograph,photos,NA
+item_254,fotografia,word,household,produces,Fotografia,NA,Fotografia,Photograph,photo,NA
 item_255,garfo,word,household,produces,Garfo,NA,Garfo,Fork,fork,NA
 item_256,garrafa,word,household,produces,Garrafa,NA,Garrafa,Bottle,bottle,NA
 item_257,guardanapos,word,household,produces,Guardanapos,NA,Guardanapos,Napkin,napkin,NA

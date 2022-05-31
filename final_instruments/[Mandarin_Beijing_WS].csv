@@ -495,7 +495,7 @@ item_493,H9RADIO,word,household,produces,NA,收音机,radio,radio
 item_494,H9CAMERA,word,household,produces,NA,照相机,camera,camera
 item_495,H9PIANO,word,household,produces,NA,（钢）琴,piano,piano
 item_496,H9RECORD,word,household,produces,NA,录音机,voice recorder,voice recorder
-item_497,H9HIFI,word,household,produces,NA,音响,speaker,speaker
+item_497,H9HIFI,word,household,produces,NA,音响,speaker,stereo
 item_498,H9VCD,word,household,produces,NA,VCD机,,NA
 item_499,H9QUILT,word,household,produces,NA,被子,,blanket
 item_500,H9PILLOW,word,household,produces,NA,枕头,pillow,pillow
@@ -576,7 +576,7 @@ item_574,C11SOCKS,word,clothing,produces,NA,袜子,sock,sock
 item_575,C11SHOES,word,clothing,produces,NA,鞋,shoe,shoe
 item_576,C11SLIPP,word,clothing,produces,NA,拖鞋,slipper,slipper
 item_577,C11LEATH,word,clothing,produces,NA,皮鞋,shoe,shoe
-item_578,C11SANDA,word,clothing,produces,NA,凉鞋,sandals,sandals
+item_578,C11SANDA,word,clothing,produces,NA,凉鞋,sandals,sandal
 item_579,C11SNEAK,word,clothing,produces,NA,球鞋/旅游鞋,sneaker,sneaker
 item_580,F12STAIR,word,furniture_rooms,produces,NA,楼梯,stairs,stairs
 item_581,F12DOOR,word,furniture_rooms,produces,NA,门,door,door

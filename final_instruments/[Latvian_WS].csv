@@ -80,7 +80,7 @@ item_78,78_balons,word,produces,toys,balons,NA,balloon,balloon
 item_79,79_bumba,word,produces,toys,bumba,NA,ball,ball
 item_80,80_davana,word,produces,toys,dāvana,NA,gift,present
 item_81,81_formina_s,word,produces,toys,formiņa (smilšu k.),NA,sand mold,sandbox
-item_82,82_grabeklis,word,produces,toys,grābeklis,NA,rake,rake
+item_82,82_grabeklis,word,produces,toys,grābeklis,NA,rake,rake (object)
 item_83,83_gramata,word,produces,toys,grāmata,NA,book,book
 item_84,84_klucisi,word,produces,toys,klucīši,NA,blocks,blocks
 item_85,85_krasas,word,produces,toys,krāsas,NA,paints,paint (object)
@@ -365,7 +365,7 @@ item_363,363_rotallauku,word,produces,places,rotaļlaukums,NA,playground,playgro
 item_364,364_skola,word,produces,places,skola,NA,school,school
 item_365,365_teatris,word,produces,places,teātris,NA,theater,theater
 item_366,366_tirgus,word,produces,places,tirgus,NA,market,market
-item_367,367_veikals,word,produces,places,veikals,NA,shop,shop
+item_367,367_veikals,word,produces,places,veikals,NA,shop,store
 item_368,368_zoologiska,word,produces,places,zooloģiskais dārzs/zvērudārzs,NA,zoo,zoo
 item_369,369_arsts,word,produces,people,ārsts,NA,doctor,doctor
 item_370,370_audzinataj,word,produces,people,audzinātāja,NA,kindergarten teacher,teacher
@@ -502,7 +502,7 @@ item_500,500_skatities,word,produces,action_words,skatīties,NA,watch/look,look
 item_501,501_skriet,word,produces,action_words,skriet,NA,run,run
 item_502,502_slaucit,word,produces,action_words,slaucīt,NA,wipe,wipe
 item_503,503_slept_sle,word,produces,action_words,slēpt/ slēpties,NA,hide,hide
-item_504,504_slidet,word,produces,action_words,slīdēt,NA,slide,slide
+item_504,504_slidet,word,produces,action_words,slīdēt,NA,slide,slide (action)
 item_505,505_slidot,word,produces,action_words,slidot,NA,skate,skate
 item_506,506_smaidit,word,produces,action_words,smaidīt,NA,smile,smile
 item_507,507_smieties,word,produces,action_words,smieties,NA,laugh,laugh
@@ -526,7 +526,7 @@ item_524,524_varit,word,produces,action_words,vārīt,NA,cook,cook
 item_525,525_veidot,word,produces,action_words,veidot,NA,make,make
 item_526,526_vilkt,word,produces,action_words,vilkt,NA,pull,pull
 item_527,527_zimet,word,produces,action_words,zīmēt,NA,draw,draw
-item_528,528_zvanit,word,produces,action_words,zvanīt,NA,ring,ring
+item_528,528_zvanit,word,produces,action_words,zvanīt,NA,ring,ring (action)
 item_529,529_atkal,word,produces,descriptive_words,atkal,NA,again,again
 item_530,530_atrs_atri,word,produces,descriptive_words,ātrs/ātri,NA,quick/quickly,fast
 item_531,531_augsts,word,produces,descriptive_words,augsts,NA,high,high

@@ -272,7 +272,7 @@ item_303,buttare,word,action_words,understands; produces,buttare,dump,dump
 item_304,cadere,word,action_words,understands; produces,cadere,fall,fall
 item_305,camminare,word,action_words,understands; produces,camminare,walk,walk
 item_306,cantare,word,action_words,understands; produces,cantare,sing,sing
-item_307,cercare,word,action_words,understands; produces,cercare,seek,seek
+item_307,cercare,word,action_words,understands; produces,cercare,seek,search
 item_308,chiudere,word,action_words,understands; produces,chiudere,close,close
 item_309,correre,word,action_words,understands; produces,correre,run,run
 item_310,cullare,word,action_words,understands; produces,cullare,rock,rock (action)
@@ -305,7 +305,7 @@ item_336,scrivere,word,action_words,understands; produces,scrivere,write,write
 item_337,sedersi,word,action_words,understands; produces,sedersi,sit,sit
 item_338,sentire,word,action_words,understands; produces,sentire,hear/listen,hear
 item_339,soffiare,word,action_words,understands; produces,soffiare,blow,blow
-item_340,spegnere,word,action_words,understands; produces,spegnere,put out,put out
+item_340,spegnere,word,action_words,understands; produces,spegnere,put out,turn off
 item_341,spingere,word,action_words,understands; produces,spingere,push,push
 item_342,sputare,word,action_words,understands; produces,sputare,spit,spit
 item_343,tirare,word,action_words,understands; produces,tirare,pull,pull

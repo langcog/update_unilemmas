@@ -161,7 +161,7 @@ item_159,chemise,word,produces,clothing,chemise,NA,shirt,shirt
 item_160,collants,word,produces,clothing,collants,NA,tights,tights
 item_161,collier,word,produces,clothing,collier,NA,necklace,necklace
 item_162,couche,word,produces,clothing,couche,NA,layer,diaper
-item_163,espadrille,word,produces,clothing,espadrille,NA,sandal,sandals
+item_163,espadrille,word,produces,clothing,espadrille,NA,sandal,sandal
 item_164,foulard,word,produces,clothing,foulard,NA,scarf,scarf
 item_165,gants,word,produces,clothing,gants,NA,gloves,gloves
 item_166,habit_de_neige,word,produces,clothing,habit de neige,NA,snowsuit,snowsuit
@@ -234,7 +234,7 @@ item_232,oreiller,word,produces,household,oreiller,NA,pillow,pillow
 item_233,panier,word,produces,household,panier,NA,basket,basket
 item_234,papier,word,produces,household,papier,NA,paper,paper
 item_235,peigne,word,produces,household,peigne,NA,comb,comb (object)
-item_236,photo,word,produces,household,photo,NA,Photo,photos
+item_236,photo,word,produces,household,photo,NA,Photo,photo
 item_237,plante,word,produces,household,plante,NA,plant,plant
 item_238,plat,word,produces,household,plat,NA,dish,dish
 item_239,pot1,word,produces,household,pot,NA,pot,pot

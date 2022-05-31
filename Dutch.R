@@ -170,9 +170,29 @@ new_items[which(new_items$uni_lemma=="tick-tock"),]$uni_lemma = "tick tock"
 new_items[which(new_items$uni_lemma=="throw away"),]$uni_lemma = "throw"
 new_items[which(new_items$uni_lemma=="television"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="tape"),]$uni_lemma = "tape (object)"
+new_items[which(new_items$uni_lemma=="swimwear"),]$uni_lemma = "swimsuit"
+new_items[which(new_items$uni_lemma=="sweet"),]$uni_lemma = "sweets" # food (noun, not adj)
+new_items[which(new_items$uni_lemma=="this evening"),]$uni_lemma = "tonight" # ~ this evening
+new_items[which(new_items$uni_lemma=="splash (verb)"),]$uni_lemma = "splash"
+new_items[which(new_items$definition=="glijbaan/schuifaf"),]$uni_lemma = "slide (object)"
+new_items[which(new_items$definition=="glijden/schuiven"),]$uni_lemma = "slide (action)"
+new_items[which(new_items$uni_lemma=="shush"),]$uni_lemma = "shh"
+new_items[which(new_items$uni_lemma=="show (verb)"),]$uni_lemma = "show"
+new_items[which(new_items$uni_lemma=="rodent"),]$uni_lemma = "rat" # to match Spanish Eur and Swedish
+new_items[which(new_items$uni_lemma=="rasin"),]$uni_lemma = "raisin"
+new_items[which(new_items$uni_lemma=="pyjama"),]$uni_lemma = "pajamas"
+new_items[which(new_items$uni_lemma=="pram"),]$uni_lemma = "stroller"
+new_items[which(new_items$uni_lemma=="pour (verb)"),]$uni_lemma = "pour"
+new_items[which(new_items$uni_lemma=="peek a boo"),]$uni_lemma = "peekaboo"
+new_items[which(new_items$uni_lemma=="paint (verb)"),]$uni_lemma = "paint (action)"
+new_items[which(new_items$uni_lemma=="outdoors"),]$uni_lemma = "outside"
+new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (description)"
+new_items[which(new_items$uni_lemma=="open (verb)"),]$uni_lemma = "open (action)"
 
 
-# ToDo: review changes, and output all various forms
+
+
+
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))
 # "34 new uni-lemmas defined for Dutch"
 new_wg <- update_instrument("Dutch", "WG", new_items %>% rename(itemID = WG))

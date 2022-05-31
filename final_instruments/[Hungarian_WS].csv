@@ -157,7 +157,7 @@ item_155,item_155,paradicsom,word,produces,food_drink,NA,tomato,tomato
 item_156,item_156,pattogatott kukorica,word,produces,food_drink,NA,popcorn,popcorn
 item_157,item_157,perec,word,produces,food_drink,NA,pretzel,pretzel
 item_158,item_158,pirítós,word,produces,food_drink,NA,toast,toast
-item_159,item_159,pogi,word,produces,food_drink,NA,scone,scone
+item_159,item_159,pogi,word,produces,food_drink,NA,scone,muffin
 item_160,item_160,rágó,word,produces,food_drink,NA,gum,gum
 item_161,item_161,rizs,word,produces,food_drink,NA,rice,rice
 item_162,item_162,ropi,word,produces,food_drink,NA,cracker stick,cracker
@@ -293,7 +293,7 @@ item_291,item_291,szalvéta,word,produces,household,NA,napkin,napkin
 item_292,item_292,szappan,word,produces,household,NA,soap,soap
 item_293,item_293,szemét,word,produces,household,NA,garbage/trash,trash
 item_294,item_294,szemüveg,word,produces,household,NA,glasses,glasses
-item_295,item_295,szög,word,produces,household,NA,nail,nail
+item_295,item_295,szög,word,produces,household,NA,nail,nail (object)
 item_296,item_296,takaró,word,produces,household,NA,blanket,blanket
 item_297,item_297,tál,word,produces,household,NA,bowl,bowl
 item_298,item_298,tálca,word,produces,household,NA,tray,tray
@@ -517,7 +517,7 @@ item_515,item_515,kap,word,produces,action_words,NA,get,get
 item_516,item_516,kapcsol,word,produces,action_words,NA,switch,switch
 item_517,item_517,kér,word,produces,action_words,NA,ask (to do sg),NA
 item_518,item_518,kerget,word,produces,action_words,NA,chase,NA
-item_519,item_519,kinyit,word,produces,action_words,NA,open,open
+item_519,item_519,kinyit,word,produces,action_words,NA,open,open (action)
 item_520,item_520,kopog,word,produces,action_words,NA,knock,NA
 item_521,item_521,kóstol,word,produces,action_words,NA,taste,NA
 item_522,item_522,labdázik,word,produces,action_words,NA,play ball,NA

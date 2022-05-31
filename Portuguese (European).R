@@ -22,6 +22,9 @@ new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "soil"
 new_items[which(new_items$uni_lemma=="badly"),]$uni_lemma = "bad"
 new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="vroom vroom"),]$uni_lemma = "vroom"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
+
 
 # ToDo: look at blanks
 subset(new_items, uni_lemma=="") # revisit some of the games_routines 

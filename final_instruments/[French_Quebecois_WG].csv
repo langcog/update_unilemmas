@@ -176,7 +176,7 @@ item_172,montre,household,montre,word,understands; produces,watch,watch (object)
 item_173,oreiller,household,oreiller,word,understands; produces,pillow,pillow
 item_174,papier,household,papier,word,understands; produces,paper,paper
 item_175,peigne,household,peigne,word,understands; produces,comb,comb (object)
-item_176,photo,household,photo,word,understands; produces,Photo,photos
+item_176,photo,household,photo,word,understands; produces,Photo,photo
 item_177,plante,household,plante,word,understands; produces,plant,plant
 item_178,plat,household,plat,word,understands; produces,dish,dish
 item_179,radio,household,radio,word,understands; produces,radio,radio

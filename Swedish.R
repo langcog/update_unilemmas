@@ -28,6 +28,8 @@ new_items[which(new_items$uni_lemma=="which"),]$uni_lemma = "which (connecting)"
 new_items[which(new_items$uni_lemma=="not (routine)"),]$uni_lemma = "don't"
 new_items[which(new_items$uni_lemma=="where"),]$uni_lemma = "where (conjunction)"
 new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (conjunction)"
+new_items[which(new_items$uni_lemma=="shop"),]$uni_lemma = "store"
+
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

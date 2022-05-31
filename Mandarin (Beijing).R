@@ -41,6 +41,10 @@ new_items[which(new_items$uni_lemma=="tie"),]$uni_lemma = "tie (action)"
 new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="tidy (action)"),]$uni_lemma = "clean (action)"
+new_items[which(new_items$uni_lemma=="speaker"),]$uni_lemma = "stereo"
+new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="socket"),]$uni_lemma = "outlet"
+
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

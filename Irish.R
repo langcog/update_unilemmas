@@ -101,6 +101,14 @@ new_items[which(new_items$uni_lemma=="toy"),]$uni_lemma = "toy (object)"
 new_items[which(new_items$WS=="item_904"),]$uni_lemma = "clean (action)"
 new_items[which(new_items$WS=="item_1056"),]$uni_lemma = "clean (description)"
 new_items[which(new_items$uni_lemma=="swing"),]$uni_lemma = "swing (action)"
+new_items[which(new_items$uni_lemma=="sort of"),]$uni_lemma = "type" # sort/type
+new_items[which(new_items$uni_lemma=="slide"),]$uni_lemma = "slide (object)"
+new_items[which(new_items$uni_lemma=="side"),]$uni_lemma = "beside"
+new_items[which(new_items$uni_lemma=="shop"),]$uni_lemma = "store"
+new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
+new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
+
+
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

@@ -61,7 +61,7 @@ item_59,d03_09,word,vehicles,understands; produces,娃娃車(手推車),NA,strol
 item_60,d03_10,word,vehicles,understands; produces,三輪車,NA,tricycle,tricycle
 item_61,d04_01,word,food_drink,understands; produces,牛奶(ㄋㄟㄋㄟ),NA,milk,milk
 item_62,d04_02,word,food_drink,understands; produces,水(茶茶),NA,water,water (beverage)
-item_63,d04_03,word,food_drink,understands; produces,麵,NA,noodles,noodle
+item_63,d04_03,word,food_drink,understands; produces,麵,NA,noodles,noodles
 item_64,d04_04,word,food_drink,understands; produces,飯,NA,rice,rice
 item_65,d04_05,word,food_drink,understands; produces,餅乾,NA,cookies,cookie
 item_66,d04_06,word,food_drink,understands; produces,香蕉,NA,banana,banana
@@ -186,12 +186,12 @@ item_184,d09_14,word,outside,understands; produces,公園,NA,NA,NA
 item_185,d09_15,word,outside,understands; produces,XX園(某遊樂園名稱),NA,NA,NA
 item_186,d09_16,word,outside,understands; produces,草,NA,grass,grass
 item_187,d09_17,word,outside,understands; produces,鞦韆,NA,swing,swing (object)
-item_188,d09_18,word,outside,understands; produces,翹翹板,NA,seesaw,seesaw (object)
+item_188,d09_18,word,outside,understands; produces,翹翹板,NA,seesaw,seesaw
 item_189,d09_19,word,outside,understands; produces,醫院(診所),NA,NA,NA
 item_190,d10_01,word,games_routines,understands; produces,再見(byebye),NA,bye or bye bye,bye
 item_191,d10_02,word,games_routines,understands; produces,謝謝,NA,thank you,thank you
 item_192,d10_03,word,games_routines,understands; produces,睡覺,NA,nap,nap
-item_193,d10_04,word,games_routines,understands; produces,晚安,NA,night night,night night
+item_193,d10_04,word,games_routines,understands; produces,晚安,NA,night night,good night
 item_194,d10_05,word,games_routines,understands; produces,吃飯,NA,eat,eat
 item_195,d10_06,word,games_routines,understands; produces,洗澡,NA,bath,bath
 item_196,d10_07,word,games_routines,understands; produces,刷牙,NA,brush,brush (action)
@@ -204,7 +204,7 @@ item_202,d10_13,word,games_routines,understands; produces,唱歌,NA,sing,sing
 item_203,d10_14,word,games_routines,understands; produces,看電視,NA,watch TV,NA
 item_204,d10_15,word,games_routines,understands; produces,對不起,NA,sorry,sorry
 item_205,d10_16,word,games_routines,understands; produces,打電話,NA,call (on phone),call
-item_206,d10_17,word,games_routines,understands; produces,躲貓貓,NA,peekaboo,peekabo
+item_206,d10_17,word,games_routines,understands; produces,躲貓貓,NA,peekaboo,peekaboo
 item_207,d10_18,word,games_routines,understands; produces,逛街/買東西,NA,shopping,shopping
 item_208,d10_19,word,games_routines,understands; produces,玩遊戲,NA,patty cake,pattycake
 item_209,d10_20,word,games_routines,understands; produces,上廁所(尿尿、便便),NA,go potty,potty
@@ -286,7 +286,7 @@ item_284,d14_30,word,action_words,understands; produces,擦,NA,wipe,wipe
 item_285,d14_31,word,action_words,understands; produces,好了,NA,finish,finish
 item_286,d14_32,word,action_words,understands; produces,給,NA,give,give
 item_287,d14_33,word,action_words,understands; produces,不可以/不行,NA,don't/can't,not
-item_288,d14_34,word,action_words,understands; produces,笑,NA,smile,smile (action)
+item_288,d14_34,word,action_words,understands; produces,笑,NA,smile,smile
 item_289,d14_35,word,action_words,understands; produces,快點/快一點,NA,hurry,hurry
 item_290,d14_36,word,action_words,understands; produces,撿,NA,pick up,pick up
 item_291,d14_37,word,action_words,understands; produces,摸,NA,touch,touch

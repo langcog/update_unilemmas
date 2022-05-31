@@ -27,7 +27,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 прыг,sounds,NA,word,produces,NA,item_26,Hop-hop,hop
 ррр,sounds,NA,word,produces,NA,item_27,Grrrr,grrr
 тик-так,sounds,NA,word,produces,NA,item_28,Tick-tock,tick tock
-топ-топ,sounds,NA,word,produces,NA,item_29,Stomp-stomp,stomp stomp
+топ-топ,sounds,NA,word,produces,NA,item_29,Stomp-stomp,stomp
 тсс,sounds,NA,word,produces,NA,item_30,Shh,shh
 тук-тук,sounds,NA,word,produces,NA,item_31,Rat-a-tat,knock knock
 ту-ту/чух-чух,sounds,NA,word,produces,NA,item_32,Choo-choo,choo choo
@@ -35,7 +35,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 фу,sounds,NA,word,produces,NA,item_34,,yucky
 хрр/хрю,sounds,NA,word,produces,NA,item_35,Oink-oink,oink
 чик,sounds,NA,word,produces,NA,item_36,Click-click,click
-шш,sounds,NA,word,produces,NA,item_37,Sss,sss
+шш,sounds,NA,word,produces,NA,item_37,Sss,hiss
 бабочка,animals,NA,word,produces,NA,item_38,butterfly,butterfly
 баран,animals,NA,word,produces,NA,item_39,lamb,sheep
 бегемот,animals,NA,word,produces,NA,item_40,hippopotamus,hippopotamus
@@ -95,7 +95,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 трактор,vehicles,NA,word,produces,NA,item_94,tractor,tractor
 альбом,toys,NA,word,produces,NA,item_95,album,album
 ведро,toys,NA,word,produces,NA,item_96,bucket,bucket
-грабли,toys,NA,word,produces,NA,item_97,rake,rake
+грабли,toys,NA,word,produces,NA,item_97,rake,rake (object)
 игрушка,toys,NA,word,produces,NA,item_98,toy,toy (object)
 карандаш,toys,NA,word,produces,NA,item_99,pencil,pen/pencil
 кисточка,toys,NA,word,produces,NA,item_100,brush,brush (object)
@@ -185,7 +185,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 яблоко,food_drink,NA,word,produces,NA,item_184,apple,apple
 ягода,food_drink,NA,word,produces,NA,item_185,berry,berry
 яйцо,food_drink,NA,word,produces,NA,item_186,egg,egg
-босоножки,clothing,NA,word,produces,NA,item_187,open-toe sandals,sandals
+босоножки,clothing,NA,word,produces,NA,item_187,open-toe sandals,sandal
 ботинки,clothing,NA,word,produces,NA,item_188,boots,boots
 брюки,clothing,NA,word,produces,NA,item_189,pants,pants
 бусы,clothing,NA,word,produces,NA,item_190,beads,beads
@@ -399,8 +399,8 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 имя ребенка,people,NA,word,produces,NA,item_398,child´s own name,child's own name
 имя мамы,people,NA,word,produces,NA,item_399,mother´s name,mother's name
 имя папы,people,NA,word,produces,NA,item_400,father´s name,father's name
-имя брата,people,NA,word,produces,NA,item_401,brother´s name,brother's name
-имя сестры,people,NA,word,produces,NA,item_402,sister´s name,sister's name
+имя брата,people,NA,word,produces,NA,item_401,brother´s name,brother
+имя сестры,people,NA,word,produces,NA,item_402,sister´s name,sister
 имя воспитательницы/няни,people,NA,word,produces,NA,item_403,nurse`s/babysitter`s/teacher`s name,babysitter's name
 имена знакомых детей,people,NA,word,produces,NA,item_404,names of friends,friends' names
 клички домаш-них животных,people,NA,word,produces,NA,item_405,pets´ names,pet's name
@@ -600,7 +600,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 плохо,descriptive_words (adverbs),NA,word,produces,NA,item_599,badly/poorly,bad
 сильно,descriptive_words (adverbs),NA,word,produces,NA,item_600,strongly/badly/hard,strong
 сладко,descriptive_words (adverbs),NA,word,produces,NA,item_601,sweet,sweet
-совсем,descriptive_words (adverbs),NA,word,produces,NA,item_602,quite,quite
+совсем,descriptive_words (adverbs),NA,word,produces,NA,item_602,quite,very
 сухо,descriptive_words (adverbs),NA,word,produces,NA,item_603,drily,dry
 темно,descriptive_words (adverbs),NA,word,produces,NA,item_604,dark,dark
 тепло,descriptive_words (adverbs),NA,word,produces,NA,item_605,warm,warm

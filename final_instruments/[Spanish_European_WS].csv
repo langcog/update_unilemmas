@@ -21,7 +21,7 @@ item_19,uy,word,sounds,produces,¡uy!,NA,ouch,ouch
 item_20,a_banar,word,games_routines,produces,a bañar,NA,go to the bathroom,bathe
 item_21,a_comer,word,games_routines,produces,a comer,NA,to eat,eat
 item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep
-item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see (action)
+item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see
 item_24,a_vestir,word,games_routines,produces,a vestir,NA,dress (action),dress (action)
 item_25,besitos,word,games_routines,produces,besitos,NA,kisses,kiss
 item_26,bueno,word,games_routines,produces,bueno (bien),NA,okay,okay
@@ -157,7 +157,7 @@ item_149,globo,word,toys,produces,globo,NA,balloon,balloon
 item_150,gol,word,toys,produces,gol,NA,goal,goal
 item_151,guitarra,word,toys,produces,guitarra,NA,guitar,guitar
 item_152,juguete,word,toys,produces,juguete,NA,toy,toy (object)
-item_153,lapiz,word,toys,produces,lápiz,NA,pencil,Pencil
+item_153,lapiz,word,toys,produces,lápiz,NA,pencil,pen/pencil
 item_154,muneca,word,toys,produces,muñeca,NA,doll,doll
 item_155,musica,word,toys,produces,música,NA,music,music
 item_156,osito,word,toys,produces,osito,NA,teddybear,teddybear
@@ -170,7 +170,7 @@ item_162,pintura,word,toys,produces,pintura,NA,painting,painting
 item_163,puzzle,word,toys,produces,puzzle/rompecabezas,NA,puzzle,puzzle
 item_164,pulsera,word,toys,produces,pulsera,NA,bracelet,bracelet
 item_165,raqueta,word,toys,produces,raqueta,NA,racket,racket
-item_166,rastrill,word,toys,produces,rastrillo,NA,rake,rake
+item_166,rastrill,word,toys,produces,rastrillo,NA,rake,rake (object)
 item_167,rueda,word,toys,produces,rueda,NA,wheel,wheel
 item_168,tambor,word,toys,produces,tambor,NA,drum,drum
 item_169,ambulanc,word,vehicles,produces,ambulancia,NA,ambulance,ambulance
@@ -224,7 +224,7 @@ item_216,macarron,word,food_drink,produces,macarrones,NA,macaroni,pasta
 item_217,mandarin,word,food_drink,produces,mandarina,NA,tangerine,tangerine
 item_218,manzana,word,food_drink,produces,manzana,NA,apple,apple
 item_219,melon,word,food_drink,produces,melón,NA,melon/cantaloupe,melon
-item_220,naranja,word,food_drink,produces,naranja,NA,orange,orange
+item_220,naranja,word,food_drink,produces,naranja,NA,orange,orange (food)
 item_221,nesquic,word,food_drink,produces,nesquic,NA,chocolate milk,NA
 item_222,paella,word,food_drink,produces,paella,NA,paella..rice pilaf?,NA
 item_223,pan,word,food_drink,produces,pan,NA,bread,bread
@@ -378,7 +378,7 @@ item_370,beber,word,action_words,produces,beber,NA,to drink,drink
 item_371,buscar,word,action_words,produces,buscar,NA,to search,search
 item_372,caber,word,action_words,produces,caber,NA,to fit,fit
 item_373,caer,word,action_words,produces,caer(se),NA,to fall,fall
-item_374,callar,word,action_words,produces,callar,NA,to silence,silence (action)
+item_374,callar,word,action_words,produces,callar,NA,to silence,quiet (action)
 item_375,cansar,word,action_words,produces,cansar(se),NA,to tire,tire (action)
 item_376,cantar,word,action_words,produces,cantar,NA,to sing,sing
 item_377,cenar,word,action_words,produces,cenar,NA,to have dinner,dine

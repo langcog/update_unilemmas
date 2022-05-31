@@ -170,7 +170,7 @@ item_168,i_6_12,word,clothing,produces,knapper,NA,NA,Buttons,button (object)
 item_169,i_6_13,word,clothing,produces,lue,NA,hat,cap,hat
 item_170,i_6_14,word,clothing,produces,pysjamas,NA,pajamas,pajamas,pajamas
 item_171,i_6_15,word,clothing,produces,regntøy,NA,coat,rainwear,coat
-item_172,i_6_16,word,clothing,produces,sandaler,NA,NA,sandals,sandals
+item_172,i_6_16,word,clothing,produces,sandaler,NA,NA,sandals,sandal
 item_173,i_6_17,word,clothing,produces,shorts,NA,shorts,shorts,shorts
 item_174,i_6_18,word,clothing,produces,skjerf,NA,NA,scarf,scarf
 item_175,i_6_19,word,clothing,produces,skjorte,NA,NA,shirt,shirt
@@ -405,7 +405,7 @@ item_403,i_13_17,word,games_routines,produces,lunsj,NA,lunch,lunch,lunch
 item_404,i_13_18,word,games_routines,produces,middag,NA,dinner,dinner,dinner
 item_405,i_13_19,word,games_routines,produces,nei,NA,no,no,no
 item_406,i_13_20,word,games_routines,produces,ringe,NA,NA,call,call 
-item_407,i_13_21,word,games_routines,produces,snurre rundt,NA,NA,spin around,spin around 
+item_407,i_13_21,word,games_routines,produces,snurre rundt,NA,NA,spin around,ring around the rosie
 item_408,i_13_22,word,games_routines,produces,sovetid,NA,nap,sleeping time,nap
 item_409,i_13_23,word,games_routines,produces,sååå stor,NA,NA,sooo big,so big 
 item_410,i_13_24,word,games_routines,produces,takk,NA,thank you,thank you,thank you
@@ -431,7 +431,7 @@ item_429,i_14_16,word,action_words,produces,få,NA,get,get,get
 item_430,i_14_17,word,action_words,produces,gi,NA,give,give,give
 item_431,i_14_18,word,action_words,produces,gjemme,NA,NA,hide,hide
 item_432,i_14_19,word,action_words,produces,gjøre seg ferdig,NA,finish,should finish,finish
-item_433,i_14_20,word,action_words,produces,gli,NA,NA,slide,slide 
+item_433,i_14_20,word,action_words,produces,gli,NA,NA,slide,slide (action)
 item_434,i_14_21,word,action_words,produces,gråte,NA,cry,cry,cry
 item_435,i_14_22,word,action_words,produces,gå,NA,walk,go,walk
 item_436,i_14_23,word,action_words,produces,ha,NA,NA,have,have
@@ -484,7 +484,7 @@ item_482,i_14_69,word,action_words,produces,sette,NA,NA,put,place
 item_483,i_14_70,word,action_words,produces,si,NA,say,say,say
 item_484,i_14_71,word,action_words,produces,sitte,NA,NA,sit,sit 
 item_485,i_14_72,word,action_words,produces,skjære,NA,NA,Magpie,cut 
-item_486,i_14_73,word,action_words,produces,skli,NA,NA,slip,slide 
+item_486,i_14_73,word,action_words,produces,skli,NA,NA,slip,slide (action)
 item_487,i_14_74,word,action_words,produces,skrive,NA,write,write,write
 item_488,i_14_75,word,action_words,produces,skynde seg,NA,NA,hasten,hurry
 item_489,i_14_76,word,action_words,produces,slikke,NA,NA,lick,lick 
@@ -550,7 +550,7 @@ item_548,i_15_28,word,descriptive_words,produces,liten,NA,little (description),s
 item_549,i_15_29,word,descriptive_words,produces,mørkt,NA,dark,dark,dark
 item_550,i_15_30,word,descriptive_words,produces,ny,NA,NA,new,new
 item_551,i_15_31,word,descriptive_words,produces,ødelagt,NA,broken,destroyed,broken
-item_552,i_15_32,word,descriptive_words,produces,oransje,NA,NA,orange,orange
+item_552,i_15_32,word,descriptive_words,produces,oransje,NA,NA,orange,orange (description)
 item_553,i_15_33,word,descriptive_words,produces,pen,NA,pretty,pretty,pretty
 item_554,i_15_34,word,descriptive_words,produces,rar,NA,NA,rar,strange
 item_555,i_15_35,word,descriptive_words,produces,redd,NA,scared,afraid,scared

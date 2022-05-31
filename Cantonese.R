@@ -39,6 +39,8 @@ new_items[which(new_items$WS=="item_597"),]$uni_lemma = "tie (action)"
 new_items[which(new_items$uni_lemma=="helper's name"),]$uni_lemma = "babysitter's name"
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
 new_items[which(new_items$uni_lemma=="tidy (action)"),]$uni_lemma = "clean (action)"
+new_items[which(new_items$uni_lemma=="piece of"),]$uni_lemma = "piece"
+
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

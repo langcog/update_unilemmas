@@ -429,7 +429,7 @@ item_421,床单,chuang2dan1,household,word,produces,bed sheet,sheet
 item_422,报纸,bao4zhi3,household,word,produces,newspaper,newspaper
 item_423,电池,dian4chi2,household,word,produces,battery,battery
 item_424,电线,dian4xian4,household,word,produces,wire,wire
-item_425,插座,cha1zuo4,household,word,produces,socket,socket
+item_425,插座,cha1zuo4,household,word,produces,socket,outlet
 item_426,插头,cha1tou2,household,word,produces,plug,plug
 item_427,草,grass,outside,word,produces,grass,grass
 item_428,草地,cao3di4,outside,word,produces,lawn,yard
@@ -667,7 +667,7 @@ item_656,雨鞋,yu3xie2,clothing,word,produces,rain boot,boots
 item_657,皮鞋,pi2xie2,clothing,word,produces,shoe,shoe
 item_658,拖鞋,tuo1xie2,clothing,word,produces,slipper,slipper
 item_659,运动鞋,yun4dong4xie2,clothing,word,produces,sneakers,sneaker
-item_660,凉鞋,liang2xie2,clothing,word,produces,sandals,sandals
+item_660,凉鞋,liang2xie2,clothing,word,produces,sandals,sandal
 item_661,皮带,pi2dai4,clothing,word,produces,belt,belt
 item_662,围巾,wei2jin1,clothing,word,produces,scarf,scarf
 item_663,项链,xiang4lian4,clothing,word,produces,necklace,necklace

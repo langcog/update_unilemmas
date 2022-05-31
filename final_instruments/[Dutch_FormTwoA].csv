@@ -35,7 +35,7 @@ item_33,clothing,luier/pamper,understands;produces,luier/pamper,word,diaper,diap
 item_34,clothing,muts,understands;produces,muts,word,hat/cap (material=wool),hat
 item_35,clothing,rits,understands;produces,rits,word,zipper,zipper
 item_36,clothing,T-shirt,understands;produces,T-shirt,word,T-shirt,t-shirt
-item_37,clothing,zwembroek/zwempak/badpak,understands;produces,zwembroek/zwempak/badpak,word,swimming pants/swimming suit,swimwear
+item_37,clothing,zwembroek/zwempak/badpak,understands;produces,zwembroek/zwempak/badpak,word,swimming pants/swimming suit,swimsuit
 item_38,body_parts,borst,understands;produces,borst,word,breast,breast
 item_39,body_parts,hand,understands;produces,hand,word,hand,hand
 item_40,body_parts,lippen,understands;produces,lippen,word,lips,lip
@@ -57,7 +57,7 @@ item_55,outside,ladder,understands;produces,ladder,word,ladder,ladder
 item_56,outside,stok,understands;produces,stok,word,stick,stick
 item_57,outside,wolk,understands;produces,wolk,word,cloud,cloud
 item_58,places,bakker,understands;produces,bakker,word,baker,baker
-item_59,places,buiten,understands;produces,buiten,word,outdoor,outdoors
+item_59,places,buiten,understands;produces,buiten,word,outdoor,outside
 item_60,places,crÃ¨che/kinderdagverblijf,understands;produces,crÃ¨che/kinderdagverblijf,word,daycare,daycare
 item_61,people,mevrouw,understands;produces,mevrouw,word,Mrs,female
 item_62,people,opa,understands;produces,opa,word,granddad,grandpa
@@ -67,12 +67,12 @@ item_65,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,t
 item_66,games_routines,handjesdraaien/klappenindehandjes/stampenmetdevoetjes,understands;produces,handjesdraaien/klappenindehandjes/stampenmetdevoetjes,word,turning hands/clapping hands/stamping feet,NA
 item_67,games_routines,inbadgaan,understands;produces,inbadgaan,word,take a bath,take a bath
 item_68,games_routines,ja,understands;produces,ja,word,yes,yes
-item_69,games_routines,kiekeboe/piep!,understands;produces,kiekeboe/piep!,word,peek a boo,peek a boo
+item_69,games_routines,kiekeboe/piep!,understands;produces,kiekeboe/piep!,word,peek a boo,peekaboo
 item_70,games_routines,middageten,understands;produces,middageten,word,lunch,lunch
 item_71,games_routines,nee,understands;produces,nee,word,no,no
 item_72,games_routines,ronddraaien,understands;produces,ronddraaien,word,turn around,turn around
 item_73,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,goodnight/sleep well
-item_74,games_routines,sst(zwijgen)/stilzijn,understands;produces,sst(zwijgen)/stilzijn,word,shh,shush
+item_74,games_routines,sst(zwijgen)/stilzijn,understands;produces,sst(zwijgen)/stilzijn,word,shh,shh
 item_75,descriptive_words,droog,understands;produces,droog,word,dry,dry (description)
 item_76,descriptive_words,koud,understands;produces,koud,word,cold,cold
 item_77,descriptive_words,moeilijk,understands;produces,moeilijk,word,difficult,difficult
@@ -85,14 +85,14 @@ item_83,descriptive_words,zwart,understands;produces,zwart,word,black,black
 item_84,action_words,botsen,understands;produces,botsen,word,to bump,bump 
 item_85,action_words,haasten/zichspoeden,understands;produces,haasten/zichspoeden,word,to hurry up,to hurry up
 item_86,action_words,houdenvan/graagzien/liefvinden,understands;produces,houdenvan/graagzien/liefvinden,word,to love,love (verb)
-item_87,action_words,inschenken/gieten,understands;produces,inschenken/gieten,word,to pour,pour (verb)
+item_87,action_words,inschenken/gieten,understands;produces,inschenken/gieten,word,to pour,pour
 item_88,action_words,kietelen,understands;produces,kietelen,word,to tickle,tickle
 item_89,action_words,latenvallen,understands;produces,latenvallen,word,to drop,drop
 item_90,action_words,likken,understands;produces,likken,word,to lick,lick
 item_91,action_words,luisteren,understands;produces,luisteren,word,to listen,listen (verb)
 item_92,action_words,maken,understands;produces,maken,word,to make,make
 item_93,action_words,passen,understands;produces,passen,word,to try on (clothes,try on
-item_94,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (verb)
+item_94,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (action)
 item_95,action_words,verstoppen,understands;produces,verstoppen,word,to hide,hide
 item_96,action_words,zitten,understands;produces,zitten,word,to sit,sit
 item_97,action_words,zwaaien/wuiven,understands;produces,zwaaien/wuiven,word,to wave,wave
