@@ -129,7 +129,7 @@ item_160,orecchio,word,body_parts,understands; produces,orecchio,ear,ear
 item_161,organo genitale femminile,word,body_parts,understands; produces,organo genitale femminile,vagina,vagina
 item_162,organo genitale maschile,word,body_parts,understands; produces,organo genitale maschile,penis,penis
 item_163,pancia,word,body_parts,understands; produces,pancia,tummy,tummy
-item_164,piede,word,body_parts,understands; produces,piede,feet,feet
+item_164,piede,word,body_parts,understands; produces,piede,feet,foot
 item_165,sederino,word,body_parts,understands; produces,sederino,buttocks,butt
 item_166,seno,word,body_parts,understands; produces,seno,breast,breast
 item_167,testa,word,body_parts,understands; produces,testa,head,head

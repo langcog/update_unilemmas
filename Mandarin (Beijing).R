@@ -46,8 +46,9 @@ new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="socket"),]$uni_lemma = "outlet"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 new_items[which(new_items$WS=="item_388"),]$uni_lemma = "swallow (animal)"
-
-
+new_items[which(new_items$uni_lemma=="fritters"),]$uni_lemma = "donut" # sweet fried food?
+new_items[which(new_items$uni_lemma=="flowerpot"),]$uni_lemma = "flower pot" 
+new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring" 
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

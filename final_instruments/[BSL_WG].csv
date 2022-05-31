@@ -218,7 +218,7 @@ item_237,chin,word,body_parts,understands; produces,chin,chin,chin
 item_238,ear,word,body_parts,understands; produces,ear,ear,ear
 item_239,eye,word,body_parts,understands; produces,eye,eye,eye
 item_240,face,word,body_parts,understands; produces,face,face,face
-item_241,feet,word,body_parts,understands; produces,feet,feet,feet
+item_241,feet,word,body_parts,understands; produces,feet,feet,foot
 item_242,finger,word,body_parts,understands; produces,finger,finger,finger
 item_243,hair,word,body_parts,understands; produces,hair,hair,hair
 item_244,hand,word,body_parts,understands; produces,hand,hand,hand

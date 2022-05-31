@@ -8,7 +8,7 @@ item_6,cu_cu,word,sounds,understands; produces,Cu-cu,NA,cu_cu,Cu_cu (playing Pee
 item_7,eh,word,sounds,understands; produces,Eh!,NA,eh,Eh (interjection),oh,NA
 item_8,ena,word,sounds,understands; produces,Ena!,NA,ena,"Ena (interjection, surprise)",oh,NA
 item_9,hi_hi,word,sounds,understands; produces,Hi-hi (cavalo),NA,hi_hi,Hi_hi (horse's sound),neigh,NA
-item_10,io_io,word,sounds,understands; produces,I-ó / I-ó (burro),NA,ió_io,Mé_mé (sheep's sound),hee haw,NA
+item_10,io_io,word,sounds,understands; produces,I-ó / I-ó (burro),NA,ió_io,Ió_ió (donkey's sound),hee haw,NA
 item_11,me_me,word,sounds,understands; produces,Mé mé (ovelha),NA,mé_mé,Mé_mé (sheep's sound),baa baa,NA
 item_12,miau,word,sounds,understands; produces,Miau miau (gato),NA,miau,Miau (cat's sound),meow,NA
 item_13,mu_muuu,word,sounds,understands; produces,Mu-Muuu (vaca),NA,mu_muuu,Mu_muuu (cow's sound),moo,NA
@@ -113,7 +113,7 @@ item_111,maos,word,body_parts,understands; produces,Mão(s),NA,mãos,Hands,hand,
 item_112,nariz,word,body_parts,understands; produces,Nariz,NA,nariz,Nose,nose,NA
 item_113,olhos,word,body_parts,understands; produces,Olhos,NA,olhos,Eyes,eye,NA
 item_114,orelhas,word,body_parts,understands; produces,Orelha,NA,orelhas,Ear (lobe),ear,NA
-item_115,pes,word,body_parts,understands; produces,Pé(s),NA,pés,Feet,feet,NA
+item_115,pes,word,body_parts,understands; produces,Pé(s),NA,pés,Feet,foot,NA
 item_116,pernas,word,body_parts,understands; produces,Perna(s),NA,pernas,Legs,leg,NA
 item_117,pilinha,word,body_parts,understands; produces,Pilinha / Pila / Pilau,NA,pilinha,The same as penis (baby word for penis),penis,NA
 item_118,pipi,word,body_parts,understands; produces,Pipi,NA,pipi,The same as vagina (baby word for vagina),vagina,NA

@@ -40,6 +40,7 @@ new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
 new_items[which(new_items$uni_lemma=="pump"),]$uni_lemma = "pump (object)"
 new_items[which(new_items$uni_lemma=="swallow"),]$uni_lemma = "swallow (animal)"
 new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
+new_items[which(new_items$uni_lemma=="crane (vehicle)"),]$uni_lemma = "crane"
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

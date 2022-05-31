@@ -40,6 +40,8 @@ new_items[which(new_items$definition=="keine"),]$uni_lemma = "none" # was 'no'
 
 new_items[which(new_items$uni_lemma=="lift"),]$uni_lemma = "lift (action)"
 
+new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+
 
 # save updated instrument(s)
 new_ws <- update_instrument("German", "WS", new_items %>% rename(itemID = WS))

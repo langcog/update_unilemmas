@@ -27,7 +27,9 @@ new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
 new_items[which(new_items$uni_lemma=="slide"),]$uni_lemma = "slide (action)"
 new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
-
+new_items[which(new_items$uni_lemma=="hairpin"),]$uni_lemma = "hair clip"
+new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring" 
+new_items[which(new_items$uni_lemma=="dry"),]$uni_lemma = "dry (description)"
 
 # some empty
 new_items[which(new_items$definition=="Oku"),]$uni_lemma = "read"

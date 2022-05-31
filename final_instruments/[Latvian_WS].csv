@@ -438,7 +438,7 @@ item_436,436_dejot,word,produces,action_words,dejot,NA,dance,dance
 item_437,437_domat,word,produces,action_words,domāt,NA,think,think
 item_438,438_dot,word,produces,action_words,dot,NA,give,give
 item_439,439_dusmoties,word,produces,action_words,dusmoties,NA,be angry,angry
-item_440,440_dzert,word,produces,action_words,dzert,NA,drink,drink
+item_440,440_dzert,word,produces,action_words,dzert,NA,drink,drink (action)
 item_441,441_dziedat,word,produces,action_words,dziedāt,NA,sing,sing
 item_442,442_dzirdet,word,produces,action_words,dzirdēt,NA,hear,hear
 item_443,443_est,word,produces,action_words,ēst,NA,eat,eat
@@ -568,7 +568,7 @@ item_566,566_roza,word,produces,descriptive_words,rozā,NA,pink,pink
 item_567,567_salauzts_,word,produces,descriptive_words,salauzts/ salūzis,NA,broken,broken
 item_568,568_salds,word,produces,descriptive_words,salds,NA,sweet,sweet
 item_569,569_sarkans,word,produces,descriptive_words,sarkans,NA,red,red
-item_570,570_sauss,word,produces,descriptive_words,sauss,NA,dry,dry
+item_570,570_sauss,word,produces,descriptive_words,sauss,NA,dry,dry (description)
 item_571,571_silts_silt,word,produces,descriptive_words,silts/silti,NA,warm,warm
 item_572,572_skabs,word,produces,descriptive_words,skābs,NA,sour,sour
 item_573,573_skaists_sk,word,produces,descriptive_words,skaists/skaisti,NA,pretty,pretty

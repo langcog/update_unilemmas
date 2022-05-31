@@ -238,7 +238,7 @@ item_236,item_236,köldök,word,produces,body_parts,NA,belly button,belly button
 item_237,item_237,köröm,word,produces,body_parts,NA,nails,nail (body part)
 item_238,item_238,kuki,word,produces,body_parts,NA,penis,penis
 item_239,item_239,láb,word,produces,body_parts,NA,leg,leg
-item_240,item_240,lábfej,word,produces,body_parts,NA,feet,feet
+item_240,item_240,lábfej,word,produces,body_parts,NA,feet,foot
 item_241,item_241,lábujj,word,produces,body_parts,NA,toe,toe
 item_242,item_242,mell,word,produces,body_parts,NA,chest,breast
 item_243,item_243,nuni,word,produces,body_parts,NA,vagina,vagina
@@ -509,7 +509,7 @@ item_507,item_507,húz,word,produces,action_words,NA,pull,pull
 item_508,item_508,ír,word,produces,action_words,NA,write,write
 item_509,item_509,itat,word,produces,action_words,NA,water (= give drink),NA
 item_510,item_510,jár,word,produces,action_words,NA,walk,walk
-item_511,item_511,iszik,word,produces,action_words,NA,drink,drink
+item_511,item_511,iszik,word,produces,action_words,NA,drink,drink (action)
 item_512,item_512,játszik,word,produces,action_words,NA,play,play
 item_513,item_513,jön,word,produces,action_words,NA,come,come
 item_514,item_514,kakil,word,produces,action_words,NA,poop,poop

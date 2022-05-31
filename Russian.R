@@ -72,6 +72,7 @@ new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
 new_items[which(new_items$uni_lemma=="playgroup"),]$uni_lemma = "nursery" # or preschool?
 new_items[which(new_items$uni_lemma=="mushrooms"),]$uni_lemma = "mushroom"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+new_items[which(new_items$uni_lemma=="dry"),]$uni_lemma = "dry (description)"
 
 
 

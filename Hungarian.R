@@ -46,6 +46,8 @@ new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
 new_items[which(new_items$uni_lemma=="scone"),]$uni_lemma = "muffin" 
 new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
 new_items[which(new_items$uni_lemma=="nail"),]$uni_lemma = "nail (object)"
+new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+new_items[which(new_items$uni_lemma=="drink"),]$uni_lemma = "drink (action)"
 
 
 # ToDo: check empty uni-lemmas ("")

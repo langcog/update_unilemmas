@@ -127,7 +127,7 @@ item_125,body_parts,been,understands;produces,been,word,leg,leg
 item_126,body_parts,billen/poep,understands;produces,billen/poep,word,buttock/poo,buttock/poo
 item_127,body_parts,buik,understands;produces,buik,word,belly,belly
 item_128,body_parts,gezicht,understands;produces,gezicht,word,face,face
-item_129,body_parts,haar(lichaam),understands;produces,haar(lichaam),word,hair,hair (body)
+item_129,body_parts,haar(lichaam),understands;produces,haar(lichaam),word,hair,hair
 item_130,body_parts,hand,understands;produces,hand,word,hand,hand
 item_131,body_parts,hoofd,understands;produces,hoofd,word,head,head
 item_132,body_parts,knie,understands;produces,knie,word,knee,knee
@@ -247,7 +247,7 @@ item_245,games_routines,danku/dankuwel,understands;produces,danku/dankuwel,word,
 item_246,games_routines,hallo/hoi,understands;produces,hallo/hoi,word,hello/hi,hello
 item_247,games_routines,ja,understands;produces,ja,word,yes,yes
 item_248,games_routines,nee,understands;produces,nee,word,no,no
-item_249,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,goodnight/sleep well
+item_249,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,good night
 item_250,games_routines,tandjespoetsen,understands;produces,tandjespoetsen,word,brush teeth,brush teeth
 item_251,descriptive_words,allesweg/op,understands;produces,allesweg/op,word,all done,all done 
 item_252,descriptive_words,blauw,understands;produces,blauw,word,blue,blue
@@ -272,12 +272,12 @@ item_270,descriptive_words,slecht,understands;produces,slecht,word,bad,bad
 item_271,descriptive_words,stout,understands;produces,stout,word,naughty,naughty
 item_272,descriptive_words,vlug/snel,understands;produces,vlug/snel,word,quick,quick
 item_273,descriptive_words,voorzichtig,understands;produces,voorzichtig,word,carefull,careful
-item_274,descriptive_words,vuil/vies/bah!,understands;produces,vuil/vies/bah!,word,dirty/yuk!,dirty/yuk
+item_274,descriptive_words,vuil/vies/bah!,understands;produces,vuil/vies/bah!,word,dirty/yuk!,dirty
 item_275,descriptive_words,warm/heet,understands;produces,warm/heet,word,warm/hot,warm
 item_276,descriptive_words,zacht,understands;produces,zacht,word,soft,soft
 item_277,descriptive_words,ziek,understands;produces,ziek,word,sick,sick
 item_278,action_words,aanraken/aankomen,understands;produces,aanraken/aankomen,word,touch,touch
-item_279,action_words,afdrogen,understands;produces,afdrogen,word,dry,dry (verb)
+item_279,action_words,afdrogen,understands;produces,afdrogen,word,dry,dry (action)
 item_280,action_words,bijten,understands;produces,bijten,word,to bite,bite
 item_281,action_words,blazen,understands;produces,blazen,word,to blow,blow
 item_282,action_words,botsen,understands;produces,botsen,word,to bump,bump 
@@ -316,7 +316,7 @@ item_314,action_words,vallen,understands;produces,vallen,word,to fall,fall
 item_315,action_words,vegen,understands;produces,vegen,word,to sweep,sweep
 item_316,action_words,wandelen,understands;produces,wandelen,word,to walk,walk
 item_317,action_words,wassen,understands;produces,wassen,word,to wash,wash
-item_318,action_words,wenen/huilen,understands;produces,wenen/huilen,word,to cry,cry (verb)
+item_318,action_words,wenen/huilen,understands;produces,wenen/huilen,word,to cry,cry
 item_319,action_words,zeggen,understands;produces,zeggen,word,to say,say
 item_320,action_words,zien,understands;produces,zien,word,to see,see
 item_321,action_words,zingen,understands;produces,zingen,word,to sing,sing

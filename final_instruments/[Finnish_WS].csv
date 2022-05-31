@@ -248,7 +248,7 @@ item_246,household,harja,harja,produces,word,brush,brush (object)
 item_247,household,kampa,kampa,produces,word,comb,comb (object)
 item_248,household,kattila,kattila,produces,word,pot,pot
 item_249,household,kori,kori,produces,word,basket,basket
-item_250,household,kukkaruukku,kukkaruukku,produces,word,flowerpot,flowerpot
+item_250,household,kukkaruukku,kukkaruukku,produces,word,flowerpot,flower pot
 item_251,household,laatikko,laatikko,produces,word,box,box
 item_252,household,lasi,lasi,produces,word,glass,glass
 item_253,household,lautanen,lautanen,produces,word,plate,plate
@@ -580,7 +580,7 @@ item_578,quantifiers,lisää,lisää,produces,word,even more,more
 item_579,quantifiers,paljon,paljon,produces,word,much,much
 item_580,quantifiers,toinen,toinen,produces,word,other,other
 item_581,quantifiers,vähän,vähän,produces,word,few,few
-item_582,quantifiers,kaikki,kaikki,produces,word,everybody,everybody
+item_582,quantifiers,kaikki,kaikki,produces,word,everybody,everyone
 item_583,quantifiers,monta,monta,produces,word,many,many
 item_584,quantifiers,sama,sama,produces,word,same,same
 item_585,quantifiers,vähemmän,vähemmän,produces,word,less,less

@@ -86,6 +86,8 @@ new_items[which(new_items$uni_lemma=="spin around "),]$uni_lemma = "ring around 
 new_items[which(new_items$uni_lemma=="slide "),]$uni_lemma = "slide (action)"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (description)"
+new_items[which(new_items$uni_lemma=="burger "),]$uni_lemma = "hamburger"
+new_items[which(new_items$uni_lemma=="had to "),]$uni_lemma = "has to"
 
 
 

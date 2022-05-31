@@ -219,7 +219,7 @@ item_217,olhos,word,body_parts,produces,Olhos,NA,Olhos,Eyes,eye,NA
 item_218,ombros,word,body_parts,produces,Ombros,NA,Ombros,Shoulder,shoulder,NA
 item_219,orelha,word,body_parts,produces,Orelha,NA,Orelha,Ear (lobe),ear,NA
 item_220,ouvidos,word,body_parts,produces,Ouvido(s),NA,Ouvidos,Ear,ear,NA
-item_221,pes,word,body_parts,produces,Pé(s),NA,Pés,Feet,feet,NA
+item_221,pes,word,body_parts,produces,Pé(s),NA,Pés,Feet,foot,NA
 item_222,peito,word,body_parts,produces,Peito,NA,Peito,Breast,breast,NA
 item_223,pernas,word,body_parts,produces,Perna(s),NA,Pernas,Legs,leg,NA
 item_224,pescoco,word,body_parts,produces,Pescoço,NA,Pescoço,Neck,neck,NA

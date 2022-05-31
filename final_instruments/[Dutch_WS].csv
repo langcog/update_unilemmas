@@ -125,7 +125,7 @@ item_123,food_drink,druif,understands;produces,druif,word,grape,grapes
 item_124,food_drink,ei,understands;produces,ei,word,egg,egg
 item_125,food_drink,erwtjes,understands;produces,erwtjes,word,peas,peas
 item_126,food_drink,(het)eten,understands;produces,(het)eten,word,food,food
-item_127,food_drink,frieten/frietjes,understands;produces,frieten/frietjes,word,fries,fries
+item_127,food_drink,frieten/frietjes,understands;produces,frieten/frietjes,word,fries,french fries
 item_128,food_drink,Fristi/Jogidrink,understands;produces,Fristi/Jogidrink,word,,beverage
 item_129,food_drink,fruitsap/sap,understands;produces,fruitsap/sap,word,juice,juice
 item_130,food_drink,gelei/confituur/jam,understands;produces,gelei/confituur/jam,word,jelly,jelly
@@ -208,7 +208,7 @@ item_206,body_parts,buik,understands;produces,buik,word,belly,belly
 item_207,body_parts,duim,understands;produces,duim,word,thumb,thumb
 item_208,body_parts,enkel,understands;produces,enkel,word,ankle,ankle
 item_209,body_parts,gezicht,understands;produces,gezicht,word,face,face
-item_210,body_parts,haar(lichaam),understands;produces,haar(lichaam),word,hair,hair (body)
+item_210,body_parts,haar(lichaam),understands;produces,haar(lichaam),word,hair,hair
 item_211,body_parts,hand,understands;produces,hand,word,hand,hand
 item_212,body_parts,hoofd,understands;produces,hoofd,word,head,head
 item_213,body_parts,kin,understands;produces,kin,word,chin,chin
@@ -412,10 +412,10 @@ item_410,games_routines,nee,understands;produces,nee,word,no,no
 item_411,games_routines,ontbijt/ontbijten,understands;produces,ontbijt/ontbijten,word,(to have) breakfast,breakfast (action)
 item_412,games_routines,ophetpotjegaanofzitten,understands;produces,ophetpotjegaanofzitten,word,go potty,go potty
 item_413,games_routines,ronddraaien,understands;produces,ronddraaien,word,turn around,turn around
-item_414,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,goodnight/sleep well
+item_414,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,good night
 item_415,games_routines,sst(zwijgen)/stilzijn,understands;produces,sst(zwijgen)/stilzijn,word,shh,shh
 item_416,games_routines,tandjespoetsen,understands;produces,tandjespoetsen,word,brush teeth,brush teeth
-item_417,games_routines,totmorgen!(routine),understands;produces,totmorgen!(routine),word,see you tomorrow!,goodbye
+item_417,games_routines,totmorgen!(routine),understands;produces,totmorgen!(routine),word,see you tomorrow!,bye
 item_418,games_routines,winkelen,understands;produces,winkelen,word,to go shopping,shopping
 item_419,games_routines,zogroot!,understands;produces,zogroot!,word,so big!,so big
 item_420,descriptive_words,allesweg/op,understands;produces,allesweg/op,word,all done,all done 
@@ -470,7 +470,7 @@ item_468,descriptive_words,vlug/snel,understands;produces,vlug/snel,word,quick,q
 item_469,descriptive_words,vol,understands;produces,vol,word,full,full
 item_470,descriptive_words,voorzichtig,understands;produces,voorzichtig,word,carefull,careful
 item_471,descriptive_words,vriendelijk,understands;produces,vriendelijk,word,friendly,friendly
-item_472,descriptive_words,vuil/vies/bah!,understands;produces,vuil/vies/bah!,word,dirty/yuk!,dirty/yuk
+item_472,descriptive_words,vuil/vies/bah!,understands;produces,vuil/vies/bah!,word,dirty/yuk!,dirty
 item_473,descriptive_words,wakker,understands;produces,wakker,word,awake,awake
 item_474,descriptive_words,warm/heet,understands;produces,warm/heet,word,warm/hot,warm
 item_475,descriptive_words,wit,understands;produces,wit,word,white,white
@@ -479,7 +479,7 @@ item_477,descriptive_words,ziek,understands;produces,ziek,word,sick,sick
 item_478,descriptive_words,zwaar,understands;produces,zwaar,word,heavy,heavy
 item_479,descriptive_words,zwart,understands;produces,zwart,word,black,black
 item_480,action_words,aanraken/aankomen,understands;produces,aanraken/aankomen,word,touch,touch
-item_481,action_words,afdrogen,understands;produces,afdrogen,word,dry,dry (verb)
+item_481,action_words,afdrogen,understands;produces,afdrogen,word,dry,dry (action)
 item_482,action_words,afwassen,understands;produces,afwassen,word,do the dishes,wash
 item_483,action_words,bedekken,understands;produces,bedekken,word,cover up,cover (action)
 item_484,action_words,bijten,understands;produces,bijten,word,to bite,bite
@@ -496,7 +496,7 @@ item_494,action_words,denken,understands;produces,denken,word,to think,think
 item_495,action_words,doenalsof,understands;produces,doenalsof,word,to act like,act like
 item_496,action_words,dragen,understands;produces,dragen,word,to wear,wear 
 item_497,action_words,drinken,understands;produces,drinken,word,to drink,drink (action)
-item_498,action_words,drogen,understands;produces,drogen,word,dry,dry (verb)
+item_498,action_words,drogen,understands;produces,drogen,word,dry,dry (action)
 item_499,action_words,duwen,understands;produces,duwen,word,to push,push
 item_500,action_words,eindigen/stoppen,understands;produces,eindigen/stoppen,word,to finish,finish
 item_501,action_words,eten(ww),understands;produces,eten(ww),word,to eat,eat
@@ -574,7 +574,7 @@ item_572,action_words,wakkerworden/opstaan,understands;produces,wakkerworden/ops
 item_573,action_words,wandelen,understands;produces,wandelen,word,to walk,walk
 item_574,action_words,wassen,understands;produces,wassen,word,to wash,wash
 item_575,action_words,weggooien,understands;produces,weggooien,word,to throw away,throw
-item_576,action_words,wenen/huilen,understands;produces,wenen/huilen,word,to cry,cry (verb)
+item_576,action_words,wenen/huilen,understands;produces,wenen/huilen,word,to cry,cry
 item_577,action_words,wensen/willen,understands;produces,wensen/willen,word,to wish/want,want
 item_578,action_words,werken,understands;produces,werken,word,to work,work (action)
 item_579,action_words,zeggen,understands;produces,zeggen,word,to say,say

@@ -94,7 +94,7 @@ item_92,a03_08,word,vehicles,produces,公車(巴士),NA,bus,bus
 item_93,a03_09,word,vehicles,produces,娃娃車(手推車),NA,stroller,stroller
 item_94,a03_10,word,vehicles,produces,三輪車,NA,tricycle,tricycle
 item_95,a03_11,word,vehicles,produces,計程車,NA,taxi,taxi
-item_96,a03_12,word,vehicles,produces,怪手(挖土機),NA,excavator,excavator
+item_96,a03_12,word,vehicles,produces,怪手(挖土機),NA,excavator,digger
 item_97,a03_13,word,vehicles,produces,救護車,NA,ambulance,ambulance
 item_98,a03_14,word,vehicles,produces,消防車,NA,firetruck,firetruck
 item_99,a03_15,word,vehicles,produces,卡車,NA,truck,truck

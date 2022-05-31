@@ -218,7 +218,7 @@ item_210,apagar,word,action_words,understands; produces,apagar,NA,to turn off,tu
 item_211,bailar,word,action_words,understands; produces,bailar,NA,to dance,dance
 item_212,bajar,word,action_words,understands; produces,bajar(se),NA,to get down,lower (action)
 item_213,banarse,word,action_words,understands; produces,bañar(se),NA,to bathe,bathe
-item_214,beber,word,action_words,understands; produces,beber,NA,to drink,drink
+item_214,beber,word,action_words,understands; produces,beber,NA,to drink,drink (action)
 item_215,caer,word,action_words,understands; produces,caer(se),NA,to fall,fall
 item_216,cantar,word,action_words,understands; produces,cantar,NA,to sing,sing
 item_217,cenar,word,action_words,understands; produces,cenar,NA,to have dinner,dine

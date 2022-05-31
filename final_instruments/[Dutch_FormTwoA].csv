@@ -24,7 +24,7 @@ item_22,toys,ballon,understands;produces,ballon,word,balloon,balloon
 item_23,toys,kleurpotloden,understands;produces,kleurpotloden,word,colored pencils,pencil
 item_24,food_drink,boter,understands;produces,boter,word,butter,butter
 item_25,food_drink,cake,understands;produces,cake,word,cake,cake
-item_26,food_drink,frieten/frietjes,understands;produces,frieten/frietjes,word,fries,fries
+item_26,food_drink,frieten/frietjes,understands;produces,frieten/frietjes,word,fries,french fries
 item_27,food_drink,kaas,understands;produces,kaas,word,cheese,cheese
 item_28,food_drink,kroketjes/gebakkenaardappeltjes,understands;produces,kroketjes/gebakkenaardappeltjes,word,,NA
 item_29,food_drink,rijst,understands;produces,rijst,word,rice,rice
@@ -71,7 +71,7 @@ item_69,games_routines,kiekeboe/piep!,understands;produces,kiekeboe/piep!,word,p
 item_70,games_routines,middageten,understands;produces,middageten,word,lunch,lunch
 item_71,games_routines,nee,understands;produces,nee,word,no,no
 item_72,games_routines,ronddraaien,understands;produces,ronddraaien,word,turn around,turn around
-item_73,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,goodnight/sleep well
+item_73,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,good night
 item_74,games_routines,sst(zwijgen)/stilzijn,understands;produces,sst(zwijgen)/stilzijn,word,shh,shh
 item_75,descriptive_words,droog,understands;produces,droog,word,dry,dry (description)
 item_76,descriptive_words,koud,understands;produces,koud,word,cold,cold

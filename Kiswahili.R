@@ -42,6 +42,8 @@ new_items[which(new_items$uni_lemma=="durable"),]$uni_lemma = "tough"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="village"),]$uni_lemma = "town"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
+new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+
 
 
 # ToDo: check empty uni-lemmas ("")

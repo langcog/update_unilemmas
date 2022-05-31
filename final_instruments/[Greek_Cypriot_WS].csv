@@ -200,7 +200,7 @@ item_198,V17_TRAIN,word,vehicles,produces,τρένο,NA,train,train
 item_199,V18_LORRY,word,vehicles,produces,φορτηγό,NA,lorry,truck
 item_200,OH1_RUBBIS,word,household,produces,άχρηστα,NA,rubbish,rag
 item_201,OH2_BRUSH,word,household,produces,βούρτσα,NA,brush,brush (object)
-item_202,OH3_FLOWER,word,household,produces,γλάστρα,NA,(flower) pot,flowerpot
+item_202,OH3_FLOWER,word,household,produces,γλάστρα,NA,(flower) pot,flower pot
 item_203,OH4_TRAY,word,household,produces,δίσκος,NA,tray,tray
 item_204,OH5_VACUUM,word,household,produces,ηλεκτρική σκούπα*,NA,vacuum cleaner,vacuum
 item_205,OH6_PAINTI_CG,word,household,produces,κάδρο,NA,painting CG,painting

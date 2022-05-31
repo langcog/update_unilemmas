@@ -109,7 +109,7 @@ item_107,i_5_19,word,food_drink,produces,frukt,NA,NA,fruit,fruit
 item_108,i_5_20,word,food_drink,produces,godteri,NA,NA,candy,candy
 item_109,i_5_21,word,food_drink,produces,grøt,NA,NA,porridge,porridge 
 item_110,i_5_22,word,food_drink,produces,gulrot,NA,carrots,carrot,carrot
-item_111,i_5_23,word,food_drink,produces,hamburger,NA,NA,hamburger,burger 
+item_111,i_5_23,word,food_drink,produces,hamburger,NA,NA,hamburger,hamburger
 item_112,i_5_24,word,food_drink,produces,is,NA,ice cream,ice,ice cream
 item_113,i_5_25,word,food_drink,produces,jordbær,NA,NA,strawberries,strawberry
 item_114,i_5_26,word,food_drink,produces,juice,NA,juice,juice,juice
@@ -714,7 +714,7 @@ item_712,i_21_12,word,helping_verbs,produces,kan,NA,NA,may,can
 item_713,i_21_13,word,helping_verbs,produces,kunne,NA,NA,could,could 
 item_714,i_21_14,word,helping_verbs,produces,la,NA,NA,let,let
 item_715,i_21_15,word,helping_verbs,produces,må,NA,NA,have to,must
-item_716,i_21_16,word,helping_verbs,produces,måtte,NA,NA,had to,had to 
+item_716,i_21_16,word,helping_verbs,produces,måtte,NA,NA,had to,has to
 item_717,i_21_17,word,helping_verbs,produces,skal,NA,NA,going to,will 
 item_718,i_21_18,word,helping_verbs,produces,skulle,NA,NA,should,should
 item_719,i_21_19,word,helping_verbs,produces,være,NA,NA,be,be

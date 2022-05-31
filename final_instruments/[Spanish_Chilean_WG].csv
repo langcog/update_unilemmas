@@ -140,7 +140,7 @@ item_138,orejas,word,body_parts,understands; produces,orejas,NA,ears,ear
 item_139,pechos,word,body_parts,understands; produces,pechos,NA,breasts,breast
 item_140,pelo,word,body_parts,understands; produces,pelo,NA,hair,hair
 item_141,piernas,word,body_parts,understands; produces,piernas,NA,legs,leg
-item_142,pies,word,body_parts,understands; produces,pies,NA,feet,feet
+item_142,pies,word,body_parts,understands; produces,pies,NA,feet,foot
 item_143,rodillas,word,body_parts,understands; produces,rodillas,NA,knees,knee
 item_144,burbujas,word,toys,understands; produces,burbujas,NA,bubbles,bubbles
 item_145,celular,word,toys,understands; produces,celular/teléfono,NA,cell/phone,telephone

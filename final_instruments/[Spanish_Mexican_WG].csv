@@ -86,7 +86,7 @@ item_84,soda,word,food_drink,understands; produces,soda/refresco,NA,soda water,s
 item_85,sopa,word,food_drink,understands; produces,sopa,NA,soup,soup
 item_86,tortila,word,food_drink,understands; produces,tortilla,NA,tortilla,tortilla
 item_87,uvas,word,food_drink,understands; produces,uvas,NA,grapes,grapes
-item_88,aretes,word,clothing,understands; produces,aretes,NA,earrings,earrings
+item_88,aretes,word,clothing,understands; produces,aretes,NA,earrings,earring
 item_89,babera,word,clothing,understands; produces,babero,NA,bib,bib
 item_90,botas,word,clothing,understands; produces,botas,NA,boots,boots
 item_91,boton,word,clothing,understands; produces,botón,NA,button,button
@@ -275,7 +275,7 @@ item_273,comer,word,action_words,understands; produces,comer(se),NA,to eat,eat
 item_274,correr,word,action_words,understands; produces,correr,NA,run,run
 item_275,dar,word,action_words,understands; produces,dar,NA,to give,give
 item_276,decir,word,action_words,understands; produces,decir,NA,to say,say
-item_277,desyuna,word,action_words,understands; produces,desayunar,NA,to have breakfast,eat breakfast
+item_277,desyuna,word,action_words,understands; produces,desayunar,NA,to have breakfast,breakfast (action)
 item_278,dibujar,word,action_words,understands; produces,dibujar,NA,to draw,draw
 item_279,doler,word,action_words,understands; produces,doler,NA,hurt,hurt (action)
 item_280,dormir,word,action_words,understands; produces,dormir(se),NA,to sleep,sleep

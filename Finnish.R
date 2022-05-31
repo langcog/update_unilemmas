@@ -32,7 +32,8 @@ new_items[which(new_items$uni_lemma=="orange (fruit)"),]$uni_lemma = "orange (fo
 new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="clean"),]$uni_lemma = "clean (action)"
 new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (description)"
-
+new_items[which(new_items$uni_lemma=="flowerpot"),]$uni_lemma = "flower pot" 
+new_items[which(new_items$uni_lemma=="everybody"),]$uni_lemma = "everyone" 
 
 # save updated instrument(s)
 

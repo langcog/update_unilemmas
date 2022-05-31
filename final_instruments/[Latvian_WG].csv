@@ -281,7 +281,7 @@ item_279,279_bucot_skup,word,understands; produces,action_words,bučot/skūpstī
 item_280,280_dabut,word,understands; produces,action_words,dabūt,NA,get,get
 item_281,281_dejot,word,understands; produces,action_words,dejot,NA,dance,dance
 item_282,282_dot,word,understands; produces,action_words,dot,NA,give,give
-item_283,283_dzert,word,understands; produces,action_words,dzert,NA,drink,drink
+item_283,283_dzert,word,understands; produces,action_words,dzert,NA,drink,drink (action)
 item_284,284_dziedat,word,understands; produces,action_words,dziedāt,NA,sing,sing
 item_285,285_dzirdet,word,understands; produces,action_words,dzirdēt,NA,hear,hear
 item_286,286_est,word,understands; produces,action_words,ēst,NA,eat,eat
@@ -355,7 +355,7 @@ item_353,353_pilns,word,understands; produces,descriptive_words,pilns,NA,full,fu
 item_354,354_salauzts_,word,understands; produces,descriptive_words,"salauzts, salūzis",NA,broken,broken
 item_355,355_salds,word,understands; produces,descriptive_words,salds,NA,sweet,sweet
 item_356,356_sarkans,word,understands; produces,descriptive_words,sarkans,NA,red,red
-item_357,357_sauss,word,understands; produces,descriptive_words,sauss,NA,dry,dry
+item_357,357_sauss,word,understands; produces,descriptive_words,sauss,NA,dry,dry (description)
 item_358,358_skaists_sk,word,understands; produces,descriptive_words,skaists/skaisti,NA,pretty,pretty
 item_359,359_skals_skal,word,understands; produces,descriptive_words,skaļš/skaļi,NA,loud,loud
 item_360,360_slapjs,word,understands; produces,descriptive_words,slapjš,NA,wet,wet

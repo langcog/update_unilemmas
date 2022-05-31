@@ -76,7 +76,7 @@ item_74,mono,word,animals,produces,mono,NA,monkey,monkey
 item_75,mosca,word,animals,produces,mosca,NA,fly,fly (animal)
 item_76,oso,word,animals,produces,oso,NA,bear,bear
 item_77,oveja,word,animals,produces,oveja,NA,sheep,sheep
-item_78,paloma,word,animals,produces,paloma,NA,dove,dove
+item_78,paloma,word,animals,produces,paloma,NA,dove,pigeon
 item_79,pajaro,word,animals,produces,pájaro,NA,bird,bird
 item_80,pantera,word,animals,produces,pantera,NA,panther,panther
 item_81,pato,word,animals,produces,pato,NA,duck,duck
@@ -374,7 +374,7 @@ item_366,aprender,word,action_words,produces,aprender,NA,learn,learn
 item_367,bailar,word,action_words,produces,bailar,NA,to dance,dance
 item_368,bajar,word,action_words,produces,bajar(se),NA,to get down,lower (action)
 item_369,banar,word,action_words,produces,bañar(se),NA,to bathe,bathe
-item_370,beber,word,action_words,produces,beber,NA,to drink,drink
+item_370,beber,word,action_words,produces,beber,NA,to drink,drink (action)
 item_371,buscar,word,action_words,produces,buscar,NA,to search,search
 item_372,caber,word,action_words,produces,caber,NA,to fit,fit
 item_373,caer,word,action_words,produces,caer(se),NA,to fall,fall

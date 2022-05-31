@@ -64,6 +64,8 @@ new_items[which(new_items$uni_lemma=="Pencil"),]$uni_lemma = "pen/pencil"
 new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (food)"
 new_items[which(new_items$uni_lemma=="okay"),]$uni_lemma = "ok"
 new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
+new_items[which(new_items$uni_lemma=="dove"),]$uni_lemma = "pigeon" # technically same, and many forms have pigeon
+new_items[which(new_items$uni_lemma=="drink"),]$uni_lemma = "drink (action)"
 
 
 

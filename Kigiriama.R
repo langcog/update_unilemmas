@@ -38,6 +38,8 @@ new_items[which(new_items$uni_lemma=="tortoise"),]$uni_lemma = "turtle"
 new_items[which(new_items$uni_lemma=="sweet"),]$uni_lemma = "sweets" # food (noun, not adj)
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
+new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring" 
 
 
 # ToDo: check empty uni-lemmas ("")

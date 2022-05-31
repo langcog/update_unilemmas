@@ -80,7 +80,7 @@ item_76,杏,xing4,food_drink,word,produces,apricot,apricot
 item_77,烟,yan1,food_drink,word,produces,smoke,smoke
 item_78,盐,yan2,food_drink,word,produces,salty,salt
 item_79,饮料,yin3liao4,food_drink,word,produces,drink (beverage),drink (beverage)
-item_80,油条,you2tiao2,food_drink,word,produces,dough fritters,fritters
+item_80,油条,you2tiao2,food_drink,word,produces,dough fritters,donut
 item_81,玉米,yu4mi3,food_drink,word,produces,corn,corn
 item_82,猪肉,zhu1rou4,food_drink,word,produces,pork,pork
 item_83,阿姨,a1yi2,people,word,produces,aunt,aunt
@@ -422,7 +422,7 @@ item_414,枕头,zhen3tou5,household,word,produces,pillow,pillow
 item_415,纸,zhi3,household,word,produces,paper,paper
 item_416,玻璃,bo1li2,household,word,produces,glass,glass
 item_417,痱子粉,fei4zi5fen3,household,word,produces,bath powder,NA
-item_418,花盆,hua1pen2,household,word,produces,flowerpot,flowerpot
+item_418,花盆,hua1pen2,household,word,produces,flowerpot,flower pot
 item_419,门铃,men2ling2,household,word,produces,doorbell,bell
 item_420,奶瓶,nai3ping2,household,word,produces,feeding-bottle,bottle
 item_421,床单,chuang2dan1,household,word,produces,bed sheet,sheet
@@ -671,7 +671,7 @@ item_660,凉鞋,liang2xie2,clothing,word,produces,sandals,sandal
 item_661,皮带,pi2dai4,clothing,word,produces,belt,belt
 item_662,围巾,wei2jin1,clothing,word,produces,scarf,scarf
 item_663,项链,xiang4lian4,clothing,word,produces,necklace,necklace
-item_664,耳环,er3huan2,clothing,word,produces,earring,earrings
+item_664,耳环,er3huan2,clothing,word,produces,earring,earring
 item_665,领带,ling3dai4,clothing,word,produces,tie,tie (object)
 item_666,拉链,la1lian4,clothing,word,produces,zipper,zipper
 item_667,袜子,wa4zi5,clothing,word,produces,sock,sock

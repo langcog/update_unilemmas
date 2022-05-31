@@ -190,7 +190,7 @@ item_188,item_188,word,body_parts,understands; produces,몸,NA,body,body
 item_189,item_189,word,body_parts,understands; produces,무릎,NA,knee,knee
 item_190,item_190,word,body_parts,understands; produces,발,NA,foot,foot
 item_191,item_191,word,body_parts,understands; produces,발목,NA,ankle,ankle
-item_192,item_192,word,body_parts,understands; produces,발톱,NA,toenail,toenail
+item_192,item_192,word,body_parts,understands; produces,발톱,NA,toenail,fingernail
 item_193,item_193,word,body_parts,understands; produces,배,NA,tummy,tummy
 item_194,item_194,word,body_parts,understands; produces,배꼽,NA,belly button,belly button
 item_195,item_195,word,body_parts,understands; produces,뺨,NA,cheek,cheek

@@ -197,6 +197,14 @@ new_items[which(new_items$uni_lemma=="kiss (verb)"),]$uni_lemma = "kiss"
 new_items[which(new_items$uni_lemma=="kick (verb)"),]$uni_lemma = "kick"
 new_items[which(new_items$uni_lemma=="i"),]$uni_lemma = "I"
 new_items[which(new_items$uni_lemma=="hug (verb)"),]$uni_lemma = "hug"
+new_items[which(new_items$uni_lemma=="goodnight/sleep well"),]$uni_lemma = "good night"
+new_items[which(new_items$uni_lemma=="goodbye"),]$uni_lemma = "bye"
+new_items[which(new_items$uni_lemma=="hair (body)"),]$uni_lemma = "hair"
+new_items[which(new_items$uni_lemma=="fries"),]$uni_lemma = "french fries"
+new_items[which(new_items$uni_lemma=="dry (verb)"),]$uni_lemma = "dry (action)"
+new_items[which(new_items$uni_lemma=="dirty/yuk"),]$uni_lemma = "dirty" 
+new_items[which(new_items$uni_lemma=="cry (verb)"),]$uni_lemma = "cry" 
+
 
 
 

@@ -434,7 +434,7 @@ item_432,cortar,cortar,action_words,word,produces,NA,cut (action),cut (action)
 item_433,dar,dar,action_words,word,produces,NA,give,give
 item_434,decir,decir,action_words,word,produces,NA,say,say
 item_435,dejar,dejar,action_words,word,produces,NA,leave,leave
-item_436,desayunar,desayunar,action_words,word,produces,NA,eat breakfast,eat breakfast
+item_436,desayunar,desayunar,action_words,word,produces,NA,eat breakfast,breakfast (action)
 item_437,dibujar,dibujar,action_words,word,produces,NA,draw,draw
 item_438,doler,doler,action_words,word,produces,NA,hurt (action),hurt (action)
 item_439,dormir_se,dormir_se,action_words,word,produces,NA,sleep,sleep
@@ -572,7 +572,7 @@ item_570,rojo,rojo,descriptive_words,word,produces,NA,red,red
 item_571,rosa,rosa,descriptive_words,word,produces,NA,pink,pink
 item_572,roto,roto,descriptive_words,word,produces,NA,broken,broken
 item_573,ruidoso,ruidoso,descriptive_words,word,produces,NA,noisy,noisy
-item_574,seco,seco,descriptive_words,word,produces,NA,dry,dry
+item_574,seco,seco,descriptive_words,word,produces,NA,dry,dry (description)
 item_575,solo,solo,descriptive_words,word,produces,NA,alone,alone
 item_576,suave,suave,descriptive_words,word,produces,NA,soft,soft
 item_577,sucio,sucio,descriptive_words,word,produces,NA,dirty,dirty

@@ -207,7 +207,7 @@ item_205,tricicl2,word,toys,produces,triciclo (toys),NA,NA,tricycle (toy),tricyc
 item_206,botas,word,clothing,produces,botas,NA,boots,boots,boots
 item_207,bolsa1,word,clothing,produces,bolsa (clothing),NA,NA,purse,purse
 item_208,babera,word,clothing,produces,babero,NA,bib,bib,bib
-item_209,aretes,word,clothing,produces,aretes,NA,earrings,earrings,earrings
+item_209,aretes,word,clothing,produces,aretes,NA,earrings,earrings,earring
 item_210,abrigo,word,clothing,produces,abrigo,NA,NA,coat,coat
 item_211,almohada,word,household,produces,almohada,NA,pillow,pillow,pillow
 item_212,aspirdor,word,household,produces,aspiradora,NA,vacuum,vacuum cleaner,vacuum
@@ -484,7 +484,7 @@ item_482,correr,word,action_words,produces,correr,NA,run,run,run
 item_483,cortar,word,action_words,produces,cortar,NA,NA,to cut,cut
 item_484,dar,word,action_words,produces,dar,NA,give,to give,give
 item_485,decir,word,action_words,produces,decir,NA,say,to say,say
-item_486,desyunar,word,action_words,produces,desayunar,NA,eat breakfast,to have breakfast,eat breakfast
+item_486,desyunar,word,action_words,produces,desayunar,NA,eat breakfast,to have breakfast,breakfast (action)
 item_487,dibujar,word,action_words,produces,dibujar,NA,draw,to draw,draw
 item_488,doler,word,action_words,produces,doler,NA,hurt (action),hurt,hurt (action)
 item_489,dormir,word,action_words,produces,dormir(se),NA,sleep,to sleep,sleep

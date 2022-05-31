@@ -199,7 +199,7 @@ item_196,f13trosu,word,clothing,produces,Suruale/Suruale nyire,NA,Trousers,pants
 item_197,f36suisu,word,clothing,produces,Suti/Beli,NA,Suit,suit
 item_198,f12swesw,word,clothing,produces,Sweta,NA,Sweater,sweater
 item_199,f17beluk,word,clothing,produces,Ukanda,NA,Belt,belt
-item_200,f24earvi,word,clothing,produces,Vipuli,NA,Earrings,earrings
+item_200,f24earvi,word,clothing,produces,Vipuli,NA,Earrings,earring
 item_201,f15zipzi,word,clothing,produces,Zipu,NA,Zip,zipper
 item_202,g5fincha,word,body_parts,produces,Chala,NA,Finger,finger
 item_203,g14teedz,word,body_parts,produces,Dzino,NA,Tooth,tooth
@@ -218,7 +218,7 @@ item_215,g16bacmo,word,body_parts,produces,Mongo,NA,Back,back
 item_216,g8hanmuk,word,body_parts,produces,Mukono,NA,Hand,hand
 item_217,g11moumu,word,body_parts,produces,Mulomo,NA,Mouth,mouth
 item_218,g13stond,word,body_parts,produces,Ndani/ Tumbo,NA,Stomach,tummy
-item_219,g19feeny,word,body_parts,produces,Nyayo,NA,Feet,feet
+item_219,g19feeny,word,body_parts,produces,Nyayo,NA,Feet,foot
 item_220,g7hainye,word,body_parts,produces,Nyere,NA,Hair,hair
 item_221,g21nospu,word,body_parts,produces,Pula,NA,Nose,nose
 item_222,g12grise,word,body_parts,produces,Sehemu za siri/ Mududu,NA,Private parts,penis

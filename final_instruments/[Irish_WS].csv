@@ -86,7 +86,7 @@ bainne,item_170,FOOD AND DRINK,produces; doesn't produce,word,bainne,0,food_drin
 banana,item_172,FOOD AND DRINK,produces; doesn't produce,word,banana_ie,1,food_drink,nouns,banana,banana
 bia,item_173,FOOD AND DRINK,produces; doesn't produce,word,bia,0,food_drink,nouns,food,food
 bocaire,item_175,FOOD AND DRINK,produces; doesn't produce,word,bocaire_muifín,0,food_drink,nouns,muffin,muffin
-burgar,item_177,FOOD AND DRINK,produces; doesn't produce,word,burgar_burgar_ie,1,food_drink,nouns,burger,burger
+burgar,item_177,FOOD AND DRINK,produces; doesn't produce,word,burgar_burgar_ie,1,food_drink,nouns,burger,hamburger
 briosca,item_178,FOOD AND DRINK,produces; doesn't produce,word,briosca,0,food_drink,nouns,biscuit,biscuit
 cabáiste,item_180,FOOD AND DRINK,produces; doesn't produce,word,cabáiste,0,food_drink,nouns,cabbage,cabbage
 cáca,item_182,FOOD AND DRINK,produces; doesn't produce,word,cáca_císte,0,food_drink,nouns,cake,cake
@@ -468,7 +468,7 @@ magadh,item_924,ACTION WORDS,produces; doesn't produce,word,magadh,0,action_word
 miongháire,item_926,ACTION WORDS,produces; doesn't produce,word,miongháire,0,action_words,verbs,smile,smile
 nigh,item_928,ACTION WORDS,produces; doesn't produce,word,nigh,0,action_words,verbs,wash,wash
 oibrigh,item_930,ACTION WORDS,produces; doesn't produce,word,oibrigh,0,action_words,verbs,work,work (action)
-ól,item_932,ACTION WORDS,produces; doesn't produce,word,ól,0,action_words,verbs,drink,drink
+ól,item_932,ACTION WORDS,produces; doesn't produce,word,ól,0,action_words,verbs,drink,drink (action)
 sciorr,item_934,ACTION WORDS,produces; doesn't produce,word,sciorr_sleamhnaigh,0,action_words,verbs,slide,slip
 scríobh,item_936,ACTION WORDS,produces; doesn't produce,word,scríobh,0,action_words,verbs,write,write
 scuab,item_938,ACTION WORDS,produces; doesn't produce,word,scuab,0,action_words,verbs,brush,brush (action)

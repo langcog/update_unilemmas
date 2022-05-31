@@ -172,7 +172,7 @@ Gecelik,clothing,Gecelik,word,produces,NA,item_170,NA,night gown,pajamas
 Gözlük,clothing,Gozluk,word,produces,NA,item_171,glasses,eyeglasses,glasses
 Kazak,clothing,Kazak,word,produces,NA,item_172,sweater,sweater,sweater
 Kemer,clothing,Kemer,word,produces,NA,item_173,NA,belt,belt
-Küpe,clothing,Kupe,word,produces,NA,item_174,NA,earring,earrings
+Küpe,clothing,Kupe,word,produces,NA,item_174,NA,earring,earring
 Mont,clothing,Mont,word,produces,NA,item_175,NA,jacket,jacket
 Önlük,clothing,Onluk,word,produces,NA,item_176,bib,bib,bib
 Palto,clothing,Palto,word,produces,NA,item_177,coat,coat,coat
@@ -184,7 +184,7 @@ Taç,clothing,Tac,word,produces,NA,item_182,NA,headband,headband
 Tayt,clothing,Tayt,word,produces,NA,item_183,NA,tights,tights
 Terlik,clothing,Terlik,word,produces,NA,item_184,slipper,slipper,slipper
 Tişört,clothing,Tisort,word,produces,NA,item_185,t-shirt,t-shirt,t-shirt
-Toka,clothing,Toka,word,produces,NA,item_186,NA,hairpin,hairpin
+Toka,clothing,Toka,word,produces,NA,item_186,NA,hairpin,hair clip
 Ağız,body_parts,Agiz,word,produces,NA,item_187,mouth,mouth,mouth
 Ayak,body_parts,Ayak,word,produces,NA,item_188,foot,foot,foot
 Bacak,body_parts,Bacak,word,produces,NA,item_189,leg,leg,leg
@@ -588,7 +588,7 @@ Kocaman,descriptive_words,Kocaman,word,produces,NA,item_586,big,huge/giant,big
 Komik,descriptive_words,Komik,word,produces,NA,item_587,funny,funny,funny
 Koyu,descriptive_words,Koyu,word,produces,NA,item_588,NA,dark,dark
 Kötü,descriptive_words,Kotu,word,produces,NA,item_589,NA,bad,bad
-Kuru,descriptive_words,Kuru,word,produces,NA,item_590,NA,dry,dry
+Kuru,descriptive_words,Kuru,word,produces,NA,item_590,NA,dry,dry (description)
 Küçük,descriptive_words,Kucuk,word,produces,NA,item_591,little (description),little/small,little (description)
 Mor,descriptive_words,Mor,word,produces,NA,item_592,NA,purple,purple
 Pis,descriptive_words,Pis,word,produces,NA,item_593,dirty,foul/nasty/dirty,dirty
