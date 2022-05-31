@@ -188,7 +188,8 @@ new_items[which(new_items$uni_lemma=="paint (verb)"),]$uni_lemma = "paint (actio
 new_items[which(new_items$uni_lemma=="outdoors"),]$uni_lemma = "outside"
 new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (description)"
 new_items[which(new_items$uni_lemma=="open (verb)"),]$uni_lemma = "open (action)"
-
+new_items[which(new_items$uni_lemma=="mother"),]$uni_lemma = "mommy"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 
 
 

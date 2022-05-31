@@ -34,6 +34,8 @@ new_items[which(new_items$definition=="despacio"),]$uni_lemma = "slowly" # (bett
 new_items[which(new_items$uni_lemma=="shut up"),]$uni_lemma = "quiet (action)"
 new_items[which(new_items$uni_lemma=="shovel (object)"),]$uni_lemma = "shovel"
 new_items[which(new_items$uni_lemma=="seal"),]$uni_lemma = "seal (animal)"
+new_items[which(new_items$uni_lemma=="plant (object)"),]$uni_lemma = "plant"
+new_items[which(new_items$uni_lemma=="okay"),]$uni_lemma = "ok"
 
 
 

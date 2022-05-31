@@ -31,11 +31,14 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="orange (fruit)"),]$uni_lemma = "orange (food)"
 new_items[which(new_items$uni_lemma=="nuts"),]$uni_lemma = "nut"
 new_items[which(new_items$uni_lemma=="clean"),]$uni_lemma = "clean (action)"
+new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (description)"
+
 
 # save updated instrument(s)
 
 # ToDo: also WG, but we're missing the old_instruments/[Finnish_WG].csv file!
 #new_wg <- update_instrument("Finnish", "WG", new_items %>% rename(itemID = WG))
+create_new_instrument("Finnish", "WG", new_items %>% rename(itemID = WG))
 
 new_ws <- update_instrument("Finnish", "WS", new_items %>% rename(itemID = WS))
 # "37 new uni-lemmas defined for Finnish"

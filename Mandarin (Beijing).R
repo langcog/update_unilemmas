@@ -44,6 +44,8 @@ new_items[which(new_items$uni_lemma=="tidy (action)"),]$uni_lemma = "clean (acti
 new_items[which(new_items$uni_lemma=="speaker"),]$uni_lemma = "stereo"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="socket"),]$uni_lemma = "outlet"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+
 
 
 

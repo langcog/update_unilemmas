@@ -51,6 +51,25 @@ update_instrument <- function(language, instrument, new_items) {
   return(new_instr)
 }
 
+
+# creates a new instrument (but does not load any nonword items! does Finnish WG / Persian have these items?)
+create_new_instrument <- function(language, instrument, items) {
+  if(instrument=="WG") {
+    choices = "understands; produces"
+  } else {
+    choices = "produces"
+  }
+  instr_name = paste0("[",language,"_",instrument,"].csv")
+  new_instr <- items %>% select(itemID, category, definition, gloss, uni_lemma) %>%
+    mutate(item = definition,
+           choices = choices,
+           type = "word")
+  new_instr %>% write_csv(file=paste0(outdir,instr_name))
+  print(paste("Saved new instrument:",paste0(outdir,instr_name)))
+  return(new_instr)
+}
+
+
 # read all instrument files from given directory, tabulate all uni-lemmas
 tabulate_unilemmas <- function(directory) {
   fnames = list.files(directory)
@@ -74,25 +93,25 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2107 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 481 hapaxes
-  length(unique(new_uni$form)) # 62 forms
+  length(new_uni_tab) # 2098 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 467 hapaxes
+  length(unique(new_uni$form)) # 63 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
   #write_csv(new_unis, file="uni-lemma_list.csv")
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 107 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 127 corrections/changes
   # new uni-lemmas:
   setdiff(names(new_uni_tab), old_uni$uni_lemma) # 845
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1054 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 784 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 583 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 453 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 314 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 189 on 50+
-  length(new_uni_tab[which(new_uni_tab>=60)]) # 58 on 60+ 
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1063 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 787 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 589 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 471 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 323 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 202 on 50+
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 74 on 60+ 
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
@@ -132,6 +151,7 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="village") # 6 -> town (5)
   subset(new_uni, uni_lemma=="biscuit") # are these 11 'cookie'?
   # combine all 'pen' and 'pencil' into 'pen/pencil' ?
+  # mittens -> mitten ?
   
   # siren noises?
   subset(new_uni, uni_lemma=="weee") # Russian

@@ -28,6 +28,7 @@ new_items[which(new_items$uni_lemma=="skate (action)"),]$uni_lemma = "skate"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="sneakers"),]$uni_lemma = "sneaker"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 
 
 subset(new_items, uni_lemma=="")

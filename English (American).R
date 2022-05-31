@@ -19,6 +19,8 @@ new_items[which(new_items$uni_lemma=="hafta"),]$uni_lemma = "have to"
 new_items[which(new_items$uni_lemma=="woods"),]$uni_lemma = "forest"
 new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
 new_items[which(new_items$uni_lemma=="tape"),]$uni_lemma = "tape (object)"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+
 
 # save updated instrument(s)
 new_ws <- update_instrument("English", "WS", new_items %>% rename(itemID = WS))

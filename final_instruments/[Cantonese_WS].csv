@@ -96,7 +96,7 @@ item_94,E3TOMATC,word,food_drink,produces,蕃茄,NA,,tomato
 item_95,E3CORNC,word,food_drink,produces,粟米,NA,corn,corn
 item_96,E3RADISH,word,food_drink,produces,蘿蔔,NA,carrot / radish,carrot
 item_97,E3MELON,word,food_drink,produces,瓜,NA,,melon
-item_98,E3MUSHRM,word,food_drink,produces,(冬/磨)菇,NA,,mushrooms
+item_98,E3MUSHRM,word,food_drink,produces,(冬/磨)菇,NA,,mushroom
 item_99,E3BEAN,word,food_drink,produces,豆,NA,,beans
 item_100,E3TOFU,word,food_drink,produces,豆腐,NA,,tofu
 item_101,E3PEANUT,word,food_drink,produces,花生,NA,,nut
@@ -545,7 +545,7 @@ item_543,H10BOX,word,household,produces,盒,NA,,box
 item_544,H10BUCKE,word,household,produces,桶,NA,,bucket
 item_545,H10BASKE,word,household,produces,籃,NA,,basket
 item_546,H10BROOM,word,household,produces,掃把,NA,,broom
-item_547,H10MOPC,word,household,produces,地拖,NA,,mop
+item_547,H10MOPC,word,household,produces,地拖,NA,,mop (object)
 item_548,H10GARBA,word,household,produces,垃圾,NA,,trash
 item_549,O11WATER,word,outside,produces,水,NA,,water (not beverage)
 item_550,O11FLOWE,word,outside,produces,花,NA,,flower

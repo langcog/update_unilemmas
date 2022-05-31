@@ -229,7 +229,7 @@ item_227,people,babysitter,understands;produces,babysitter,word,nanny/babysitter
 item_228,people,broer(tje),understands;produces,broer(tje),word,(little) brother,brother
 item_229,people,jongen,understands;produces,jongen,word,boy,boy
 item_230,people,kind(je),understands;produces,kind(je),word,child,child
-item_231,people,mama,understands;produces,mama,word,Mom(my),mother
+item_231,people,mama,understands;produces,mama,word,Mom(my),mommy
 item_232,people,meisje,understands;produces,meisje,word,girl,girl
 item_233,people,meneer,understands;produces,meneer,word,Sir,man
 item_234,people,mensen,understands;produces,mensen,word,people,people

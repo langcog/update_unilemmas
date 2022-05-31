@@ -37,6 +37,7 @@ new_items[which(new_items$uni_lemma=="peekabo"),]$uni_lemma = "peekaboo"
 new_items[which(new_items$uni_lemma=="night night"),]$uni_lemma = "good night"
 new_items[which(new_items$WS=="item_76"),]$uni_lemma = "nail (body part)"
 new_items[which(new_items$WS=="item_286"),]$uni_lemma = "nail (object)"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 
 
 

@@ -40,6 +40,8 @@ new_items[which(new_items$uni_lemma=="helper's name"),]$uni_lemma = "babysitter'
 new_items[which(new_items$uni_lemma=="underwear"),]$uni_lemma = "underpants"
 new_items[which(new_items$uni_lemma=="tidy (action)"),]$uni_lemma = "clean (action)"
 new_items[which(new_items$uni_lemma=="piece of"),]$uni_lemma = "piece"
+new_items[which(new_items$uni_lemma=="mushrooms"),]$uni_lemma = "mushroom"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 
 
 

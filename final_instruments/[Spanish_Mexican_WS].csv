@@ -281,7 +281,7 @@ item_279,pala,word,outside,produces,pala,NA,NA,shovel,shovel
 item_280,palo,word,outside,produces,palo,NA,NA,stick,stick
 item_281,pasto,word,outside,produces,pasto,NA,NA,grass,grass
 item_282,piedra,word,outside,produces,piedra,NA,rock (object),stone,rock (object)
-item_283,planta,word,outside,produces,planta,NA,plant,plant,plant (object)
+item_283,planta,word,outside,produces,planta,NA,plant,plant,plant
 item_284,reja,word,outside,produces,reja,NA,NA,grill,grill (object)
 item_285,resbadla,word,outside,produces,resbaladilla,NA,slide (object),slide,slide (object)
 item_286,sol,word,outside,produces,sol,NA,sun,sun,sun

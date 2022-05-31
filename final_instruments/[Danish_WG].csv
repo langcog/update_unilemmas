@@ -386,7 +386,7 @@ inden i,locations,inden_i,word,understands; produces,NA,item_384,inside,inside
 ud,locations,ud,word,understands; produces,NA,item_385,out,out
 bagved,locations,bagved,word,understands; produces,NA,item_386,behind,back (location)
 ned,locations,ned,word,understands; produces,NA,item_387,down,down
-ude,locations,ude,word,understands; produces,NA,item_388,out,out of
+ude,locations,ude,word,understands; produces,NA,item_388,out,out
 der,locations,der,word,understands; produces,NA,item_389,there,there
 nede,locations,nede,word,understands; produces,NA,item_390,down,down
 under,locations,under,word,understands; produces,NA,item_391,below,under

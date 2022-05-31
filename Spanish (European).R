@@ -62,7 +62,7 @@ new_items[which(new_items$uni_lemma=="see (action)"),]$uni_lemma = "see"
 new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
 new_items[which(new_items$uni_lemma=="Pencil"),]$uni_lemma = "pen/pencil"
 new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (food)"
-
+new_items[which(new_items$uni_lemma=="okay"),]$uni_lemma = "ok"
 
 
 

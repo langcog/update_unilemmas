@@ -324,7 +324,7 @@ item_322,palo,palo,outside,word,produces,NA,stick,stick
 item_323,pasto,pasto,outside,word,produces,NA,grass,grass
 item_324,piedra,piedra,outside,word,produces,NA,stone,stone
 item_325,pileta_de_natación_Pile,pileta_de_natación_Pile,outside,word,produces,NA,swiming pool,swimming pool
-item_326,planta,planta,outside,word,produces,NA,plant,plant (object)
+item_326,planta,planta,outside,word,produces,NA,plant,plant
 item_327,reja,reja,outside,word,produces,NA,grill,grill (object)
 item_328,sol,sol,outside,word,produces,NA,sun,sun
 item_329,techo,techo,outside,word,produces,NA,ceiling,roof
@@ -393,12 +393,12 @@ item_391,buenos_días,buenos_días,games_routines,word,produces,NA,good morning,
 item_392,chas_chas,chas_chas,games_routines,word,produces,NA,childish expression for a gentle pat to the back,NA
 item_393,cosquillita,cosquillita,games_routines,word,produces,NA,tickle,tickle
 item_394,cuco_acá_está,cuco_acá_está,games_routines,word,produces,NA,peekaboo,peekaboo
-item_395,dale,dale,games_routines,word,produces,NA,okay,okay
+item_395,dale,dale,games_routines,word,produces,NA,okay,ok
 item_396,gol,gol,games_routines,word,produces,NA,goal (soccer),goal
 item_397,gracias,gracias,games_routines,word,produces,NA,thank you,thank you
 item_398,hola,hola,games_routines,word,produces,NA,hi!,hi
 item_399,ojitos,ojitos,games_routines,word,produces,NA,winking,NA
-item_400,okey,okey,games_routines,word,produces,NA,okay,okay
+item_400,okey,okey,games_routines,word,produces,NA,okay,ok
 item_401,perdón,perdón,games_routines,word,produces,NA,sorry,sorry
 item_402,pis,pis,games_routines,word,produces,NA,pee,pee
 item_403,por_favor_porfi,por_favor_porfi,games_routines,word,produces,NA,please,please

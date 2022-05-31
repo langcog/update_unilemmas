@@ -24,7 +24,7 @@ item_22,a_dormir,word,games_routines,produces,a dormir,NA,go to sleep,sleep
 item_23,a_ver,word,games_routines,produces,a ver,NA,let’s see,see
 item_24,a_vestir,word,games_routines,produces,a vestir,NA,dress (action),dress (action)
 item_25,besitos,word,games_routines,produces,besitos,NA,kisses,kiss
-item_26,bueno,word,games_routines,produces,bueno (bien),NA,okay,okay
+item_26,bueno,word,games_routines,produces,bueno (bien),NA,okay,ok
 item_27,b_dias,word,games_routines,produces,buenos días/noches,NA,good morning / good night,good morning
 item_28,carino,word,games_routines,produces,cariño,NA,affection,NA
 item_29,c_lobito,word,games_routines,produces,cinco lobitos,NA,five little wolves,NA
@@ -46,7 +46,7 @@ item_44,quepasa,word,games_routines,produces,¿qué pasa?,NA,what's up?,NA
 item_45,seacabo,word,games_routines,produces,se acabó,NA,It’s gone,all gone
 item_46,tequiero,word,games_routines,produces,te quiero,NA,I love you,NA
 item_47,tonto,word,games_routines,produces,tonto/a,NA,silly,silly
-item_48,vale,word,games_routines,produces,vale,NA,okay,okay
+item_48,vale,word,games_routines,produces,vale,NA,okay,ok
 item_49,vamos,word,games_routines,produces,vamos,NA,we go,NA
 item_50,ya_esta,word,games_routines,produces,ya está,NA,it’s done,all done
 item_51,animal,word,animals,produces,animal,NA,animal,animal

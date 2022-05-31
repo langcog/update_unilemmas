@@ -219,7 +219,7 @@ item_217,lamp,word,household,produces,lamp,NA,lamp,lamp
 item_218,light,word,household,produces,light,NA,light,light (object)
 item_219,medicine,word,household,produces,medicine,NA,medicine,medicine
 item_220,money,word,household,produces,money,NA,money,money
-item_221,mop,word,household,produces,mop,NA,mop,mop
+item_221,mop,word,household,produces,mop,NA,mop,mop (object)
 item_222,plate,word,household,produces,plate,NA,plate,plate
 item_223,purse_wallet,word,household,produces,purse/wallet,NA,purse/wallet,purse
 item_224,radio,word,household,produces,radio,NA,radio,radio

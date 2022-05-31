@@ -69,7 +69,9 @@ new_items[which(new_items$uni_lemma=="brother's name"),]$uni_lemma = "brother" #
 new_items[which(new_items$uni_lemma=="sister's name"),]$uni_lemma = "sister" # OK?
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
-
+new_items[which(new_items$uni_lemma=="playgroup"),]$uni_lemma = "nursery" # or preschool?
+new_items[which(new_items$uni_lemma=="mushrooms"),]$uni_lemma = "mushroom"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 
 
 

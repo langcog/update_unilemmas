@@ -185,7 +185,7 @@ item_183,p1_c06_i19,word,understands; produces,clothing,נעלי בית,slippers
 item_184,p1_c06_i20,word,understands; produces,clothing,נעלי ספורט/ התעמלות,sneakers,sneaker
 item_185,p1_c06_i21,word,understands; produces,clothing,סוודר,sweater,sweater
 item_186,p1_c06_i22,word,understands; produces,clothing,סינר,apron,apron
-item_187,p1_c06_i23,word,understands; produces,clothing,סנדלים,sandals,sandals
+item_187,p1_c06_i23,word,understands; produces,clothing,סנדלים,sandals,sandal
 item_188,p1_c06_i24,word,understands; produces,clothing,פיג'מה,pajamas,pajamas
 item_189,p1_c06_i25,word,understands; produces,clothing,צעיף,scarf,scarf
 item_190,p1_c06_i26,word,understands; produces,clothing,רוכסן/ ריצ'רץ,zipper,zipper
@@ -261,7 +261,7 @@ item_259,p1_c09_i11,word,understands; produces,household,כפית,teaspoon,spoon
 item_260,p1_c09_i12,word,understands; produces,household,כרית,pillow,pillow
 item_261,p1_c09_i13,word,understands; produces,household,מברשת,brush,brush (object)
 item_262,p1_c09_i14,word,understands; produces,household,מברשת שיניים,toothbrush,toothbrush
-item_263,p1_c09_i15,word,understands; produces,household,מגב,mop,mop
+item_263,p1_c09_i15,word,understands; produces,household,מגב,mop,mop (object)
 item_264,p1_c09_i16,word,understands; produces,household,מגבת,towel,towel
 item_265,p1_c09_i17,word,understands; produces,household,מגש,tray,tray
 item_266,p1_c09_i18,word,understands; produces,household,מוצץ,pacifier,pacifier

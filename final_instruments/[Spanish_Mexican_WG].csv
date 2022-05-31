@@ -212,7 +212,7 @@ item_210,nieve,word,outside,understands; produces,nieve,NA,snow,snow
 item_211,nube,word,outside,understands; produces,nube,NA,cloud,cloud
 item_212,parque,word,outside,understands; produces,parque,NA,park,park
 item_213,piedra,word,outside,understands; produces,piedra,NA,stone,rock (object)
-item_214,planta,word,outside,understands; produces,planta,NA,plant,plant (object)
+item_214,planta,word,outside,understands; produces,planta,NA,plant,plant
 item_215,playa,word,outside,understands; produces,playa,NA,beach,beach
 item_216,resbald,word,outside,understands; produces,resbaladilla,NA,slide,slide (object)
 item_217,sol,word,outside,understands; produces,sol,NA,sun,sun

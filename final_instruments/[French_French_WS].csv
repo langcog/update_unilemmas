@@ -256,7 +256,7 @@ item_242,item_242,word,household,produces,poubelle,trash can,trash
 item_243,item_243,word,household,produces,radio,radio,radio
 item_244,item_244,word,household,produces,savon,soap,soap
 item_245,item_245,word,household,produces,seau,bucket,bucket
-item_246,item_246,word,household,produces,serpillère,swab,mop
+item_246,item_246,word,household,produces,serpillère,swab,mop (object)
 item_247,item_247,word,household,produces,serviette,towel,towel
 item_248,item_248,word,household,produces,serviette de table,,napkin
 item_249,item_249,word,household,produces,sirop,syrop,syrup

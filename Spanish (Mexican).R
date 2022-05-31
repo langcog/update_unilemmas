@@ -49,6 +49,8 @@ new_items[which(new_items$uni_lemma=="when"),]$uni_lemma = "when (question)"
 new_items[which(new_items$uni_lemma=="silence (action)"),]$uni_lemma = "quiet (action)"
 new_items[which(new_items$uni_lemma=="shovel (object)"),]$uni_lemma = "shovel"
 new_items[which(new_items$uni_lemma=="seal"),]$uni_lemma = "seal (animal)"
+new_items[which(new_items$uni_lemma=="plant (object)"),]$uni_lemma = "plant"
+
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_Mexican", "WS", new_items %>% rename(itemID = WS))

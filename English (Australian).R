@@ -35,6 +35,8 @@ new_items[which(new_items$uni_lemma=="carrots"),]$uni_lemma = "carrot"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
+new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
+
 
 
 # save updated instrument(s)

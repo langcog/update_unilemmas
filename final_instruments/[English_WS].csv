@@ -235,7 +235,7 @@ item_233,lamp,word,household,produces,lamp,NA,lamp,lamp
 item_234,light,word,household,produces,light,NA,light,light (object)
 item_235,medicine,word,household,produces,medicine,NA,medicine,medicine
 item_236,money,word,household,produces,money,NA,money,money
-item_237,mop,word,household,produces,mop,NA,mop,mop
+item_237,mop,word,household,produces,mop,NA,mop,mop (object)
 item_238,nail,word,household,produces,nail,NA,nail,nail (object)
 item_239,napkin,word,household,produces,napkin,NA,napkin,napkin
 item_240,paper,word,household,produces,paper,NA,paper,paper

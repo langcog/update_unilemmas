@@ -32,7 +32,7 @@ item_30,shh,word,games_routines,understands; produces,shh (a callar),NA,shh,shh
 item_31,si,word,games_routines,understands; produces,sí,NA,yes,yes
 item_32,porfa,word,games_routines,understands; produces,por favor,NA,please,please
 item_33,tonto,word,games_routines,understands; produces,tonto/a,NA,silly,silly
-item_34,vale,word,games_routines,understands; produces,vale,NA,okay,okay
+item_34,vale,word,games_routines,understands; produces,vale,NA,okay,ok
 item_35,vamos,word,games_routines,understands; produces,vamos,NA,we go,NA
 item_36,y_tres,word,games_routines,understands; produces,"(uno, dos) y tres",NA,one two three,one two three
 item_37,ya_esta,word,games_routines,understands; produces,ya está,NA,it’s done,all done

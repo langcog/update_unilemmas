@@ -128,7 +128,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 вода,food_drink,NA,word,produces,NA,item_127,water,water (beverage)
 груша,food_drink,NA,word,produces,NA,item_128,pear,pear
 горох,food_drink,NA,word,produces,NA,item_129,peas,peas
-грибы,food_drink,NA,word,produces,NA,item_130,mushrooms,mushrooms
+грибы,food_drink,NA,word,produces,NA,item_130,mushrooms,mushroom
 еда,food_drink,NA,word,produces,NA,item_131,food,food
 изюм,food_drink,NA,word,produces,NA,item_132,raisin,raisin
 йогурт,food_drink,NA,word,produces,NA,item_133,yogurt,yogurt
@@ -295,7 +295,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 часы,household,NA,word,produces,NA,item_294,watch/clock,watch (object)
 чашка,household,NA,word,produces,NA,item_295,cup,cup
 шампунь,household,NA,word,produces,NA,item_296,shampoo,shampoo
-швабра,household,NA,word,produces,NA,item_297,mop,mop
+швабра,household,NA,word,produces,NA,item_297,mop,mop (object)
 балкон,furniture_rooms,NA,word,produces,NA,item_298,balcony,balcony
 ванна,furniture_rooms,NA,word,produces,NA,item_299,bathtub,bathtub
 дверь,furniture_rooms,NA,word,produces,NA,item_300,door,door
@@ -356,7 +356,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 горка,places,NA,word,produces,NA,item_355,slide,slide (object)
 город,places,NA,word,produces,NA,item_356,city,city
 гости,places,NA,word,produces,NA,item_357,on a visit,outing
-группа,places,NA,word,produces,NA,item_358,playgroup,playgroup
+группа,places,NA,word,produces,NA,item_358,playgroup,nursery
 дача,places,NA,word,produces,NA,item_359,country house,cabin
 двор,places,NA,word,produces,NA,item_360,yard,yard
 детский сад,places,NA,word,produces,NA,item_361,kindergarten,kindergarten

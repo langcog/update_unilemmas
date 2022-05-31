@@ -91,7 +91,7 @@ item_89,pronouns,he,he,produces,word,they,they
 item_90,pronouns,heidän,heidän,produces,word,their,their
 item_91,pronouns,minä,minä,produces,word,I,I
 item_92,question_words,miksi,miksi,produces,word,why,why
-item_93,prepositions,auki,auki,produces,word,turned on,open
+item_93,prepositions,auki,auki,produces,word,turned on,open (description)
 item_94,prepositions,pois,pois,produces,word,away,away
 item_95,prepositions,ylös,ylös,produces,word,up,up
 item_96,quantifiers,vähän,vähän,produces,word,few,few

@@ -556,7 +556,7 @@ item_554,question_words,milloin,milloin,produces,word,when,when (question)
 item_555,question_words,missä,missä,produces,word,where,where (question)
 item_556,question_words,"mitä (e.g. ""What did you say?)","mitä (e.g. ""What did you say?)",produces,word,what,what
 item_557,prepositions,alas,alas,produces,word,down,down
-item_558,prepositions,auki,auki,produces,word,turned on,open
+item_558,prepositions,auki,auki,produces,word,turned on,open (description)
 item_559,prepositions,kanssa,kanssa,produces,word,together,together
 item_560,prepositions,pois,pois,produces,word,away,away
 item_561,prepositions,alla,alla,produces,word,under,under

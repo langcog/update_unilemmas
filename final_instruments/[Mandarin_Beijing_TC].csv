@@ -406,7 +406,7 @@ item_399,锁,suo3,household,word,produces,lock,lock (object)
 item_400,毯子,tan3zi5,household,word,produces,blanket,blanket
 item_401,条帚,tiao2zhou5,household,word,produces,broom,broom
 item_402,桶,tong3,household,word,produces,bucket,bucket
-item_403,拖把,tuo1ba3,household,word,produces,mop,mop
+item_403,拖把,tuo1ba3,household,word,produces,mop,mop (object)
 item_404,碗,wan3,household,word,produces,bowl,bowl
 item_405,香皂,xiang1zao4,household,word,produces,soap,soap
 item_406,牙膏,ya2gao1,household,word,produces,toothpaste,toothpaste

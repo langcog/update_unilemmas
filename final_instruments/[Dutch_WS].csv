@@ -238,7 +238,7 @@ item_236,household,camera/fototoestel,understands;produces,camera/fototoestel,wo
 item_237,household,computer,understands;produces,computer,word,computer,computer
 item_238,household,deken/dekbed,understands;produces,deken/dekbed,word,blanket,blanket
 item_239,household,doos,understands;produces,doos,word,box,box
-item_240,household,dweil,understands;produces,dweil,word,mop,mop
+item_240,household,dweil,understands;produces,dweil,word,mop,mop (object)
 item_241,household,emmer,understands;produces,emmer,word,bucket,bucket
 item_242,household,fles,understands;produces,fles,word,bottle,bottle
 item_243,household,foto,understands;produces,foto,word,foto,picture
@@ -376,7 +376,7 @@ item_374,people,eenpersoon,understands;produces,eenpersoon,word,a person,person
 item_375,people,jongen,understands;produces,jongen,word,boy,boy
 item_376,people,juf(frouw)/meester,understands;produces,juf(frouw)/meester,word,teacher,teacher
 item_377,people,kind(je),understands;produces,kind(je),word,child,child
-item_378,people,mama,understands;produces,mama,word,Mom(my),mother
+item_378,people,mama,understands;produces,mama,word,Mom(my),mommy
 item_379,people,meisje,understands;produces,meisje,word,girl,girl
 item_380,people,meneer,understands;produces,meneer,word,Sir,man
 item_381,people,mensen,understands;produces,mensen,word,people,people

@@ -627,7 +627,7 @@ item_707,item_707,word,household,understands; produces,seau,item_507,Petits obje
 item_708,item_708,word,household,understands; produces,ordures,item_509,Petits objets ménagers,trash,trash
 item_709,item_709,word,household,understands; produces,pot,item_510,Petits objets ménagers,,jar
 item_710,item_710,word,household,understands; produces,couteau,item_511,Petits objets ménagers,knife,knife
-item_711,item_711,word,household,understands; produces,serpillière,item_512,Petits objets ménagers,,mop
+item_711,item_711,word,household,understands; produces,serpillière,item_512,Petits objets ménagers,,mop (object)
 item_712,item_712,word,household,understands; produces,clou,item_513,Petits objets ménagers,nail (object),nail (object)
 item_713,item_713,word,household,understands; produces,serviette de table,item_514,Petits objets ménagers,,napkin
 item_714,item_714,word,household,understands; produces,cassette,item_515,Petits objets ménagers,cassette,tape (object)
