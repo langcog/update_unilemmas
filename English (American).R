@@ -21,14 +21,15 @@ new_items[which(new_items$uni_lemma=="vitamins"),]$uni_lemma = "vitamin"
 new_items[which(new_items$uni_lemma=="tape"),]$uni_lemma = "tape (object)"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
-
+new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
+new_items[which(new_items$uni_lemma=="sofa"),]$uni_lemma = "couch" # mapping sofa to couch because so similar
 
 # save updated instrument(s)
 new_ws <- update_instrument("English", "WS", new_items %>% rename(itemID = WS))
 # "1 new uni-lemmas defined for English"
 # "pastry"
 
-# ToDo: check why don't itemIDs/definitions match??
+# ToDo: check why itemIDs/definitions don't match??
 new_wg <- update_instrument("English", "WG", new_items %>% rename(itemID = WG))
 # "All itemIDs accounted for in new file: FALSE"
 # "All definitions accounted for in new file: FALSE"

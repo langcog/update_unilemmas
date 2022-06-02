@@ -53,6 +53,7 @@ new_items[which(new_items$uni_lemma=="plant (object)"),]$uni_lemma = "plant"
 new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring" 
 new_items[which(new_items$uni_lemma=="eat breakfast"),]$uni_lemma = "breakfast (action)"
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
+new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
 
 
 # save updated instruments

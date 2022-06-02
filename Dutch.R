@@ -92,7 +92,7 @@ new_items[which(new_items$uni_lemma=="thanks"),]$uni_lemma = "thank you"
 new_items[which(new_items$uni_lemma=="comb"),]$uni_lemma = "comb (object)"
 new_items[which(new_items$uni_lemma=="be able to"),]$uni_lemma = "be able"
 new_items[which(new_items$uni_lemma=="bean"),]$uni_lemma = "beans"
-new_items[which(new_items$uni_lemma=="(to have) breakfast"),]$uni_lemma = "breakfast (action)"
+new_items[which(new_items$uni_lemma=="(to have) breakfast"),]$uni_lemma = "breakfast"
 new_items[which(new_items$uni_lemma=="catepillar"),]$uni_lemma = "caterpillar"
 new_items[which(new_items$uni_lemma=="drink (verb+noun)"),]$uni_lemma = "drink (action)" # in action_words, so
 new_items[which(new_items$uni_lemma=="dick"),]$uni_lemma = "penis"
@@ -212,7 +212,8 @@ new_items[which(new_items$uni_lemma=="brush/broom"),]$uni_lemma = "broom"
 new_items[which(new_items$uni_lemma=="bulldozer"),]$uni_lemma = "digger"
 new_items[which(new_items$uni_lemma=="buttock/poo"),]$uni_lemma = "butt" 
 new_items[which(new_items$uni_lemma=="chain (jewellery)"),]$uni_lemma = "necklace" 
-
+new_items[which(new_items$uni_lemma=="be (verb)"),]$uni_lemma = "be" 
+new_items[which(new_items$uni_lemma=="cellar"),]$uni_lemma = "basement"
 
 
 

@@ -43,6 +43,7 @@ new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
 new_items[which(new_items$uni_lemma=="crane (vehicle)"),]$uni_lemma = "crane"
 new_items[which(new_items$uni_lemma=="cacao"),]$uni_lemma = "cocoa"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
+new_items[which(new_items$uni_lemma=="aside"),]$uni_lemma = "beside"
 
 
 subset(new_items, uni_lemma=="")

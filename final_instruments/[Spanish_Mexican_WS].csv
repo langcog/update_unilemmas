@@ -186,7 +186,7 @@ item_184,piernas,word,body_parts,produces,piernas,NA,leg,legs,leg
 item_185,pies,word,body_parts,produces,pies,NA,foot,feet,foot
 item_186,rodilla,word,body_parts,produces,rodilla,NA,knee,knee,knee
 item_187,vagina,word,body_parts,produces,vagina,NA,NA,vagina,vagina
-item_188,bat,word,toys,produces,bat,NA,NA,bat,bat
+item_188,bat,word,toys,produces,bat,NA,NA,bat,bat (object)
 item_189,burbujas,word,toys,produces,burbujas,NA,NA,bubbles,bubbles
 item_190,colores,word,toys,produces,colores,NA,NA,colors,colors
 item_191,crayolas,word,toys,produces,crayolas,NA,NA,crayons,crayon

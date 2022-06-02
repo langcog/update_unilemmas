@@ -268,7 +268,7 @@ item_266,vestido,word,clothing,produces,vestido,NA,dress,dress (object)
 item_267,zapatilla,word,clothing,produces,zapatilla(s),NA,shoes,shoe
 item_268,zapato,word,clothing,produces,zapato(s),NA,shoes,shoe
 item_269,arbol,word,outside,produces,árbol,NA,tree,tree
-item_270,arena,word,outside,produces,arena/tierra,NA,sand land,earth
+item_270,arena,word,outside,produces,arena/tierra,NA,sand land,sand
 item_271,banco,word,outside,produces,banco/banca,NA,bank/banking,bank
 item_272,caballito,word,outside,produces,caballito/carrusel/juegos mecánicos,NA,horse/carousel/rides,carousel
 item_273,calle,word,outside,produces,calle,NA,street,street
@@ -568,7 +568,7 @@ item_566,algun,word,quantifiers,produces,algún(a),NA,some,some
 item_567,cuatro,word,quantifiers,produces,cuatro,NA,four,four
 item_568,dos,word,quantifiers,produces,dos,NA,two,two
 item_569,el_q,word,quantifiers,produces,el (carro…),NA,the (car…),the
-item_570,la,word,quantifiers,produces,la (pelota…),NA,the (ball…),the
+item_570,la,word,quantifiers,produces,la (pelota…),NA,the (car…),the
 item_571,las,word,quantifiers,produces,las (muñecas…),NA,the (dolls…),the
 item_572,los,word,quantifiers,produces,los (juguetes…),NA,the (toys…),the
 item_573,mas,word,quantifiers,produces,más,NA,plus,more

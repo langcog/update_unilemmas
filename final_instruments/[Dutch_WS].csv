@@ -294,7 +294,7 @@ item_292,furniture_rooms,gootsteen/afwasbak,understands;produces,gootsteen/afwas
 item_293,furniture_rooms,kachel/openhaard,understands;produces,kachel/openhaard,word,heater/fireplace,heater/fireplace
 item_294,furniture_rooms,kamer,understands;produces,kamer,word,room,room
 item_295,furniture_rooms,kast,understands;produces,kast,word,cupboard,cupboard
-item_296,furniture_rooms,kelder,understands;produces,kelder,word,cellar,cellar
+item_296,furniture_rooms,kelder,understands;produces,kelder,word,cellar,basement
 item_297,furniture_rooms,keuken,understands;produces,keuken,word,kitchen,kitchen
 item_298,furniture_rooms,kinderstoel,understands;produces,kinderstoel,word,baby chair,high chair
 item_299,furniture_rooms,koelkast/frigo/ijskast/diepvries,understands;produces,koelkast/frigo/ijskast/diepvries,word,fridge/freezer,fridge/freezer
@@ -409,7 +409,7 @@ item_407,games_routines,kiekeboe/piep!,understands;produces,kiekeboe/piep!,word,
 item_408,games_routines,middageten,understands;produces,middageten,word,lunch,lunch
 item_409,games_routines,(middag)slaapje/dutjedoen,understands;produces,(middag)slaapje/dutjedoen,word,(take a) nap,sleep
 item_410,games_routines,nee,understands;produces,nee,word,no,no
-item_411,games_routines,ontbijt/ontbijten,understands;produces,ontbijt/ontbijten,word,(to have) breakfast,breakfast (action)
+item_411,games_routines,ontbijt/ontbijten,understands;produces,ontbijt/ontbijten,word,(to have) breakfast,breakfast
 item_412,games_routines,ophetpotjegaanofzitten,understands;produces,ophetpotjegaanofzitten,word,go potty,go potty
 item_413,games_routines,ronddraaien,understands;produces,ronddraaien,word,turn around,turn around
 item_414,games_routines,slaapwel/goedenacht/welterusten/slaaplekker,understands;produces,slaapwel/goedenacht/welterusten/slaaplekker,word,goodnight/sleep well,good night
@@ -669,8 +669,8 @@ item_667,quantifiers,niet,understands;produces,niet,word,not,not
 item_668,quantifiers,ook,understands;produces,ook,word,too,too
 item_669,quantifiers,veel,understands;produces,veel,word,a lot,a lot
 item_670,quantifiers,zelfde,understands;produces,zelfde,word,same,same
-item_671,helping_verbs,ben(bvbikben),understands;produces,ben(bvbikben),word,am,be (verb)
-item_672,helping_verbs,bent(bvbjijbent),understands;produces,bent(bvbjijbent),word,(you) are,be (verb)
+item_671,helping_verbs,ben(bvbikben),understands;produces,ben(bvbikben),word,am,be
+item_672,helping_verbs,bent(bvbjijbent),understands;produces,bent(bvbjijbent),word,(you) are,be
 item_673,helping_verbs,deed/deedje,understands;produces,deed/deedje,word,did,do
 item_674,helping_verbs,doen,understands;produces,doen,word,to do,do
 item_675,helping_verbs,ga+ww(bvbikgaspelen),understands;produces,ga+ww(bvbikgaspelen),word,to go,go

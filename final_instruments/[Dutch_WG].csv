@@ -179,7 +179,7 @@ item_177,furniture_rooms,garage,understands;produces,garage,word,garage,garage
 item_178,furniture_rooms,gootsteen/afwasbak,understands;produces,gootsteen/afwasbak,word,sink,sink
 item_179,furniture_rooms,kachel/openhaard,understands;produces,kachel/openhaard,word,heater/fireplace,heater/fireplace
 item_180,furniture_rooms,kast,understands;produces,kast,word,cupboard,cupboard
-item_181,furniture_rooms,kelder,understands;produces,kelder,word,cellar,cellar
+item_181,furniture_rooms,kelder,understands;produces,kelder,word,cellar,basement
 item_182,furniture_rooms,keuken,understands;produces,keuken,word,kitchen,kitchen
 item_183,furniture_rooms,kinderstoel,understands;produces,kinderstoel,word,baby chair,high chair
 item_184,furniture_rooms,koelkast/frigo/ijskast/diepvries,understands;produces,koelkast/frigo/ijskast/diepvries,word,fridge/freezer,fridge/freezer

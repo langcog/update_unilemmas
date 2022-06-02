@@ -13,6 +13,7 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 # "0 uni_lemmas still missing ( 0 % missing)"
 
 #new_items[which(new_items$definition=="tv"),]$uni_lemma = "TV"
+new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "sand" # or soil ?
 
 
 

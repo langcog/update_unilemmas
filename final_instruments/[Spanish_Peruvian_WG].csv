@@ -174,7 +174,7 @@ item_172,short,word,clothing,understands; produces,short,NA,shorts,shorts
 item_173,zapatilla,word,clothing,understands; produces,zapatilla(s),NA,shoes,shoe
 item_174,zapato,word,clothing,understands; produces,zapato(s),NA,shoes,shoe
 item_175,arbol,word,outside,understands; produces,árbol,NA,tree,tree
-item_176,arena,word,outside,understands; produces,arena/tierra,NA,sand land,earth
+item_176,arena,word,outside,understands; produces,arena/tierra,NA,sand land,sand
 item_177,caballito,word,outside,understands; produces,caballito/carrusel/juegos mecánicos,NA,horse/carousel/rides,carousel
 item_178,casa,word,outside,understands; produces,casa,NA,house,house
 item_179,calle,word,outside,understands; produces,calle,NA,street,street

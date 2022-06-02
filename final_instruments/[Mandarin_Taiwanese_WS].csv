@@ -226,7 +226,7 @@ item_224,a06_16,word,toys,produces,鼓,NA,drum,drum
 item_225,a06_17,word,toys,produces,黏土,NA,clay,play dough
 item_226,a06_18,word,toys,produces,膠水,NA,glue,glue
 item_227,a06_19,word,toys,produces,手槍,NA,handgun,gun
-item_228,a06_20,word,toys,produces,球棒,NA,bat,bat
+item_228,a06_20,word,toys,produces,球棒,NA,bat,bat (object)
 item_229,a07_01,word,household,produces,電話,NA,telephone,telephone
 item_230,a07_02,word,household,produces,杯子,NA,cup,cup
 item_231,a07_03,word,household,produces,牙刷,NA,toothbrush,toothbrush

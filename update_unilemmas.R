@@ -1,3 +1,6 @@
+
+require(tidyverse)
+
 # for wordbank 2.0 (2022 effort with Alvin)
 # https://docs.google.com/spreadsheets/d/1RcpMgnjSA0nRbym0iDYcBPjL48IMNQxawmil0d4txsA/edit#gid=2109338433
 update_unilemmas <- function(language, show_conflicts=F) {
@@ -88,13 +91,13 @@ tabulate_unilemmas <- function(directory) {
 
 examine_new_unilemmas <- function() {
   # how it started: 1380 uni-lemmas
-  # how it's going: 2089 uni-lemmas
+  # how it's going: 2064 uni-lemmas
   old_uni <- wordbankr::get_crossling_items()
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2066 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 438 hapaxes
+  length(new_uni_tab) # 2064 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 437 hapaxes
   length(unique(new_uni$form)) # 65 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
@@ -103,15 +106,15 @@ examine_new_unilemmas <- function() {
   # uni-lemmas we no longer have:
   setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 140 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 812
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 823
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1060 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 786 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 591 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 474 on 30+ forms
-  length(new_uni_tab[which(new_uni_tab>=40)]) # 327 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 206 on 50+
-  length(new_uni_tab[which(new_uni_tab>=60)]) # 75 on 60+ 
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1074 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 799 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 597 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 480 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=40)]) # 343 on 40+ forms
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 219 on 50+
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 97 on 60+ 
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
@@ -137,6 +140,11 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="comb") # Dutch & Irish -> comb (object)
   #subset(new_uni, uni_lemma=="brawl") # Norwegian -> fight
   
+  # needs disambiguation:
+  subset(new_uni, uni_lemma=="back") # (location) / (body part) ...
+  subset(new_uni, uni_lemma=="bat") # (animal) / (object)
+  
+  
   # bigger merges:
   #subset(new_uni, uni_lemma=="carrots") # -> carrot
   #subset(new_uni, uni_lemma=="kind") # 5, but 30 have 'nice' -> updated!
@@ -159,11 +167,14 @@ examine_new_unilemmas <- function() {
   # hurt -> (action) / (description)
   # horrible <-> terrible ?
   
-  # various songbirds: swallow, sparrow, robin (1), pigeon, magpie (1)
+  # all Spanish reloj -> clock, or watch (object)?
+  # (Span Eur has clock, most have watch (object))
   
-  # siren noises?
+  # various songbirds: swallow, sparrow, robin (1), pigeon, magpie (1), dove
+  
+  # siren noises - now "wee woo"
   subset(new_uni, uni_lemma=="weee") # Russian
-  subset(new_uni, uni_lemma=="bi boo (siren)") # Cantonese
+  #subset(new_uni, uni_lemma=="bi boo (siren)") # Cantonese
   # nino nino ?
   
   # going after hapaxes

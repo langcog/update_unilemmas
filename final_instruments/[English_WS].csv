@@ -70,7 +70,7 @@ item_68,tricycle,word,vehicles,produces,tricycle,NA,tricycle,tricycle
 item_69,truck,word,vehicles,produces,truck,NA,truck,truck
 item_70,ball,word,toys,produces,ball,NA,ball,ball
 item_71,balloon,word,toys,produces,balloon,NA,balloon,balloon
-item_72,bat,word,toys,produces,bat,NA,bat,bat
+item_72,bat,word,toys,produces,bat,NA,bat,bat (object)
 item_73,block,word,toys,produces,block,NA,block,block
 item_74,book,word,toys,produces,book,NA,book,book
 item_75,bubbles,word,toys,produces,bubbles,NA,bubbles,bubbles
@@ -285,7 +285,7 @@ item_283,refrigerator,word,furniture_rooms,produces,refrigerator,NA,refrigerator
 item_284,room,word,furniture_rooms,produces,room,NA,room,room
 item_285,shower,word,furniture_rooms,produces,shower,NA,shower,shower
 item_286,sink,word,furniture_rooms,produces,sink,NA,sink,sink
-item_287,sofa,word,furniture_rooms,produces,sofa,NA,sofa,sofa
+item_287,sofa,word,furniture_rooms,produces,sofa,NA,sofa,couch
 item_288,stairs,word,furniture_rooms,produces,stairs,NA,stairs,stairs
 item_289,stove,word,furniture_rooms,produces,stove,NA,stove,stove
 item_290,table,word,furniture_rooms,produces,table,NA,table,table
