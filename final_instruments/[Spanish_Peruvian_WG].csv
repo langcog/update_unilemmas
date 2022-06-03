@@ -213,7 +213,7 @@ item_211,foto,word,household,understands; produces,foto(s)/cámara,NA,photo(s)/c
 item_212,jarabe,word,household,understands; produces,jarabe,NA,syrup,syrup
 item_213,lavadora,word,household,understands; produces,lavadora,NA,washer,washing machine
 item_214,llave,word,household,understands; produces,llave(s),NA,keys,key
-item_215,luz,word,household,understands; produces,luz,NA,light,light
+item_215,luz,word,household,understands; produces,luz,NA,light,light (object)
 item_216,medicina,word,household,understands; produces,medicina/remedio,NA,medicine/remedy,medicine
 item_217,mesa,word,household,understands; produces,mesa,NA,desk,table
 item_218,peine,word,household,understands; produces,peine,NA,comb,comb (object)
@@ -256,7 +256,7 @@ item_254,poner,word,action_words,understands; produces,poner(se),NA,put on,put o
 item_255,prender,word,action_words,understands; produces,prender/encender,NA,turn on,turn on
 item_256,quemar,word,action_words,understands; produces,quemar,NA,burn,burn (action)
 item_257,querer,word,action_words,understands; produces,querer,NA,want,want
-item_258,quitar,word,action_words,understands; produces,quitar(se),NA,take off,take off
+item_258,quitar,word,action_words,understands; produces,quitar(se),NA,take off,remove
 item_259,reir,word,action_words,understands; produces,reír,NA,laugh,laugh
 item_260,sentar,word,action_words,understands; produces,sentar(se),NA,sit,sit
 item_261,ser,word,action_words,understands; produces,ser (eres/es…),NA,be [am/are/are],be

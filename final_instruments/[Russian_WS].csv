@@ -1,5 +1,5 @@
 definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
-а-а-а,sounds,NA,word,produces,NA,item_1,,weee
+а-а-а,sounds,NA,word,produces,NA,item_1,,wee woo
 ав,sounds,NA,word,produces,NA,item_2,Woof-woof,woof woof
 алё,sounds,NA,word,produces,NA,item_3,Ring-ring,hello
 ам-ам/ням-ням,sounds,NA,word,produces,NA,item_4,Yum-yum,yum yum
@@ -506,7 +506,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 слушать/слышать,action_words,NA,word,produces,NA,item_505,hear,hear
 смеяться,action_words,NA,word,produces,NA,item_506,laugh,laugh
 смотреть,action_words,NA,word,produces,NA,item_507,look,look
-снимать,action_words,NA,word,produces,NA,item_508,take off,take off
+снимать,action_words,NA,word,produces,NA,item_508,take off,remove
 собирать,action_words,NA,word,produces,NA,item_509,pick,collect
 спать,action_words,NA,word,produces,NA,item_510,sleep,sleep
 ставить,action_words,NA,word,produces,NA,item_511,put,put

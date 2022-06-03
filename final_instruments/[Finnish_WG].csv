@@ -444,7 +444,7 @@ item_282,action_words,työntää,push,push,työntää,understands; produces,word
 item_283,action_words,vetää,pull,pull,vetää,understands; produces,word
 item_284,action_words,vilkuttaa,wink,wink,vilkuttaa,understands; produces,word
 ,action_words,ravistaa,shake,shake,ravistaa,understands; produces,word
-item_276,action_words,riisua,take off,take off,riisua,understands; produces,word
+item_276,action_words,riisua,take off,remove,riisua,understands; produces,word
 item_277,action_words,roiskuttaa,splatter,splash,roiskuttaa,understands; produces,word
 ,action_words,sanoa,say,say,sanoa,understands; produces,word
 item_278,action_words,siivota,clean up,clean (action),siivota,understands; produces,word

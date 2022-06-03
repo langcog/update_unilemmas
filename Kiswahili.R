@@ -45,6 +45,7 @@ new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (animal)"
+new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "telephone"
 
 
 

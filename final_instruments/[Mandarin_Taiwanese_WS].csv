@@ -259,7 +259,7 @@ item_257,a07_29,word,household,produces,電鍋,NA,electric pot,pot
 item_258,a07_30,word,household,produces,銅板(零錢),NA,penny,coin
 item_259,a07_31,word,household,produces,皮包,NA,purse,purse
 item_260,a07_32,word,household,produces,圖片,NA,picture,picture
-item_261,a07_33,word,household,produces,手機,NA,cell-phone,phone
+item_261,a07_33,word,household,produces,手機,NA,cell-phone,telephone
 item_262,a07_34,word,household,produces,電燈,NA,lamp,lamp
 item_263,a07_35,word,household,produces,衛生紙(面紙),NA,tissue paper,tissue
 item_264,a07_36,word,household,produces,冰箱,NA,refrigerator,refrigerator
@@ -308,7 +308,7 @@ item_306,a08_20,word,furniture_rooms,produces,洗衣機,NA,washing machine,washi
 item_307,a08_21,word,furniture_rooms,produces,地板,NA,floor,floor
 item_308,a08_22,word,furniture_rooms,produces,櫃子,NA,cupboard,cupboard
 item_309,a08_23,word,furniture_rooms,produces,浴缸,NA,bathtub,bathtub
-item_310,a08_24,word,furniture_rooms,produces,衣櫥,NA,wardrobe,wardrobe
+item_310,a08_24,word,furniture_rooms,produces,衣櫥,NA,wardrobe,closet
 item_311,a08_25,word,furniture_rooms,produces,餐桌,NA,dining table,table
 item_312,a08_26,word,furniture_rooms,produces,微波爐,NA,oven,oven
 item_313,a08_27,word,furniture_rooms,produces,陽台,NA,balcony,balcony

@@ -275,7 +275,7 @@ kuhinja,furniture_rooms,kuhinja,word,produces,NA,item_273,kitchen,kitchen,kitche
 kupaonica,furniture_rooms,kupaonica,word,produces,NA,item_274,bathroom,bathroom,bathroom
 ladica,furniture_rooms,ladica,word,produces,NA,item_275,drawer,drawer,drawer
 ogradica (vrtić za igranje),furniture_rooms,ogradica_(vrtic_za_igranje),word,produces,NA,item_276,play pen,play pen,play pen
-ormar,furniture_rooms,ormar,word,produces,NA,item_277,wardrobe,closet,wardrobe
+ormar,furniture_rooms,ormar,word,produces,NA,item_277,wardrobe,closet,closet
 pećnica,furniture_rooms,pecnica,word,produces,NA,item_278,oven,oven,oven
 podrume,furniture_rooms,podrume,word,produces,NA,item_279,NA,basement,room
 prozor,furniture_rooms,prozor,word,produces,NA,item_280,window,window,window

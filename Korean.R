@@ -63,6 +63,7 @@ new_items[which(new_items$uni_lemma=="ring"),]$uni_lemma = "ring (object)"
 new_items[which(new_items$uni_lemma=="ramen"),]$uni_lemma = "noodles"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="toenail"),]$uni_lemma = "fingernail" # other forms have fingernail
+new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 
 
 

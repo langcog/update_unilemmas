@@ -439,7 +439,7 @@ item_437,item_437,word,action_words,understands; produces,밀어,NA,push,push
 item_438,item_438,word,action_words,understands; produces,(약)발라,NA,put on (medicine),NA
 item_439,item_439,word,action_words,understands; produces,박수쳐,NA,clap,clap
 item_440,item_440,word,action_words,understands; produces,버려,NA,throw away,dump
-item_441,item_441,word,action_words,understands; produces,벗어,NA,take off,take off
+item_441,item_441,word,action_words,understands; produces,벗어,NA,take off,remove
 item_442,item_442,word,action_words,understands; produces,보여,NA,see,see
 item_443,item_443,word,action_words,understands; produces,봐,NA,look,look
 item_444,item_444,word,action_words,understands; produces,부딪쳐,NA,bump,bump

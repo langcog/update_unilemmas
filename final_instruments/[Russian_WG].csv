@@ -1,5 +1,5 @@
 definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
-а-а-а,sounds,NA,word,understands; produces,NA,item_29,,weee
+а-а-а,sounds,NA,word,understands; produces,NA,item_29,,wee woo
 ав,sounds,NA,word,understands; produces,NA,item_30,Woof-woof,woof woof
 алё,sounds,NA,word,understands; produces,NA,item_31,Ring-ring,hello
 ам-ам/ням-ням,sounds,NA,word,understands; produces,NA,item_32,Yum-yum,yum yum
@@ -329,7 +329,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 сидеть,action_words,NA,word,understands; produces,NA,item_355,sit,sit
 слушать/слышать,action_words,NA,word,understands; produces,NA,item_356,hear,hear
 смотреть,action_words,NA,word,understands; produces,NA,item_357,look,look
-снимать,action_words,NA,word,understands; produces,NA,item_358,take off,take off
+снимать,action_words,NA,word,understands; produces,NA,item_358,take off,remove
 собирать,action_words,NA,word,understands; produces,NA,item_359,pick,collect
 спать,action_words,NA,word,understands; produces,NA,item_360,sleep,sleep
 стоять,action_words,NA,word,understands; produces,NA,item_361,stand,stand

@@ -40,6 +40,8 @@ new_items[which(new_items$WS=="item_286"),]$uni_lemma = "nail (object)"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 new_items[which(new_items$uni_lemma=="excavator"),]$uni_lemma = "digger"
 new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
+new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "telephone"
+new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
 
 
 new_items[which(new_items$uni_lemma==""),]

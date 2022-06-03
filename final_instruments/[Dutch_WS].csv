@@ -230,7 +230,7 @@ item_228,body_parts,tong,understands;produces,tong,word,tongue,tongue
 item_229,body_parts,vagina/spleetje,understands;produces,vagina/spleetje,word,vagina,vagina
 item_230,body_parts,vinger,understands;produces,vinger,word,finger,finger
 item_231,body_parts,voeten,understands;produces,voeten,word,feet,foot
-item_232,body_parts,wang/kaak,understands;produces,wang/kaak,word,cheek/jaw,cheek/jaw
+item_232,body_parts,wang/kaak,understands;produces,wang/kaak,word,cheek/jaw,cheek
 item_233,household,bord,understands;produces,bord,word,plate,plate
 item_234,household,borstel/bezem/veger,understands;produces,borstel/bezem/veger,word,brush/broom,broom
 item_235,household,bril,understands;produces,bril,word,glasses,glasses

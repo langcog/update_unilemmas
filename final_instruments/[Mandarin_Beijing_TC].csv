@@ -23,7 +23,7 @@ item_21,果冻,guo3dong4,food_drink,word,produces,jelly,jelly
 item_22,果酱,guo3jiang4,food_drink,word,produces,jam,jam
 item_23,果汁,guo3zhi1,food_drink,word,produces,juice,juice
 item_24,汉堡,han4bao3,food_drink,word,produces,hamburger,hamburger
-item_25,核桃,he2tao5,food_drink,word,produces,walnut,walnut
+item_25,核桃,he2tao5,food_drink,word,produces,walnut,nut
 item_26,胡萝卜,hu2luo2bo5,food_drink,word,produces,carrots,carrot
 item_27,花卷,hua1juan3,food_drink,word,produces,steamed twisted roll„ÄÄ,bun
 item_28,花生,hua1sheng1,food_drink,word,produces,peanut,peanut
@@ -642,7 +642,7 @@ item_631,卧室,wo4shi4,furniture_rooms,word,produces,bedroom,bedroom
 item_632,屋子,wu1zi5,furniture_rooms,word,produces,house,house
 item_633,洗衣机,xi3yi1ji1,furniture_rooms,word,produces,washing machine,washing machine
 item_634,摇椅,yao2yi3,furniture_rooms,word,produces,rocking chair,rocking chair
-item_635,衣柜,yi1gui4,furniture_rooms,word,produces,wardrobe,wardrobe
+item_635,衣柜,yi1gui4,furniture_rooms,word,produces,wardrobe,closet
 item_636,椅子,yi3zi5,furniture_rooms,word,produces,chair,chair
 item_637,浴缸,yu4gang1,furniture_rooms,word,produces,bathtub,bathtub
 item_638,浴室,yu4shi4,furniture_rooms,word,produces,bathroom,bathroom

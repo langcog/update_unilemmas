@@ -339,7 +339,7 @@ item_337,jarabe,word,household,produces,jarabe,NA,syrup,syrup
 item_338,lavadero,word,household,produces,lavadero,NA,laundry,laundry
 item_339,lavadora,word,household,produces,lavadora,NA,washer,washing machine
 item_340,lavatorio,word,household,produces,lavatorio,NA,lavatory,bathroom
-item_341,luz,word,household,produces,luz,NA,light,light
+item_341,luz,word,household,produces,luz,NA,light,light (object)
 item_342,llaves,word,household,produces,llaves,NA,keys,key
 item_343,martillo,word,household,produces,martillo,NA,hammer,hammer
 item_344,mesa,word,household,produces,mesa,NA,desk,table
@@ -436,7 +436,7 @@ item_434,poner,word,action_words,produces,poner(se),NA,put on,put on
 item_435,prender,word,action_words,produces,prender/encender,NA,turn on,turn on
 item_436,quemar,word,action_words,produces,quemar,NA,burn,burn (action)
 item_437,querer,word,action_words,produces,querer,NA,want,want
-item_438,quitar,word,action_words,produces,quitar(se),NA,take off,take off
+item_438,quitar,word,action_words,produces,quitar(se),NA,take off,remove
 item_439,regalar,word,action_words,produces,regalar,NA,give a present,gift (action)
 item_440,reir,word,action_words,produces,reír(se),NA,laugh,laugh
 item_441,romper,word,action_words,produces,romper(se),NA,break,break
@@ -568,7 +568,7 @@ item_566,algun,word,quantifiers,produces,algún(a),NA,some,some
 item_567,cuatro,word,quantifiers,produces,cuatro,NA,four,four
 item_568,dos,word,quantifiers,produces,dos,NA,two,two
 item_569,el_q,word,quantifiers,produces,el (carro…),NA,the (car…),the
-item_570,la,word,quantifiers,produces,la (pelota…),NA,the (car…),the
+item_570,la,word,quantifiers,produces,la (pelota…),NA,the (ball…),the
 item_571,las,word,quantifiers,produces,las (muñecas…),NA,the (dolls…),the
 item_572,los,word,quantifiers,produces,los (juguetes…),NA,the (toys…),the
 item_573,mas,word,quantifiers,produces,más,NA,plus,more

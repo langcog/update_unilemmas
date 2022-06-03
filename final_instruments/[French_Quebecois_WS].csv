@@ -269,7 +269,7 @@ item_267,four,word,produces,furniture_rooms,four,NA,oven,oven
 item_268,foyer,word,produces,furniture_rooms,foyer,NA,home,home
 item_269,frigidaire/frig,word,produces,furniture_rooms,frigidaire/frigo,NA,fridge / refrigerator,refrigerator
 item_270,garage,word,produces,furniture_rooms,garage,NA,garage,garage
-item_271,garde-robe,word,produces,furniture_rooms,garde-robe,NA,wardrobe,wardrobe
+item_271,garde-robe,word,produces,furniture_rooms,garde-robe,NA,wardrobe,closet
 item_272,laveuse,word,produces,furniture_rooms,laveuse,NA,washer,washing machine
 item_273,lit,word,produces,furniture_rooms,lit,NA,bed,bed
 item_274,marche,word,produces,furniture_rooms,marche,NA,market,step
@@ -443,7 +443,7 @@ item_441,'ecouter,word,produces,action_words,écouter,NA,listen,listen
 item_442,'ecrire,word,produces,action_words,écrire,NA,to write,write
 item_443,embarquer,word,produces,action_words,embarquer,NA,embark,get on
 item_444,embrasser,word,produces,action_words,embrasser,NA,to kiss,kiss
-item_445,enlever,word,produces,action_words,enlever,NA,to take off,take off
+item_445,enlever,word,produces,action_words,enlever,NA,to take off,remove
 item_446,entendre,word,produces,action_words,entendre,NA,hear,hear
 item_447,essayer,word,produces,action_words,essayer,NA,try,try
 item_448,essuyer,word,produces,action_words,essuyer,NA,wipe,wipe

@@ -234,7 +234,7 @@ item_232,V4THROW2,word,action_words,produces,掟,NA,,throw
 item_233,V4PLUCKC,word,action_words,produces,掹*,NA,,pull
 item_234,V4TEARC,word,action_words,produces,搣開/撕開,NA,,tear
 item_235,V4PEEL,word,action_words,produces,剝,NA,,peel
-item_236,V4UNDRES,word,action_words,produces,除(衫),NA,,take off
+item_236,V4UNDRES,word,action_words,produces,除(衫),NA,,remove
 item_237,V4WEARC,word,action_words,produces,著(衫),NA,,put on
 item_238,V4WEAR2,word,action_words,produces,戴(表),NA,,put on
 item_239,V4KNOW,word,action_words,produces,知道,NA,,know

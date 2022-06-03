@@ -34,6 +34,8 @@ new_items[which(new_items$uni_lemma=="clean"),]$uni_lemma = "clean (action)"
 new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (description)"
 new_items[which(new_items$uni_lemma=="flowerpot"),]$uni_lemma = "flower pot" 
 new_items[which(new_items$uni_lemma=="everybody"),]$uni_lemma = "everyone" 
+new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove" # or undress
+
 
 # save updated instrument(s)
 

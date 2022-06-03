@@ -309,7 +309,7 @@ item_334,NA,word,action_words,understands; produces,להאכיל,NA,feed,feed
 item_335,NA,word,action_words,understands; produces,להביא,NA,bring,bring
 item_336,NA,word,action_words,understands; produces,להגיד,NA,say,say
 item_337,NA,word,action_words,understands; produces,להדליק,NA,light (action),light (action)
-item_338,NA,word,action_words,understands; produces,להוריד,NA,bring down,take off
+item_338,NA,word,action_words,understands; produces,להוריד,NA,bring down,remove
 item_339,NA,word,action_words,understands; produces,להחביא,NA,hide something,hide
 item_340,NA,word,action_words,understands; produces,להחליף,NA,change things,change
 item_341,NA,word,action_words,understands; produces,להכות,NA,Hit,hit

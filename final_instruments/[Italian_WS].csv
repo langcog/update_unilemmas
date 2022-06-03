@@ -451,7 +451,7 @@ lavare,action_words,lavare,word,produces,NA,item_449,wash,wash,wash
 lavorare,action_words,lavorare,word,produces,NA,item_450,NA,work,work (action)
 leccare,action_words,leccare,word,produces,NA,item_451,lick,lick,lick
 leggere,action_words,leggere,word,produces,NA,item_452,read,read,read
-levare/togliere,action_words,levare/togliere,word,produces,NA,item_453,take off,take off/remove,take off
+levare/togliere,action_words,levare/togliere,word,produces,NA,item_453,take off,take off/remove,remove
 litigare,action_words,litigare,word,produces,NA,item_454,NA,fight,fight
 mangiare,action_words,mangiare,word,produces,NA,item_455,eat,eat,eat
 mettere,action_words,mettere,word,produces,NA,item_456,put,put,put

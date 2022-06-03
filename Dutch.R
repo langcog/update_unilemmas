@@ -214,8 +214,7 @@ new_items[which(new_items$uni_lemma=="buttock/poo"),]$uni_lemma = "butt"
 new_items[which(new_items$uni_lemma=="chain (jewellery)"),]$uni_lemma = "necklace" 
 new_items[which(new_items$uni_lemma=="be (verb)"),]$uni_lemma = "be" 
 new_items[which(new_items$uni_lemma=="cellar"),]$uni_lemma = "basement"
-
-
+new_items[which(new_items$uni_lemma=="cheek/jaw"),]$uni_lemma = "cheek"
 
 
 

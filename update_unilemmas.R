@@ -96,25 +96,25 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2064 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 437 hapaxes
+  length(new_uni_tab) # 2052 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 435 hapaxes
   length(unique(new_uni$form)) # 65 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
   #write_csv(new_unis, file="uni-lemma_list.csv")
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 140 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 146 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 823
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 818
   
-  length(new_uni_tab[which(new_uni_tab>4)]) # 1074 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 799 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 597 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 480 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>4)]) # 1071 used in 5+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 800 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 598 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 482 on 30+ forms
   length(new_uni_tab[which(new_uni_tab>=40)]) # 343 on 40+ forms
   length(new_uni_tab[which(new_uni_tab>=50)]) # 219 on 50+
-  length(new_uni_tab[which(new_uni_tab>=60)]) # 97 on 60+ 
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 98 on 60+ 
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
@@ -152,10 +152,10 @@ examine_new_unilemmas <- function() {
   subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
   subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful, cute (39)
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
-  subset(new_uni, uni_lemma=="light") # -> light (object)
+  #subset(new_uni, uni_lemma=="light") # -> light (object)
   subset(new_uni, uni_lemma=="donut") # vs. pastry - combine, or no?
   subset(new_uni, uni_lemma=="backyard") # 4 -> yard ? (a couple forms do have both..)
-  subset(new_uni, uni_lemma=="wardrobe") # 9 -> closet (21 forms)
+  #subset(new_uni, uni_lemma=="wardrobe") # 9 -> closet (21 forms)
   #subset(new_uni, uni_lemma=="village") # 6 -> town (5)
   subset(new_uni, uni_lemma=="biscuit") # are these 11 'cookie'?
   # combine all 'pen' and 'pencil' into 'pen/pencil' ?
@@ -173,9 +173,12 @@ examine_new_unilemmas <- function() {
   # various songbirds: swallow, sparrow, robin (1), pigeon, magpie (1), dove
   
   # siren noises - now "wee woo"
-  subset(new_uni, uni_lemma=="weee") # Russian
-  #subset(new_uni, uni_lemma=="bi boo (siren)") # Cantonese
-  # nino nino ?
+  
+  # combine cell phone and telephone -- maybe not?
+  # subset(new_uni, uni_lemma=="cell phone")
+  
+  # combine cauliflower and broccoli (one form each?)
+  subset(new_uni, uni_lemma=="cauliflower") # Russian
   
   # going after hapaxes
   View(new_uni_tab)

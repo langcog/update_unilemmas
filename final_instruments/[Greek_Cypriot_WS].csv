@@ -262,7 +262,7 @@ item_260,OH61_TISSU,word,household,produces,χαρτομάντηλο,NA,tissue,t
 item_261,OH62_COMB,word,household,produces,χτενιά,NA,comb,comb (object)
 item_262,OH63_SCISS,word,household,produces,ψαλίδι,NA,scissors,scissors
 item_263,OH63_SINK__CG,word,household,produces,βούρνα,NA,3 sink CG,sink
-item_264,F2_WARDROB_CG,word,furniture_rooms,produces,ερμάρι,NA,wardrobe CG,wardrobe
+item_264,F2_WARDROB_CG,word,furniture_rooms,produces,ερμάρι,NA,wardrobe CG,closet
 item_265,F3_CUPBOAR_CG,word,furniture_rooms,produces,ερμαράκι,NA,cupboard CG,cabinet
 item_266,F4_POTTY,word,furniture_rooms,produces,γιογιό,NA,potty,potty
 item_267,F5_GARAGE,word,furniture_rooms,produces,γκαράζ,NA,garage,garage
@@ -283,7 +283,7 @@ item_281,F19_BATHRO,word,furniture_rooms,produces,μπάνιο,NA,bathroom,bathr
 item_282,F20_SINK,word,furniture_rooms,produces,νεροχύτης,NA,sink,sink
 item_283,F21_WASHBA,word,furniture_rooms,produces,νιπτήρας,NA,washbasin,sink
 item_284,F22_SHOWER,word,furniture_rooms,produces,ντουζ,NA,shower,shower
-item_285,F23_WARDRO,word,furniture_rooms,produces,ντουλάπα,NA,wardrobe,wardrobe
+item_285,F23_WARDRO,word,furniture_rooms,produces,ντουλάπα,NA,wardrobe,closet
 item_286,F24_CUPBOA,word,furniture_rooms,produces,ντουλάπι,NA,cupboard,cupboard
 item_287,F25_KITCHE,word,furniture_rooms,produces,πάγκος,NA,kitchen board,stand
 item_288,F26_WINDOW,word,furniture_rooms,produces,παράθυρο,NA,window,window

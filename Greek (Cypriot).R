@@ -35,6 +35,7 @@ new_items[which(new_items$WS=="item_104"),]$uni_lemma = "sweets" # noun (food), 
 new_items[which(new_items$uni_lemma=="some more"),]$uni_lemma = "more"
 new_items[which(new_items$uni_lemma=="flowerpot"),]$uni_lemma = "flower pot" 
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
+new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

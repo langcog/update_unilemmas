@@ -444,7 +444,7 @@ item_442,action_words,uida,uida,produces,word,swim,swim
 item_443,action_words,vetää,vetää,produces,word,pull,pull
 item_444,action_words,vilkuttaa,vilkuttaa,produces,word,wink,wink
 item_445,action_words,ravistaa,ravistaa,produces,word,shake,shake
-item_446,action_words,riisua,riisua,produces,word,take off,take off
+item_446,action_words,riisua,riisua,produces,word,take off,remove
 item_447,action_words,roiskuttaa,roiskuttaa,produces,word,splatter,splash
 item_448,action_words,sanoa,sanoa,produces,word,say,say
 item_449,action_words,siivota,siivota,produces,word,clean up,clean (action)

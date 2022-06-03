@@ -227,7 +227,7 @@ item_225,item_225,word,action_words,understands; produces,때려,NA,hit,hit
 item_226,item_226,word,action_words,understands; produces,(주사)맞아,NA,have an injection,have an injection
 item_227,item_227,word,action_words,understands; produces,먹어,NA,eat,eat
 item_228,item_228,word,action_words,understands; produces,박수쳐,NA,clap,clap
-item_229,item_229,word,action_words,understands; produces,벗어,NA,take off,take off
+item_229,item_229,word,action_words,understands; produces,벗어,NA,take off,remove
 item_230,item_230,word,action_words,understands; produces,봐,NA,look,look
 item_231,item_231,word,action_words,understands; produces,빗어,NA,brush,comb (action)
 item_232,item_232,word,action_words,understands; produces,빼,NA,take out,take out

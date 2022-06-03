@@ -294,7 +294,7 @@ item_290,dormir,action_words,dormir,word,understands; produces,to sleep,sleep
 item_291,écouter,action_words,ecouter,word,understands; produces,listen,listen
 item_292,écrire,action_words,ecrire,word,understands; produces,to write,write
 item_293,embarquer,action_words,embarquer,word,understands; produces,embark,get on
-item_294,enlever,action_words,enlever,word,understands; produces,to take off,take off
+item_294,enlever,action_words,enlever,word,understands; produces,to take off,remove
 item_295,entendre,action_words,entendre,word,understands; produces,hear,hear
 item_296,essuyer,action_words,essuyer,word,understands; produces,wipe,wipe
 item_297,faire,action_words,faire,word,understands; produces,make,do

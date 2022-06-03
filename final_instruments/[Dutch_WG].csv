@@ -140,7 +140,7 @@ item_138,body_parts,rug,understands;produces,rug,word,back,back (body part)
 item_139,body_parts,teen,understands;produces,teen,word,toe,toe
 item_140,body_parts,tong,understands;produces,tong,word,tongue,tongue
 item_141,body_parts,vinger,understands;produces,vinger,word,finger,finger
-item_142,body_parts,wang/kaak,understands;produces,wang/kaak,word,cheek/jaw,cheek/jaw
+item_142,body_parts,wang/kaak,understands;produces,wang/kaak,word,cheek/jaw,cheek
 item_143,household,bord,understands;produces,bord,word,plate,plate
 item_144,household,bril,understands;produces,bril,word,glasses,glasses
 item_145,household,deken/dekbed,understands;produces,deken/dekbed,word,blanket,blanket

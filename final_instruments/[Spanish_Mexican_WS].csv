@@ -217,7 +217,7 @@ item_215,botlmaml,word,household,produces,botella/mamila,NA,bottle,bottle,bottle
 item_216,caja,word,household,produces,caja,NA,box,box,box
 item_217,camara,word,household,produces,cámara,NA,NA,camera,camera
 item_218,canasta,word,household,produces,canasta,NA,NA,basket,basket
-item_219,cassette,word,household,produces,cassette,NA,NA,cassette,cassette
+item_219,cassette,word,household,produces,cassette,NA,NA,cassette,tape (object)
 item_220,cepidnte,word,household,produces,cepillo de dientes,NA,toothbrush,toothbrush,toothbrush
 item_221,cepillo,word,household,produces,cepillo,NA,brush (object),brush,brush (object)
 item_222,cerills,word,household,produces,cerillos,NA,NA,matches,matches

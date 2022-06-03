@@ -404,7 +404,7 @@ item_402,p1_c14_i15,word,understands; produces,action_words,להביא,bring,bri
 item_403,p1_c14_i16,word,understands; produces,action_words,להבריש,brush (action),brush (action)
 item_404,p1_c14_i17,word,understands; produces,action_words,להגיד,say,say
 item_405,p1_c14_i18,word,understands; produces,action_words,להדליק,light (action),light (action)
-item_406,p1_c14_i19,word,understands; produces,action_words,להוריד,bring down,take off
+item_406,p1_c14_i19,word,understands; produces,action_words,להוריד,bring down,remove
 item_407,p1_c14_i20,word,understands; produces,action_words,להחביא,hide something,hide
 item_408,p1_c14_i21,word,understands; produces,action_words,להחזיק,hold,hold
 item_409,p1_c14_i22,word,understands; produces,action_words,להחליף,change things,change

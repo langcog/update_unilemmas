@@ -143,7 +143,7 @@ item_141,melancia,word,food_drink,produces,Melancia,NA,Melancia,Watermelon,water
 item_142,melao,word,food_drink,produces,Melão,NA,Melão,Melon,melon,NA
 item_143,milho,word,food_drink,produces,Milho,NA,Milho,Corn,corn,NA
 item_144,morango,word,food_drink,produces,Morango,NA,Morango,Strawberry,strawberry,NA
-item_145,nozes,word,food_drink,produces,Nozes,NA,Nozes,Walnuts,walnut,NA
+item_145,nozes,word,food_drink,produces,Nozes,NA,Nozes,Walnuts,nut,NA
 item_146,ovo,word,food_drink,produces,Ovo,NA,Ovo,Egg,egg,NA
 item_147,pao,word,food_drink,produces,Pão,NA,Pão,Bread,bread,NA
 item_148,papa,word,food_drink,produces,Papa,NA,Papa,Mush,baby food,NA
@@ -282,7 +282,7 @@ item_280,tesoura,word,household,produces,Tesoura(s),NA,Tesoura,Scissors,scissors
 item_281,toalha,word,household,produces,Toalha,NA,Toalha,Towel,towel,NA
 item_282,torneira,word,household,produces,Torneira,NA,Torneira,Tap,faucet,NA
 item_283,velas,word,household,produces,Velas,NA,Velas,Candles,candle,NA
-item_284,armario,word,furniture_rooms,produces,Armário,NA,Armário,Wardrobe,wardrobe,NA
+item_284,armario,word,furniture_rooms,produces,Armário,NA,Armário,Wardrobe,closet,NA
 item_285,banco,word,furniture_rooms,produces,Banco,NA,Banco,Bench,bench,NA
 item_286,cadeira,word,furniture_rooms,produces,Cadeira,NA,Cadeira,Chair,chair,NA
 item_287,cama,word,furniture_rooms,produces,Cama,NA,Cama,Bed,bed,NA

@@ -112,7 +112,7 @@ new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (description)
 new_items[which(new_items$uni_lemma=="burger"),]$uni_lemma = "hamburger"
 new_items[which(new_items$uni_lemma=="drink"),]$uni_lemma = "drink (action)"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
-
+new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "telephone"
 
 
 

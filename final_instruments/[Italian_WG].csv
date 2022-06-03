@@ -288,7 +288,7 @@ item_319,girare,word,action_words,understands; produces,girare,turn,turn
 item_320,lavare,word,action_words,understands; produces,lavare,wash,wash
 item_321,leccare,word,action_words,understands; produces,leccare,lick,lick
 item_322,leggere,word,action_words,understands; produces,leggere,read,read
-item_323,levare/togliere,word,action_words,understands; produces,levare/togliere,take off/remove,take off
+item_323,levare/togliere,word,action_words,understands; produces,levare/togliere,take off/remove,remove
 item_324,mangiare,word,action_words,understands; produces,mangiare,eat,eat
 item_325,mettere,word,action_words,understands; produces,mettere,put,put
 item_326,mordere,word,action_words,understands; produces,mordere,bite,bite

@@ -39,6 +39,8 @@ new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
+new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
+new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
 
 
 subset(new_items, uni_lemma=="")
