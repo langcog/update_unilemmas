@@ -152,7 +152,7 @@ flaske,household,flaske,word,understands; produces,NA,item_150,bottle,bottle
 medicin,household,medicin,word,understands; produces,NA,item_151,medicine,medicine
 støvsuger,household,stovsuger,word,understands; produces,NA,item_152,vacuum cleaner,vacuum
 gaffel,household,gaffel,word,understands; produces,NA,item_153,fork,fork
-nøgler,household,nogler,word,understands; produces,NA,item_154,Keys,keys
+nøgler,household,nogler,word,understands; produces,NA,item_154,Keys,key
 sæbe,household,saebe,word,understands; produces,NA,item_155,soap,soap
 glas,household,glas,word,understands; produces,NA,item_156,glass,glass
 papir,household,papir,word,understands; produces,NA,item_157,paper,paper

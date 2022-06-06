@@ -176,7 +176,7 @@ ljus,household,ljus,word,understands; produces,NA,item_174,candle,candle
 låda (box),household,lada,word,understands; produces,NA,item_175,box,box
 medicin,household,medicin,word,understands; produces,NA,item_176,medicine,medicine
 mynt,household,mynt,word,understands; produces,NA,item_177,coin,penny
-nycklar,household,nycklar,word,understands; produces,NA,item_178,keys,keys
+nycklar,household,nycklar,word,understands; produces,NA,item_178,keys,key
 papper,household,papper,word,understands; produces,NA,item_179,paper,paper
 pengar,household,pengar,word,understands; produces,NA,item_180,money,money
 radio,household,radio,word,understands; produces,NA,item_181,radio,radio

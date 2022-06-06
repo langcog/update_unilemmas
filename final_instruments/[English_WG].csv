@@ -171,7 +171,7 @@ item_202,fork,word,household,understands; produces,fork,NA,fork,fork
 item_203,glass,word,household,understands; produces,glass,NA,glass,glass
 item_204,glasses,word,household,understands; produces,glasses,NA,glasses,glasses
 item_205,hammer,word,household,understands; produces,hammer,NA,hammer,hammer
-item_206,keys,word,household,understands; produces,keys,NA,keys,keys
+item_206,keys,word,household,understands; produces,keys,NA,keys,key
 item_207,lamp,word,household,understands; produces,lamp,NA,lamp,lamp
 item_208,light,word,household,understands; produces,light,NA,light,light (object)
 item_209,medicine,word,household,understands; produces,medicine,NA,medicine,medicine

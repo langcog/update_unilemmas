@@ -539,7 +539,7 @@ item_537,H10BAGC,word,household,produces,袋,NA,,bag
 item_538,H10SCBAG,word,household,produces,書包,NA,,NA
 item_539,H10WALLE,word,household,produces,銀包,NA,,wallet
 item_540,H10MONEY,word,household,produces,錢,NA,,money
-item_541,H10KEYSC,word,household,produces,鎖匙,NA,,keys
+item_541,H10KEYSC,word,household,produces,鎖匙,NA,,key
 item_542,H10CLOTH,word,household,produces,布,NA,,cloth
 item_543,H10BOX,word,household,produces,盒,NA,,box
 item_544,H10BUCKE,word,household,produces,桶,NA,,bucket
@@ -630,7 +630,7 @@ item_628,B13HEEL,word,body_parts,produces,腳踭,NA,,heel
 item_629,B13HAND2,word,body_parts,produces,手板,NA,,palm
 item_630,B13FOOTC,word,body_parts,produces,腳板,NA,foot / sole,foot
 item_631,B13BUTTC,word,body_parts,produces,屁股/Pek Pek,NA,,butt
-item_632,B13BACK,word,body_parts,produces,背脊,NA,,back
+item_632,B13BACK,word,body_parts,produces,背脊,NA,,back (body part)
 item_633,F14ROOMC,word,furniture_rooms,produces,房,NA,,room
 item_634,F14KITCH,word,furniture_rooms,produces,廚房,NA,,kitchen
 item_635,F14TOILE,word,furniture_rooms,produces,廁所/浴室,NA,,bathroom

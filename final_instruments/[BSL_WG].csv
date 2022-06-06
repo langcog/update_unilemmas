@@ -70,7 +70,7 @@ item_89,glass,word,household,understands; produces,glass,glass,glass
 item_90,glasses,word,household,understands; produces,glasses,glasses,glasses
 item_91,hammer,word,household,understands; produces,hammer,hammer,hammer
 item_92,jar,word,household,understands; produces,jar,jar,jar
-item_93,keys,word,household,understands; produces,keys,keys,keys
+item_93,keys,word,household,understands; produces,keys,keys,key
 item_94,knife,word,household,understands; produces,knife,knife,knife
 item_95,light,word,household,understands; produces,light,light,light (object)
 item_96,medicine,word,household,understands; produces,medicine,medicine,medicine

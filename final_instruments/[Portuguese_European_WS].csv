@@ -206,7 +206,7 @@ item_204,bracos,word,body_parts,produces,Braços,NA,Braços,Arms,arm,NA
 item_205,cabeca,word,body_parts,produces,Cabeça,NA,Cabeça,Head,head,NA
 item_206,cabelo,word,body_parts,produces,Cabelo,NA,Cabelo,Hair,hair,NA
 item_207,cara,word,body_parts,produces,Cara,NA,Cara,Face,face,NA
-item_208,costas,word,body_parts,produces,Costas,NA,Costas,Back,back,NA
+item_208,costas,word,body_parts,produces,Costas,NA,Costas,Back,back (body part),NA
 item_209,cotovelo,word,body_parts,produces,Cotovelo,NA,Cotovelo,Elbow,elbow,NA
 item_210,dedo,word,body_parts,produces,Dedo,NA,Dedo,Finger,finger,NA
 item_211,dentes,word,body_parts,produces,Dente(s),NA,Dentes,Teeth,tooth,NA

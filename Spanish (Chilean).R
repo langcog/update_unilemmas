@@ -23,6 +23,9 @@ new_items[which(new_items$definition=="nana"),]$uni_lemma = "babysitter" # or ho
 
 new_items[which(new_items$uni_lemma=="orange (fruit)"),]$uni_lemma = "orange (food)"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
+
+
 
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas
 

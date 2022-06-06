@@ -451,7 +451,7 @@ item_449,ahi,word,locations,understands; produces,ahí,NA,there,there
 item_450,alla,word,locations,understands; produces,allá/allí,NA,there,there
 item_451,aqui,word,locations,understands; produces,aquí,NA,here,here
 item_452,arriba,word,locations,understands; produces,arriba,NA,top,top
-item_453,atras,word,locations,understands; produces,atrás,NA,back,back
+item_453,atras,word,locations,understands; produces,atrás,NA,back,back (location)
 item_454,encima,word,locations,understands; produces,encima,NA,above,above
 item_455,de,word,locations,understands; produces,de,NA,of,of
 item_456,en,word,locations,understands; produces,en,NA,in,in

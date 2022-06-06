@@ -23,6 +23,7 @@ new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (description)"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 # now join and re-save in raw_data/instruments format, e.g.

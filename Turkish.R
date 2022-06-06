@@ -30,6 +30,7 @@ new_items[which(new_items$uni_lemma=="open"),]$uni_lemma = "open (action)"
 new_items[which(new_items$uni_lemma=="hairpin"),]$uni_lemma = "hair clip"
 new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring" 
 new_items[which(new_items$uni_lemma=="dry"),]$uni_lemma = "dry (description)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 # some empty
 new_items[which(new_items$definition=="Oku"),]$uni_lemma = "read"

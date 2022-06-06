@@ -33,6 +33,8 @@ new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
 new_items[which(new_items$uni_lemma=="i"),]$uni_lemma = "I"
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

@@ -262,7 +262,7 @@ ljus,household,ljus,word,produces,NA,item_260,candle,candle,candle
 låda,household,lada,word,produces,NA,item_261,NA,box,box
 medicin,household,medicin,word,produces,NA,item_262,medicine,medicine,medicine
 napp,household,napp,word,produces,NA,item_263,NA,pacifier,pacifier
-nycklar,household,nycklar,word,produces,NA,item_264,keys,keys,keys
+nycklar,household,nycklar,word,produces,NA,item_264,keys,keys,key
 näsduk,household,nasduk,word,produces,NA,item_265,NA,tissue/kleenex,tissue
 papper,household,papper,word,produces,NA,item_266,paper,paper,paper
 pengar,household,pengar,word,produces,NA,item_267,money,money,money
@@ -654,7 +654,7 @@ ovanpå,locations,ovanpa,word,produces,NA,item_652,NA,on top of,on top
 på,locations,pa,word,produces,NA,item_653,on,on,on
 runt,locations,runt,word,produces,NA,item_654,NA,around,around
 till,locations,till,word,produces,NA,item_655,NA,to,to
-tillbaka,locations,tillbaka,word,produces,NA,item_656,NA,back,back
+tillbaka,locations,tillbaka,word,produces,NA,item_656,NA,back,back (location)
 under,locations,under,word,produces,NA,item_657,under,under,under
 upp,locations,upp,word,produces,NA,item_658,up,up,up
 ut,locations,ut,word,produces,NA,item_659,out,out,out

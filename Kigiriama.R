@@ -42,6 +42,7 @@ new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring" 
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "ring ring"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
 
 
 # ToDo: check empty uni-lemmas ("")

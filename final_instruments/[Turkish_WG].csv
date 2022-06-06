@@ -267,7 +267,7 @@ Teşekkür/Sağol,games_routines,Tesekkur/Sagol,word,understands; produces,NA,it
 Uyku,games_routines,Uyku,word,understands; produces,NA,item_253,nap/sleep,sleep
 Var,games_routines,Var,word,understands; produces,NA,item_254,present/there is,present
 Yok,games_routines,Yok,word,understands; produces,NA,item_255,absent/allgone,all gone
-Anahtar,household,Anahtar,word,understands; produces,NA,item_37,key,keys
+Anahtar,household,Anahtar,word,understands; produces,NA,item_37,key,key
 Ayna,household,Ayna,word,understands; produces,NA,item_36,mirror,mirror
 Bardak,household,Bardak,word,understands; produces,NA,item_35,glass,glasses
 Battaniye,household,Battaniye,word,understands; produces,NA,item_34,blanket,blanket

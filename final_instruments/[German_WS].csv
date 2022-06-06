@@ -540,7 +540,7 @@ item_538,für,locations,fur,word,produces,NA,for,for
 item_539,um,locations,um,word,produces,NA,around,to
 item_540,bei,locations,bei,word,produces,NA,by,for
 item_541,weg,locations,weg,word,produces,NA,away,away
-item_542,zurück,locations,zuruck,word,produces,NA,back,back
+item_542,zurück,locations,zuruck,word,produces,NA,back,back (location)
 item_543,hinter,locations,hinter,word,produces,NA,behind,behind
 item_544,ab,locations,ab,word,produces,NA,off,off
 item_545,ein,quantifiers,ein,word,produces,NA,a,a

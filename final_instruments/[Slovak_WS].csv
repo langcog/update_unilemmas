@@ -218,7 +218,7 @@ item_216,NA,word,understands; produces,body_parts,cop / vrkoč,NA,braid,braid (o
 item_217,NA,word,understands; produces,body_parts,čelo,NA,forehead,forehead
 item_218,NA,word,understands; produces,body_parts,hlava,NA,head,head
 item_219,NA,word,understands; produces,body_parts,hrča,NA,bump,bump
-item_220,NA,word,understands; produces,body_parts,chrbátik,NA,back,back
+item_220,NA,word,understands; produces,body_parts,chrbátik,NA,back,back (body part)
 item_221,NA,word,understands; produces,body_parts,jazyk,NA,language,tongue
 item_222,NA,word,understands; produces,body_parts,kaka / hovienko,NA,poop,poop
 item_223,NA,word,understands; produces,body_parts,kolienko,NA,knuckle,knee

@@ -203,7 +203,7 @@ item_201,201_hreben,word,household,produces,hřeben,NA,comb,comb (object)
 item_202,202_kapesnik,word,household,produces,kapesník,NA,handkerchief,tissue
 item_203,203_kartaceknazuby,word,household,produces,kartáček na zuby,NA,toothbrush,toothbrush
 item_204,204_kladivo,word,household,produces,kladivo,NA,hammer,hammer
-item_205,205_klic,word,household,produces,klíč,NA,key,keys
+item_205,205_klic,word,household,produces,klíč,NA,key,key
 item_206,206_kos,word,household,produces,koš,NA,bin,trash
 item_207,207_koste,word,household,produces,koště,NA,broom,brush (object)
 item_208,208_kybl,word,household,produces,kýbl,NA,bucket,bucket

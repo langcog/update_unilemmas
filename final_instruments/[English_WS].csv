@@ -229,7 +229,7 @@ item_227,glass,word,household,produces,glass,NA,glass,glass
 item_228,glasses,word,household,produces,glasses,NA,glasses,glasses
 item_229,hammer,word,household,produces,hammer,NA,hammer,hammer
 item_230,jar,word,household,produces,jar,NA,jar,jar
-item_231,keys,word,household,produces,keys,NA,keys,keys
+item_231,keys,word,household,produces,keys,NA,keys,key
 item_232,knife,word,household,produces,knife,NA,knife,knife
 item_233,lamp,word,household,produces,lamp,NA,lamp,lamp
 item_234,light,word,household,produces,light,NA,light,light (object)

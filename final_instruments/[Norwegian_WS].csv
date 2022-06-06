@@ -206,7 +206,7 @@ item_204,i_7_18,word,body_parts,produces,øre,NA,ear,ear,ear
 item_205,i_7_19,word,body_parts,produces,øye,NA,eye,eye,eye
 item_206,i_7_20,word,body_parts,produces,pupp,NA,NA,tit,breast
 item_207,i_7_21,word,body_parts,produces,rumpe,NA,NA,butt,butt
-item_208,i_7_22,word,body_parts,produces,rygg,NA,NA,back,back 
+item_208,i_7_22,word,body_parts,produces,rygg,NA,NA,back,back (body part)
 item_209,i_7_23,word,body_parts,produces,skulder,NA,NA,shoulder,shoulder
 item_210,i_7_24,word,body_parts,produces,tenner,NA,tooth,teeth,tooth
 item_211,i_7_25,word,body_parts,produces,tiss,NA,penis,tiss,penis
@@ -669,7 +669,7 @@ item_667,i_19_30,word,locations,produces,oppi,NA,NA,Oppi,up in
 item_668,i_19_31,word,locations,produces,over,NA,NA,over,over 
 item_669,i_19_32,word,locations,produces,på,NA,on,on the,on
 item_670,i_19_33,word,locations,produces,til,NA,NA,to the,to 
-item_671,i_19_34,word,locations,produces,tilbake,NA,NA,in return,back 
+item_671,i_19_34,word,locations,produces,tilbake,NA,NA,in return,back (location)
 item_672,i_19_35,word,locations,produces,under,NA,under,under,under
 item_673,i_19_36,word,locations,produces,ut,NA,out,out,out
 item_674,i_19_37,word,locations,produces,ute (location),NA,out,out,outside

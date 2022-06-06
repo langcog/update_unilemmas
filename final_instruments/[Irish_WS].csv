@@ -176,7 +176,7 @@ bolg,item_346,BODY PARTS,produces; doesn't produce,word,bolg,0,body_parts,nouns,
 ceann,item_348,BODY PARTS,produces; doesn't produce,word,ceann_bpcloigeann,0,body_parts,nouns,head,head
 cluasa,item_350,BODY PARTS,produces; doesn't produce,word,cluasa,0,body_parts,nouns,ears,ear
 cos,item_352,BODY PARTS,produces; doesn't produce,word,cos,0,body_parts,nouns,foot,foot
-droim,item_354,BODY PARTS,produces; doesn't produce,word,droim,0,body_parts,nouns,back,back
+droim,item_354,BODY PARTS,produces; doesn't produce,word,droim,0,body_parts,nouns,back,back (body part)
 fiacla,item_356,BODY PARTS,produces; doesn't produce,word,fiacla,0,body_parts,nouns,teeth,tooth
 glúin,item_358,BODY PARTS,produces; doesn't produce,word,glúin,0,body_parts,nouns,knee,knee
 gruaig,item_360,BODY PARTS,produces; doesn't produce,word,gruaig,0,body_parts,nouns,hair,hair

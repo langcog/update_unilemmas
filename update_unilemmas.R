@@ -141,8 +141,7 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="brawl") # Norwegian -> fight
   
   # needs disambiguation:
-  subset(new_uni, uni_lemma=="back") # (location) / (body part) ...
-  subset(new_uni, uni_lemma=="bat") # (animal) / (object)
+  #subset(new_uni, uni_lemma=="bat") # (animal) / (object)
   
   
   # bigger merges:
@@ -163,7 +162,7 @@ examine_new_unilemmas <- function() {
   # gloves -> glove ?
   # stick -> stick (object) / (action)
   # mad (2) -> angry ?
-  # keys -> key ?
+  subset(new_uni, uni_lemma=="keys") # keys -> key ?
   # hurt -> (action) / (description)
   # horrible <-> terrible ?
   

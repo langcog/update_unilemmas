@@ -29,6 +29,7 @@ new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="walnut"),]$uni_lemma = "nut" 
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
 
 
 # ToDo: look at blanks

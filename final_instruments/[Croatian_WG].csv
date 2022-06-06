@@ -252,7 +252,7 @@ vilica,household,vilica,word,understands; produces,item_366,NA,fork,fork
 čaša,household,casa,word,understands; produces,item_27,NA,glass,glass
 naočale,household,naocale,word,understands; produces,item_197,NA,glasses,glasses
 čekić,household,cekic,word,understands; produces,item_29,NA,hammer,hammer
-ključevi,household,kljucevi,word,understands; produces,item_129,NA,keys,keys
+ključevi,household,kljucevi,word,understands; produces,item_129,NA,keys,key
 nož,household,noz,word,understands; produces,item_214,NA,knife,knife
 svjetiljka,household,svjetiljka,word,understands; produces,item_320,NA,lamp,lamp
 svjetlo,household,svjetlo,word,understands; produces,item_321,NA,light,light (object)

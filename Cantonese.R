@@ -45,6 +45,8 @@ new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 new_items[which(new_items$uni_lemma=="bi boo (siren)"),]$uni_lemma = "wee woo"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

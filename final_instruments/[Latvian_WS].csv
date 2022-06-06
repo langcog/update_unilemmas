@@ -203,7 +203,7 @@ item_201,201_kakls,word,produces,body_parts,kakls,NA,neck,neck
 item_202,202_lupas,word,produces,body_parts,lūpas,NA,lip,lips
 item_203,203_mati,word,produces,body_parts,mati,NA,hear,hair
 item_204,204_mele,word,produces,body_parts,mēle,NA,tongue,tongue
-item_205,205_mugura,word,produces,body_parts,mugura,NA,back,back
+item_205,205_mugura,word,produces,body_parts,mugura,NA,back,back (body part)
 item_206,206_mute,word,produces,body_parts,mute,NA,mouth,mouth
 item_207,207_naba,word,produces,body_parts,naba,NA,navel/belly-button,belly button
 item_208,208_nagi,word,produces,body_parts,nagi,NA,nails,nail (body part)

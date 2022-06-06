@@ -89,6 +89,8 @@ new_items[which(new_items$uni_lemma=="orange"),]$uni_lemma = "orange (descriptio
 new_items[which(new_items$uni_lemma=="burger "),]$uni_lemma = "hamburger"
 new_items[which(new_items$uni_lemma=="had to "),]$uni_lemma = "has to"
 new_items[which(new_items$uni_lemma=="button (object)"),]$uni_lemma = "button"
+new_items[which(new_items$WS=="item_208"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$WS=="item_671"),]$uni_lemma = "back (location)"
 
 
 
