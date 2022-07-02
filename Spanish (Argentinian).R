@@ -40,6 +40,7 @@ new_items[which(new_items$uni_lemma=="little"),]$uni_lemma = "little (descriptio
 new_items[which(new_items$uni_lemma=="eat breakfast"),]$uni_lemma = "breakfast (action)"
 new_items[which(new_items$uni_lemma=="dry"),]$uni_lemma = "dry (description)"
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
+new_items[which(new_items$uni_lemma=="bang"),]$uni_lemma = "bang bang"
 
 
 

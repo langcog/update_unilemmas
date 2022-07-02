@@ -76,7 +76,7 @@ item_74,a02_19,word,body_parts,produces,腳趾頭,NA,toe,toe
 item_75,a02_20,word,body_parts,produces,胸部(ㄋㄟㄋㄟ),NA,vagina,breast
 item_76,a02_21,word,body_parts,produces,指甲,NA,nail,nail (body part)
 item_77,a02_22,word,body_parts,produces,嘴唇,NA,lip,lips
-item_78,a02_23,word,body_parts,produces,背,NA,back,back
+item_78,a02_23,word,body_parts,produces,背,NA,back,back (body part)
 item_79,a02_24,word,body_parts,produces,下巴,NA,chin,chin
 item_80,a02_25,word,body_parts,produces,膝蓋,NA,knee,knee
 item_81,a02_26,word,body_parts,produces,肩膀,NA,shoulder,shoulder
@@ -232,7 +232,7 @@ item_230,a07_02,word,household,produces,杯子,NA,cup,cup
 item_231,a07_03,word,household,produces,牙刷,NA,toothbrush,toothbrush
 item_232,a07_04,word,household,produces,電視,NA,television,TV
 item_233,a07_05,word,household,produces,湯匙,NA,spoon,spoon
-item_234,a07_06,word,household,produces,鑰匙,NA,key,keys
+item_234,a07_06,word,household,produces,鑰匙,NA,key,key
 item_235,a07_07,word,household,produces,毯子(被子),NA,blanket,blanket
 item_236,a07_08,word,household,produces,藥,NA,medicine,medicine
 item_237,a07_09,word,household,produces,碗,NA,bowl,bowl
@@ -241,7 +241,7 @@ item_239,a07_11,word,household,produces,錢,NA,money,money
 item_240,a07_12,word,household,produces,枕頭,NA,pillow,pillow
 item_241,a07_13,word,household,produces,眼鏡,NA,glasses,glasses
 item_242,a07_14,word,household,produces,垃圾桶,NA,trash can,trash
-item_243,a07_15,word,household,produces,筷子,NA,chopsticks,chopsticks
+item_243,a07_15,word,household,produces,筷子,NA,chopsticks,chopstick
 item_244,a07_16,word,household,produces,垃圾,NA,garbage,garbage
 item_245,a07_17,word,household,produces,毛巾,NA,towel,towel
 item_246,a07_18,word,household,produces,鏡子,NA,mirror,mirror
@@ -474,7 +474,7 @@ item_472,a14_01,word,locations,produces,在這裡,NA,here,here
 item_473,a14_02,word,locations,produces,走開,NA,away,away
 item_474,a14_03,word,locations,produces,過來,NA,come here,come
 item_475,a14_04,word,locations,produces,在那裡,NA,there,there
-item_476,a14_05,word,locations,produces,後面,NA,back,back
+item_476,a14_05,word,locations,produces,後面,NA,back,back (location)
 item_477,a14_06,word,locations,produces,前面,NA,front,front
 item_478,a14_07,word,locations,produces,外面,NA,out,out
 item_479,a14_08,word,locations,produces,裡面,NA,inside/in,in

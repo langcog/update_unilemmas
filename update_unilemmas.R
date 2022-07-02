@@ -96,33 +96,33 @@ examine_new_unilemmas <- function() {
 
   new_uni <- tabulate_unilemmas("final_instruments/")
   new_uni_tab <- sort(table(new_uni$uni_lemma))
-  length(new_uni_tab) # 2052 uni-lemmas
-  length(new_uni_tab[which(new_uni_tab==1)]) # 435 hapaxes
+  length(new_uni_tab) # 2041 uni-lemmas
+  length(new_uni_tab[which(new_uni_tab==1)]) # 430 hapaxes
   length(unique(new_uni$form)) # 65 forms
   
   new_unis <- tibble(unilemma=names(new_uni_tab), num_forms=as.vector(new_uni_tab))
   #write_csv(new_unis, file="uni-lemma_list.csv")
   
   # uni-lemmas we no longer have:
-  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 146 corrections/changes
+  setdiff(old_uni$uni_lemma, names(new_uni_tab)) # 151 corrections/changes
   # new uni-lemmas:
-  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 818
+  setdiff(names(new_uni_tab), old_uni$uni_lemma) # 812
   
   length(new_uni_tab[which(new_uni_tab>4)]) # 1071 used in 5+ forms
-  length(new_uni_tab[which(new_uni_tab>=10)]) # 800 on 10+ forms
-  length(new_uni_tab[which(new_uni_tab>=20)]) # 598 on 20+ forms
-  length(new_uni_tab[which(new_uni_tab>=30)]) # 482 on 30+ forms
+  length(new_uni_tab[which(new_uni_tab>=10)]) # 799 on 10+ forms
+  length(new_uni_tab[which(new_uni_tab>=20)]) # 597 on 20+ forms
+  length(new_uni_tab[which(new_uni_tab>=30)]) # 483 on 30+ forms
   length(new_uni_tab[which(new_uni_tab>=40)]) # 343 on 40+ forms
-  length(new_uni_tab[which(new_uni_tab>=50)]) # 219 on 50+
-  length(new_uni_tab[which(new_uni_tab>=60)]) # 98 on 60+ 
+  length(new_uni_tab[which(new_uni_tab>=50)]) # 220 on 50+
+  length(new_uni_tab[which(new_uni_tab>=60)]) # 99 on 60+ 
 
   #subset(new_uni, uni_lemma=="tuna (food)") # Spanish_Mexican_WS - changed to "tuna" (like other forms)
   #subset(new_uni, uni_lemma=="nuts") # 20 forms have nut, 6 have nuts
-  subset(new_uni, uni_lemma=="soda") # 28
-  subset(new_uni, uni_lemma=="coke") # 4 - (EN WS has both)
+  subset(new_uni, uni_lemma=="soda") # 34
+  subset(new_uni, uni_lemma=="coke") # 9 - (EN WS has both)
   #subset(new_uni, uni_lemma=="garbage") # change Dutch WS and Eng WS to trash (Norwegian "trash can" to trash?)
   #subset(new_uni, uni_lemma=="earth") # 6 forms have "earth" (terra Italian/Port/Spanish) - change all to soil (Turkish has both)
-  subset(new_uni, uni_lemma=="rock (object)") # change rock (object) (28 forms) to 'stone' (27 forms) ?
+  subset(new_uni, uni_lemma=="rock (object)") # change rock (object) (32 forms) to 'stone' (37 forms) ?
   subset(new_uni, uni_lemma=="poop") # change games_routines poop to 'go potty' 
   #subset(new_uni, uni_lemma=="well") # change to "well (modifier)"?
   subset(new_uni, uni_lemma=="little") # change to "little (amount)"
@@ -147,7 +147,7 @@ examine_new_unilemmas <- function() {
   # bigger merges:
   #subset(new_uni, uni_lemma=="carrots") # -> carrot
   #subset(new_uni, uni_lemma=="kind") # 5, but 30 have 'nice' -> updated!
-  subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
+  #subset(new_uni, uni_lemma=="back") # some need disambiguating... (prepositions vs. body parts vs. locations)
   subset(new_uni, uni_lemma=="hot") # vs. hot (temperature) ?
   subset(new_uni, uni_lemma=="pretty") # 31 vs. 22 beautiful, cute (39)
   #subset(new_uni, uni_lemma=="teeth") # 47 have tooth
@@ -162,7 +162,7 @@ examine_new_unilemmas <- function() {
   # gloves -> glove ?
   # stick -> stick (object) / (action)
   # mad (2) -> angry ?
-  subset(new_uni, uni_lemma=="keys") # keys -> key ?
+  #subset(new_uni, uni_lemma=="keys") # keys -> key 
   # hurt -> (action) / (description)
   # horrible <-> terrible ?
   
@@ -177,7 +177,7 @@ examine_new_unilemmas <- function() {
   # subset(new_uni, uni_lemma=="cell phone")
   
   # combine cauliflower and broccoli (one form each?)
-  subset(new_uni, uni_lemma=="cauliflower") # Russian
+  subset(new_uni, uni_lemma=="cauliflower") # Mandarin/Russian
   
   # going after hapaxes
   View(new_uni_tab)
@@ -191,12 +191,12 @@ examine_new_unilemmas <- function() {
   #subset(new_uni, uni_lemma=="blade") # Eng Brit -> knife
   #subset(new_uni, uni_lemma=="bloom") # action - OK
   subset(new_uni, uni_lemma=="board game") # game?
-  subset(new_uni, uni_lemma=="braid") # Mand Beij -> braid (object)
+  #subset(new_uni, uni_lemma=="braid") # Mand Beij -> braid (object)
   #subset(new_uni, uni_lemma=="cherries") # Latvian -> cherry
   #subset(new_uni, uni_lemma=="chess") # -> board game
   
   #subset(new_uni, uni_lemma=="quilt") # Swedish already has blanket, so OK
-  subset(new_uni, uni_lemma=="promptly") # quickly?
+  #subset(new_uni, uni_lemma=="promptly") # quickly?
   subset(new_uni, uni_lemma=="probably") # Turkish - ok 
   subset(new_uni, uni_lemma=="promise") # Eng British - ok
   #subset(new_uni, uni_lemma=="present/gift") # Croatian -> present (also, Dutch/Latvian/Norwegian gift -> present)
@@ -215,12 +215,12 @@ examine_new_unilemmas <- function() {
   
   subset(new_uni, uni_lemma=="bi boo (siren)")
   #subset(new_uni, uni_lemma=="colour") # Irish -> color (action)
-  subset(new_uni, uni_lemma=="colouring") # Irish "toys"
-  subset(new_uni, uni_lemma=="colors") # "toys"
+  #subset(new_uni, uni_lemma=="colouring") # Irish "toys"
+  subset(new_uni, uni_lemma=="colors") # "toys" - paints/crayons?
   #subset(new_uni, uni_lemma=="bookcase") # Sp Mex -> bookshelf
   subset(new_uni, uni_lemma=="eat (action)")
   #subset(new_uni, uni_lemma=="don’t")
-  subset(new_uni, uni_lemma=="do (verb)") # Dutch -> do
+  #subset(new_uni, uni_lemma=="do (verb)") # Dutch -> do
   subset(new_uni, uni_lemma=="handkerchief") # Mandarin -> tissue ? technically no..
   subset(new_uni, uni_lemma=="modelling clay") # Croatian -> play dough (change forms with 'clay' to play dough?)
   subset(new_uni, uni_lemma=="rodent") # Dutch hamster/cavia -> mouse..?

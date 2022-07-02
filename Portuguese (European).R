@@ -30,6 +30,7 @@ new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="walnut"),]$uni_lemma = "nut" 
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 # ToDo: look at blanks

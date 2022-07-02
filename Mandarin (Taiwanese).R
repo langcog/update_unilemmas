@@ -42,6 +42,10 @@ new_items[which(new_items$uni_lemma=="excavator"),]$uni_lemma = "digger"
 new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
 new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "telephone"
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
+new_items[which(new_items$uni_lemma=="chopsticks"),]$uni_lemma = "chopstick"
+new_items[which(new_items$uni_lemma=="back" & new_items$category=="body_parts"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 new_items[which(new_items$uni_lemma==""),]

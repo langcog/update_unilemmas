@@ -24,7 +24,7 @@ new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
-
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (preposition)"
 
 # now join and re-save in raw_data/instruments format, e.g.
 # https://github.com/langcog/wordbank/blob/master/raw_data/BSL_WG/%5BBSL_WG%5D.csv

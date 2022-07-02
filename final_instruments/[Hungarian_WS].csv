@@ -274,7 +274,7 @@ item_272,item_272,kefe,word,produces,household,NA,brush,brush (object)
 item_273,item_273,kés,word,produces,household,NA,knife,knife
 item_274,item_274,konzerv,word,produces,household,NA,can,can (object)
 item_275,item_275,kosár,word,produces,household,NA,basket,basket
-item_276,item_276,kulcs,word,produces,household,NA,keys,keys
+item_276,item_276,kulcs,word,produces,household,NA,keys,key
 item_277,item_277,lámpa,word,produces,household,NA,lamp,lamp
 item_278,item_278,magnó,word,produces,household,NA,stereo,stereo
 item_279,item_279,mikró,word,produces,household,NA,microwave,microwave
@@ -789,7 +789,7 @@ item_787,item_787,lenne,word,produces,helping_verbs,NA,would,would
 item_788,item_788,próbál,word,produces,helping_verbs,NA,try,try
 item_789,item_789,szabad (valamit csinálni),word,produces,helping_verbs,NA,can,can (auxiliary)
 item_790,item_790,szokott,word,produces,helping_verbs,NA,used to,used to
-item_791,item_791,tilos,word,produces,helping_verbs,NA,must not,must not
+item_791,item_791,tilos,word,produces,helping_verbs,NA,must not,cannot
 item_792,item_792,tud (valamit csinálni),word,produces,helping_verbs,NA,able to,be able
 item_793,item_793,volna,word,produces,helping_verbs,NA,would,would
 item_794,item_794,aztán,word,produces,connecting_words,NA,then,then

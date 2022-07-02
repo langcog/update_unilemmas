@@ -91,6 +91,7 @@ new_items[which(new_items$uni_lemma=="had to "),]$uni_lemma = "has to"
 new_items[which(new_items$uni_lemma=="button (object)"),]$uni_lemma = "button"
 new_items[which(new_items$WS=="item_208"),]$uni_lemma = "back (body part)"
 new_items[which(new_items$WS=="item_671"),]$uni_lemma = "back (location)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

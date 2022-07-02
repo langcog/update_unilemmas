@@ -215,7 +215,7 @@ item_213,brosse,word,produces,household,brosse,NA,brush,brush (object)
 item_214,brosse_`a_dents,word,produces,household,brosse à dents,NA,toothbrush,toothbrush
 item_215,cam'era,word,produces,household,caméra,NA,camera,camera
 item_216,ciseaux,word,produces,household,ciseaux,NA,scissors,scissors
-item_217,cl'es,word,produces,household,clés,NA,keys,keys
+item_217,cl'es,word,produces,household,clés,NA,keys,key
 item_218,clou,word,produces,household,clou,NA,nail,nail (object)
 item_219,couteau,word,produces,household,couteau,NA,knife,knife
 item_220,couverte/couver,word,produces,household,couverte/couverture,NA,blanket,blanket

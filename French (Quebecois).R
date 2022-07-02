@@ -41,6 +41,7 @@ new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 subset(new_items, uni_lemma=="")

@@ -161,7 +161,7 @@ item_157,bouteille,household,bouteille,word,understands; produces,bottle,bottle
 item_158,brosse,household,brosse,word,understands; produces,brush,brush (object)
 item_159,brosse à dent,household,brosse_`a_dent,word,understands; produces,toothbrush,toothbrush
 item_160,ciseaux,household,ciseaux,word,understands; produces,scissors,scissors
-item_161,clés,household,cles,word,understands; produces,keys,keys
+item_161,clés,household,cles,word,understands; produces,keys,key
 item_162,couverte/couverture,household,couverte/couverture,word,understands; produces,blanket,blanket
 item_163,cuillère,household,cuill`ere,word,understands; produces,spoon,spoon
 item_164,fourchette,household,fourchette,word,understands; produces,fork,fork

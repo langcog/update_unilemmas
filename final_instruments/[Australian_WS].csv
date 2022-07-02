@@ -213,7 +213,7 @@ item_211,garbage_rubbish,word,household,produces,garbage/rubbish,NA,garbage/rubb
 item_212,glass,word,household,produces,glass,NA,glass,glass
 item_213,hammer,word,household,produces,hammer,NA,hammer,hammer
 item_214,jar,word,household,produces,jar,NA,jar,jar
-item_215,keys,word,household,produces,keys,NA,keys,keys
+item_215,keys,word,household,produces,keys,NA,keys,key
 item_216,knife,word,household,produces,knife,NA,knife,knife
 item_217,lamp,word,household,produces,lamp,NA,lamp,lamp
 item_218,light,word,household,produces,light,NA,light,light (object)

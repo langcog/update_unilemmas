@@ -195,7 +195,7 @@ item_227,item_227,word,household,understands; produces,bouteille,item_466,Petits
 item_228,item_228,word,household,understands; produces,brosse,item_470,Petits objets ménagers,brush (object),brush (object)
 item_229,item_229,word,household,understands; produces,brosse à dent,item_495,Petits objets ménagers,toothbrush,toothbrush
 item_230,item_230,word,household,understands; produces,ciseaux,item_491,Petits objets ménagers,scissors,scissors
-item_231,item_231,word,household,understands; produces,clefs,item_479,Petits objets ménagers,keys,keys
+item_231,item_231,word,household,understands; produces,clefs,item_479,Petits objets ménagers,keys,key
 item_232,item_232,word,household,understands; produces,couverture,item_465,Petits objets ménagers,blanket,blanket
 item_233,item_233,word,household,understands; produces,cuillère,item_493,Petits objets ménagers,spoon,spoon
 item_234,item_234,word,household,understands; produces,dent,NA,NA,,

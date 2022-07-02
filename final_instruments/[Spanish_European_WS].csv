@@ -147,7 +147,7 @@ item_139,una,word,body_parts,produces,uña,NA,fingernail,fingernail
 item_140,balon,word,toys,produces,balón,NA,ball,ball
 item_141,boligraf,word,toys,produces,bolígrafo/boli,NA,pen,pen
 item_142,caja,word,toys,produces,caja,NA,box,box
-item_143,cartas,word,toys,produces,cartas,NA,cards,cards
+item_143,cartas,word,toys,produces,cartas,NA,cards,card
 item_144,cubo,word,toys,produces,cubo,NA,block,block
 item_145,cuento,word,toys,produces,cuento/libro,NA,book,book
 item_146,cocinita,word,toys,produces,cocinitas,NA,kitchen toys?,NA
@@ -338,7 +338,7 @@ item_330,jarabe,word,household,produces,jarabe,NA,syrup,syrup
 item_331,lavabo,word,household,produces,lavabo,NA,sink,sink
 item_332,lavadora,word,household,produces,lavadora,NA,washer,washing machine
 item_333,luz,word,household,produces,luz,NA,light,light (object)
-item_334,llaves,word,household,produces,llaves,NA,keys,keys
+item_334,llaves,word,household,produces,llaves,NA,keys,key
 item_335,martillo,word,household,produces,martillo,NA,hammer,hammer
 item_336,mechero,word,household,produces,mechero,NA,lighter,lighter
 item_337,mesa,word,household,produces,mesa,NA,table,table

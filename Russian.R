@@ -77,6 +77,7 @@ new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="backward"),]$uni_lemma = "back (location)"
 new_items[which(new_items$uni_lemma=="weee"),]$uni_lemma = "wee woo"
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

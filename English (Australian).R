@@ -38,6 +38,7 @@ new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="mop"),]$uni_lemma = "mop (object)"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

@@ -183,7 +183,7 @@ item_202,waterdrink,word,food_drink,understands; produces,water (drink),water (d
 item_203,watermelon,word,food_drink,understands; produces,watermelon,watermelon,watermelon
 item_204,about,word,prepositions,understands; produces,about,about,
 item_205,above,word,prepositions,understands; produces,above,above,above
-item_206,back,word,prepositions,understands; produces,back,back,back
+item_206,back,word,prepositions,understands; produces,back,back,back (preposition)
 item_207,behind,word,prepositions,understands; produces,behind,behind,behind
 item_208,beside,word,prepositions,understands; produces,beside,beside,beside
 item_209,down,word,prepositions,understands; produces,down,down,down

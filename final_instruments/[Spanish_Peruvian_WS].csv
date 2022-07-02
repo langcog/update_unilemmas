@@ -159,7 +159,7 @@ item_157,piano,word,toys,produces,piano/pianito,NA,piano,piano
 item_158,pintura,word,toys,produces,pintura,NA,painting,painting
 item_159,pulsera,word,toys,produces,pulsera,NA,bracelet,bracelet
 item_160,raqueta,word,toys,produces,raqueta,NA,racket,racket
-item_161,rastrillo,word,toys,produces,rastrillo,NA,rake,rake
+item_161,rastrillo,word,toys,produces,rastrillo,NA,rake,rake (object)
 item_162,rompecabezas,word,toys,produces,rompecabezas,NA,puzzle,puzzle
 item_163,rueda,word,toys,produces,rueda,NA,wheel,wheel
 item_164,tambor,word,toys,produces,tambor,NA,drum,drum

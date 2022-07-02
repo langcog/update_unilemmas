@@ -274,7 +274,7 @@ item_272,NA,word,understands; produces,household,hodiny,NA,hours,clock
 item_273,NA,word,understands; produces,household,kamera,NA,video camera,camera
 item_274,NA,word,understands; produces,household,kefa,NA,brush,brush (object)
 item_275,NA,word,understands; produces,household,kladivo,NA,hammer,hammer
-item_276,NA,word,understands; produces,household,kľúče,NA,keys,keys
+item_276,NA,word,understands; produces,household,kľúče,NA,keys,key
 item_277,NA,word,understands; produces,household,koliesko,NA,ring,ring (object)
 item_278,NA,word,understands; produces,household,kosť,NA,bone,bone
 item_279,NA,word,understands; produces,household,košík,NA,basket,basket
@@ -603,7 +603,7 @@ item_601,NA,word,understands; produces,other,tiež,NA,too,also
 item_602,NA,word,understands; produces,connecting_words,a,NA,and,and
 item_603,NA,word,understands; produces,connecting_words,aby,NA,to,to
 item_604,NA,word,understands; produces,connecting_words,aj,NA,and,also
-item_605,NA,word,understands; produces,connecting_words,ako,NA,than,how
+item_605,NA,word,understands; produces,connecting_words,ako,NA,than,how (connecting
 item_606,NA,word,understands; produces,connecting_words,ale,NA,but,but
 item_607,NA,word,understands; produces,connecting_words,či,NA,whether,whether
 item_608,NA,word,understands; produces,connecting_words,čo,NA,what,what

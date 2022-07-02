@@ -32,6 +32,9 @@ new_items[which(new_items$uni_lemma=="stamp"),]$uni_lemma = "stamp (action)" # o
 new_items[which(new_items$uni_lemma=="stoller"),]$uni_lemma = "stroller"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV"
 new_items[which(new_items$uni_lemma=="tire"),]$uni_lemma = "tire (object)"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (preposition)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
+
 
 #subset(new_items, uni_lemma=="")
 

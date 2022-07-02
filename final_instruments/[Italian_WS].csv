@@ -196,7 +196,7 @@ coccodè,sounds,coccode,word,produces,NA,item_194,cockadoodledoo,cockadoodledoo,
 qua qua,sounds,qua_qua,word,produces,NA,item_195,quack quack,quack quack,quack quack
 miao,sounds,miao,word,produces,NA,item_196,meow,meow,meow
 oh oh,sounds,ih_oh,word,produces,NA,item_197,uh oh,uh oh,uh oh
-clop clop,sounds,clop_clop,word,produces,NA,item_198,clop clop,,clop clop
+clop clop,sounds,clop_clop,word,produces,NA,item_198,clop clop,,clip clop
 cip cip,sounds,cip_cip,word,produces,NA,item_199,tweet tweet,tweet tweet,tweet tweet
 brum brum,sounds,brum_brum,word,produces,NA,item_200,vroom,vroom,vroom
 beh beh,sounds,beh_beh,word,produces,NA,item_201,baa baa,baa baa,baa baa
@@ -216,7 +216,7 @@ bicchiere,household,bicchiere,word,produces,NA,item_214,glass,glass,glass
 bottiglia,household,bottiglia,word,produces,NA,item_215,bottle,bottle,bottle
 candeline,household,candeline,word,produces,NA,item_216,NA,birthday candle,NA
 cestino,household,cestino,word,produces,NA,item_217,NA,basket,basket
-chiave,household,chiave,word,produces,NA,item_218,keys,keys,keys
+chiave,household,chiave,word,produces,NA,item_218,keys,keys,key
 ciuccio,household,ciuccio,word,produces,NA,item_219,pacifier,pacifier,pacifier
 colori,household,colori,word,produces,NA,item_220,NA,crayons,crayon
 coltello,household,coltello,word,produces,NA,item_221,knife,knife,knife
@@ -375,7 +375,7 @@ vigile,people,vigile,word,produces,NA,item_373,police,traffic officer,police
 zia,people,zia,word,produces,NA,item_374,aunt,aunt,aunt
 zio,people,zio,word,produces,NA,item_375,uncle,uncle,uncle
 auguri,games_routines,auguri,word,produces,NA,item_376,NA,wishes,NA
-basta,games_routines,basta,word,produces,NA,item_377,cut it out,cut it out,cut it out
+basta,games_routines,basta,word,produces,NA,item_377,cut it out,cut it out,don't
 bravo,games_routines,bravo,word,produces,NA,item_378,good boy/girl,good boy/girl,bravo
 bua,games_routines,bua,word,produces,NA,item_379,owie,,owie
 bum (cade),games_routines,bum_(cade),word,produces,NA,item_380,boom,,boom

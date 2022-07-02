@@ -215,9 +215,11 @@ new_items[which(new_items$uni_lemma=="chain (jewellery)"),]$uni_lemma = "necklac
 new_items[which(new_items$uni_lemma=="be (verb)"),]$uni_lemma = "be" 
 new_items[which(new_items$uni_lemma=="cellar"),]$uni_lemma = "basement"
 new_items[which(new_items$uni_lemma=="cheek/jaw"),]$uni_lemma = "cheek"
-
-
-
+new_items[which(new_items$uni_lemma=="drum (verb)"),]$uni_lemma = "drum (action)"
+new_items[which(new_items$uni_lemma=="cycle (verb)"),]$uni_lemma = "cycle (action)"
+new_items[which(new_items$uni_lemma=="puzzle (verb)"),]$uni_lemma = "puzzle (action)"
+new_items[which(new_items$uni_lemma=="chewing gum"),]$uni_lemma = "gum"
+new_items[which(new_items$uni_lemma=="cornflakes/granola"),]$uni_lemma = "cereal"
 
 
 

@@ -55,6 +55,9 @@ new_items[which(new_items$uni_lemma=="eat breakfast"),]$uni_lemma = "breakfast (
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
 new_items[which(new_items$uni_lemma=="cassette"),]$uni_lemma = "tape (object)"
+new_items[which(new_items$uni_lemma=="bang"),]$uni_lemma = "bang bang"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
+
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_Mexican", "WS", new_items %>% rename(itemID = WS))

@@ -8,7 +8,7 @@ item_6,miau,word,sounds,understands; produces,miau,NA,meow,meow
 item_7,muu,word,sounds,understands; produces,muu,NA,moo,moo
 item_8,piopio,word,sounds,understands; produces,pío pío,NA,tweet tweet,tweet tweet
 item_9,pipi,word,sounds,understands; produces,pipí (coche),NA,honk honk,honk honk
-item_10,pum,word,sounds,understands; produces,¡pum!,NA,bang,bang
+item_10,pum,word,sounds,understands; produces,¡pum!,NA,bang,bang bang
 item_11,qiqiriq,word,sounds,understands; produces,quiquiriquí,NA,cockadoodledoo,cockadoodledoo
 item_12,tutu,word,sounds,understands; produces,tutú,NA,choo choo,choo choo
 item_13,abeja,word,animals,understands; produces,abeja,NA,bee,bee
@@ -152,7 +152,7 @@ item_150,escoba,word,household,understands; produces,escoba,NA,broom,broom
 item_151,espejo,word,household,understands; produces,espejo,NA,mirror,mirror
 item_152,fotos,word,household,understands; produces,fotos,NA,photos,photo
 item_153,jabon,word,household,understands; produces,jabón,NA,soap,soap
-item_154,llaves,word,household,understands; produces,llaves,NA,keys,keys
+item_154,llaves,word,household,understands; produces,llaves,NA,keys,key
 item_155,luz,word,household,understands; produces,luz,NA,light,light (object)
 item_156,martill,word,household,understands; produces,martillo,NA,hammer,hammer
 item_157,medicin,word,household,understands; produces,medicina,NA,medicine,medicine

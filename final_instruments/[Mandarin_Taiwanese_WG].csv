@@ -126,7 +126,7 @@ item_124,d07_02,word,household,understands; produces,杯子,NA,cup,cup
 item_125,d07_03,word,household,understands; produces,牙刷,NA,toothbrush,toothbrush
 item_126,d07_04,word,household,understands; produces,電視,NA,television,TV
 item_127,d07_05,word,household,understands; produces,湯匙,NA,spoon,spoon
-item_128,d07_06,word,household,understands; produces,鑰匙,NA,key,keys
+item_128,d07_06,word,household,understands; produces,鑰匙,NA,key,key
 item_129,d07_07,word,household,understands; produces,毯子(被子),NA,blanket,blanket
 item_130,d07_08,word,household,understands; produces,藥,NA,medicine,medicine
 item_131,d07_09,word,household,understands; produces,碗,NA,bowl,bowl
@@ -135,7 +135,7 @@ item_133,d07_11,word,household,understands; produces,錢,NA,money,money
 item_134,d07_12,word,household,understands; produces,枕頭,NA,pillow,pillow
 item_135,d07_13,word,household,understands; produces,眼鏡,NA,glasses,glasses
 item_136,d07_14,word,household,understands; produces,垃圾桶,NA,trash can,trash
-item_137,d07_15,word,household,understands; produces,筷子,NA,chopsticks,chopsticks
+item_137,d07_15,word,household,understands; produces,筷子,NA,chopsticks,chopstick
 item_138,d07_16,word,household,understands; produces,垃圾,NA,garbage,garbage
 item_139,d07_17,word,household,understands; produces,毛巾,NA,towel,towel
 item_140,d07_18,word,household,understands; produces,鏡子,NA,mirror,mirror
@@ -246,7 +246,7 @@ item_244,d13_01,word,locations,understands; produces,在這裡,NA,here,here
 item_245,d13_02,word,locations,understands; produces,走開,NA,away,away
 item_246,d13_03,word,locations,understands; produces,過來,NA,come here,come
 item_247,d13_04,word,locations,understands; produces,在那裡,NA,there,there
-item_248,d13_05,word,locations,understands; produces,後面,NA,back,back
+item_248,d13_05,word,locations,understands; produces,後面,NA,back,back (location)
 item_249,d13_06,word,locations,understands; produces,前面,NA,front,front
 item_250,d13_07,word,locations,understands; produces,外面,NA,out,out
 item_251,d13_08,word,locations,understands; produces,裡面,NA,inside/in,in

@@ -68,6 +68,8 @@ new_items[which(new_items$uni_lemma=="dove"),]$uni_lemma = "pigeon" # technicall
 new_items[which(new_items$uni_lemma=="drink"),]$uni_lemma = "drink (action)"
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="hall"),]$uni_lemma = "corridor"
+new_items[which(new_items$uni_lemma=="cards"),]$uni_lemma = "card"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

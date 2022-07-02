@@ -16,6 +16,7 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 new_items[which(new_items$uni_lemma=="earth"),]$uni_lemma = "sand" # or soil ?
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
+new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
 
 
 # save updated instruments

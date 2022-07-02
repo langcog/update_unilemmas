@@ -153,6 +153,9 @@ new_items[which(new_items$uni_lemma=="drink"),]$uni_lemma = "drink (action)"
 new_items[which(new_items$uni_lemma=="bottom"),]$uni_lemma = "butt"
 new_items[which(new_items$uni_lemma=="hallway"),]$uni_lemma = "corridor"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$uni_lemma=="far away"),]$uni_lemma = "far"
+new_items[which(new_items$uni_lemma=="not much"),]$uni_lemma = "a little"
+new_items[which(new_items$uni_lemma=="coo coo"),]$uni_lemma = "coo"
 
 
 # ToDo: check empty uni-lemmas ("")

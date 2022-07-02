@@ -74,7 +74,7 @@ item_72,food_drink,brood,understands;produces,brood,word,bread,bread
 item_73,food_drink,cake,understands;produces,cake,word,cake,cake
 item_74,food_drink,chips,understands;produces,chips,word,chips,chips
 item_75,food_drink,chocolade,understands;produces,chocolade,word,chocolate,chocolate
-item_76,food_drink,cornflakes/muesli,understands;produces,cornflakes/muesli,word,cornflakes/granola,cornflakes/granola
+item_76,food_drink,cornflakes/muesli,understands;produces,cornflakes/muesli,word,cornflakes/granola,cereal
 item_77,food_drink,drankje/drinken/blikje,understands;produces,drankje/drinken/blikje,word,drink,beverage
 item_78,food_drink,druif,understands;produces,druif,word,grape,grapes
 item_79,food_drink,ei,understands;produces,ei,word,egg,egg
@@ -409,7 +409,7 @@ item_407,people,naamvanzusjeofbroertje,understands;produces,naamvanzusjeofbroert
 item_408,action_words,dichtdoen/dichtmaken,understands;produces,dichtdoen/dichtmaken,word,to close,close
 item_409,action_words,draaien,understands;produces,draaien,word,to turn,turn
 item_410,action_words,etengeven,understands;produces,etengeven,word,to feed,feed
-item_411,action_words,fietsen,understands;produces,fietsen,word,"to cycle, bike",cycle (verb)
+item_411,action_words,fietsen,understands;produces,fietsen,word,"to cycle, bike",cycle (action)
 item_412,action_words,gaan/weggaan,understands;produces,gaan/weggaan,word,to go (away)/leave,go 
 item_413,action_words,leggen/zetten/neerzetten,understands;produces,leggen/zetten/neerzetten,word,to put down,put down
 item_414,action_words,nemen,understands;produces,nemen,word,to take,take
@@ -418,7 +418,7 @@ item_416,action_words,roepen/schreeuwen,understands;produces,roepen/schreeuwen,w
 item_417,action_words,schommelen,understands;produces,schommelen,word,to swing,swing (action)
 item_418,action_words,stoppen/ophouden,understands;produces,stoppen/ophouden,word,to stop,stop
 item_419,action_words,tekenen,understands;produces,tekenen,word,to draw,draw
-item_420,action_words,trommelen,understands;produces,trommelen,word,to drum,drum (verb)
+item_420,action_words,trommelen,understands;produces,trommelen,word,to drum,drum (action)
 item_421,action_words,vliegen,understands;produces,vliegen,word,to fly,fly (action)
 item_422,action_words,zichhaasten/zichspoeden/opschieten,understands;produces,zichhaasten/zichspoeden/opschieten,word,to hurry up,hurry
 item_423,time_words,savonds,understands;produces,savonds,word,in the evenings,in the evenings

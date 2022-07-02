@@ -8,7 +8,7 @@ item_6,6_cuk_cuk_tu,word,produces,sounds,čuk-čuk/tu-tū,NA,train,choo choo
 item_7,7_ia_zirgs_,word,produces,sounds,iā,NA,horse,neigh
 item_8,8_kikerigu_,word,produces,sounds,kikerigū,NA,rooster,cockadoodledoo
 item_9,9_kra_kra_v,word,produces,sounds,krā-krā,NA,crow,caw
-item_10,10_ku_ku_dze,word,produces,sounds,ku-kū,NA,coocoo bird,coo coo
+item_10,10_ku_ku_dze,word,produces,sounds,ku-kū,NA,coocoo bird,coo
 item_11,11_kva_kva_v,word,produces,sounds,kvā-kvā,NA,frog,ribbit
 item_12,12_mu_govs_,word,produces,sounds,mū,NA,cow,moo
 item_13,13_nam_nam_e,word,produces,sounds,ņam-ņam,NA,eating,yum yum
@@ -580,7 +580,7 @@ item_578,578_slims,word,produces,descriptive_words,slims,NA,sick,sick
 item_579,579_smags_smag,word,produces,descriptive_words,smags/smagi,NA,heavy,heavy
 item_580,580_stiprs_sti,word,produces,descriptive_words,stiprs/stipri,NA,strong,strong
 item_581,581_sausmigs,word,produces,descriptive_words,šausmīgs,NA,terrible,terrible
-item_582,582_talu,word,produces,descriptive_words,tālu,NA,far away,far away
+item_582,582_talu,word,produces,descriptive_words,tālu,NA,far away,far
 item_583,583_tirs,word,produces,descriptive_words,tīrs,NA,clean,clean (description)
 item_584,584_tukss,word,produces,descriptive_words,tukšs,NA,empty,empty
 item_585,585_tumss,word,produces,descriptive_words,tumšs,NA,dark,dark
@@ -682,7 +682,7 @@ item_680,680_ikviens_,word,produces,quantifiers,ikviens,NA,each,each
 item_681,681_katrs,word,produces,quantifiers,katrs,NA,every,every
 item_682,682_maz,word,produces,quantifiers,maz,NA,little,little (amount)
 item_683,683_mazliet,word,produces,quantifiers,mazliet,NA,a little bit,little (amount)
-item_684,684_nedaudz,word,produces,quantifiers,nedaudz,NA,not much,not much
+item_684,684_nedaudz,word,produces,quantifiers,nedaudz,NA,not much,a little
 item_685,685_neka_nav,word,produces,quantifiers,nekā nav,NA,nothing,nothing
 item_686,686_neviens,word,produces,quantifiers,neviens,NA,no one,no one
 item_687,687_tads_pats,word,produces,quantifiers,tāds pats,NA,same,same

@@ -45,6 +45,7 @@ new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="cacao"),]$uni_lemma = "cocoa"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

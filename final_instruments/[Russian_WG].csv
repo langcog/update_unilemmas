@@ -185,7 +185,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 деньги,household,NA,word,understands; produces,NA,item_211,money,money
 картинка,household,NA,word,understands; produces,NA,item_212,picture,picture
 кастрюля,household,NA,word,understands; produces,NA,item_213,saucepan,pot
-ключи,household,NA,word,understands; produces,NA,item_214,keys,keys
+ключи,household,NA,word,understands; produces,NA,item_214,keys,key
 коробка,household,NA,word,understands; produces,NA,item_215,box,box
 кружка,household,NA,word,understands; produces,NA,item_216,mug,cup
 лампа,household,NA,word,understands; produces,NA,item_217,lamp,lamp

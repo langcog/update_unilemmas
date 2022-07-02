@@ -45,6 +45,8 @@ new_items[which(new_items$uni_lemma=="cacao"),]$uni_lemma = "cocoa"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="aside"),]$uni_lemma = "beside"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$uni_lemma=="how" & new_items$category=="connecting_words"),]$uni_lemma = "how (connecting"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 subset(new_items, uni_lemma=="")

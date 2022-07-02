@@ -211,7 +211,7 @@ item_208,g22palki,word,body_parts,produces,Kiganja,NA,Palm,palm
 item_209,g15umbki,word,body_parts,produces,Kitovu,NA,Umbilical cord,belly button
 item_210,g6finkuc,word,body_parts,produces,Kucha,NA,Fingernail,nail (body part)
 item_211,g1butmak,word,body_parts,produces,Makalio/matako,NA,Buttocks,butt
-item_212,g16bacmg,word,body_parts,produces,Mgongo,NA,Back,back
+item_212,g16bacmg,word,body_parts,produces,Mgongo,NA,Back,back (body part)
 item_213,g10legmg,word,body_parts,produces,Mguu,NA,Leg,leg
 item_214,g11moumi,word,body_parts,produces,Midomo,NA,Mouth,lips
 item_215,g8hanmuk,word,body_parts,produces,Mkono,NA,Hand,hand
@@ -276,7 +276,7 @@ item_273,h17ligta,word,household,produces,Taa/Stima/Kandili,NA,Light,lamp
 item_274,h33wasta,word,household,produces,Taka/Chafu,NA,Dirt/Waste,trash
 item_275,h32towta,word,household,produces,Tauli/Towel,NA,Towel,towel
 item_276,h7broufa,word,household,produces,Ufagio,NA,Broom,broom
-item_277,h15keyuf,word,household,produces,Ufunguo,NA,Key,keys
+item_277,h15keyuf,word,household,produces,Ufunguo,NA,Key,key
 item_278,h55waluk,word,household,produces,Ukuta/Kiambaza,NA,Wall,wall
 item_279,h42forum,word,household,produces,Uma/Fork,NA,Fork,fork
 item_280,i12batba,word,furniture_rooms,produces,Bafu,NA,Bathroom,bathroom
@@ -685,7 +685,7 @@ item_679,x16whek,word,prepositions,produces,Kwenye,NA,Where there is,into
 item_680,x6farmba,word,prepositions,produces,Mbali,NA,Far,away
 item_681,x9insnda,word,prepositions,produces,Ndani,NA,inside,inside
 item_682,x14outnj,word,prepositions,produces,Nje,NA,Outside,out
-item_683,x3behnyu,word,prepositions,produces,Nyuma,NA,behind,back
+item_683,x3behnyu,word,prepositions,produces,Nyuma,NA,behind,back (preposition)
 item_684,x15thepa,word,prepositions,produces,Pale,NA,there,there
 item_685,x12ofya,word,prepositions,produces,Ya,NA,of,of
 item_686,y12witbi,word,descriptive_words (adverbs),produces,Bila,NA,Without,NA

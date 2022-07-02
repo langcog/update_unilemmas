@@ -150,7 +150,7 @@ item_179,i_11_16,word,household,understands; produces,lampe,NA,lamp,lamp
 item_180,i_11_17,word,household,understands; produces,lommebok,NA,purse,wallet
 item_181,i_11_18,word,household,understands; produces,lys,NA,light,light (object)
 item_182,i_11_19,word,household,understands; produces,medisin,NA,medicine,medicine
-item_183,i_11_20,word,household,understands; produces,nøkler,NA,Keys,keys
+item_183,i_11_20,word,household,understands; produces,nøkler,NA,Keys,key
 item_184,i_11_21,word,household,understands; produces,papir,NA,paper,paper
 item_185,i_11_22,word,household,understands; produces,penger,NA,money,money
 item_186,i_11_23,word,household,understands; produces,plante,NA,plant,plant

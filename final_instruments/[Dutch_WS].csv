@@ -119,7 +119,7 @@ item_117,food_drink,choco,understands;produces,choco,word,,cocoa
 item_118,food_drink,chocolade,understands;produces,chocolade,word,chocolate,chocolate
 item_119,food_drink,chocomousse,understands;produces,chocomousse,word,chocolate mousse,chocolate mousse
 item_120,food_drink,cola/limonade,understands;produces,cola/limonade,word,cola/coke/lemonade,lemonade
-item_121,food_drink,cornflakes/muesli,understands;produces,cornflakes/muesli,word,cornflakes/granola,cornflakes/granola
+item_121,food_drink,cornflakes/muesli,understands;produces,cornflakes/muesli,word,cornflakes/granola,cereal
 item_122,food_drink,drankje/drinken/blikje,understands;produces,drankje/drinken/blikje,word,drink,beverage
 item_123,food_drink,druif,understands;produces,druif,word,grape,grapes
 item_124,food_drink,ei,understands;produces,ei,word,egg,egg
@@ -134,7 +134,7 @@ item_132,food_drink,hamburger,understands;produces,hamburger,word,hamburger,hamb
 item_133,food_drink,ijs/crème/ijsje,understands;produces,ijs/crème/ijsje,word,ice cream,ice cream
 item_134,food_drink,ijslolly/frisco,understands;produces,ijslolly/frisco,word,ice cream lollipop,popsicle
 item_135,food_drink,kaas,understands;produces,kaas,word,cheese,cheese
-item_136,food_drink,kauwgom,understands;produces,kauwgom,word,chewing gum,chewing gum
+item_136,food_drink,kauwgom,understands;produces,kauwgom,word,chewing gum,gum
 item_137,food_drink,kip(eten),understands;produces,kip(eten),word,chicken (food),chicken (food)
 item_138,food_drink,koekje,understands;produces,koekje,word,biscuit/cookie,cookie
 item_139,food_drink,koffie/thee,understands;produces,koffie/thee,word,coffee/tea,coffee
@@ -544,7 +544,7 @@ item_542,action_words,openen/opendoen/openmaken,understands;produces,openen/open
 item_543,action_words,passen,understands;produces,passen,word,to try on (clothes,try on
 item_544,action_words,praten,understands;produces,praten,word,to talk,talk
 item_545,action_words,proeven,understands;produces,proeven,word,to taste,taste
-item_546,action_words,puzzelen,understands;produces,puzzelen,word,to puzzle,puzzle (verb)
+item_546,action_words,puzzelen,understands;produces,puzzelen,word,to puzzle,puzzle (action)
 item_547,action_words,rijden,understands;produces,rijden,word,to ride,ride
 item_548,action_words,schaatsen/skeelen,understands;produces,schaatsen/skeelen,word,to ice skate,skate
 item_549,action_words,scheuren,understands;produces,scheuren,word,to tear up,tear

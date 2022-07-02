@@ -3,7 +3,7 @@ item_34,bau bau,word,sounds,understands; produces,bau bau,woof woof,woof woof
 item_35,beh beh,word,sounds,understands; produces,beh beh,baa baa,baa baa
 item_36,brum brum,word,sounds,understands; produces,brum brum,vroom,vroom
 item_37,cip cip,word,sounds,understands; produces,cip cip,tweet tweet,tweet tweet
-item_38,clop clop,word,sounds,understands; produces,clop clop,,clop clop
+item_38,clop clop,word,sounds,understands; produces,clop clop,,clip clop
 item_39,coccode,word,sounds,understands; produces,coccodè,cockadoodledoo,cockadoodledoo
 item_40,ih oh,word,sounds,understands; produces,oh oh,uh oh,uh oh
 item_41,grr,word,sounds,understands; produces,grr,grr,grrr
@@ -160,7 +160,7 @@ item_191,vasca da bagno,word,furniture_rooms,understands; produces,vasca da bagn
 item_192,biberon,word,household,understands; produces,biberon,baby,bottle
 item_193,bicchiere,word,household,understands; produces,bicchiere,glass,glass
 item_194,bottiglia,word,household,understands; produces,bottiglia,bottle,bottle
-item_195,chiave,word,household,understands; produces,chiave,keys,keys
+item_195,chiave,word,household,understands; produces,chiave,keys,key
 item_196,ciuccio,word,household,understands; produces,ciuccio,pacifier,pacifier
 item_197,coltello,word,household,understands; produces,coltello,knife,knife
 item_198,coperchio,word,household,understands; produces,coperchio,cover,cover (object)
@@ -240,7 +240,7 @@ item_271,sorella,word,people,understands; produces,sorella,sister,sister
 item_272,vigile,word,people,understands; produces,vigile,traffic officer,police
 item_273,zia,word,people,understands; produces,zia,aunt,aunt
 item_274,zio,word,people,understands; produces,zio,uncle,uncle
-item_275,basta,word,games_routines,understands; produces,basta,cut it out,cut it out
+item_275,basta,word,games_routines,understands; produces,basta,cut it out,don't
 item_276,bravo,word,games_routines,understands; produces,bravo,good boy/girl,bravo
 item_277,bua,word,games_routines,understands; produces,bua,,owie
 item_278,bum (cade),word,games_routines,understands; produces,bum (cade),,boom

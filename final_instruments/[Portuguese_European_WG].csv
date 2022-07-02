@@ -124,7 +124,7 @@ item_122,pescoco,word,body_parts,understands; produces,Pescoço,NA,pescoço,Neck
 item_123,almofada,word,household,understands; produces,Almofada,NA,almofada,Pillow,pillow,NA
 item_124,biberao,word,household,understands; produces,Biberão,NA,biberão,Baby bottle,bottle,NA
 item_125,champo,word,household,understands; produces,Champô,NA,champô,Shampoo,shampoo,NA
-item_126,chaves,word,household,understands; produces,Chaves,NA,chaves,Keys,keys,NA
+item_126,chaves,word,household,understands; produces,Chaves,NA,chaves,Keys,key,NA
 item_127,chupeta,word,household,understands; produces,Chupeta / Chucha,NA,chupeta,Pacifier,pacifier,NA
 item_128,cobertor,word,household,understands; produces,Cobertor,NA,cobertor,Blanket,blanket,NA
 item_129,colher,word,household,understands; produces,Colher,NA,colher,Spoon,spoon,NA

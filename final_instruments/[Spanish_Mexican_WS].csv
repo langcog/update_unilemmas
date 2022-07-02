@@ -1,7 +1,7 @@
 itemID,item,type,category,choices,definition,complexity_category,new_lemma,gloss,uni_lemma
 item_1,tutu,word,sounds,produces,tutú,NA,choo choo,choo choo,choo choo
 item_2,qiqiriqi,word,sounds,produces,quiquiriquí,NA,cockadoodledoo,cockadoodledoo,cockadoodledoo
-item_3,pum,word,sounds,produces,¡pum!,NA,bang,bang,bang
+item_3,pum,word,sounds,produces,¡pum!,NA,bang,bang,bang bang
 item_4,pipi,word,sounds,produces,pipí,NA,NA,honk honk,honk honk
 item_5,piopio,word,sounds,produces,pío pío,NA,tweet tweet,tweet tweet,tweet tweet
 item_6,muu,word,sounds,produces,muu,NA,moo,moo,moo

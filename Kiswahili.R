@@ -46,6 +46,9 @@ new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (animal)"
 new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "telephone"
+new_items[which(new_items$uni_lemma=="back" & new_items$category=="body_parts"),]$uni_lemma = "back (body part)"
+new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (preposition)"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

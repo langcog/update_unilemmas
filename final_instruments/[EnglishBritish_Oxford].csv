@@ -200,7 +200,7 @@ item_198,198_glass,household,understands; produces,glass,word,NA,glass,glass
 item_199,199_hammer,household,understands; produces,hammer,word,NA,hammer,hammer
 item_200,200_hoover_vacuum,household,understands; produces,hoover / vacuum,word,NA,hoover / vacuum,vacuum
 item_201,201_jug,household,understands; produces,jug,word,NA,jug,NA
-item_202,202_key,household,understands; produces,key,word,NA,key,keys
+item_202,202_key,household,understands; produces,key,word,NA,key,key
 item_203,203_lamp,household,understands; produces,lamp,word,NA,lamp,lamp
 item_204,204_light,household,understands; produces,light,word,NA,light,light (object)
 item_205,205_medicine,household,understands; produces,medicine,word,NA,medicine,medicine
@@ -396,7 +396,7 @@ item_394,394_this,pronouns,understands; produces,this,word,NA,this,this
 item_395,395_you,pronouns,understands; produces,you,word,NA,you,you
 item_396,396_your,pronouns,understands; produces,your,word,NA,your,your
 item_397,397_away,prepositions,understands; produces,away,word,NA,away,away
-item_398,398_back,prepositions,understands; produces,back,word,NA,back,back
+item_398,398_back,prepositions,understands; produces,back,word,NA,back,back (preposition)
 item_399,399_down,prepositions,understands; produces,down,word,NA,down,down
 item_400,400_in,prepositions,understands; produces,in,word,NA,in,in
 item_401,401_inside,prepositions,understands; produces,inside,word,NA,inside,inside

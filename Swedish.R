@@ -35,6 +35,7 @@ new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
+new_items[which(new_items$uni_lemma=="how" & new_items$category=="connecting_words"),]$uni_lemma = "how (connecting"
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

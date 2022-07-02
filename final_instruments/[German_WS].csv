@@ -175,7 +175,7 @@ item_173,Scheide,body_parts,Scheide,word,produces,NA,vagina,vagina
 item_174,Korb,household,Korb,word,produces,NA,basket,basket
 item_175,Decke,household,Decke,word,produces,NA,blanket,blanket
 item_176,Radio,household,Radio,word,produces,NA,radio,radio
-item_177,Schlüssel,household,Schlussel,word,produces,NA,key,keys
+item_177,Schlüssel,household,Schlussel,word,produces,NA,key,key
 item_178,Messer,household,Messer,word,produces,NA,knife,knife
 item_179,Lampe,household,Lampe,word,produces,NA,lamp,lamp
 item_180,Licht,household,Licht,word,produces,NA,light,light (object)
@@ -204,7 +204,7 @@ item_202,Staubsauger,household,Staubsauger,word,produces,NA,vacuum,vacuum
 item_203,Teller,household,Teller,word,produces,NA,plate,plate
 item_204,Flasche,household,Flasche,word,produces,NA,bottle,bottle
 item_205,Dose,household,Dose,word,produces,NA,box,box
-item_206,Schüssel,household,Schussel,word,produces,NA,bowl,keys
+item_206,Schüssel,household,Schussel,word,produces,NA,bowl,key
 item_207,Besen,household,Besen,word,produces,NA,broom,broom
 item_208,Bürste,household,Burste,word,produces,NA,brush,brush (object)
 item_209,Eimer,household,Eimer,word,produces,NA,bucket,bucket

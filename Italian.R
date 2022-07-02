@@ -41,6 +41,9 @@ new_items[which(new_items$uni_lemma=="little"),]$uni_lemma = "little (descriptio
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="button (object)"),]$uni_lemma = "button"
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
+new_items[which(new_items$uni_lemma=="clop clop"),]$uni_lemma = "clip clop"
+new_items[which(new_items$uni_lemma=="cut it out"),]$uni_lemma = "don't"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 

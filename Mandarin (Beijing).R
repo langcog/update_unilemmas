@@ -54,6 +54,8 @@ new_items[which(new_items$uni_lemma=="bump (action)"),]$uni_lemma = "bump"
 new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
 new_items[which(new_items$uni_lemma=="walnut"),]$uni_lemma = "nut" # is walnut, but nut is not on the form
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
+new_items[which(new_items$uni_lemma=="bang"),]$uni_lemma = "bang bang"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

@@ -69,8 +69,8 @@ tramvaj,vehicles,tramvaj,word,produces,NA,item_67,tram,tram,tram
 vatrogasci,vehicles,vatrogasci,word,produces,NA,item_68,NA,firetruck,
 vlak,vehicles,vlak,word,produces,NA,item_69,train,train,train
 balon,toys,balon,word,produces,NA,item_70,balloon,balloon,balloon
-bojica,toys,bojica,word,produces,NA,item_71,NA,crayon,crayon/marker
-flomaster,toys,flomaster,word,produces,NA,item_72,NA,felt pen,crayon/marker
+bojica,toys,bojica,word,produces,NA,item_71,NA,crayon,crayon
+flomaster,toys,flomaster,word,produces,NA,item_72,NA,felt pen,crayon
 igra,toys,igra,word,produces,NA,item_73,NA,game,game
 igračka,toys,igracka,word,produces,NA,item_74,toy (object),toy,toy (object)
 knjiga,toys,knjiga,word,produces,NA,item_75,book,book,book
@@ -153,7 +153,7 @@ tijesto,food_drink,tijesto,word,produces,NA,item_151,pasta,pasta,pasta
 trešnja,food_drink,tresnja,word,produces,NA,item_152,NA,cherry,cherry
 umak,food_drink,umak,word,produces,NA,item_153,NA,sauce,sauce
 voda (beverage),food_drink,voda,word,produces,NA,item_154,water (beverage),water,water (beverage)
-žvaka (žvakaća guma),food_drink,zvaka_(zvakaca_guma),word,produces,NA,item_155,NA,chewing gum,chewing gum
+žvaka (žvakaća guma),food_drink,zvaka_(zvakaca_guma),word,produces,NA,item_155,NA,chewing gum,gum
 cipela,clothing,cipela,word,produces,NA,item_156,NA,shoe,shoe
 čarapa,clothing,carapa,word,produces,NA,item_157,NA,sock,sock
 čizme,clothing,cizme,word,produces,NA,item_158,boots,boots,boots

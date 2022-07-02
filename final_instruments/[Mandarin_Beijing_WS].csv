@@ -8,7 +8,7 @@ item_6,S1YA,word,sounds,produces,NA,呀,,NA
 item_7,S1SHEEP,word,sounds,produces,NA,咩咩（羊叫声）,baa baa,baa baa
 item_8,S1DUCK,word,sounds,produces,NA,嘎嘎（鸭子叫）,quack quack,quack quack
 item_9,S1CHICK,word,sounds,produces,NA,嘎嘎达（鸡叫）,cluck,cluck
-item_10,S1BANG,word,sounds,produces,NA,梆梆（打枪）,bang,bang
+item_10,S1BANG,word,sounds,produces,NA,梆梆（打枪）,bang,bang bang
 item_11,S1BIRD,word,sounds,produces,NA,喳喳（鸟叫）,tweet tweet,tweet tweet
 item_12,S1LION,word,sounds,produces,NA,嗷（狮子叫）,roar,roar
 item_13,P2MAMA,word,people,produces,NA,妈妈,mommy,mommy
@@ -512,7 +512,7 @@ item_510,H9SCISSO,word,household,produces,NA,剪刀,scissors,scissors
 item_511,H9STRING,word,household,produces,NA,绳,rope,rope
 item_512,H9GLASSE,word,household,produces,NA,眼镜,glasses,glasses
 item_513,H9NEWSP,word,household,produces,NA,报纸,newspaper,newspaper
-item_514,H9KEYS,word,household,produces,NA,钥匙,keys,keys
+item_514,H9KEYS,word,household,produces,NA,钥匙,keys,key
 item_515,H9MONEY,word,household,produces,NA,钱,money,money
 item_516,H9BAG,word,household,produces,NA,包,bag,bag
 item_517,H9PURSE,word,household,produces,NA,书包,bag,bag

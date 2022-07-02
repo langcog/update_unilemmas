@@ -51,6 +51,8 @@ new_items[which(new_items$uni_lemma=="drink"),]$uni_lemma = "drink (action)"
 new_items[which(new_items$uni_lemma=="cacao"),]$uni_lemma = "cocoa"
 new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="bump (action)"),]$uni_lemma = "bump"
+new_items[which(new_items$uni_lemma=="must not"),]$uni_lemma = "cannot"
+new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
 
 # ToDo: check empty uni-lemmas ("")
