@@ -1,0 +1,693 @@
+A	B1	B2	C	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes
+item_25	item_25	item_25	item_25	animals	ALLIGATOR	alligator	crocodile			
+item_26	item_608	item_26	item_26	animals	ANIMAL	animal	animal			
+item_27	item_26			animals	ANT/BUG	ant/bug	bug			
+item_28	item_27	item_27	item_27	animals	BEAR	bear	bear			
+item_29	item_28	item_28	item_28	animals	BEE	bee	bee			
+item_30	item_29	item_29	item_29	animals	BIRD/CHICKEN	bird/chicken	bird			
+item_31	item_30	item_31	item_31	animals	BUNNY/RABBIT	bunny/rabbit	bunny			
+item_32	item_31	item_32	item_32	animals	BUTTERFLY	butterfly	butterfly			
+item_33	item_32	item_33	item_33	animals	CAT	cat	cat			
+item_34	item_33	item_34	item_34	animals	COW	cow	cow			
+item_35	item_34	item_35	item_35	animals	DEER	deer	deer			
+item_36	item_35	item_36	item_36	animals	DOG	dog	dog			
+item_37	item_36	item_37	item_37	animals	DONKEY	donkey	donkey			
+item_38	item_37	item_38	item_38	animals	DUCK	duck	duck			
+item_39	item_38	item_39	item_39	animals	ELEPHANT	elephant	elephant			
+item_40	item_39	item_40	item_40	animals	FISH	fish	fish (animal)			
+item_41	item_609	item_41	item_41	animals	FOX	fox	fox			
+item_42	item_40	item_42	item_42	animals	FROG	frog	frog			
+item_43	item_41	item_43	item_43	animals	GIRAFFE	giraffe	giraffe			
+item_44	item_42	item_44	item_44	animals	HEN	hen	hen			
+item_45	item_43	item_45	item_45	animals	HORSE	horse	horse			
+item_46	item_44	item_46	item_46	animals	LION	lion	lion			
+item_47	item_45	item_47	item_47	animals	MONKEY	monkey	monkey			
+item_48	item_46	item_48	item_48	animals	MOUSE	mouse	mouse			
+item_49	item_47	item_49	item_49	animals	OWL	owl	owl			
+item_50	item_48	item_50	item_50	animals	PIG	pig	pig			
+item_51	item_49	item_51	item_51	animals	ROOSTER	rooster	rooster			
+item_52	item_50	item_52	item_52	animals	SHEEP	sheep	sheep			
+item_53	item_51	item_53	item_53	animals	SKUNK	skunk	skunk		skunk	
+item_54	item_610	item_54	item_54	animals	SNAKE	snake	snake			
+item_55	item_611	item_55	item_55	animals	SPIDER	spider	spider			
+item_56	item_52	item_56	item_56	animals	SQUIRREL	squirrel	squirrel			
+item_57	item_53	item_57	item_57	animals	TIGER	tiger	tiger			
+item_58	item_54	item_58	item_58	animals	TURKEY	turkey	turkey			
+item_59	item_55	item_59	item_59	animals	TURTLE	turtle	turtle			
+item_60	item_56	item_60	item_60	animals	WOLF	wolf	wolf			
+item_61	item_612	item_61	item_61	animals	ZEBRA	zebra	zebra		zebra	
+item_62	item_57	item_62	item_62	clothing	BELT	belt	belt		belt	
+item_63	item_58	item_63	item_63	clothing	BIB	bib	bib			
+item_64	item_59	item_64	item_64	clothing	BOOT	boot	boots			
+item_65	item_60	item_65	item_65	clothing	BUTTON	button	button			
+item_66	item_62	item_66	item_66	clothing	COAT/JACKET	coat/jacket	coat			
+item_67	item_63	item_67	item_67	clothing	DIAPER	diaper	diaper			
+item_68	item_61	item_68	item_68	clothing	DRESS/CLOTHES	dress/clothes	dress (object)			
+item_69	item_64	item_69	item_69	clothing	EARRING	earring	earring		earring	
+item_70	item_93	item_70	item_70	clothing	GLASSES	glasses	glasses			
+item_71	item_65	item_71	item_71	clothing	GLOVES	gloves	gloves			
+item_72	item_66	item_72	item_72	clothing	HAT	hat	hat			
+item_73	item_67	item_73	item_73	clothing	HEARING AID	hearing aid				
+item_74	item_68	item_74	item_74	clothing	NECKLACE	necklace	necklace			
+item_75	item_69	item_75	item_75	clothing	PAJAMAS	pajamas	pajamas			
+item_76	item_70	item_76	item_76	clothing	PANTS	pants	pants			
+item_77				clothing	SANDAL	sandal	sandals			
+item_78	item_71	item_78	item_78	clothing	SCARF	scarf	scarf			
+item_79	item_72	item_79	item_79	clothing	SHIRT	shirt	shirt			
+item_80	item_73	item_80	item_80	clothing	SHOE	shoe	shoe			
+item_81	item_75	item_81	item_81	clothing	SNOWSUIT	snowsuit	snowsuit			
+item_82	item_76	item_82	item_82	clothing	SOCK	sock	sock			
+item_83	item_77	item_83	item_83	clothing	SWEATER	sweater	sweater			
+item_84	item_614	item_84	item_84	clothing	SWIMSUIT	swimsuit	swimsuit			
+item_85	item_79	item_85	item_85	clothing	UNDERPANTS	underpants	underpants			
+item_86	item_121	item_86	item_86	clothing	WRISTWATCH	wristwatch	watch (object)			
+item_87	item_80	item_87	item_87	clothing	ZIPPER	zipper	zipper			
+item_88	item_321	item_479	item_479	time_words	AFTER	after	after			
+item_89	item_322	item_480	item_480	time_words	BEFORE	before	before		before	
+item_90	item_323	item_481	item_481	time_words	DAY	day	day			
+item_91	item_324	item_482	item_482	time_words	LATER	later	later			
+item_92	item_326	item_483	item_483	time_words	MORNING	morning	morning			
+item_93	item_327	item_484	item_484	time_words	NIGHT	night	night			
+item_94	item_325	item_485	item_485	time_words	NOT-YET	not-yet				
+item_95	item_328	item_486	item_486	time_words	NOW	now	now			
+item_96	item_644	item_487	item_487	time_words	SOON	soon	soon		soon	
+item_97	item_329	item_488	item_488	time_words	TIME	time	time			
+item_98	item_330	item_489	item_489	time_words	TODAY	today	today			
+item_99	item_331	item_490	item_490	time_words	TOMORROW	tomorrow	tomorrow			
+item_100	item_332	item_491	item_491	time_words	TONIGHT	tonight	tonight			
+item_101	item_334	item_492	item_492	time_words	YESTERDAY	yesterday	yesterday			
+item_102	item_445	item_116	item_116	action_words	AWAY	away	away			
+item_103	item_446	item_117	item_117	action_words	BITE	bite	bite			
+item_104	item_447	item_118	item_118	action_words	BLOW	blow	blow			
+item_105	item_448	item_119	item_119	action_words	BREAK	break	break			
+item_106	item_449	item_120	item_120	action_words	BRING/CARRY	bring/carry	bring			
+item_107	item_450	item_121	item_121	action_words	BUILD	build	build		build	
+item_108	item_451	item_122	item_122	action_words	BUY	buy	buy			
+item_109	item_403	item_123	item_123	action_words	CATCH	catch	catch			
+item_110	item_453	item_124	item_124	action_words	CHASE	chase	chase		chase	
+item_111	item_454	item_125	item_125	action_words	CHAT	chat	talk			
+item_112	item_456	item_126	item_126	action_words	CLAP	clap	clap			
+item_113	item_457	item_127	item_127	action_words	CLEAN	clean	clean (action)			
+item_114	item_458	item_128	item_128	action_words	CLIMB	climb	climb			
+item_115	item_459	item_129	item_129	action_words	CLOSE	close	close			
+item_116	item_460	item_130	item_130	action_words	COOK	cook	cook		cook	
+item_117	item_461	item_131	item_131	action_words	CRY	cry	cry			
+item_118	item_462	item_132	item_132	action_words	CUT	cut	cut		cut	
+item_119	item_463	item_133	item_133	action_words	DANCE	dance	dance			
+item_120	item_464	item_134	item_134	action_words	DRAW	draw	draw			
+item_121	item_170	item_135	item_135	action_words	DRINK	drink	drink (action)			
+item_122	item_467	item_136	item_136	action_words	DROP	drop	drop			
+item_123	item_468	item_137	item_137	action_words	EAT	eat	eat			
+item_124	item_469	item_138	item_138	action_words	ENTER	enter	enter			
+item_125	item_470	item_139	item_139	action_words	FALL	fall	fall			
+item_126	item_471	item_140	item_140	action_words	FEED	feed	feed			
+item_127	item_472	item_141	item_141	action_words	FIND	find	find			
+item_128	item_473	item_142	item_142	action_words	FINISH	finish	finish			
+item_129	item_475	item_143	item_143	action_words	FIX	fix	fix		fix	
+item_130	item_476	item_144	item_144	action_words	GET/TAKE	get/take	take			
+item_131	item_477	item_145	item_145	action_words	GET-A-SHOT	get-a-shot				
+item_132	item_478	item_146	item_146	action_words	GIVE	give	give			
+item_133	item_479	item_147	item_147	action_words	GO	go	go			
+item_134	item_481	item_148	item_148	action_words	HAVE	have	have			
+item_135	item_482	item_149	item_149	action_words	HEAR	hear	hear			
+item_136	item_483	item_150	item_150	action_words	HELP	help	help			
+item_137	item_484	item_151	item_151	action_words	HIDE	hide	hide			
+item_138	item_485	item_152	item_152	action_words	HIT	hit	hit			
+item_139	item_486	item_153	item_153	action_words	HOLD	hold	hold			
+item_140	item_487	item_154	item_154	action_words	HUG	hug	hug			
+item_141	item_488	item_155	item_155	action_words	HURRY	hurry	hurry			
+item_142	item_490	item_156	item_156	action_words	JUMP	jump	jump			
+item_143	item_491	item_157	item_157	action_words	KICK	kick	kick			
+item_144	item_492	item_158	item_158	action_words	KISS	kiss	kiss			
+item_145	item_493	item_159	item_159	action_words	KNOCK	knock	knock		knock	
+item_146	item_668	item_160	item_160	action_words	LEARN	learn	learn		learn	
+item_147	item_494	item_161	item_161	action_words	LICK	lick	lick			
+item_148	item_495	item_162	item_162	action_words	LIKE	like	like		like	
+item_149	item_496	item_163	item_163	action_words	LOOK	look	look			
+item_150	item_497	item_164	item_164	action_words	LOVE	love	love			
+item_151	item_498	item_165	item_165	action_words	MAKE	make	make			
+item_152				action_words	NEED	need	need			
+item_153	item_499	item_166	item_166	action_words	OPEN	open	open (action)			
+item_154	item_500	item_167	item_167	action_words	PAINT	paint	paint (action)			
+item_155				action_words	PICK/CHOOSE	pick/choose	pick		pick	
+item_156	item_502	item_169	item_169	action_words	PLAY	play	play			
+item_157	item_503	item_170	item_170	action_words	POUR	pour	pour		pour	
+item_158	item_504	item_171	item_171	action_words	PULL	pull	pull			
+item_159	item_505	item_172	item_172	action_words	PUSH	push	push			
+item_160	item_506	item_173	item_173	action_words	PUT	put	put			
+item_161	item_507	item_174	item_174	action_words	READ	read	read			
+item_162	item_508	item_175	item_175	action_words	RIDE-IN	ride-in	ride			
+item_163	item_509	item_176	item_176	action_words	RUN	run	run			
+item_164	item_510	item_177	item_177	action_words	SAY	say	say			
+item_165	item_512	item_178	item_178	action_words	SEARCH-FOR	search-for	look			
+item_166	item_511	item_179	item_179	action_words	SEE	see	see			
+item_167	item_513	item_180	item_180	action_words	SHAKE	shake	shake			
+item_168	item_514	item_181	item_181	action_words	SHARE	share	share		share	
+item_169	item_515	item_182	item_182	action_words	SHOW	show	show			
+item_170	item_516	item_183	item_183	action_words	SIGN	sign	sign (action)		sign (action)	
+item_171	item_517	item_184	item_184	action_words	SIT	sit	sit			
+item_172	item_518	item_185	item_185	action_words	SKATE	skate	skate		skate	
+item_173	item_519	item_186	item_186	action_words	SLEEP	sleep	sleep			
+item_174	item_310	item_187	item_187	action_words	SLIDE	slide	slide (action)		slide (action)	
+item_175	item_521	item_188	item_188	action_words	SMILE	smile	smile			
+item_176	item_522	item_189	item_189	action_words	SPILL	spill	spill			
+item_177	item_523	item_190	item_190	action_words	STAND	stand	stand			
+item_178	item_524	item_191	item_191	action_words	STAY	stay	stay		stay	
+item_179	item_525	item_192	item_192	action_words	STOP	stop	stop			
+item_180	item_528	item_193	item_193	action_words	SWIM	swim	swim			
+item_181	item_317	item_194	item_194	action_words	SWING	swing	swing (action)			
+item_182	item_531	item_195	item_195	action_words	TAKE-PILL	take-pill				
+item_183	item_530	item_196	item_196	action_words	TALK	talk	talk			
+item_184	item_532	item_197	item_197	action_words	TASTE	taste	taste		taste	
+item_185	item_670	item_198	item_198	action_words	TEACH	teach	teach		teach	
+item_186				action_words	TEAR/RIP	tear/rip	tear			
+item_187	item_534	item_200	item_200	action_words	TELL	tell	tell			
+item_188	item_535	item_201	item_201	action_words	THINK	think	think		think	
+item_189	item_536	item_202	item_202	action_words	THROW	throw	throw			
+item_190	item_537	item_203	item_203	action_words	TOUCH	touch	touch			
+item_191	item_538	item_204	item_204	action_words	WAIT	wait	wait			
+item_192	item_539	item_205	item_205	action_words	WALK	walk	walk			
+item_193	item_540	item_206	item_206	action_words	WASH	wash	wash			
+item_194	item_541	item_207	item_207	action_words	WATCH	watch	watch (action)			
+item_195	item_353	item_208	item_208	action_words	WORK	work	work (action)			
+item_196	item_276	item_209	item_209	furniture_rooms	BASEMENT	basement	basement		basement	
+item_197	item_277	item_210	item_210	furniture_rooms	BATHROOM/TOILET	bathroom/toilet	bathroom			
+item_198	item_278	item_211	item_211	furniture_rooms	BATHTUB	bathtub	bathtub			
+item_199	item_279	item_212	item_212	furniture_rooms	BED	bed	bed			
+item_200	item_280	item_213	item_213	furniture_rooms	BEDROOM	bedroom	bedroom			
+item_201	item_282	item_214	item_214	furniture_rooms	CLOSET	closet	closet			
+item_202	item_283	item_215	item_215	furniture_rooms	DOOR	door	door			
+item_203	item_284	item_216	item_216	furniture_rooms	DRAWER	drawer	drawer			
+item_204	item_285	item_217	item_217	furniture_rooms	DRYER	dryer	dryer		dryer	
+item_205	item_286	item_218	item_218	furniture_rooms	GARAGE	garage	garage			
+item_206	item_287	item_219	item_219	furniture_rooms	KITCHEN	kitchen	kitchen			
+item_207	item_288	item_220	item_220	furniture_rooms	LIVING ROOM	living room	living room			
+item_208	item_100	item_221	item_221	furniture_rooms	MIRROR	mirror	mirror			
+item_209	item_289	item_222	item_222	furniture_rooms	REFRIGERATOR	refrigerator	refrigerator			
+item_210	item_290	item_223	item_223	furniture_rooms	ROCKING CHAIR	rocking chair	rocking chair			
+item_211	item_291	item_224	item_224	furniture_rooms	ROOM	room	room			
+item_212	item_292	item_225	item_225	furniture_rooms	SHOWER	shower	shower			
+item_213	item_293	item_226	item_226	furniture_rooms	STAIRS	stairs	stairs			
+item_214	item_294	item_227	item_227	furniture_rooms	TABLE	table	table			
+item_215	item_295	item_228	item_228	furniture_rooms	TV	tv	tv			
+item_216	item_296	item_229	item_229	furniture_rooms	WASH MACHINE	wash machine	washing machine			
+item_217	item_297	item_230	item_230	furniture_rooms	WINDOW	window	window			
+item_218	item_224	item_231	item_231	toys	BALL	ball	ball			
+item_219	item_225	item_232	item_232	toys	BALLOON	balloon	balloon			
+item_220	item_226	item_233	item_233	toys	BAT	bat	bat (object)		bat (object)	
+item_221	item_227	item_234	item_234	toys	BOOK	book	book			
+item_222		item_235	item_235	toys	BUBBLES	bubbles	bubbles			
+item_223	item_228	item_236	item_236	toys	DOLL	doll	doll			
+item_224	item_229	item_237	item_237	toys	GAME	game	game		game	
+item_225	item_230	item_238	item_238	toys	PENCIL	pencil	pencil		pencil	
+item_226				toys	PRESENT/GIFT	present/gift	present			
+item_227	item_232	item_240	item_240	toys	PUZZLE	puzzle	puzzle		puzzle	
+item_228	item_233	item_241	item_241	toys	ROBOT	robot	robot		robot	
+item_229	item_235	item_242	item_242	toys	TOY	toy	toy (object)			
+item_230	item_122	item_243	item_243	people	AUNT	aunt	aunt			
+item_231	item_123	item_244	item_244	people	BABY	baby	baby			
+item_232	item_124	item_245	item_245	people	BABYSITTER	babysitter	babysitter			
+item_233	item_126	item_246	item_246	people	BOY	boy	boy			
+item_234	item_127	item_247	item_247	people	BROTHER	brother	brother			
+item_235	item_129	item_248	item_248	people	CHILD/KID	child/kid	child			
+item_236	item_128	item_249	item_249	people	Child's Own Name	child's own name	child's own name			
+item_237	item_130	item_250	item_250	people	CLOWN	clown	clown			
+item_238	item_131	item_252	item_252	people	COWBOY	cowboy	cowboy		cowboy	
+item_239	item_619	item_251	item_251	people	COUSIN	cousin	cousin			
+item_240	item_132	item_253	item_253	people	DADDY	daddy	daddy			
+item_241	item_133	item_254	item_254	people	DOCTOR	doctor	doctor			
+item_242	item_134	item_255	item_255	people	FIREMAN	fireman	fireman		fireman	
+item_243	item_135	item_256	item_256	people	FRIEND	friend	friend			
+item_244	item_136	item_257	item_257	people	GIRL	girl	girl			
+item_245	item_137	item_258	item_258	people	GRANDMA	grandma	grandma			
+item_246	item_138	item_259	item_259	people	GRANDPA	grandpa	grandpa			
+item_247	item_139	item_260	item_260	people	INDIAN	indian				
+item_248	item_140	item_261	item_261	people	MAILMAN	mailman	mailman		mailman	
+item_249	item_141	item_262	item_262	people	MAN	man	man			
+item_250	item_142	item_263	item_263	people	MOMMY	mommy	mommy			
+item_251	item_621	item_264	item_264	people	MONSTER	monster	monster		monster	
+item_252	item_622	item_265	item_265	people	NAME SIGNS	name signs				
+item_253	item_143	item_266	item_266	people	NURSE	nurse	nurse		nurse	
+item_254	item_144	item_267	item_267	people	PEOPLE	people	people			
+item_255	item_147	item_268	item_268	people	POLICE	police	policeman			
+item_256	item_148	item_269	item_269	people	SANTA CLAUS	santa claus	santa claus		santa claus	
+item_257	item_149	item_270	item_270	people	SISTER	sister	sister			
+item_258	item_150	item_271	item_271	people	TEACHER	teacher	teacher			
+item_259	item_151	item_272	item_272	people	UNCLE	uncle	uncle			
+item_260	item_152	item_273	item_273	people	WOMAN	woman	woman			
+item_261	item_153	item_274	item_274	food_drink	APPLE	apple	apple			
+item_262	item_624	item_275	item_275	food_drink	BAGEL	bagel	bagel		bagel	
+item_263	item_154	item_276	item_276	food_drink	BANANA	banana	banana			
+item_264	item_155	item_277	item_277	food_drink	BEANS	beans	beans			
+item_265	item_156	item_278	item_278	food_drink	BREAD	bread	bread			
+item_266	item_157	item_279	item_279	food_drink	BUTTER	butter	butter			
+item_267	item_158	item_280	item_280	food_drink	CAKE	cake	cake			
+item_268	item_159	item_281	item_281	food_drink	CANDY	candy	candy			
+item_269	item_625	item_282	item_282	food_drink	CARROT	carrot	carrots			
+item_270	item_160	item_283	item_283	food_drink	CEREAL	cereal	cereal			
+item_271	item_161	item_284	item_284	food_drink	CHEESE	cheese	cheese			
+item_272	item_163	item_285	item_285	food_drink	CHOCOLATE	chocolate	chocolate			
+item_273	item_164	item_286	item_286	food_drink	COFFEE	coffee	coffee			
+item_274	item_165	item_287	item_287	food_drink	COKE	coke	soda			
+item_275	item_166	item_288	item_288	food_drink	COOKIE	cookie	cookie			
+item_276	item_167	item_289	item_289	food_drink	CORN	corn	corn		corn	
+item_277	item_168	item_290	item_290	food_drink	CRACKER	cracker	cracker			
+item_278	item_626	item_291	item_291	food_drink	CREAM CHEESE	cream cheese	cream cheese		cream cheese	
+item_279	item_169	item_292	item_292	food_drink	DONUT	donut	donut		donut	
+item_280	item_627	item_293	item_293	food_drink	EGG	egg	egg			
+item_281	item_173	item_294	item_294	food_drink	FRENCH FRIES	french fries	french fries		french fries	
+item_282	item_174	item_295	item_295	food_drink	GRAPES	grapes	grape		grape	
+item_283	item_175	item_296	item_296	food_drink	GREEN BEANS	green beans	green bean		green bean	
+item_284	item_176	item_297	item_297	food_drink	GUM	gum	gum		gum	
+item_285	item_177	item_298	item_298	food_drink	HAMBURGER	hamburger	hamburger		hamburger	
+item_286		item_299	item_299	food_drink	HOT DOG	hot dog	hot dog			
+item_287	item_178	item_300	item_300	food_drink	ICE	ice	ice		ice	
+item_288	item_179	item_301	item_301	food_drink	ICE CREAM	ice cream	ice cream			
+item_289	item_180	item_302	item_302	food_drink	JELLY	jelly	jelly		jelly	
+item_290	item_181	item_303	item_303	food_drink	JUICE	juice	juice			
+item_291	item_182	item_304	item_304	food_drink	LOLLIPOP	lollipop	lollipop			
+item_292	item_183	item_305	item_305	food_drink	MEAT	meat	meat			
+item_293	item_184	item_306	item_306	food_drink	MILK	milk	milk			
+item_294	item_185	item_307	item_307	food_drink	NUT	nut	nut		nut	
+item_295	item_186	item_308	item_308	food_drink	ORANGE	orange	orange (food)			
+item_296	item_629	item_309	item_309	food_drink	PANCAKE	pancake	pancake			
+item_297	item_187	item_310	item_310	food_drink	PEANUT BUTTER	peanut butter	peanut butter		peanut butter	
+item_298	item_188	item_311	item_311	food_drink	PIZZA	pizza	pizza			
+item_299	item_189	item_312	item_312	food_drink	POPSICLE	popsicle	popsicle		popsicle	
+item_300	item_190	item_313	item_313	food_drink	POTATO	potato	potato			
+item_301	item_191	item_314	item_314	food_drink	POTATO CHIPS	potato chips	potato chips		potato chips	
+item_302	item_192	item_315	item_315	food_drink	PUMPKIN	pumpkin	pumpkin		pumpkin	
+item_303	item_193	item_316	item_316	food_drink	SALAD	salad	salad		salad	
+item_304	item_194	item_317	item_317	food_drink	SALT	salt	salt		salt	
+item_305	item_195	item_318	item_318	food_drink	SANDWICH	sandwich	sandwich			
+item_306	item_196	item_319	item_319	food_drink	SAUCE	sauce	sauce			
+item_307	item_197	item_320	item_320	food_drink	SODA/POP	soda/pop	soda			
+item_308	item_198	item_321	item_321	food_drink	SOUP	soup	soup			
+item_309	item_199	item_322	item_322	food_drink	SPAGHETTI	spaghetti	spaghetti			
+item_310	item_200	item_323	item_323	food_drink	STRAWBERRY	strawberry	strawberry		strawberry	
+item_311	item_630	item_324	item_324	food_drink	SYRUP	syrup	syrup		syrup	
+item_312	item_201	item_325	item_325	food_drink	TEA	tea	tea			
+item_313	item_202	item_326	item_326	food_drink	TOAST	toast	toast			
+item_314	item_631	item_327	item_327	food_drink	TOMATO	tomato	tomato			
+item_315	item_203	item_328	item_328	food_drink	VANILLA	vanilla	vanilla		vanilla	
+item_316	item_204	item_329	item_329	food_drink	VITAMINS	vitamins	vitamin		vitamin	
+item_317	item_633	item_330	item_330	food_drink	WAFFLE	waffle	waffle		waffle	
+item_318	item_205	item_331	item_331	food_drink	WATER	water	water (beverage)			
+item_319	item_206	item_332	item_332	food_drink	WATERMELON	watermelon	watermelon			
+item_320	item_208	item_337	item_337	locations	ABOVE	above	above			
+item_321	item_209	item_338	item_338	locations	BACK	back	back			
+item_322	item_210	item_339	item_339	locations	BEHIND	behind	behind			
+item_323	item_212	item_340	item_340	locations	DOWN	down	down			
+item_324	item_213	item_341	item_341	locations	FOR	for	for			
+item_325	item_635	item_342	item_342	locations	FRONT	front	front			
+item_326	item_214	item_343	item_343	locations	HERE	here	here			
+item_327	item_215	item_344	item_344	locations	INSIDE/IN	inside/in	in			
+item_328	item_216	item_345	item_345	locations	NEXT-TO	next-to	beside		beside	
+item_329		item_346	item_346	locations	OFF	off	off			
+item_330	item_217	item_347	item_347	locations	ON	on	on			
+item_331	item_218	item_348	item_348	locations	OUT	out	out			
+item_332	item_219	item_349	item_349	locations	OVER	over	above		above	
+item_333	item_220	item_350	item_350	locations	TO	to	to			
+item_334	item_221	item_351	item_351	locations	UNDER	under	under			
+item_335	item_222	item_352	item_352	locations	UP	up	up			
+item_336	item_223	item_353	item_353	locations	WITH	with	with			
+item_337	item_298	item_354	item_354	outside	BACKYARD/YARD	backyard/yard	yard			
+item_338	item_299	item_355	item_355	outside	CLOUD	cloud	cloud			
+item_339	item_300	item_356	item_356	outside	FLAG	flag	flag		flag	
+item_340	item_301	item_357	item_357	outside	FLOWER	flower	flower			
+item_341				outside	FOREST	forest	forest		forest	
+item_342	item_302	item_359	item_359	outside	GRASS	grass	grass			
+item_343	item_303	item_360	item_360	outside	HOSE	hose	hose		hose	
+item_344	item_304	item_361	item_361	outside	LADDER	ladder	ladder			
+item_345	item_305	item_362	item_362	outside	LAWN MOWER	lawn mower	lawn mower		lawn mower	
+item_346	item_638	item_363	item_363	outside	LIGHTNING	lightning	lightning		lightning	
+item_347	item_306	item_364	item_364	outside	MOON	moon	moon			
+item_348	item_307	item_365	item_365	outside	RAIN	rain	rain			
+item_349	item_308	item_366	item_366	outside	ROCK	rock	rock (object)			
+item_350	item_309	item_367	item_367	outside	SHOVEL	shovel	shovel			
+item_351	item_311	item_368	item_368	outside	SNOW	snow	snow			
+item_352	item_312	item_369	item_369	outside	SNOWMAN	snowman	snowman		snowman	
+item_353	item_313	item_370	item_370	outside	SPRINKLER	sprinkler	sprinkler		sprinkler	
+item_354	item_314	item_371	item_371	outside	STAR	star	star			
+item_355	item_315	item_372	item_372	outside	STREET	street	street			
+item_356	item_316	item_373	item_373	outside	SUN	sun	sun			
+item_357	item_318	item_374	item_374	outside	TREE	tree	tree			
+item_358				outside	WIND/WINDY	wind/windy	wind			
+item_359	item_262	item_375	item_375	pronouns	HE/SHE/IT	he/she/it				
+item_360	item_263	item_376	item_376	pronouns	HIS/HERS	his/hers				
+item_361	item_264	item_377	item_377	pronouns	ME	me	me			
+item_362				pronouns	MINE/MY	mine/my	my			
+item_363	item_266	item_379	item_379	pronouns	MYSELF	myself	self			
+item_364	item_267	item_380	item_380	pronouns	OUR	our	our			
+item_365				pronouns	THAT/THESE	that/these	that			
+item_366	item_269	item_382	item_382	pronouns	THEIR	their	their		their	
+item_367	item_271	item_383	item_383	pronouns	THEY	they	they			
+item_368	item_272	item_384	item_384	pronouns	WE	we	we			
+item_369	item_273	item_385	item_385	pronouns	YOU	you	you			
+item_370	item_274	item_386	item_386	pronouns	YOUR	your	your			
+item_371	item_275	item_387	item_387	pronouns	YOURSELF	yourself	yourself		yourself	
+item_372	item_335	item_388	item_388	outside	BEACH	beach	beach			
+item_373	item_336	item_389	item_389	outside	CAMPING	camping	camping		camping	
+item_374	item_337	item_390	item_390	outside	CHURCH	church	church			
+item_375	item_338	item_391	item_391	outside	CIRCUS	circus	circus		circus	
+item_376	item_339	item_392	item_392	outside	COUNTRY	country	country			
+item_377	item_340	item_393	item_393	outside	FARM	farm	farm		farm	
+item_378	item_342	item_394	item_394	outside	GAS STATION	gas station	gas station		gas station	
+item_379	item_343	item_395	item_395	outside	HOME	home	home			
+item_380	item_344	item_396	item_396	outside	HOUSE	house	house			
+item_381	item_647	item_397	item_397	outside	McDONALD'S	mcdonald's				
+item_382	item_345	item_398	item_398	outside	MOVIE	movie	movie		movie	
+item_383	item_346	item_399	item_399	outside	OUTSIDE	outside	outside			
+item_384	item_347	item_400	item_400	outside	PARTY	party	party			
+item_385	item_348	item_401	item_401	outside	PICNIC	picnic	picnic		picnic	
+item_386	item_349	item_402	item_402	outside	PLAYGROUND	playground	playground			
+item_387	item_648	item_403	item_403	outside	RESTAURANT	restaurant	restaurant		restaurant	
+item_388	item_350	item_404	item_404	outside	SCHOOL	school	school			
+item_389	item_351	item_405	item_405	outside	STORE	store	store			
+item_390	item_352	item_406	item_406	outside	TOWN	town	town		town	
+item_391	item_354	item_407	item_407	outside	ZOO	zoo	zoo			
+item_392	item_597	item_419	item_419	question_words	DO-DO	do-do	do			
+item_393	item_699	item_420	item_420	question_words	FOR-FOR	for-for	for			
+item_394	item_598	item_421	item_421	question_words	HOW	how	how			
+item_395	item_599	item_422	item_422	question_words	WHAT	what	what			
+item_396	item_603	item_423	item_423	question_words	WHERE	where	where (question)			
+item_397	item_604	item_424	item_424	question_words	WHICH	which	which (question)			
+item_398	item_605	item_425	item_425	question_words	WHO	who	who			
+item_399	item_606	item_426	item_426	question_words	WHY	why	why			
+item_400	item_81	item_427	item_427	household	BAND-AID	band-aid	band-aid		band-aid	
+item_401	item_82	item_428	item_428	household	BASKET	basket	basket		basket	
+item_402	item_83	item_429	item_429	household	BLANKET	blanket	blanket			
+item_403	item_84	item_430	item_430	household	BOTTLE	bottle	bottle			
+item_404	item_86	item_431	item_431	household	BOWL	bowl	bowl			
+item_405	item_85	item_432	item_432	household	BOX	box	box			
+item_406	item_87	item_433	item_433	household	BROOM	broom	broom			
+item_407	item_88	item_434	item_434	household	BRUSH	brush	brush (object)			
+item_408	item_89	item_435	item_435	household	CAMERA	camera	camera			
+item_409	item_105	item_436	item_436	household	CENT/COIN	cent/coin	penny			
+item_410	item_90	item_437	item_437	household	COMB	comb	comb (object)			
+item_411	item_91	item_438	item_438	household	FORK	fork	fork			
+item_412	item_92	item_439	item_439	household	GLASS	glass	glass			
+item_413	item_94	item_440	item_440	household	HAMMER	hammer	hammer			
+item_414	item_96	item_441	item_441	household	KEYS	keys	keys			
+item_415	item_97	item_442	item_442	household	KNIFE	knife	knife			
+item_416	item_615	item_443	item_443	household	LETTER	letter	letter		letter	
+item_417	item_99	item_445	item_445	household	MEDICINE	medicine	medicine			
+item_418	item_101	item_446	item_446	household	MONEY	money	money			
+item_419	item_102	item_447	item_447	household	MOP	mop	mop		mop	
+item_420	item_103	item_448	item_448	household	NAPKIN	napkin	napkin		napkin	
+item_421	item_616	item_449	item_449	household	NEWSPAPER	newspaper	newspaper		newspaper	
+item_422	item_104	item_450	item_450	household	PAPER	paper	paper			
+item_423	item_106	item_451	item_451	household	PICTURE	picture	picture			
+item_424	item_107	item_452	item_452	household	PLANT	plant	plant			
+item_425	item_108	item_453	item_453	household	PLATE	plate	plate			
+item_426	item_109	item_454	item_454	household	PURSE	purse	purse			
+item_427	item_110	item_455	item_455	household	RADIO	radio	radio			
+item_428	item_111	item_456	item_456	household	SCISSORS	scissors	scissors			
+item_429	item_112	item_457	item_457	household	SOAP	soap	soap			
+item_430	item_113	item_458	item_458	household	SPOON	spoon	spoon			
+item_431	item_114	item_459	item_459	household	TAPE	tape	tape		tape	
+item_432	item_400	item_460	item_460	household	TDD/TTY	tdd/tty				
+item_433	item_115	item_461	item_461	household	TELEPHONE	telephone	telephone			
+item_434	item_116	item_462	item_462	household	TISSUE/KLEENEX	tissue/kleenex	tissue			
+item_435	item_117	item_463	item_463	household	TOOTHBRUSH	toothbrush	toothbrush			
+item_436	item_118	item_464	item_464	household	TOWEL	towel	towel			
+item_437	item_119	item_465	item_465	household	TRASH/GARBAGE	trash/garbage	trash			
+item_438	item_120	item_466	item_466	household	VACUUM	vacuum	vacuum			
+item_439	item_651	item_88	item_88	games_routines	BASEBALL	baseball	baseball		baseball	
+item_440	item_652	item_89	item_89	games_routines	BASKETBALL	basketball	basketball		basketball	
+item_441	item_397	item_90	item_90	games_routines	BATH	bath	bath			
+item_442	item_694	item_91	item_91	games_routines	BIRTHDAY	birthday	birthday		birthday	
+item_443	item_653	item_92	item_92	games_routines	BOWLING	bowling	bowling		bowling	
+item_444	item_398	item_93	item_93	games_routines	BREAKFAST	breakfast	breakfast			
+item_445		item_94	item_94	games_routines	BRUSH-HAIR	brush-hair			brush (action)	
+item_446	item_399	item_95	item_95	games_routines	BYE	bye	bye			
+item_447		item_96	item_96	games_routines	CALL(TDD)	call(tdd)				
+item_448	item_401	item_97	item_97	games_routines	DINNER	dinner	dinner			
+item_449	item_655	item_98	item_98	games_routines	FOOTBALL	football	football		football	
+item_450	item_656	item_99	item_99	games_routines	GOLF	golf	golf		golf	
+item_451	item_405	item_100	item_100	games_routines	HI	hi	hi			
+item_452	item_657	item_101	item_101	games_routines	I-LOVE-YOU	i-love-you				
+item_453				games_routines	LET'S-SEE	let's-see				
+item_454	item_406	item_103	item_103	games_routines	LUNCH	lunch	lunch			
+item_455	item_407	item_104	item_104	games_routines	NAP	nap	nap			
+item_456	item_408	item_105	item_105	games_routines	NO	no	no			
+item_457	item_409	item_106	item_106	games_routines	PEE/BM	pee/bm	pee			
+item_458	item_410	item_107	item_107	games_routines	PEEKABOO	peekaboo	peekaboo			
+item_459	item_411	item_108	item_108	games_routines	PLEASE	please	please			
+item_460	item_412	item_109	item_109	games_routines	SHH/SHUSH	shh/shush	shh			
+item_461	item_413	item_110	item_110	games_routines	SHOPPING	shopping	shopping		shopping	
+item_462	item_234	item_111	item_111	games_routines	STORY	story	story		story	
+item_463	item_415	item_112	item_112	games_routines	THANK-YOU	thank-you	thank you			
+item_464	item_662	item_113	item_113	games_routines	WASH-FACE	wash-face			wash	
+item_465	item_663	item_114	item_114	games_routines	WASH-HANDS	wash-hands			wash	
+item_466	item_417	item_115	item_115	games_routines	YES	yes	yes			
+item_467	item_386	item_467	item_467	vehicles	AIRPLANE	airplane	airplane			
+item_468	item_650	item_468	item_468	vehicles	AMBULANCE	ambulance	ambulance			
+item_469	item_387	item_469	item_469	vehicles	BICYCLE	bicycle	bicycle			
+item_470	item_388	item_470	item_470	vehicles	BOAT	boat	boat			
+item_471	item_389	item_471	item_471	vehicles	BUS	bus	bus			
+item_472	item_391	item_473	item_473	vehicles	FIRETRUCK	firetruck	firetruck			
+item_473	item_392	item_474	item_474	vehicles	HELICOPTER	helicopter	helicopter		helicopter	
+item_474	item_393	item_475	item_475	vehicles	MOTORCYCLE	motorcycle	motorcycle			
+item_475	item_394	item_476	item_476	vehicles	SLED	sled	sled		sled	
+item_476	item_395	item_477	item_477	vehicles	TRAIN	train	train			
+item_477	item_396	item_478	item_478	vehicles	TRUCK	truck	truck			
+item_478				descriptive_words	ANGRY	angry	angry			
+item_479	item_544	item_502	item_503	descriptive_words	BAD	bad	bad			
+item_480	item_545	item_503	item_504	descriptive_words	BETTER	better	better		better	
+item_481	item_546	item_504	item_505	descriptive_words	BIG	big	big			
+item_482	item_547	item_505	item_506	descriptive_words	BLACK	black	black			
+item_483	item_548	item_506	item_507	descriptive_words	BLUE	blue	blue			
+item_484	item_549	item_507	item_508	descriptive_words	BROWN	brown	brown		brown	
+item_485	item_550	item_508	item_509	descriptive_words	CAREFUL	careful	careful			
+item_486	item_551	item_509	item_510	descriptive_words	COLD	cold	cold			
+item_487	item_676	item_510	item_511	descriptive_words	CRAZY	crazy	crazy		crazy	
+item_488	item_552	item_511	item_512	descriptive_words	CUTE	cute	cute			
+item_489	item_553	item_512	item_513	descriptive_words	DARK	dark	dark			
+item_490	item_671	item_513	item_514	descriptive_words	DEAF	deaf	deaf		deaf	
+item_491	item_672	item_514	item_515	descriptive_words	DELICIOUS	delicious	tasty			
+item_492	item_554	item_515	item_516	descriptive_words	DIRTY	dirty	dirty			
+item_493	item_675	item_516	item_517	descriptive_words	DRY	dry	dry (description)			
+item_494	item_555	item_517	item_518	descriptive_words	EMPTY	empty	empty			
+item_495	item_556	item_518	item_519	descriptive_words	FAST	fast	fast			
+item_496	item_557	item_519	item_520	descriptive_words	FINE	fine	fine			
+item_497	item_558	item_520	item_521	descriptive_words	FIRST	first	first		first	
+item_498	item_559	item_521	item_522	descriptive_words	FULL	full	full			
+item_499	item_677	item_522	item_523	descriptive_words	FUNNY	funny	funny			
+item_500	item_560	item_523	item_524	descriptive_words	GOOD	good	good			
+item_501	item_561	item_524	item_525	descriptive_words	GREEN	green	green			
+item_502	item_562	item_525	item_526	descriptive_words	HAPPY	happy	happy			
+item_503	item_563	item_526	item_527	descriptive_words	HARD	hard	hard			
+item_504	item_564	item_527	item_528	descriptive_words	HEAVY	heavy	heavy			
+item_505	item_565	item_528	item_529	descriptive_words	HIGH	high	high			
+item_506	item_566	item_529	item_530	descriptive_words	HOT	hot	hot			
+item_507	item_567	item_530	item_531	descriptive_words	HUNGRY	hungry	hungry			
+item_508	item_568	item_531	item_532	descriptive_words	HURT	hurt	hurt (description)			
+item_509	item_569	item_532	item_533	descriptive_words	LAST	last	last		last	
+item_510	item_570	item_533	item_534	descriptive_words	LITTLE	little	little (description)			
+item_511	item_571	item_534	item_535	descriptive_words	LONG	long	long		long	
+item_512	item_573	item_535	item_536	descriptive_words	NEW	new	new			
+item_513	item_574	item_536	item_537	descriptive_words	NICE	nice	nice			
+item_514	item_575	item_537	item_538	descriptive_words	NOISY	noisy	loud			
+item_515	item_576	item_538	item_539	descriptive_words	OLD	old	old			
+item_516	item_689	item_539	item_540	descriptive_words	PINK	pink	pink		pink	
+item_517	item_578	item_540	item_541	descriptive_words	POOR	poor	poor		poor	
+item_518	item_579	item_541	item_542	descriptive_words	PRETTY	pretty	pretty			
+item_519	item_690	item_542	item_543	descriptive_words	PURPLE	purple	purple		purple	
+item_520	item_580	item_543	item_544	descriptive_words	QUIET	quiet	quiet		quiet	
+item_521	item_581	item_544	item_545	descriptive_words	RED	red	red			
+item_522	item_582	item_545	item_546	descriptive_words	SAD	sad	sad			
+item_523	item_583	item_546	item_547	descriptive_words	SCARED	scared	scared			
+item_524	item_584	item_547	item_548	descriptive_words	SICK	sick	sick			
+item_525	item_681	item_548	item_549	descriptive_words	SILLY	silly	silly		silly	
+item_526	item_585	item_549	item_550	descriptive_words	SLEEPY	sleepy	sleepy			
+item_527	item_586	item_550	item_551	descriptive_words	SLOW	slow	slow			
+item_528	item_587	item_551	item_552	descriptive_words	SOFT	soft	soft			
+item_529	item_588	item_552	item_553	descriptive_words	STICKY	sticky	sticky		sticky	
+item_530	item_589	item_553	item_554	descriptive_words	STUCK	stuck	stuck		stuck	
+item_531	item_590	item_554	item_555	descriptive_words	THIRSTY	thirsty	thirsty			
+item_532	item_591	item_555	item_556	descriptive_words	TIRED	tired	tired			
+item_533	item_683	item_556	item_557	descriptive_words	UPSET	upset	angry			
+item_534	item_592	item_557	item_558	descriptive_words	WET	wet	wet (description)			
+item_535	item_593	item_558	item_559	descriptive_words	WHITE	white	white			
+item_536	item_594	item_559	item_560	descriptive_words	WINDY	windy	windy		windy	
+item_537	item_595	item_560	item_561	descriptive_words	YELLOW	yellow	yellow			
+item_538	item_596	item_561	item_562	descriptive_words	YUCKY	yucky	yucky			
+item_539	item_418	item_493	item_493	helping_verbs	CAN	can	can (auxiliary)			
+item_540	item_419	item_494	item_494	helping_verbs	CAN'T	can't				
+item_541	item_422	item_495	item_496	helping_verbs	DON'T-LIKE	don't-like				
+item_542	item_423	item_496	item_497	helping_verbs	DON'T-WANT	don't-want				
+item_543	item_425	item_497	item_498	helping_verbs	LET-ME-SEE	let-me-see				
+item_544	item_426	item_499	item_500	helping_verbs	WANT	want	want		want	
+item_545	item_427	item_500	item_501	helping_verbs	WILL	will	will		will	
+item_546				helping_verbs	A LOT/MUCH	a lot/much	a lot			
+item_547	item_428	item_409	item_409	helping_verbs	ALL	all	all			
+item_548	item_432	item_410	item_410	helping_verbs	GONE/ALL-GONE	gone/all-gone	all gone			
+item_549	item_666	item_411	item_411	helping_verbs	MANY	many	many			
+item_550	item_433	item_412	item_412	helping_verbs	MORE	more	more			
+item_551	item_435	item_413	item_413	helping_verbs	NONE	none	none			
+item_552	item_434	item_414	item_414	helping_verbs	NOT	not	not			
+item_553	item_667	item_415	item_415	helping_verbs	NUMBERS	numbers				wrong category?
+item_554	item_436	item_416	item_416	helping_verbs	OTHER	other	other			
+item_555	item_437	item_417	item_417	helping_verbs	SAME	same	same			
+item_556	item_438	item_418	item_418	helping_verbs	SOME	some	some			
+item_557	item_439	item_333	item_333	helping_verbs	AND	and	and		and	
+item_558	item_440	item_334	item_334	helping_verbs	BECAUSE	because	because		because	
+item_559	item_441	item_335	item_335	helping_verbs	BUT	but	but		but	
+item_560	item_442	item_336	item_336	helping_verbs	IF/SUPPOSE	if/suppose	if		if	
+	item_74			clothing	SHORTS	shorts	shorts			
+	item_78			clothing	TIGHTS	tights	tights			
+	item_95			household	JAR	jar	jar			
+	item_98	item_444	item_444	household	LIGHT	light	light (object)			
+	item_125			people	(Babysitter's Name)	(babysitter's name)	babysitter's name			
+	item_145			people	PERSON	person	person			
+	item_146			people	Pet's NAme	pet's name	pet's name			
+	item_162			food_drink	CHICKEN	chicken	chicken (food)			
+	item_171	item_40	item_40	food_drink	FISH	fish	fish (food)			
+	item_172			food_drink	FOOD	food	food			
+	item_207			locations	ABOUT	about	about		about	
+	item_211			locations	BESIDE	beside	beside		beside	
+	item_231	item_239	item_239	toys	PRESENT	present	present			
+	item_236			body_parts	ARM	arm	arm			
+	item_237			body_parts	BELLY BUTTON	belly button	belly button			
+	item_238			body_parts	BUTTOCKS/BOTTOM	buttocks/bottom	butt			
+	item_239			body_parts	CHEEK	cheek	cheek			
+	item_240			body_parts	CHIN	chin	chin			
+	item_241			body_parts	EAR	ear	ear			
+	item_242			body_parts	EYE	eye	eye			
+	item_243			body_parts	FACE	face	face			
+	item_244			body_parts	FEET	feet	feet			
+	item_245			body_parts	FINGER	finger	finger			
+	item_246			body_parts	HAIR	hair	hair			
+	item_247			body_parts	HAND	hand	hand			
+	item_248			body_parts	HEAD	head	head			
+	item_249			body_parts	KNEE	knee	knee			
+	item_250			body_parts	LEG	leg	leg			
+	item_251			body_parts	LIPS	lips	lips		lips	
+	item_252			body_parts	MOUTH	mouth	mouth			
+	item_253			body_parts	NOSE	nose	nose			
+	item_254			body_parts	OWIE/BOO BOO	owie/boo boo	owie			
+	item_255			body_parts	PENIS	penis	penis			
+	item_256			body_parts	SHOULDER	shoulder	shoulder		shoulder	
+	item_257			body_parts	TOOTH	tooth	tooth			
+	item_258			body_parts	TOE	toe	toe			
+	item_259			body_parts	TONGUE	tongue	tongue			
+	item_260			body_parts	TUMMY	tummy	tummy			
+	item_261			body_parts	VAGINA	vagina	vagina			
+	item_265	item_378	item_378	pronouns	MY/MINE	my/mine	my			
+	item_268	item_381	item_381	pronouns	THAT	that	that			
+	item_270			pronouns	THESE	these	these			
+	item_281			furniture_rooms	CHAIR	chair	chair			
+	item_319	item_331	item_331	outside	WATER	water	water (not beverage)			
+	item_320			outside	WIND	wind	wind			
+	item_333			time_words	UP-TO-NOW	up-to-now				
+	item_341	item_358	item_358	outside	FOREST/WOODS	forest/woods	forest		forest	
+	item_355	item_243	item_243	people	AUNT	aunt	aunt			
+	item_356	item_244	item_244	people	BABY	baby	baby			
+	item_357	item_245	item_245	people	BABYSITTER	babysitter	babysitter			
+	item_358			people	(Babysitter's NAme)	(babysitter's name)	babysitter's name			
+	item_359	item_246	item_246	people	BOY	boy	boy			
+	item_360	item_247	item_247	people	BROTHER	brother	brother			
+	item_361	item_249	item_249	people	(Child's Own NAme)	(child's own name)	child's own name			
+	item_362	item_248	item_248	people	CHILD/KID	child/kid	child			
+	item_363	item_250	item_250	people	CLOWN	clown	clown			
+	item_364	item_252	item_252	people	COWBOY	cowboy	cowboy		cowboy	
+	item_365	item_253	item_253	people	DADDY	daddy	daddy			
+	item_366	item_254	item_254	people	DOCTOR	doctor	doctor			
+	item_367	item_255	item_255	people	FIREMAN	fireman	fireman		fireman	
+	item_368	item_256	item_256	people	FRIEND	friend	friend			
+	item_369	item_257	item_257	people	GIRL	girl	girl			
+	item_370	item_258	item_258	people	GRANDMA	grandma	grandma			
+	item_371	item_259	item_259	people	GRANDPA	grandpa	grandpa			
+	item_372	item_260	item_260	people	INDIAN	indian				
+	item_373	item_261	item_261	people	MAILMAN	mailman	mailman		mailman	
+	item_374	item_262	item_262	people	MAN	man	man			
+	item_375	item_263	item_263	people	MOMMY	mommy	mommy			
+	item_376	item_266	item_266	people	NURSE	nurse	nurse		nurse	
+	item_377	item_267	item_267	people	PEOPLE	people	people			
+	item_378			people	PERSON	person	person			
+	item_379			people	(Pet's NAme)	(pet's name)	pet's name			
+	item_380	item_268	item_268	people	POLICE	police	policeman			
+	item_381	item_269	item_269	people	SANTA CLAUS	santa claus	santa claus		santa claus	
+	item_382	item_270	item_270	people	SISTER	sister	sister			
+	item_383	item_271	item_271	people	TEACHER	teacher	teacher			
+	item_384	item_272	item_272	people	UNCLE	uncle	uncle			
+	item_385	item_273	item_273	people	WOMAN	woman	woman			
+	item_390	item_472	item_472	vehicles	CAR	car	car			
+	item_402			games_routines	GIVE-ME-FIVE	give-me-five				
+	item_404			games_routines	GO POTTY	go potty	go potty			
+	item_414			games_routines	SORRY	sorry	sorry		sorry	
+	item_416			games_routines	WAKE UP	wake up	wake up		wake up	
+	item_420			helping_verbs	DON‚ÄôT-CARE	don‚äôt-care				
+	item_421		item_495	helping_verbs	DON‚ÄôT-KNOW	don‚äôt-know				
+	item_424	item_498	item_499	helping_verbs	HAVE-TO/NEED/MUST	have-to/need/must	need			
+	item_429	item_408	item_408	quantifiers	A LOT/MUCH	a lot/much	a lot			
+	item_430			quantifiers	ANY	any	any			
+	item_431			quantifiers	EACH/EVERY	each/every	each		each	
+	item_443			connecting_words	SO	so	so		so	
+	item_444			connecting_words	THEN	then	then		then	
+	item_452	item_123	item_123	action_words	CATCH	catch	catch			
+	item_455			action_words	CHOOSE	choose	choose		choose	
+	item_465	item_135	item_135	action_words	DRINK	drink	drink (action)			
+	item_466			action_words	DRIVE	drive	drive			
+	item_474			action_words	FIT	fit	fit		fit	
+	item_480			action_words	HATE	hate	hate		hate	
+	item_489			action_words	IMAGINE	imagine	imagine		imagine	
+	item_501	item_168	item_168	action_words	PICK	pick	pick		pick	
+	item_520	item_187	item_187	action_words	SLIDE	slide	slide (action)		slide (action)	
+	item_526			action_words	SWEEP	sweep	sweep			
+	item_527			action_words	SUPPOSE	suppose				
+	item_529	item_194	item_194	action_words	SWING	swing	swing (action)			
+	item_533	item_199	item_199	action_words	TEAR	tear	tear			
+	item_542			action_words	WISH	wish	wish		wish	
+	item_543	item_208	item_208	action_words	WORK	work	work (action)			
+	item_572	item_501	item_502	descriptive_words	MAD/ANGRY	mad/angry	angry			
+	item_577	item_308	item_308	descriptive_words	ORANGE	orange	orange (description)			
+	item_600			question_words	W-H-A-T	w-h-a-t	what			
+	item_601	item_422	item_422	question_words	WHAT	what	what		what	
+	item_602			question_words	WHEN	when	when (question)		when (question)	
+	item_613	item_77	item_77	clothing	SANDALS	sandals	sandals		sandals	
+	item_617	item_222	item_222	household	REFRIGERATOR	refrigerator	refrigerator		refrigerator	
+	item_618			household	TDD	tdd				
+	item_620			people	INTERPRETER	interpreter	interpreter		interpreter	
+	item_623			people	SPEECH THERAPIST	speech therapist				
+	item_628			food_drink	ONION	onion	onion		onion	
+	item_632			food_drink	VEGETABLE	vegetable	vegetable		vegetable	
+	item_634			locations	BETWEEN	between	between			
+	item_636			furniture_rooms	DINING ROOM	dining room	dining room		dining room	
+	item_637			outside	EARTH	earth	earth			
+	item_639			outside	TENT	tent	tent			
+	item_640			outside	THUNDER	thunder	thunder			
+	item_641			outside	TICKET	ticket	ticket			
+	item_642			time_words	DAYS OF THE WEEK	days of the week				
+	item_643			time_words	MONTH	month	month		month	
+	item_645			time_words	WEEK	week	week		week	
+	item_646			time_words	YEAR	year	year		year	
+	item_649			places	VACATION	vacation	vacation		vacation	
+	item_654			games_routines	BRUSH HAIR	brush hair			brush (action)	
+	item_658	item_102	item_102	games_routines	LET'S-SEE/WE'LL SEE	let's-see/we'll see				
+	item_659			games_routines	OH-I-SEE	oh-i-see				
+	item_660			games_routines	SOCCER	soccer	soccer		soccer	
+	item_661			games_routines	VOLLEYBALL	volleyball	volleyball		volleyball	
+	item_664			games_routines	WATER-SKI	water-ski				
+	item_665			games_routines	WELCOME	welcome	welcome		welcome	
+	item_669			action_words	PUNISH	punish	punish		punish	
+	item_673			descriptive_words	DIFFERENT	different	different		different	
+	item_674			descriptive_words	DISAPPOINT	disappoint	disappointed		disappointed	
+	item_678			descriptive_words	HANDSOME	handsome	handsome		handsome	
+	item_679			descriptive_words	HEARING	hearing	hearing		hearing	
+	item_680			descriptive_words	SHORT	short	short		short	
+	item_682			descriptive_words	TALL	tall	tall		tall	
+	item_684	item_505	item_506	descriptive_words	BLACK	black	black			
+	item_685	item_506	item_507	descriptive_words	BLUE	blue	blue			
+	item_686	item_507	item_508	descriptive_words	BROWN	brown	brown		brown	
+	item_687	item_524	item_525	descriptive_words	GREEN	green	green			
+	item_688	item_308	item_308	descriptive_words	ORANGE	orange	orange (description)			
+	item_691	item_544	item_545	descriptive_words	RED	red	red			
+	item_692	item_558	item_559	descriptive_words	WHITE	white	white			
+	item_693	item_560	item_561	descriptive_words	YELLOW	yellow	yellow			
+	item_695			time_words	CHRISTMAS	christmas	christmas		christmas	
+	item_696			time_words	EASTER	easter	easter		easter	
+	item_697			time_words	HANUKKAH	hanukkah	hanukkah		hanukkah	
+	item_698			time_words	HALLOWEEN	halloween	halloween		halloween	
+		item_30	item_30	animals	BUG/ANT	bug/ant	bug		bug	
