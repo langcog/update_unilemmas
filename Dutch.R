@@ -232,3 +232,9 @@ new_form1 <- update_instrument("Dutch", "FormOne", new_items %>% rename(itemID =
 # "13 new uni-lemmas defined for Dutch"
 new_form2a <- update_instrument("Dutch", "FormTwoA", new_items %>% rename(itemID = Form2A))
 # "6 new uni-lemmas defined for Dutch"
+new_form2b <- update_instrument("Dutch", "FormTwoB", new_items %>% rename(itemID = Form2B))
+# "25 new uni-lemmas defined for Dutch"
+new_form3 <- update_instrument("Dutch", "FormThree", new_items %>% rename(itemID = Form3))
+# "8 new uni-lemmas defined for Dutch"
+new_swingley <- update_instrument("Dutch", "Swingley", new_items %>% rename(itemID = Swingley))
+# "173 new uni-lemmas defined for Dutch"

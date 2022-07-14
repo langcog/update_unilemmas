@@ -9,11 +9,11 @@ old_items <- get_item_data(language = language, db_args = db_args) %>%
   filter(item_kind=="word")
 
 new_items <- update_unilemmas(language, show_conflicts=T)
-# "loaded 692 American Sign Language items"
-# "34 missing uni_lemmas in original ( 5 % missing)"
-# "171 uni_lemmas added/modified"
+# "loaded 820 American Sign Language items"
+# "58 missing uni_lemmas in original ( 7 % missing)"
+# "174 uni_lemmas added/modified"
 # "Adding uncontested new_uni_lemmas..."
-# "30 uni_lemmas still missing ( 4 % missing)"
+# "51 uni_lemmas still missing ( 6 % missing)"
 # "Review 0 suggested new_uni_lemmas that replace existing uni_lemmas, and revise by hand:"
 
 new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal" 
@@ -26,7 +26,7 @@ new_items[which(new_items$uni_lemma=="band-aid"),]$uni_lemma = "bandaid"
 # load original instrument(s) file, as get_item_data doesn't have all the needed columns
 #instr_name = "[BSL_WG].csv"
 
-new_instr <- update_instrument("ASL", "FormA", new_items %>% rename(itemID = A))
+new_a <- update_instrument("ASL", "FormA", new_items %>% rename(itemID = A))
 # ""               "and"            "bagel"          "bandaid"        "baseball"      
 # "basement"       "basket"         "basketball"     "bat (object)"   "because"       
 # "before"         "behind"         "belt"           "beside"         "better"        
@@ -53,7 +53,7 @@ new_instr <- update_instrument("ASL", "FormA", new_items %>% rename(itemID = A))
 # "waffle"         "want"           "will"           "windy"          "yourself"      
 # "zebra"          "yourself"  
 
-new_instr <- update_instrument("ASL", "FormB1", new_items %>% rename(itemID = B1))
+new_b1 <- update_instrument("ASL", "FormB1", new_items %>% rename(itemID = B1))
 # ""               "about"          "and"            "bagel"          "bandaid"       
 # "baseball"       "basement"       "basket"         "basketball"     "bat (object)"  
 # "because"        "before"         "behind"         "belt"           "beside"        
@@ -87,7 +87,7 @@ new_instr <- update_instrument("ASL", "FormB1", new_items %>% rename(itemID = B1
 # "wake up"        "want"           "week"           "welcome"        "will"          
 # "windy"          "wish"           "year"           "yourself"       "zebra" 
 
-new_instr <- update_instrument("ASL", "FormB2", new_items %>% rename(itemID = B2))
+new_b2 <- update_instrument("ASL", "FormB2", new_items %>% rename(itemID = B2))
 # ""                     "and"                  "bagel"                "bandaid"             
 # "baseball"             "basement"             "basket"               "basketball"          
 # "bat (object)"         "because"              "before"               "behind"              
@@ -121,7 +121,7 @@ new_instr <- update_instrument("ASL", "FormB2", new_items %>% rename(itemID = B2
 # "waffle"               "want"                 "water (not beverage)" "will"                
 # "windy"                "yourself"             "zebra"  
 
-new_instr <- update_instrument("ASL", "FormC", new_items %>% rename(itemID = C))
+new_c <- update_instrument("ASL", "FormC", new_items %>% rename(itemID = C))
 # ""                     "and"                  "bagel"                "bandaid"             
 # "baseball"             "basement"             "basket"               "basketball"          
 # "bat (object)"         "because"              "before"               "behind"              
@@ -155,3 +155,5 @@ new_instr <- update_instrument("ASL", "FormC", new_items %>% rename(itemID = C))
 # "waffle"               "want"                 "water (not beverage)" "will"                
 # "windy"                "yourself"             "zebra"  
 
+new_cdi2 <- update_instrument("ASL", "CDITwo", new_items %>% rename(itemID = CDITwo))
+# ""         "1SG.POSS" "3SG"      "3SG.POSS" "TV" 

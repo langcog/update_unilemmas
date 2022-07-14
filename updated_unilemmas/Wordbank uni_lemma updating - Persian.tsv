@@ -1,0 +1,930 @@
+WS	WG	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes
+asvat1		sounds	اخ-وای			ouch; oh; ah	ouch	
+a2		sounds	اه-اخ	ah ah		ouch; oh; ah	ouch	
+a3		sounds	صداي اژير (ب، بو)	ring (alarm)				beep?
+a4		sounds	صداي اسب	neigh	neigh			
+a5		sounds	صداي اردك	quack			quack quack	
+a6		sounds	صدای تفنگ (بنگ،بنگ)	bang (gun)			bang	
+a7		sounds	صداي جوجه ( جيك،جيك)	cheep (chicken)		also: chirp	cluck	
+a8		sounds	صداي خروس ( قوقولي قوقو)	cockledoodledoo			crow	
+a9		sounds	صداي سگ (هاپ،هاپ)	woof woof	woof woof			
+a10		sounds	صداي قطار (هو هو چي چي)	choo choo	choo choo			
+a11		sounds	صداي كلاغ ( قار قار)	caw caw (crow)			caw caw	
+a12		sounds	صداي گربه ( ميو ميو)	meow meow			meow	
+a13		sounds	صداي گوسفند (بع بع)	baa baa	baa baa			
+a14		sounds	صداي ماشين (ام/بيب، بيب)	(car)		honk	honk	
+a15		sounds	صدای موتور	vroom	vroom			
+vasilenaqliye1	O1	vehicles	اتوبوس	bus	bus			
+v2		vehicles	تراکتور	tractor	tractor			
+v3		vehicles	دوچرخه (چرخ)	bicycle	bicycle			
+v4		vehicles	سهچرخه	tricycle			bicycle	
+v5		vehicles	قایق	the boat		boat	boat	
+v6	O3	vehicles	قطار	train	train			
+v7	O4	vehicles	کامیون	truck	truck			
+v8	O6	vehicles	ماشین	machine		car	car	
+v9	O7	vehicles	موتور	engine		motorcycle	motorcycle	motorcycle' is a better equivalent in child usage.
+v10		vehicles	مینی بوس	minibus			bus	
+v11	O8	vehicles	هلی کوپتر	helicopter	helicopter			
+v12	O9	vehicles	هواپیما	plane		airplane	airplane	
+v13		vehicles	کشتی	ship			boat	
+qaza1		food_drink	اب	water	water (beverage)			
+q2		food_drink	ابگوشت	broth			soup	The lemma is approximate
+q3		food_drink	اب میوه) ساندیس)	juice	juice			
+q4		food_drink	اب نبات	candy	candy			
+q5		food_drink	اجیل			nuts	nut	The lemma is my proposal
+q6		food_drink	ادامس			gum	gum	The lemma is my proposal
+q7		food_drink	اش			soup	soup	The gloss and lemma are approximate. Correct spelling: آش
+q8		food_drink	البالو			sour cherry	cherry	The lemma is my proposal
+q9		food_drink	انار	pomegranate			pomegranate	The lemma is my proposal
+q10		food_drink	انگور			grape	grapes	
+q11		food_drink	بادام	almond			almond	
+q12		food_drink	برنج	rice	rice			
+q13	F7	food_drink	بستنی	ice cream	ice cream			
+q14		food_drink	بلال			roasted corn	corn	The lemma is my proposal
+q15	F6	food_drink	بیسکویت	biscuits			cookie	
+q16	F10	food_drink	پرتقال	orange	orange (food)			
+q17		food_drink	پسته	pistachio			pistachio	
+q18	F8	food_drink	پفک	cheetos				food?
+q19		food_drink	پلو	rice	rice			
+q20	F9	food_drink	پنیر	cheese	cheese			
+q21		food_drink	پیاز	onion			onion	The lemma is my proposal
+q22		food_drink	پیتزا	pizza	pizza			
+q23		food_drink	تخممرغ	egg	egg			The correct spelling is تخم مرغ
+q24		food_drink	تن ماهی	tuna			fish (food)	
+q25		food_drink	توت			mulberry	berry	
+q26	F12	food_drink	چای	tea	tea			
+q27		food_drink	چوب شور	pretzel	pretzel			
+q28		food_drink	چیپس	chips	chips			
+q29		food_drink	خربزه	melon			watermelon	
+q30		food_drink	خورش	stew				food?
+q31		food_drink	خیار	cucumber	cucumber			
+q32		food_drink	رب			tomato paste	tomato	
+q33		food_drink	دوغ	dough			drink (beverage)	
+q34		food_drink	ساندویچ	sandwich	sandwich			
+q35		food_drink	سبزی	vegetables			vegetable	The lemma is my proposal
+q36		food_drink	سس			sauce	sauce	
+q37		food_drink	سوپ	soup	soup			
+q38		food_drink	سوسیس	sausage			meat	
+q39		food_drink	سیب	apple	apple			
+q40		food_drink	سیب زمینی	potato	potato			
+q41		food_drink	شربت	syrup			syrup	sweet' already exists in the lemma list, but I think 'sweets' is better here.
+q42		food_drink	شکلات	chocolate	chocolate			
+q43		food_drink	شیر (خوراکی)	milk	milk			
+q44		food_drink	شیرینی	sweets			sweets	
+q45		food_drink	غذا	food	food			
+q46		food_drink	فلفل	pepper	pepper			
+q47		food_drink	فندق	hazelnut			hazelnut	
+q48		food_drink	قارچ	mushrooms	mushroom			
+q49		food_drink	قند	sugar loaf			sugar	
+q50		food_drink	کاکائو	cocoa			cocoa	coffee?
+q51		food_drink	کالباس	bologna		lunch meat / cold cut	meat	
+q52		food_drink	کره	butter	butter			
+q53		food_drink	کباب	barbecue			meat	
+q54		food_drink	کشمش	raisins			raisin	
+q55		food_drink	کیک	cake	cake			
+q56		food_drink	کیوی	kiwi			kiwi	
+q57		food_drink	گردو	walnut			walnut	
+q58		food_drink	گوشت	meat	meat			
+q59		food_drink	گوجه	tomato	tomato			
+q60		food_drink	گیلاس	cherries			cherry	I notice that some fruits exist in the bank and some not. Please make this consistent later. Eg for 'kiwi' I wrote 'fruit' (less common fruit), for 'cherry' I wrote 'fruit' (more common). 
+q61		food_drink	لوبیا	beans	beans			
+q62		food_drink	لیمو	lemon	lemon			
+q63		food_drink	ماست	yogurt	yogurt			
+q64	F24	food_drink	ماکارونی	macaroni	pasta			
+q65		food_drink	مربا	jam	jam			
+q66		food_drink	موز	banana	banana			
+q67		food_drink	میوه	fruit	fruit			
+q68		food_drink	نان	bread	bread			
+q69		food_drink	نارنگی	mandarin	orange (food)			
+q70		food_drink	نوشابه	soda	soda			
+q71		food_drink	نخودچی	chickpeas			beans	
+q72		food_drink	نمک	salt			salt	
+q73		food_drink	هلو	peach	peach			
+q74		food_drink	همبرگر	hamburgers			meat	
+q75		food_drink	هندوانه	watermelon	watermelon			
+q76		food_drink	یخ	ice			water (beverage)	
+asbabbazi1		toys	اسباب بازی	toy	toy (object)			
+asbab2		toys	بادبادک	kite			kite	
+asbab3	P2	toys	بادکنک	balloons	balloon			
+asbab4		toys	پازل	puzzle			puzzle	
+asbab5	M11	toys	تاب			swing	swing (object)	
+asbab6		toys	تخته	board			game	
+asbab7	P4	toys	توپ	ball	ball			
+asbab8		toys	چسب	adhesive			glue	
+asbab9		toys	خط کش	ruler			ruler	
+asbab10		toys	خمیر	play dough			play dough	
+asbab11		toys	خودکار				pen/pencil	
+asbab12		toys	دفتر	note book			book	
+asbab13		toys	سوت	whistle			whistle (object)	
+asbab14		toys	عروسک	dolls	doll			
+asbab15		toys	شیپور	trumpet			trumpet	
+asbab16		toys	طناب	rope	rope			
+asbab17		toys	کتاب	book	book			
+asbab18		toys	کتاب داستان	story book			book	
+asbab19		toys	لگو	lego	blocks		block	The bank has the singular noun.
+asbab20		toys	ماژیک	marker			pen/pencil	
+asbab21		toys	مداد	pencil	pen/pencil			
+asbab22		toys	مداد رنگی	crayons			crayon	
+asbab23		toys	مشق	homework			book	
+asbab24		toys	نقاشی	painting			painting	
+heivanat1		animals	اهو	gazelle			gazelle	See my comment to 89. Also, The correct spelling is آهو
+h2	N2	animals	اسب	horse	horse			
+h3		animals	اردک	duck	duck			
+h4	N3	animals	الاغ	donkey	donkey			
+h5		animals	ببر	tiger	tiger			
+h6	N4	animals	بره	lamb	lamb			
+h7		animals	بز	goat	goat			
+h8		animals	بلبل			nightingale	bird	
+h9		animals	پرنده	bird	bird			
+h10	N5	animals	پروانه	butterfly	butterfly			
+h11		animals	پشه			mosquito	mosquito	
+h12		animals	پلنگ	leopard			animal	
+h13	N8	animals	جوجه	chicken	chicken (animal)			
+h14		animals	حیوان	animal	animal			
+h15		animals	خر	donkey	donkey			
+h16		animals	خرچنگ	crab			crab	
+h17	N10	animals	خرس	bear	bear			
+h18	N11	animals	خرگوش	rabbit			bunny	
+h19	N12	animals	خروس	rooster	rooster			
+h20	N13	animals	روباه	fox	fox			
+h21	N14	animals	زرافه	giraffe	giraffe			
+h22	N15	animals	زنبور	bee	bee			
+h23	N16	animals	سگ	dog	dog			
+h24	N17	animals	سنجاب	squirrel	squirrel			
+h25		animals	سوسک	beetle		cockroach	beetle	
+h26	N18	animals	شتر	camel			camel	
+h27		animals	طوطی	parrot	parrot			
+h28		animals	عقاب	eagle			eagle	
+h29	N21	animals	فیل	elephant	elephant			
+h30	N22	animals	قورباغه	frog	frog			
+h31	N23	animals	کبوتر	pigeons			pigeon	
+h32	N24	animals	کلاغ	crow	crow			
+h33	N25	animals	گاو	cow	cow			
+h34	N26	animals	گربه	cat	cat			
+h35		animals	گرگ	wolf	wolf			
+h36	N27	animals	گنجشک	sparrow	sparrow			
+h37		animals	گورخر	zebra	zebra			
+h38	N28	animals	گوسفند	sheep	sheep			
+h39		animals	گوزن	deer	deer			
+h40	N29	animals	لاک پشت	turtle	turtle			
+h41	N31	animals	مار	snake	snake			
+h42	N30	animals	ماهی	fish	fish (animal)			
+h43	N32	animals	مرغ	chicken	chicken (animal)			
+h44	N33	animals	مگس			fly	fly (animal)	
+h45	N34	animals	مورچه	ant	ant			
+h46	N35	animals	موش	mouse	mouse			
+h47	N36	animals	میمون	monkey	monkey			
+bazi1		games_routines	اب بازی			bath/waterplay	bath	The lemma is my proposal.
+b2		games_routines	اتل متل					This is a traditional children's game. No equivalent in English as far as I know.
+b3		games_routines	الله اکبر	allahu akbar				The connotation of this item is not clear. It can be used in many situations, and it's not necessarily child language.
+b4		games_routines	الو			hello (on the phone)	call	
+b5		games_routines	بای بای ( خداحافظ)	bye bye (goodbye)	bye			
+b6		games_routines	بله ( اره)			yes (yeah)	yes	
+b7		games_routines	به سلامت	goodbye	bye			
+b8		games_routines	تاب تاب عباسی					This is a traditional children's song. No equivalent in English as far as I know.
+b9		games_routines	خواب	sleep	sleep			
+b10		games_routines	دالی/داکی			peekaboo	peekaboo	
+b11		games_routines	ده- بیست- سی- چهل	ten- twenty- thirty- forty		eeny, meeny, miny, moe		
+b12	I9	games_routines	سلام	hello	hello			
+b13	I10	games_routines	شام	dinner	dinner			
+b14	I11	games_routines	شب بخیر	good night	good night			
+b15		games_routines	عصرانه	evening meal		also: afternoon tea	tea party	
+b16		games_routines	عمو زنجیر باف					This is a traditional children's game. No equivalent in English as far as I know.
+b17		games_routines	عید	eid			party	
+b18		games_routines	قایم (قایم باشک)			hide and seek	hide and seek	
+b19	I12	games_routines	صبحانه	breakfast	breakfast			
+b20		games_routines	صبح بخیر	good morning	good morning			
+b21		games_routines	کلاغ پر					This is a traditional children's game. No equivalent in English as far as I know.
+b22		games_routines	لطفا	please	please			
+b23		games_routines	مبارک	happy	happy			
+b24		games_routines	مرسی (ممنون)			thanks	thanks	
+b25		games_routines	نانای				dance	This is a word used as a rough equivalent to 'music' or as a part of a compound verb denoting 'to dance'.
+b26		games_routines	نهار	lunch	lunch			
+b27		games_routines	هیس			Hush!	shh	
+makan1		outside	اداره	office	workplace		work (place)	
+m2	M5	outside	باغ	garden	garden			
+m3		outside	بیرون	outside	outside			
+m4	M9	outside	پارک	park	park			
+m5		outside	پل	bridge	bridge			
+m6	M13	outside	حیاط	yard	yard			
+m7	M14	outside	خانه	home	home			
+m8		outside	دریا	sea	sea			
+m9	M18	outside	ساحل	coast			beach	
+m10		outside	سینما	cinema			movie	Of course, 'outing' or 'go out' is not the same concept as 'cinema' but my proposal is only based on association. 
+m11		outside	کلاس	class			class	
+m12	M23	outside	کوچه	alley			street	
+m13	M24	outside	کوه	mountain	mountain			
+m14	M26	outside	مدرسه	school	school			
+m15	M27	outside	مسجد	mosque	church			
+m16		outside	مغازه	shop	store			
+m17		outside	مهمانی	party	party			
+pushak1		clothing	النگو	bangle			bracelet	
+p2		clothing	انگشتر	ring			ring	
+p3	J1	clothing	بلوز	blouse			shirt	
+p4	J2	clothing	پوشک	diapers			diaper	
+p5	J4	clothing	پیراهن	shirt	shirt			
+p6		clothing	تِل			hair clip, hair bow	hair tie	
+p7	J3	clothing	پیش بند	apron			apron	
+p8	J6	clothing	جوراب	socks	sock			
+p9	J7	clothing	چادر			chador	scarf	
+p10		clothing	چکمه	boot	boots		boot	
+p11		clothing	دستبند	bracelet			bracelet	
+p12	J11	clothing	دستکش	gloves	gloves			
+p13	J8	clothing	دکمه	button	button			
+p14		clothing	دمپای ی	slippers	slipper			
+p15	J12	clothing	روسری	scarf	scarf			
+p16	J13	clothing	زیپ	zipper	zipper			
+p17		clothing	سنجاق	pin			brooch	
+p18	J14	clothing	شال	shawl			shawl	
+p19	J15	clothing	شلوار	pants	pants			
+p20	J16	clothing	شورت	shorts	shorts			
+p21	J17	clothing	کاپشن	jacket	jacket			
+p22	J18	clothing	کت	coat	coat			
+p23		clothing	کِش			elastic band	hair tie	This word is not in the original forms.
+p24		clothing	ک فش	shoe	shoe			Correct spelling: کفش
+p25	J20	clothing	کلاه	hat	hat			
+p26		clothing	کمربند	belt			belt	
+p27		clothing	گردنبند	necklaces	necklace			
+p28		clothing	گل سر (گیر)			hairslide	headband	
+p29		clothing	گوشواره	earrings	earrings		earring	
+p30	J21	clothing	لباس	dress	dress (object)			
+p31	J22	clothing	مانتو			gown	dress (object)	Specific women's clothing item common in iran. 
+badan1	K1	body_parts	ابرو			eyebrow	eyebrows	
+badan2	K2	body_parts	انگشت	finger	finger			
+badan3		body_parts	بازو	arm	arm			
+badan4	K3	body_parts	باسن*			buttock	butt	
+badan5		body_parts	بینی(دماغ)	nose	nose			
+badan6	K6	body_parts	پا	leg	leg			
+badan7		body_parts	چانه	chin	chin			
+badan8	K7	body_parts	چشم	eye	eye			
+badan9	K8	body_parts	دست	hand	hand			
+badan10		body_parts	دل			belly	tummy	The lemma is my proposal. 'Belly button' exists in the bank but 'belly' doesn't.
+badan11	K9	body_parts	دندان	tooth	tooth			
+badan12	K10	body_parts	دهان	mouth	mouth			
+badan13		body_parts	زانو	knee	knee			
+badan14	K12	body_parts	زبان	tongue	tongue			
+badan15		body_parts	سر (کله)	head	head			
+badan16	T19	body_parts	شانه	shoulder			shoulder	
+badan17		body_parts	شکم			belly	belly button	
+badan18		body_parts	شصت			thumb	finger	The Persian spelling is wrong. It should be شست
+badan19	K14	body_parts	صورت	face	face			
+badan20		body_parts	گردن	neck	neck			
+badan21		body_parts	وش			ear?		Typo. Maybe 'گوش' was meant (ear)
+badan22		body_parts	لب ها	lips	lips			
+badan23		body_parts	لپ	cheek	cheek			
+badan24	K18	body_parts	مو	hair	hair			
+badan25		body_parts	مچ	wrist			arm	
+badan26		body_parts	مشت	fist			hand	
+badan27		body_parts	مژه	eyelashes			eye	
+badan28	K20	body_parts	ناف			belly button	belly button	
+afrad1		people	ادم	human			man/woman	
+afrad2		people	اسم خود کودک	baby's name	child's own name			
+afrad3		people	اقا	sir	sir			
+afrad4		people	الله (خدا)	allah (god)			man/woman?	
+afrad5	E4	people	بابا*	daddy	daddy			
+afrad6		people	بابا بزرگ*	grandpa	grandpa			
+afrad7		people	بچه (نی نی)	baby	baby			
+afrad8	E7	people	پسر	boy	boy			
+afrad9		people	پستچی	postman			mailman	
+afrad10		people	پلیس	cop	policeman			
+afrad11	E9	people	خاله	aunt	aunt			
+afrad12		people	خانم	lady	lady			
+afrad13		people	خواهر ( ابجی) *	sister	sister			The correct spelling of the word in parentheses is آبجی 
+afrad14		people	داداش*	brother	brother			
+afrad15		people	دای ی	uncle	uncle			The correct spelling is دایی
+afrad16	E13	people	دختر	girl	girl			
+afrad17		people	دک ت ر	doctor	doctor			The correct spelling is دکتر
+afrad18		people	دوست	friend	friend			
+afrad19		people	راننده	driver			driver	
+afrad20		people	زن	female			woman	
+afrad21	E16	people	عمو	uncle	uncle			
+afrad22	E15	people	عمه	aunt	aunt			
+afrad23	E17	people	مامان*	mommy	mommy			
+afrad24		people	مامان بزرگ*	grandma	grandma			
+afrad25		people	مرد	man	man			
+afrad26		people	معلم	teacher	teacher			
+afrad27		people	مهندس	engineer			engineer	
+v.kh1		furniture_rooms	اشپزخانه	kitchen	kitchen			
+v.kh2		furniture_rooms	ایفون			door intercom	telephone	The correct spelling is آیفون
+v.kh3		furniture_rooms	اتاق	room	room			
+v.kh4		furniture_rooms	اتو	iron			iron	
+v.kh5		furniture_rooms	اجاق (گاز)			stove	stove	
+v.kh6		furniture_rooms	ایوان	porch	porch			
+v.kh7		furniture_rooms	بخاری	heater			radiator	
+v.kh8		furniture_rooms	پارکینگ	parking			parking spot	
+v.kh9		furniture_rooms	پذیرایی	catering		living room	living room	
+v.kh10		furniture_rooms	پله	step			stairs	
+v.kh11	H8	furniture_rooms	پنجره	window	window			
+v.kh12		furniture_rooms	تخت			bed	bed	
+v.kh13	H10	furniture_rooms	تلویزیون	television	tv		TV	
+v.kh14	H11	furniture_rooms	حمام	bathroom	bathroom			
+v.kh15	H12	furniture_rooms	در	door	door			
+v.kh16	H14	furniture_rooms	دستشویی	toilet			potty	
+v.kh17		furniture_rooms	دوش	shower	shower			
+v.kh18	H13	furniture_rooms	دیوار	wall	wall			
+v.kh19		furniture_rooms	رختخواب	bed	bed			The Persian is more than bedding and includes mattress as well.
+v.kh20		furniture_rooms	زیرزمین			basement	basement	The lemma is my proposal.
+v.kh21		furniture_rooms	سماور			samovar	teapot	
+v.kh22	H16	furniture_rooms	صندلی	chair	chair			
+v.kh23		furniture_rooms	ضبط	record		record player, voice recorder		
+v.kh24		furniture_rooms	فریزر	freezer			refrigerator	
+v.kh25		furniture_rooms	ظرفشویی	dishwasher			dishwasher	The lemma is my proposal.
+v.kh26		furniture_rooms	قالی ( فرش)	carpet	carpet			
+v.kh27		furniture_rooms	کامپیوتر	computer	computer			
+v.kh28		furniture_rooms	کشو	drawing		drawer	dresser	
+v.kh29	H20	furniture_rooms	کمد	closet	closet			
+v.kh30		furniture_rooms	ماشین لباسشویی	washing machine	washing machine			
+v.kh31		furniture_rooms	مبل	sofa	couch			
+v.kh32		furniture_rooms	میز	table	table			
+v.kh33		furniture_rooms	یخچال	refrigerator	refrigerator			
+shayha1		household	اشغال	rubbish	trash			The correct spelling is آشغال
+sh2		household	اینه	mirror	mirror			The correct spelling is آینه
+sh3		household	استکان	glass	glass			
+sh4		household	بالش (پشتی)	pillow (back)	pillow	pillow (cushion)	pillow	
+sh5		household	برس	brush	brush (object)			
+sh6		household	بشقاب	plate	plate			
+sh7		household	پارچ	pitcher			pitcher	
+sh8		household	پارچه	cloth	cloth			
+sh9		household	پتو			blanket	blanket	
+sh10		household	پرده	curtain	curtain			
+sh11		household	پول	money	money			
+sh12		household	پیچ	screw			screw	
+sh13		household	پیچ گوشتی	screw driver			screwdriver	
+sh14		household	تلفن	phone	telephone			
+sh15		household	جارو	broom	broom			
+sh16		household	جارو برقی	vacuum cleaner			vacuum	
+sh17		household	چاقو	knife	knife			
+sh18		household	چتر	umbrella	umbrella			
+sh19		household	چکش	hammer	hammer			
+sh20	T12	household	چنگال			fork	fork	
+sh21		household	چوب	wood		wood / stick	wood	
+sh22	T13	household	حوله	towel	towel			
+sh23		household	خمیر دندان	toothpaste			toothpaste	
+sh24		household	دارو	medicine	medicine			
+sh25		household	دستمال	napkin			tissue	
+sh26		household	دوربین	camera	camera			
+sh27		household	دیس			platter	plate	
+sh28		household	رادیو	radio	radio			
+sh29	T15	household	ساعت	watch		watch/clock	watch (object)	
+sh30	T16	household	سطل			bucket	bucket	
+sh31		household	سوزن	needle			needle	
+sh32		household	سی دی	disk		CD	CD	
+sh33	T18	household	سینی			tray	tray	
+sh34	T20	household	شامپو	shampoo			shampoo	
+sh35	T19	household	شانه			comb	comb (object)	
+sh36		household	شمع	candle	candle			
+sh37		household	شیشه (شیر)	bottle (of milk)	bottle			
+sh38	T22	household	صابون	soap	soap			
+sh39		household	ظرف	container	box	box / plate		
+sh40		household	عکس	picture	picture			
+sh41		household	عینک	glasses	glasses			
+sh42		household	قاشق	spoon	spoon			
+sh43		household	قوری			teapot	teapot	
+sh44		household	قیچی	scissors	scissors			
+sh45		household	کاسه	bowl	bowl			
+sh46		household	کاغذ	paper	paper			
+sh47		household	کبریت	matches			matches	
+sh48		household	کتری			kettle	kettle	
+sh49		household	کلید	key	keys			
+sh50		household	کنترل			remote control	remote control	
+sh51		household	کیف	bag	bag			
+sh52		household	لامپ	lamp	lamp			
+sh53		household	لیف			washcloth		
+sh54		household	لیوان	glass	glass			
+sh55		household	مسواک	toothbrush	toothbrush			
+sh56		household	نخ	thread			thread	
+sh57		household	نمکدان	salt shaker			salt	
+xarejemanzel1		outside	اتش	fire	fire			
+x2		outside	ادم برفی	snowman	snowman			The correct spelling is آدم برفی
+x3		outside	اسمان	sky	sky			
+x4		outside	ابر	cloud	cloud			
+x5		outside	باد	wind	wind			
+x6	M6	outside	باران	rain	rain			
+x7		outside	بام (پشت بام)	roof	roof			
+x8	M8	outside	برف	snow	snow			
+x9		outside	برگ	leaves	leaf			
+x10		outside	بیل	bill		shovel, spade	shovel, spade	
+x11		outside	پرچم	flag				
+x12		outside	پیاده رو	sidewalk				
+x13		outside	حوض (استخر)	pool	pool	also: pond	water (not beverage)	
+x14		outside	خاک	soil	soil			
+x15	M15	outside	خورشید	sun	sun			
+x16		outside	خیابان	street	street			
+x17	M16	outside	درخت	tree	tree			
+x18		outside	دود	smoke				
+x19		outside	زمین	earth	earth			
+x20		outside	ساقه	stem			stem	
+x21		outside	ستاره	star	star			
+x22		outside	سرسره	slide			slide (object)	
+x23		outside	سنگ	rock	rock (object)			
+x24		outside	شلنگ			hose		
+x25		outside	علف (سبزه)	grass	grass			
+x26		outside	گل	flower	flower			
+x27		outside	گِل	flower	flower	mud	soil	
+x28	M25	outside	ماه	month		moon	moon	
+x29		outside	هوا	air			air	
+harfetarif.meqdar1	C1	quantifiers	بیشتر	more	more			
+harfetarif2	C2	quantifiers	خیلی	very		also: many, much	many	
+harfetarif3		quantifiers	دیگه	other	other			
+harfetarif4	W24	quantifiers	زیاد	much	much			
+harfetarif5		quantifiers	یه کم( یه ذره)	a little	little (amount)			
+harfetarif6		quantifiers	مثلِ ( شکلِ)			like	like (preposition)	preposition
+harfetarif7		quantifiers	هر	any	any			
+harfetarif8		quantifiers	همه- همش	all	all			
+harfetarif9		quantifiers	هیچی	nothing	nothing			
+harfetarif10		quantifiers	هیچ کدوم	none	none			
+harfetarif11		quantifiers	یک	one			one	
+zaman1		time_words	الان	now	now			
+z2	R1	time_words	امروز	today	today			
+z3		time_words	بعد	next			next	
+z4		time_words	دیروز	yesterday	yesterday			
+z5	R5	time_words	روز	day	day			
+z6		time_words	زود	soon			soon	
+z7	R6	time_words	شب	night	night			
+z8	R7	time_words	صبح	morning	morning			
+z9		time_words	ظهر	noon			noon	
+z10		time_words	عصر	evening	evening			
+z11	R8	time_words	فردا	tomorrow	tomorrow			
+z12		time_words	قبل	before	before			
+zamir1		pronouns	ان (اون)			that	that	The correct spelling of the first word is آن
+zamir2		pronouns	انها			they	3PL	The correct spelling is آنها
+zamir3		pronouns	او (اون)	he (she)		he/she	3SG	
+zamir4	X2	pronouns	این	this	this			
+zamir5	X4	pronouns	اینها	these	these			
+zamir6	X6	pronouns	تو	you	you		2SG	
+zamir7		pronouns	خودت	yourself			2SG.REFL	
+zamir8		pronouns	خودتان (خودتون)	yourself			2SG.REFL	Plural, but can be used for singular polite context too.
+zamir9		pronouns	خودش	himself			3SG.REFL	
+zamir10		pronouns	خودشان	themselves			3PL.REFL	
+zamir11		pronouns	خودم	by my own		myself	1SG.REFL	
+zamir12		pronouns	خودمان (خودمون)	ourselves			1PL.REFL	
+zamir13	X7	pronouns	شما	you	you		2PL	
+zamir14	X9	pronouns	ما	we	we		1PL	
+zamir15	X8	pronouns	من	I	I		1SG	
+zamir16		pronouns	همان(همون)	same	same			
+tosifi1		descriptive_words	ابی	blue	blue			The correct spelling is آبی
+t2		descriptive_words	اخر			end		The correct spelling is آخر. Also, the word is a noun.
+t3		descriptive_words	اهسته (یواش)	slow	slow			The correct spelling is آهسته
+t4		descriptive_words	اذیت			bug/annoy	annoying	meaning: annoy
+t5		descriptive_words	اول	first	first			
+t6	W1	descriptive_words	باز	open			open (description)	
+t7		descriptive_words	بامزه	funny	funny			
+t8	W2	descriptive_words	بد	bad	bad			
+t9		descriptive_words	بد مزه	bad taste		bad-tasting	yucky	The lemma is my proposal.
+t10	W4	descriptive_words	بزرگ	big	big			
+t11	W5	descriptive_words	بسته	closed			closed (description)	
+t12		descriptive_words	بلند (صدا)	loud (sound)	loud			
+t13		descriptive_words	بهتر	better			good	
+t14		descriptive_words	بیدار	awake	awake			
+t15		descriptive_words	پاره			ripped	ripped	used mostly for paper items
+t16		descriptive_words	پر	full	full			
+t17		descriptive_words	پیر	old	old			
+t18	W7	descriptive_words	تاریک	dark	dark			
+t19		descriptive_words	تازه	new	new	new/fresh		
+t20		descriptive_words	ترش	sour	sour			
+t21		descriptive_words	تلخ	bitter	bitter			
+t22		descriptive_words	تمیز	clean	clean (description)			
+t23	W12	descriptive_words	چاق	fat	fat			
+t24	W13	descriptive_words	خالی			empty	empty	
+t25	W16	descriptive_words	خسته	tired	tired			
+t26	W17	descriptive_words	خشک	dry	dry (description)			
+t27		descriptive_words	خواب	asleep			asleep	
+t28		descriptive_words	خوابیده	asleep			asleep	
+t29	W20	descriptive_words	خوشحال	happy	happy			
+t30		descriptive_words	خوشگل	beautiful	beautiful			
+t31	W19	descriptive_words	خوشمزه	delicious	tasty			
+t32		descriptive_words	خیس	wet	wet (description)			
+t33	W22	descriptive_words	داغ			hot	hot	
+t34		descriptive_words	دراز (بلند)	long	long	long/tall	tall	The lemma is my proposal.
+t35	W23	descriptive_words	روشن	bright		(not dark)	bright	The lemma is my proposal.
+t36		descriptive_words	زرد			yellow	yellow	
+t37		descriptive_words	سبز	green	green			
+t38		descriptive_words	سبک			light (not heavy)	light (description)	The lemma is my proposal.
+t39	W26	descriptive_words	سرد	cold	cold			
+t40		descriptive_words	سریع (تند)	fast	fast			
+t41		descriptive_words	سفت	stiff		also: hard (not soft)	hard	
+t42		descriptive_words	سفید	white	white			
+t43		descriptive_words	سنگین	heavy	heavy			
+t44		descriptive_words	سیاه	black	black			
+t45		descriptive_words	شکسته	broken	broken			
+t46		descriptive_words	شور			salty	salty	
+t47		descriptive_words	شیرین	sweet	sweet			
+t48	W28	descriptive_words	شیطان			naughty (child)	naughty	
+t49		descriptive_words	قرمز	red	red			
+t50		descriptive_words	قهوه ای	brown	brown			
+t51	W29	descriptive_words	کثیف	dirty	dirty			
+t52	W30	descriptive_words	کوچک	little	little (description)			
+t53		descriptive_words	کهنه			old	old	used for objects
+t54	W32	descriptive_words	گرسنه	hungry	hungry			
+t55		descriptive_words	گرم	hot	hot			
+t56	W33	descriptive_words	لاغر	thin	thin			
+t57	W34	descriptive_words	مریض			sick	sick	
+t58	W36	descriptive_words	ناراحت	upset				
+t59		descriptive_words	نارنجی	orange	orange (description)			
+t60		descriptive_words	ناز			cute, beautiful	cute	Many meanings. In child language: eg a child or parents can use it to describe a fluffy nice animal
+t61		descriptive_words	نازک			thin	thin	
+t62		descriptive_words	نرم	soft	soft			
+t63		descriptive_words	نو (جدید، تازه)	new	new			
+horufeezafe1		locations	از	from			of	
+h.e2		locations	اطراف	around			around	
+h.e3		locations	انجا	there	there			The correct spelling is آنجا
+h.e4		locations	اینجا	here	here			
+h.e5		locations	اونطرف	on the other side				
+h.e6		locations	این طرف(این ور)	this side				
+h.e7		locations	بالا(بالا ِی)	top	top			
+h.e8		locations	برای	to	to	also: for	also: for	
+h.e9		locations	به	to	to			
+h.e10		locations	بیرون	outside	outside			
+h.e11		locations	پایین	down	down			
+h.e12		locations	پشت	back	back			
+h.e13		locations	جلو (جلوی)	front	front			
+h.e14		locations	داخل (توی/ در)	inside	inside			
+h.e15	Z7	locations	دور	far	far			
+h.e16		locations	دورتر	further			far	
+h.e17	Z8	locations	روی			on	on	
+h.e18	Z9	locations	زیر	under	under			
+h.e19		locations	عقب	back	back	back/behind	behind	
+h.e20	Z11	locations	کنار	next to the		next to/beside	beside	The lemma is my proposal.
+h.e21		locations	نزدیک	close	close		close (description)	The lemma is my proposal.
+rabt1		connecting_words	اگر	if	if			
+r2		connecting_words	اما (ولی)	but			but	The lemma is my proposal.
+r3		connecting_words	بعد	next		next/after	then	
+r4		connecting_words	پس	so			so	
+r5		connecting_words	چون (چون که/ زیرا/ برای اینکه)	because	because			
+r6		connecting_words	و	and	and			
+porsehi1	Y1	question_words	چرا	why	why			
+porsehi2		question_words	چطور	how	how			
+porsehi3		question_words	چیه	what	what			
+porsehi4		question_words	کجا	where	where (question)			
+porsehi5		question_words	کدام	which	which (question)			
+porsehi6		question_words	کو			where (is it)	where (question)	
+porsehi7	Y4	question_words	کِی	who	who	when	when (question)	
+porsehi8		question_words	کی			who	who	
+vb1		action_words	امد	come	come		come.past.3SG	The correct spelling is آمد
+vb2		action_words	افتاد	fall	fall		fall.past.3SG	
+vb3		action_words	انداخت	drop	drop		drop.past.3SG	
+vb4		action_words	ایستادن (وایسا)	stand	stand			
+vb5		action_words	باز (کردن)	open	open (action)			
+vb6		action_words	بازی (کردن)	play	play			
+vb7		action_words	باشه			ok	ok	
+vb8		action_words	ببر			take	take.imperative 2SG	
+vb9		action_words	ببند	close	close		close.imperative 2SG	
+vb10		action_words	ببین	look	look		look.imperative 2SG	
+vb11		action_words	ببینم	see	see		see.subjunctive present.1SG	
+vb12		action_words	بپر	jump	jump		jump.imperative 2SG	
+vb13		action_words	بپوش	wear	wear		wear.imperative 2SG	
+vb14		action_words	بخر	buy	buy		buy.imperative 2SG	
+vb15		action_words	بخند	laugh	laugh		laugh.imperative 2SG	
+vb16		action_words	بخوان	read	read		read.imperative 2SG	
+vb17		action_words	بخور	eat	eat		eat.imperative 2SG	
+vb18		action_words	بخورم	eat	eat		eat.subjunctive present.1SG	
+vb19		action_words	بدو	run	run		run.imperative 2SG	
+vb20		action_words	بده	give	give		give.imperative 2SG	
+vb21		action_words	بردار			take	take.imperative 2SG	
+vb22		action_words	برم			go	go.subjunctive present.1SG	
+vb23		action_words	برو	go	go		go.imperative 2SG	
+vb24		action_words	برویم (بریم)			go	go.subjunctive present.2SG	
+vb25		action_words	بریزم			pour	pour.subjunctive present.1SG	
+vb26		action_words	بست	close	close		close.past.3SG	
+vb27		action_words	بشور	wash	wash		wash.imperative 2SG	
+vb28		action_words	بشورم	swear		wash	wash.subjunctive present.1SG	
+vb29		action_words	بغل کردن	hug	hug			
+vb30		action_words	بکش	kill			kill	kill.imperative 2SG
+vb31		action_words	بکن	do	do			do.imperative 2SG
+vb32		action_words	بگو	say	say			say.imperative 2SG
+vb33		action_words	بگیر	catch	catch			catch.imperative 2SG
+vb34		action_words	بنداز	band		throw	throw	throw.imperative 2SG
+vb35		action_words	بشین	sit down	sit			sit.imperative 2SG
+vb36		action_words	بشینم	sit	sit			sit.subjunctive present.1SG
+vb37		action_words	بنویس	write	write			write.imperative 2SG
+vb38		action_words	بنویسم	i write		write	write	write.subjunctive present.1SG
+vb39		action_words	بوس کن	kiss	kiss			kiss.imperative 2SG
+vb40		action_words	بیا	come	come			come.imperative 2SG
+vb41		action_words	بیار	bring	bring			bring.imperative 2SG
+vb42		action_words	بیدار شد	wake up			wake	wake.past 3SG
+vb43		action_words	بیدار شو	wake up			wake	wake.imperative 2SG
+vb44		action_words	پاره شد	tear	tear			tear.past 3SG
+vb45		action_words	پا شو	stand up	stand			stand.imperative 2SG
+vb46		action_words	پاک کن	erase			erase	erase.imperative 2SG
+vb47		action_words	پوشید	wear	wear			wear.past 3SG
+vb48		action_words	پوشیدم	wear	wear			wear.past 1SG
+vb49		action_words	تاب بده	be patient		swing	swing	swing (action).imperative 2SG
+vb50		action_words	تمام شد	do	do	"it is finished"	finish	all gone /
+vb51		action_words	جاروکن			sweep	sweep	sweep.imperative 2SG
+vb52		action_words	جاروکنم			sweep	sweep	sweep.subjunctive present.1SG
+vb53		action_words	جمع (کردن)	add		tidy up	clean	The lemma is my proposal.
+vb54		action_words	حرفنزن	be quiet			hush	be quiet' is not in the back. should be written separately حرف نزن
+vb55		action_words	خراب شد	destroy		break down	destroy	
+vb56		action_words	خرید	buy	buy			
+vb57		action_words	خواب	sleep	sleep			noun
+vb58		action_words	خوابه			he/she is asleep	sleep	
+vb59		action_words	خوابید	sleep	sleep			
+vb60		action_words	خواندم	read	read			read.past 1SG
+vb61		action_words	خورد	eat	eat			eat.past 3SG
+vb62		action_words	خوردم	eat	eat			eat.past 1SG
+vb63		action_words	خیس شد	get wet				get wet.past 3SG
+vb64		action_words	در ار			take out	take out.imperative 2SG	correct spelling درآر
+vb65		action_words	دربزن			knock	knock.imperative 2SG	
+vb66		action_words	درزد			knock	knock.past 3SG	
+vb67		action_words	درست کن	fix			fix.imperative 2SG	‘fix’ is not in the bank.
+vb68		action_words	دستبزن	clap	clap		clap.imperative 2SG	should be written separately دست بزن
+vb69		action_words	دستزد	touch	touch		touch.past 3SG	
+vb70		action_words	دستنزن	not touch		or: hands off	not touch.imperative 2SG	not touch' is not in the bank. should be written separately دست نزن
+vb71		action_words	دیدی	see	see		see.past 2SG	
+vb72		action_words	رفت	go	go		go.past 3SG	
+vb73		action_words	رنگ کن	paint	paint (action)		paint (action).imperative 2SG	
+vb74		action_words	رنگ کنم	paint	paint (action)		piant (action).subjunctive present.1SG	
+vb75		action_words	روشنشد	turn on	turn on		turn on.past 3SG	written separately روشن شد
+vb76		action_words	ریخت	pour	pour		pour.past 3SG	
+vb77		action_words	زد	fall	fall	hit	hit.past 3SG	
+vb78		action_words	ساکت	be silent		quiet	quietly	
+vb79		action_words	سوار شو	get on	get on		get on.imperative 2SG	
+vb80		action_words	سوخت	fuel		burn	burn.past 3SG	‘burn’ is not in the bank.
+vb81		action_words	سیر شدم	be full			be full.past 1SG	‘be full’ is not in the bank.
+vb82		action_words	شستم			wash	wash.past 1SG	
+vb83		action_words	شکست	fail		break	break.past 3SG	
+vb84		action_words	شنا( کردن)	swim	swim			
+vb85		action_words	شوت (کردن)	shoot			shoot	As in 'shoot a ball'. The lemma is my proposal.
+vb86		action_words	صبر کن	wait	wait		wait.imperative 2SG	
+vb87		action_words	قلقلک (کردن)	tickle	tickle			
+vb88		action_words	فوت کن	die	die	blow	blow.imperative 2SG	
+vb89		action_words	قایم شو	stand up	stand	hide	hide.imperative 2SG	
+vb90		action_words	کشیدم	draw	draw	also: pull	draw OR pull.past 1SG	
+vb91		action_words	کمک (کردن)	help	help			
+vb92		action_words	گاز ( گرفتن)	bite	bite			
+vb93		action_words	گریه کن	cry	cry		cry.imperative 2SG	
+vb94		action_words	گوش کن (گوش بده)	listen	listen		listen.imperative 2SG	
+vb95		action_words	می خوانم	read	read		read.present 1SG	
+vb96		action_words	میزنم	hit	hit		hit.present 1SG	
+vb97		action_words	نرو	not go		stay	stay.imperative 2SG	
+vb98		action_words	نشست	meet		sit	sit.past 3SG	
+vb99		action_words	نشستم	sit	sit		sit.past 1SG	
+vb100		action_words	نقاشی (کردن)	paint	paint (action)			
+vb101		action_words	نکن	do not		not do, stop	stop	stop.imperative 2SG
+vb102		action_words	نگاه کن	look	look		look	look.imperative 2SG
+vb103		action_words	نگاه می کنم	look	look		look	look.present 1SG
+vb104		action_words	نیست	is not		not be		be.present 3SG(NEGATIVE)
+vb105		action_words	نماز (خواندن)	pray				
+vb106		action_words	هل داد	push	push		push	push.past 3SG
+aux1		helping_verbs	بود	was		be	be	be.past 3SG
+aux2		helping_verbs	بودم	i was		be	be	be.past 1SG
+aux3		helping_verbs	بودند	they were		be	be	be.past 3PL
+aux4		helping_verbs	بودی	were you		be	be	be.past 2SG
+aux5		helping_verbs	بودیم	we were		be	be	be.past 1PL
+aux6		helping_verbs	دارم	i have		have	have	have.present 1SG
+aux7		helping_verbs	داری	you have			have	have.present 2SG
+aux8		helping_verbs	دارند	have	have		have	have.present 3SG
+aux9		helping_verbs	دارید	you have			have	have.present 2PL
+aux10		helping_verbs	داریم	we have			have	have.present 1PL
+aux11		helping_verbs	می خواهم	i want		want	want	want' is not in the bank
+aux12		helping_verbs	می خواهی	do you want		want	want	want.present 2SG
+aux13		helping_verbs	می خواهیم	we want		want	want	want.present 1PL
+aux14		helping_verbs	نمی دهم	i do not give		give	give	give.present 1SG.NEGATIVE
+aux15		helping_verbs	نمی دهد	he does not give		give	give	give.present 3SG.NEGATIVE
+aux16		helping_verbs	نمی دهی	you do not give		give	give	give.present 2SG.NEGATIVE
+aux17		helping_verbs	نمی دهید	you do not give		give	give	give.present 2PL.NEGATIVE
+aux18		helping_verbs	نمی دهیم	we do not give		give	give	give.present 1PL.NEGATIVE
+aux19		helping_verbs	نمی خواهم	i do not want		want	want	want.present 1SG.NEGATIVE
+aux20		helping_verbs	نمی خواهی	do not you want		want	want	want.present 2SG.NEGATIVE
+aux21		helping_verbs	نمی خواهیم	we do not want		want	want	want.present 1PL.NEGATIVE
+	S1	sounds	آخ	ah		ouch; oh; ah	ouch	
+	S2	sounds	اَخ/ اَه/ کخ/گخ			ouch; oh; ah	ouch	
+	S3	sounds	بَه بَه / م...م			yummy	yum yum	
+	S4	sounds	بع بع	baa baa	baa baa			
+	S5	sounds	بیب بیب	beep beep	beep beep			
+	S6	sounds	پیف			pew		(used for bad smell) The lemma is my proposal.
+	S7	sounds	جیز/اُخ/ اُخه				ouch	The first one is an interjection for hot things (that hurt) like fire. The second and the thrid one might be used in a similar way. 
+	S8	sounds	جیک جیک	chirp				The lemma is my proposal.
+	S9	sounds	میو میو	meow meow	meow			
+	S10	sounds	وای	oops				Can have differnet meaning. Eg see item 2.
+	S11	sounds	هاپ هاپ	hop hop		woof woof	woof woof	
+	S12	sounds	هوهو چی چی			choo choo	choo choo	sound of train
+	N1	animals	آهو	gazelle			gazelle	same as 130
+	N6	animals	پرنده/ توتو	bird	bird			
+	N7	animals	پنگوئن	penguin	penguin			
+	N9	animals	حشره	insect			bug	
+	N19	animals	شیر	lion	lion			
+	N20	animals	غاز	goose	goose			
+	O2	vehicles	دوچرخه	bike	bicycle			
+	O5	vehicles	کشتی / قایق	ship/boat	boat			
+	P1	toys	اسباب بازی	toy	toy (object)			
+	P3	toys	تفنگ	gun			gun	The lemma is my proposal.
+	P5	toys	جغجغه			rattle	rattle (object)	
+	P6	toys	عروسک	dolls	doll			
+	P7	toys	کتاب	book	book			
+	P8	toys	مکعب/ لگو	cube/lego	blocks			
+	F1	food_drink	آب	water	water (beverage)			
+	F2	food_drink	آب میوه	juice	juice			
+	F3	food_drink	آب نبات/ شکلات	candy/chocolate	candy			
+	F4	food_drink	آش				stew (food)	same as 36
+	F5	food_drink	برنج/ پلو	rice	rice			
+	F11	food_drink	تخم مرغ	egg	egg			
+	F13	food_drink	سوپ	soup	soup			
+	F14	food_drink	سیب	apple	apple			
+	F15	food_drink	شربت	syrup			juice	same as 70
+	F16	food_drink	شیر	lion	lion			
+	F17	food_drink	شیرینی	sweets	candy			
+	F18	food_drink	غذا	food	food			
+	F19	food_drink	قند	sugar loaf			sugar	see 78
+	F20	food_drink	کیک	cake	cake			
+	F21	food_drink	گردو	walnut			walnut	see 86
+	F22	food_drink	گوشت	meat	meat			
+	F23	food_drink	ماهی	fish	fish (food)			
+	F25	food_drink	مربا	jam	jam			
+	F26	food_drink	موز	banana	banana			
+	F27	food_drink	میوه	fruit	fruit			
+	F28	food_drink	نان	bread	bread			
+	F29	food_drink	نوشابه	soda	soda			
+	F30	food_drink	هویج	carrots	carrots		carrot	
+	J5	clothing	تسبیح	rosary			rosary	
+	J9	clothing	دامن	skirt	skirt			
+	J10	clothing	دمپایی	slippers	slipper			
+	J19	clothing	کفش	shoe	shoe			
+	K4	body_parts	بدن/ تن	body			body	The lemma is my proposal.
+	K5	body_parts	بینی	nose	nose			
+	K11	body_parts	دل/ شکم			belly	belly button	
+	K13	body_parts	سر / کله	head	head			
+	K15	body_parts	گوش	ear	ear			
+	K16	body_parts	لب			lip	lips	
+	K17	body_parts	لُپ	cheek	cheek			
+	K19	body_parts	ناخن	nails			nail (body part)	
+	H1	furniture_rooms	اتاق خواب	bedroom	bedroom			
+	H2	furniture_rooms	آشپزخانه	kitchen	kitchen			
+	H3	furniture_rooms	آینه	mirror	mirror			
+	H4	furniture_rooms	بالش	pillow	pillow			
+	H5	furniture_rooms	بخاری	heater			radiator	see 313
+	H6	furniture_rooms	پله/ راه پله	stairs	stairs			
+	H7	furniture_rooms	پرده	curtain	curtain			
+	H9	furniture_rooms	ختخواب/رختخواب/تخت				bed	see 318 and 325. Delete ختخواب it doesn't exist.
+	H15	furniture_rooms	شیر آب	faucet	faucet			
+	H17	furniture_rooms	ضبط	record				see 329
+	H18	furniture_rooms	فرش	carpet	carpet			
+	H19	furniture_rooms	کامپیوتر	computer	computer			
+	H21	furniture_rooms	گاز	gas			gas	see 311
+	H22	furniture_rooms	گهواره	cradle	cradle			
+	H23	furniture_rooms	میز	table	table			
+	H24	furniture_rooms	یخچال	refrigerator	refrigerator			
+	T1	household	آشغال	rubbish	trash			
+	T2	household	بشقاب	plate	plate			
+	T3	household	پارچ	pitcher			pitcher	see 346
+	T4	household	پتو			blanket	blanket	see 348
+	T5	household	پستانک			pacifier	pacifier	
+	T6	household	پول	money	money			
+	T7	household	تشت/ لگن			chamber pot/(plastic) tub	tub	
+	T8	household	تلفن	phone	telephone			
+	T9	household	جارو/ جاروبرقی	vacuum cleaner			vacuum	
+	T10	household	جعبه	box	box			
+	T11	household	چاقو	knife	knife			
+	T14	household	دارو/ دوا	medicine	medicine			
+	T17	household	سفره	tablecloth	tablecloth			
+	T21	household	شیشه شیر	bottle of milk	bottle			
+	T23	household	ظرف	container	box			see 378
+	T24	household	عکس	picture	picture			
+	T25	household	عینک	glasses	glasses			
+	T26	household	فنجان	cup	cup			
+	T27	household	قاشق	spoon	spoon			
+	T28	household	قندان	sugar	sugar			
+	T29	household	قوری				pot	see 382
+	T30	household	کاسه	bowl	bowl			
+	T31	household	کلید	key	keys			
+	T32	household	گل/ گلدان	vase		vase	vase	
+	T33	household	لامپ/ چراغ	lamps/lights			light (object)	
+	T34	household	لیوان	glass	glass			
+	T35	household	مسواک	toothbrush	toothbrush			
+	T36	household	نمکدان	salt shaker			salt	
+	M1	outside	آتش	fire	fire			
+	M2	outside	آسمان	sky	sky			
+	M3	outside	الاکلنگ	seesaw			seesaw	
+	M4	outside	بازار	market	market			
+	M7	outside	باغچه	garden	garden			
+	M10	outside	پشت بام	rooftop			roof	
+	M12	outside	چرخ و فلک	carousel			carousel	
+	M17	outside	زیر زمین	underground			basement	see 326
+	M19	outside	ستاره	star	star			
+	M20	outside	سرسره	slide	slide (object)			
+	M21	outside	شهربازی	amusement park			park	
+	M22	outside	فروشگاه/دکان/مغازه	shop	store			
+	E1	people	أقا/ مرد			man	man	
+	E2	people	آدم/ آدمها	man	man	man/woman	person	
+	E3	people	اسم خودکودک	child's own name	child's own name			
+	E5	people	برادر / داداش *	brother	brother			
+	E6	people	بچه	baby	baby			
+	E8	people	پدربزرگ*	grandpa	grandpa			
+	E10	people	خانم/ زن	woman	woman			
+	E11	people	خواهر/ آجی/آبجی	sister	sister			
+	E12	people	دایی	uncle	uncle			
+	E14	people	شوهر	husband			husband	
+	E18	people	مادربزرگ*	grandma	grandma			
+	E19	people	نوه			grandchild	child	
+	E20	people	نی نی/ بِه بِه				baby	see 286
+	I1	games_routines	اتل متل توتوله					see 178
+	I2	games_routines	بله	yes	yes			
+	I3	games_routines	جیش	pee	pee			
+	I4	games_routines	چُرت/خواب/لالا	snooze/sleep/mute			nap	mute' is not correct.
+	I5	games_routines	حمام کردن	take a bath			bath	
+	I6	games_routines	خداحافظی	goodbye	bye			
+	I7	games_routines	کلاغ پَر					see 197
+	I8	games_routines	دالّی/ داکّی					see 186
+	I13	games_routines	صبر کردن(وایسا)	wait	wait			
+	I14	games_routines	لی لی حوضک				tickling	A children's game in which the palm of a hand of a child is tickled, etc. The lemma is my proposal.
+	I15	games_routines	مرسی/ممنون/متشکرم	thank you	thank you			
+	I16	games_routines	می خوام	I want			wanna	see 679
+	I17	games_routines	ناهار	lunch	lunch			
+	I18	games_routines	نه	no	no			
+	I19	games_routines	هیس/ ش				shh	see 203
+	L1	action_words	آمدن	come	come			
+	L2	action_words	آوردن	bring	bring			
+	L3	action_words	آشتی کردن			to be friendsd again	reconcile	
+	L4	action_words	افتادن	fall	fall			
+	L5	action_words	ایستادن	stand	stand			
+	L6	action_words	باز کردن	open	open (action)			
+	L7	action_words	بازی کردن	play	play			
+	L8	action_words	بردن	carry	carry			
+	L9	action_words	بستن	close	close			
+	L10	action_words	بوسیدن	kiss	kiss			
+	L11	action_words	پختن	cook	cook			
+	L12	action_words	پرت کردن	throw	throw			
+	L13	action_words	پریدن	jump	jump			
+	L14	action_words	تاب خوردن	swing	swing (action)			
+	L15	action_words	تکان دادن	shake	shake			
+	L16	action_words	تمیزکردن/پاک کردن	clean	clean (action)			
+	L17	action_words	ترسیدن	fear			be scared	
+	L18	action_words	جیغ کشیدن	shrill			squeal	The lemma is my proposal.
+	L19	action_words	شانه کردن	comb	comb (action)			
+	L20	action_words	خاموش کردن	turnoff		turn off	turn off	
+	L21	action_words	خجالت کشیدن	be ashamed		feel shy	be shy	
+	L22	action_words	خندیدن	laugh	laugh			
+	L23	action_words	خوردن	eat	eat			
+	L24	action_words	خوردن (اصابت کردن)	eat	eat	hit	hit	Eg The bullet hit the wall. 
+	L25	action_words	خواندن	read	read			
+	L26	action_words	خوابیدن	sleep	sleep			
+	L27	action_words	درد گرفتن	hurt	hurt			
+	L28	action_words	دعا کردن	pray			pray	
+	L29	action_words	دویدن	run	run			
+	L30	action_words	دوست داشتن	love	love			
+	L31	action_words	دیدن/نگاه کردن	see	see			
+	L32	action_words	رانندگی کردن	drive	drive			
+	L33	action_words	راه رفتن	walk	walk			
+	L34	action_words	رفتن	go	go			
+	L35	action_words	زمین خوردن	fall down	fall			
+	L36	action_words	سلام کردن	hello	hello		greet	
+	L37	action_words	سینه زدن	breastfeed		pound on chest (done in mourning)		not child vocabulary although being in the list
+	L38	action_words	شناکردن	swim	swim			
+	L39	action_words	طبل زدن/ضربه زدن/کوبیدن	drum	drum			
+	L40	action_words	غذا دادن	feed	feed			
+	L41	action_words	قلقلک دادن	tickle	tickle			
+	L42	action_words	فوت کردن	die	die	blow	blow	
+	L43	action_words	قصه گفتن	tell a story	tell			
+	L44	action_words	کتک زدن	beat			hit	It means to strike a person of animal
+	L45	action_words	کشیدن	draw	draw	draw/pull	pull	
+	L46	action_words	کمک کردن	help	help			
+	L47	action_words	گاز گرفتن	bite	bite			
+	L48	action_words	گریه کردن	cry	cry			
+	L49	action_words	لج کردن/قهر کردن	tumble		sulk	sulk	
+	L50	action_words	لگد زدن	kick	kick			
+	L51	action_words	لمس کردن/ دست زدن	touch	touch			
+	L52	action_words	نانای کردن/ رقصیدن	dance	dance			
+	L53	action_words	نقاشی کردن	paint	paint (action)			
+	L54	action_words	نمازخواندن	pray			pray	
+	L55	action_words	نوشتن	write	write			
+	R2	time_words	امشب	tonight	tonight			
+	R3	time_words	بعداً	later	later			
+	R4	time_words	حالا	now	now			
+	W3	descriptive_words	بداخلاق	bad-tempered			impatient	
+	W6	descriptive_words	پُر	full	full			
+	W8	descriptive_words	تر / خیس	wet	wet (description)			
+	W9	descriptive_words	تشنه	thirsty	thirsty			
+	W10	descriptive_words	تمییز			clean	clean (description)	correct spelling: تمیز
+	W11	descriptive_words	تند/زود/سریع	fast	fast			
+	W14	descriptive_words	خاموش	off	off			
+	W15	descriptive_words	خراب	broken	broken			
+	W18	descriptive_words	خوب	good	good			
+	W21	descriptive_words	خوش اخلاق	well-behaved		good	good	I thought 'good' is more commonly used by children than 'well-behaved'
+	W25	descriptive_words	سخت/سفت	hard	hard			
+	W27	descriptive_words	سیر			full	full	opposite of hungry
+	W31	descriptive_words	کم	low		little	little (description)	
+	W35	descriptive_words	ناز/قشنگ	cute/beautiful	cute			see also 524
+	W37	descriptive_words	یواش/آهسته	slow	slow			
+	X1	pronouns	آن					see 449
+	X3	pronouns	آنها	they	they			see 450
+	X5	pronouns	او	she	she			see 451
+	X10	pronouns	مالِ من/ منِ			mine	1SG.POSS	
+	X11	pronouns	مال تو/ توئه	yours/yours		yours	2SG.POSS	
+	X12	pronouns	مال اون/ اونه	his/hers			3SG.POSS	
+	Y2	question_words	چطوری/چگونه/ چه جوری	how	how			
+	Y3	question_words	چی	what	what			
+	Y5	question_words	کی(چه کسی)	who	who			
+	Y6	question_words	کجا/ کو			where/where is it	where (question)	
+	Z1	locations	آنجا	there	there			
+	Z2	locations	بالا	top	top			
+	Z3	locations	بیرون/ خارج	out/out			out	
+	Z4	locations	پائین	down	down			
+	Z5	locations	جلو	front	front			
+	Z6	locations	داخل/ دَر/ توی	in/out			in	
+	Z10	locations	عقب / پشت	back/back			back	
+	C3	quantifiers	همان قدر	asmuch		as much		
+	C4	quantifiers	هیچکدام	none	none			
+	C5	quantifiers	هیچی(نه)	nothing	nothing			
+	C6	quantifiers	یکی	one			one	one two three?
+	C7	quantifiers	همه	all	all			
+	C8	quantifiers	یه کمی/مقداری/ یه کم دیگه	a little (more)	little (amount)			

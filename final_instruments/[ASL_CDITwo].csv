@@ -212,7 +212,7 @@ Item_210,HARD,word,understand;produces,HARD,descriptive_words,hard,hard
 Item_211,HAT,word,understand;produces,HAT,clothing,hat,hat
 Item_212,HATE,word,understand;produces,HATE,mental,hate,hate
 Item_213,HAVE,word,understand;produces,HAVE,action_words,have,have
-Item_214,HE,word,understand;produces,HE,pronouns,he,
+Item_214,HE,word,understand;produces,HE,pronouns,he,3SG
 Item_215,HEAD,word,understand;produces,HEAD,body_parts,head,head
 Item_216,HEAR,word,understand;produces,HEAR,action_words,hear,hear
 Item_217,HEARING,word,understand;produces,HEARING,descriptive_words,hearing,hearing
@@ -223,7 +223,7 @@ Item_221,HELP,word,understand;produces,HELP,action_words,help,help
 Item_222,HERE,word,understand;produces,HERE,locations,here,here
 Item_223,HIDE,word,understand;produces,HIDE,action_words,hide,hide
 Item_224,HIGH,word,understand;produces,HIGH,descriptive_words,high,high
-Item_225,HIS,word,understand;produces,HIS,pronouns,his,
+Item_225,HIS,word,understand;produces,HIS,pronouns,his,3SG.POSS
 Item_226,HIT,word,understand;produces,HIT,action_words,hit,hit
 Item_227,HOLD,word,understand;produces,HOLD,action_words,hold,hold
 Item_228,HOME,word,understand;produces,HOME,outside,home,home
@@ -302,9 +302,9 @@ Item_300,MOUSE,word,understand;produces,MOUSE,animals,mouse,mouse
 Item_301,MOUTH,word,understand;produces,MOUTH,body_parts,mouth,mouth
 Item_302,MOVIE,word,understand;produces,MOVIE,outside,movie,movie
 Item_303,MUCH,word,understand;produces,MUCH,quantifiers,much,much
-Item_304,MY,word,understand;produces,MY,pronouns,my,
+Item_304,MY,word,understand;produces,MY,pronouns,my,1SG.POSS
 Item_305,MYSELF,word,understand;produces,MYSELF,pronouns,myself,self
-Item_306,NAPKIN,word,understand;produces,NAPKIN,household,napkin,napkin
+Item_306,"NAPKIN",word,understand;produces,"NAPKIN",household,napkin,napkin
 Item_307,NECKLACE,word,understand;produces,NECKLACE,clothing,necklace,necklace
 Item_308,NEED,word,understand;produces,NEED,mental,need,need
 Item_309,NEW,word,understand;produces,NEW,descriptive_words,new,new
@@ -483,7 +483,7 @@ Item_481,TREE,word,understand;produces,TREE,outside,tree,tree
 Item_482,TURKEY,word,understand;produces,TURKEY,animals,turkey,turkey
 Item_483,TURN_KEY,word,understand;produces,TURN_KEY,action_words,turn key,
 Item_484,TURTLE,word,understand;produces,TURTLE,animals,turtle,turtle
-Item_485,TV,word,understand;produces,TV,furniture_rooms,tv,tv
+Item_485,TV,word,understand;produces,TV,furniture_rooms,tv,TV
 Item_486,UNCLE,word,understand;produces,UNCLE,people,uncle,uncle
 Item_487,UNDER,word,understand;produces,UNDER,locations,under,under
 Item_488,UNDERSTAND,word,understand;produces,UNDERSTAND,mental,understand,understand
