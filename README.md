@@ -3,7 +3,7 @@
 This repository contains data and code for the project aiming to update unilemmas (rough cross-linguistic conceptual mappings) for [Wordbank](http://wordbank.stanford.edu/). 
 This project had several aims:
 * Codify a unilemma policy, which details a working definition and method for unilemmas;
-* Standardize the canonical form of unilemmas;
+* Improve consistency across unilemmas;
 * Gather knowledge from native or advanced proficient speakers for as many languages as possible; and
 * Improve unilemma coverage overall.
 
