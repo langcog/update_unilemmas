@@ -99,7 +99,7 @@ item_97,item_97,word,toys,produces,balle,ball,ball
 item_98,item_98,word,toys,produces,ballon,ball,ball
 item_99,item_99,word,toys,produces,bulles,bubbles,bubbles
 item_100,item_100,word,toys,produces,cadeau,present,present
-item_101,item_101,word,toys,produces,colle,glue,glue
+item_101,item_101,word,toys,produces,colle,glue,glue (object)
 item_102,item_102,word,toys,produces,craie,chalk,chalk
 item_103,item_103,word,toys,produces,crayon,pen/pencil,pen/pencil
 item_104,item_104,word,toys,produces,cube,cube,blocks
@@ -130,11 +130,11 @@ item_128,item_128,word,clothing,produces,combinaison de ski,ski suit,snowsuit
 item_129,item_129,word,clothing,produces,couche,diaper,diaper
 item_130,item_130,word,clothing,produces,culotte/slip,underpants,underpants
 item_131,item_131,word,clothing,produces,écharpe,scarf,scarf
-item_132,item_132,word,clothing,produces,gants,gloves,gloves
+item_132,item_132,word,clothing,produces,gants,gloves,glove
 item_133,item_133,word,clothing,produces,grenouillère,,
 item_134,item_134,word,clothing,produces,jeans,jeans,jeans
 item_135,item_135,word,clothing,produces,manteau,coat,coat
-item_136,item_136,word,clothing,produces,moufles,mittens,mittens
+item_136,item_136,word,clothing,produces,moufles,mittens,mitten
 item_137,item_137,word,clothing,produces,pantalon,pants,pants
 item_138,item_138,word,clothing,produces,perles,beads,beads
 item_139,item_139,word,clothing,produces,pull,sweater,sweater
@@ -282,7 +282,7 @@ item_268,item_268,word,body_parts,produces,genou,knee,knee
 item_269,item_269,word,body_parts,produces,jambe,leg,leg
 item_270,item_270,word,body_parts,produces,joue,cheek,cheek
 item_271,item_271,word,body_parts,produces,langue,tongue,tongue
-item_272,item_272,word,body_parts,produces,lèvre,lips,lips
+item_272,item_272,word,body_parts,produces,lèvre,lips,lip
 item_273,item_273,word,body_parts,produces,main,hand,hand
 item_274,item_274,word,body_parts,produces,menton,chin,chin
 item_275,item_275,word,body_parts,produces,nez,nose,nose
@@ -538,7 +538,7 @@ item_524,item_524,word,action_words,produces,être debout,get up,get up
 item_525,item_525,word,action_words,produces,faire,do,do
 item_526,item_526,word,action_words,produces,faire bravo,(??),congratulate
 item_527,item_527,word,action_words,produces,faire de la peinture,paint (action),paint (action)
-item_528,item_528,word,action_words,produces,faire du patin,skate,skate
+item_528,item_528,word,action_words,produces,faire du patin,skate,skate (action)
 item_529,item_529,word,action_words,produces,faire du vélo/moto,,ride
 item_530,item_530,word,action_words,produces,faire semblant,pretend,pretend
 item_531,item_531,word,action_words,produces,faire un bisou,kiss,kiss

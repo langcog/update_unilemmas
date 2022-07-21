@@ -103,7 +103,7 @@ item_101,poto,word,body_parts,understands; produces,poto,NA,butt,butt
 item_102,teta,word,body_parts,understands; produces,teta,NA,breast,breast
 item_103,una,word,body_parts,understands; produces,uña,NA,nail,nail (body part)
 item_104,balde,word,toys,understands; produces,balde,NA,pail,bucket
-item_105,bloque,word,toys,understands; produces,bloque/cubito,NA,block/cube,block
+item_105,bloque,word,toys,understands; produces,bloque/cubito,NA,block/cube,blocks
 item_106,caja,word,toys,understands; produces,caja,NA,cash register,NA
 item_107,cuento,word,toys,understands; produces,cuento/libro,NA,story/book,book
 item_108,futbol,word,toys,understands; produces,fútbol,NA,soccer,football
@@ -115,7 +115,7 @@ item_113,osito,word,toys,understands; produces,osito,NA,teddy,teddybear
 item_114,papel,word,toys,understands; produces,papel,NA,paper,paper
 item_115,pelota,word,toys,understands; produces,pelota,NA,ball,ball
 item_116,rompecabezas,word,toys,understands; produces,rompecabezas,NA,puzzle,puzzle
-item_117,tambor,word,toys,understands; produces,tambor,NA,drum,drum
+item_117,tambor,word,toys,understands; produces,tambor,NA,drum,drum (object)
 item_118,autobus,word,vehicles,understands; produces,autobús/bus,NA,bus,bus
 item_119,avion,word,vehicles,understands; produces,avión,NA,plane,airplane
 item_120,barco,word,vehicles,understands; produces,barco,NA,boat,boat
@@ -163,7 +163,7 @@ item_161,casaca,word,clothing,understands; produces,casaca,NA,jacket,jacket
 item_162,chompa,word,clothing,understands; produces,chompa,NA,sweater,sweater
 item_163,falda,word,clothing,understands; produces,falda,NA,skirt,skirt
 item_164,gorro,word,clothing,understands; produces,gorro(a)/sombrero,NA,cap/hat,hat
-item_165,media,word,clothing,understands; produces,media(s),NA,stockings,stockings
+item_165,media,word,clothing,understands; produces,media(s),NA,stockings,tights
 item_166,pantalon,word,clothing,understands; produces,pantalón(es),NA,pants,pants
 item_167,panal,word,clothing,understands; produces,pañal,NA,diaper,diaper
 item_168,piyama,word,clothing,understands; produces,piyama,NA,pajamas,pajamas
@@ -254,7 +254,7 @@ item_252,pintar,word,action_words,understands; produces,pintar,NA,paint,paint (a
 item_253,poder,word,action_words,understands; produces,poder (puedes…),NA,can,can (auxiliary)
 item_254,poner,word,action_words,understands; produces,poner(se),NA,put on,put on
 item_255,prender,word,action_words,understands; produces,prender/encender,NA,turn on,turn on
-item_256,quemar,word,action_words,understands; produces,quemar,NA,burn,burn (action)
+item_256,quemar,word,action_words,understands; produces,quemar,NA,burn,burn
 item_257,querer,word,action_words,understands; produces,querer,NA,want,want
 item_258,quitar,word,action_words,understands; produces,quitar(se),NA,take off,remove
 item_259,reir,word,action_words,understands; produces,reír,NA,laugh,laugh

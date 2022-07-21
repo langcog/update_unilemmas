@@ -58,7 +58,7 @@ item_89,train,word,vehicles,understands; produces,train,NA,train,train
 item_90,truck,word,vehicles,understands; produces,truck,NA,truck,truck
 item_91,ball,word,toys,understands; produces,ball,NA,ball,ball
 item_92,balloon,word,toys,understands; produces,balloon,NA,balloon,balloon
-item_93,block,word,toys,understands; produces,block,NA,block,block
+item_93,block,word,toys,understands; produces,block,NA,block,blocks
 item_94,book,word,toys,understands; produces,book,NA,book,book
 item_95,bubbles,word,toys,understands; produces,bubbles,NA,bubbles,bubbles
 item_96,doll,word,toys,understands; produces,doll,NA,doll,doll

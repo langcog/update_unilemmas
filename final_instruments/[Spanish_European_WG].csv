@@ -102,7 +102,7 @@ item_94,teta,word,body_parts,understands; produces,teta,NA,breast,breast
 item_95,unna,word,body_parts,understands; produces,uña,NA,fingernail,fingernail
 item_96,balon,word,toys,understands; produces,balón,NA,ball,ball
 item_97,caja,word,toys,understands; produces,caja,NA,box,box
-item_98,cubo,word,toys,understands; produces,cubo,NA,block,block
+item_98,cubo,word,toys,understands; produces,cubo,NA,block,blocks
 item_99,cuento,word,toys,understands; produces,cuento/libro,NA,book,book
 item_100,fotos,word,toys,understands; produces,fotos (cámara),NA,photos,photo
 item_101,futbol,word,toys,understands; produces,fútbol,NA,soccer ball,ball
@@ -116,7 +116,7 @@ item_108,osito,word,toys,understands; produces,osito,NA,teddybear,teddybear
 item_109,papel,word,toys,understands; produces,papel,NA,paper,paper
 item_110,pelota,word,toys,understands; produces,pelota,NA,ball,ball
 item_111,puzzle,word,toys,understands; produces,puzzle,NA,puzzle,puzzle
-item_112,tambor,word,toys,understands; produces,tambor,NA,drum,drum
+item_112,tambor,word,toys,understands; produces,tambor,NA,drum,drum (object)
 item_113,avion,word,vehicles,understands; produces,avión,NA,airplane,airplane
 item_114,autobus,word,vehicles,understands; produces,autobús,NA,bus,bus
 item_115,barco,word,vehicles,understands; produces,barco,NA,boat,boat

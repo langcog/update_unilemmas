@@ -77,8 +77,8 @@ tåg,vehicles,tag,word,produces,NA,item_75,train,train,train
 ballong,toys,ballong,word,produces,NA,item_76,balloon,ballon,balloon
 boll,toys,boll,word,produces,NA,item_77,ball,ball,ball
 docka,toys,docka,word,produces,NA,item_78,doll,doll,doll
-klister,toys,klister,word,produces,NA,item_79,NA,glue,glue
-kloss,toys,kloss,word,produces,NA,item_80,block,block,block
+klister,toys,klister,word,produces,NA,item_79,NA,glue,glue (object)
+kloss,toys,kloss,word,produces,NA,item_80,block,block,blocks
 krita,toys,krita,word,produces,NA,item_81,NA,chalk,chalk
 lego,toys,lego,word,produces,NA,item_82,NA,Lego,blocks
 leksak,toys,leksak,word,produces,NA,item_83,toy (object),toy,toy (object)
@@ -88,8 +88,8 @@ penna,toys,penna,word,produces,NA,item_86,pen/pencil,pen,pen/pencil
 pulka,toys,pulka,word,produces,NA,item_87,NA,sledge,sled
 pussel,toys,pussel,word,produces,NA,item_88,NA,puzzle,puzzle
 saga,toys,saga,word,produces,NA,item_89,NA,story,story
-skidor,toys,skidor,word,produces,NA,item_90,NA,skies,skis
-skridskor,toys,skridskor,word,produces,NA,item_91,NA,skates,skates
+skidor,toys,skidor,word,produces,NA,item_90,NA,skies,ski (object)
+skridskor,toys,skridskor,word,produces,NA,item_91,NA,skates,skate (object)
 spel,toys,spel,word,produces,NA,item_92,NA,game,game
 såpbubblor,toys,sapbubblor,word,produces,NA,item_93,bubbles,bubbles,bubbles
 apelsin,food_drink,apelsin,word,produces,NA,item_94,orange (food),orange,orange (food)
@@ -202,7 +202,7 @@ tofflor,clothing,tofflor,word,produces,NA,item_200,NA,slipper,slipper
 trosor,clothing,trosor,word,produces,NA,item_201,NA,panties,underpants
 tröja,clothing,troja,word,produces,NA,item_202,sweater,sweater,sweater
 underbyxa,clothing,underbyxa,word,produces,NA,item_203,NA,underpants,underpants
-vantar,clothing,vantar,word,produces,NA,item_204,mittens,mittens,mittens
+vantar,clothing,vantar,word,produces,NA,item_204,mittens,mittens,mitten
 ansikte,body_parts,ansikte,word,produces,NA,item_205,face,face,face
 arm,body_parts,arm,word,produces,NA,item_206,arm,arm,arm
 axel,body_parts,axel,word,produces,NA,item_207,NA,shoulder,shoulder
@@ -215,7 +215,7 @@ huvud,body_parts,huvud,word,produces,NA,item_213,head,head,head
 hår,body_parts,har,word,produces,NA,item_214,hair,hair,hair
 kind,body_parts,kind,word,produces,NA,item_215,cheek,cheek,cheek
 knä,body_parts,kna,word,produces,NA,item_216,knee,knee,knee
-läppar,body_parts,lappar,word,produces,NA,item_217,NA,lips,lips
+läppar,body_parts,lappar,word,produces,NA,item_217,NA,lips,lip
 mage,body_parts,mage,word,produces,NA,item_218,tummy,tummy,tummy
 mun,body_parts,mun,word,produces,NA,item_219,mouth,mouth,mouth
 navel,body_parts,navel,word,produces,NA,item_220,belly button,belly button,belly button

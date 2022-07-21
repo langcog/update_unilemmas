@@ -1,7 +1,7 @@
 item,itemID,complexity_category,choices,type,definition,is_both,category,lexical_class,gloss,uni_lemma
 ainmhí,item_14,ANIMALS (Real or toy),produces; doesn't produce,word,ainmhí,0,animals,nouns,animal,animal
 asal,item_16,ANIMALS (Real or toy),produces; doesn't produce,word,asal,0,animals,nouns,donkey,donkey
-beach,item_18,ANIMALS (Real or toy),produces; doesn't produce,word,beach,0,animals,nouns,beach,beach
+beach,item_18,ANIMALS (Real or toy),produces; doesn't produce,word,beach,0,animals,nouns,bee,bee
 bear,item_20,ANIMALS (Real or toy),produces; doesn't produce,word,bear_béir,1,animals,nouns,bear,bear
 bó,item_21,ANIMALS (Real or toy),produces; doesn't produce,word,bó,0,animals,nouns,cow,cow
 bóindé,item_23,ANIMALS (Real or toy),produces; doesn't produce,word,bóindé,0,animals,nouns,ladybird,ladybug
@@ -70,11 +70,11 @@ bronntanas,item_138,TOYS,produces; doesn't produce,word,bronntanas_féirín,0,to
 camán,item_140,TOYS,produces; doesn't produce,word,camán,0,toys,nouns,hurley,hurley
 cluiche,item_142,TOYS,produces; doesn't produce,word,cluiche,0,toys,nouns,game,game
 dathú,item_145,TOYS,produces; doesn't produce,word,dathú,0,toys,nouns,colouring,crayon
-druma,item_146,TOYS,produces; doesn't produce,word,druma,0,toys,nouns,NA,NA
+druma,item_146,TOYS,produces; doesn't produce,word,druma,0,toys,nouns,drum,drum (object)
 gunna,item_149,TOYS,produces; doesn't produce,word,gunna,0,toys,nouns,gun,gun
 leabhar,item_151,TOYS,produces; doesn't produce,word,leabhar,0,toys,nouns,book,book
 liathróid,item_153,TOYS,produces; doesn't produce,word,liathróid_caid_peil,0,toys,nouns,(foot)ball,ball
-míreannamearaí,item_155,TOYS,produces; doesn't produce,word,míreannamearaí,0,toys,nouns,jigsaw,puzzle
+míreannamearaí,item_155,TOYS,produces; doesn't produce,word,míreannamearaí,0,toys,nouns,NA,NA
 peann,item_157,TOYS,produces; doesn't produce,word,peann,0,toys,nouns,pen,pen
 peannluaidhe,item_159,TOYS,produces; doesn't produce,word,peannluaidhe,0,toys,nouns,pencil,pencil
 scéal,item_161,TOYS,produces; doesn't produce,word,scéal,0,toys,nouns,story,story
@@ -112,7 +112,7 @@ liamhás,item_220,FOOD AND DRINK,produces; doesn't produce,word,liamhás_más,0,
 líreacán,item_222,FOOD AND DRINK,produces; doesn't produce,word,líreacán,0,food_drink,nouns,lollipop,lollipop
 mil,item_224,FOOD AND DRINK,produces; doesn't produce,word,mil,0,food_drink,nouns,honey,honey
 milseáin,item_226,FOOD AND DRINK,produces; doesn't produce,word,milseáin,0,food_drink,nouns,sweets,sweets
-oráíste,item_228,FOOD AND DRINK,produces; doesn't produce,word,oráíste,0,food_drink,nouns,orange,orange (food)
+oráíste,item_228,FOOD AND DRINK,produces; doesn't produce,word,oráíste,0,food_drink,nouns,NA,NA
 pancóg,item_230,FOOD AND DRINK,produces; doesn't produce,word,pancóg,0,food_drink,nouns,pancake,pancake
 pasta,item_232,FOOD AND DRINK,produces; doesn't produce,word,pasta_ie,1,food_drink,nouns,pasta,pasta
 piorra,item_233,FOOD AND DRINK,produces; doesn't produce,word,piorra,0,food_drink,nouns,pear,pear
@@ -127,7 +127,7 @@ sceallóga,item_248,FOOD AND DRINK,produces; doesn't produce,word,sceallóga,0,f
 seacláid,item_250,FOOD AND DRINK,produces; doesn't produce,word,seacláid,0,food_drink,nouns,chocolate,chocolate
 slisíní,item_252,FOOD AND DRINK,produces; doesn't produce,word,slisíní_bagúin,0,food_drink,nouns,rashers,bacon
 spagettiie,item_254,FOOD AND DRINK,produces; doesn't produce,word,spagettiie,1,food_drink,nouns,spagetti,spaghetti
-sútalún,item_255,FOOD AND DRINK,produces; doesn't produce,word,sútalún,0,food_drink,nouns,strawberry,strawberry
+sútalún,item_255,FOOD AND DRINK,produces; doesn't produce,word,sútalún,0,food_drink,nouns,NA,NA
 sú,item_257,FOOD AND DRINK,produces; doesn't produce,word,sú,0,food_drink,nouns,juice,juice
 subh,item_259,FOOD AND DRINK,produces; doesn't produce,word,subh,0,food_drink,nouns,jam,jam
 tae,item_261,FOOD AND DRINK,produces; doesn't produce,word,tae,0,food_drink,nouns,tea,tea
@@ -142,7 +142,7 @@ bibe,item_277,CLOTHES,produces; doesn't produce,word,bibe_beannóg,0,clothing,no
 bríste,item_279,CLOTHES,produces; doesn't produce,word,bríste_treabhsar,0,clothing,nouns,trousers,pants
 brístegearra,item_281,CLOTHES,produces; doesn't produce,word,brístegearra,0,clothing,nouns,shorts,shorts
 bróga,item_283,CLOTHES,produces; doesn't produce,word,bróga,0,clothing,nouns,shoes,shoe
-brógareatha,item_285,CLOTHES,produces; doesn't produce,word,brógareatha,0,clothing,nouns,runners,runners
+brógareatha,item_285,CLOTHES,produces; doesn't produce,word,brógareatha,0,clothing,nouns,runners,sneaker
 buataisí,item_287,CLOTHES,produces; doesn't produce,word,buataisí,0,clothing,nouns,boots,boots
 caipín,item_289,CLOTHES,produces; doesn't produce,word,caipín,0,clothing,nouns,cap,hat
 clúidín,item_292,CLOTHES,produces; doesn't produce,word,clúidín,0,clothing,nouns,nappy,diaper
@@ -157,7 +157,7 @@ fobhríste,item_308,CLOTHES,produces; doesn't produce,word,fobhríste_brístín,
 geansaí,item_310,CLOTHES,produces; doesn't produce,word,geansaí,0,clothing,nouns,jumper,sweater
 gúna,item_312,CLOTHES,produces; doesn't produce,word,gúna,0,clothing,nouns,dress,dress (object)
 hata,item_314,CLOTHES,produces; doesn't produce,word,hata,0,clothing,nouns,hat,hat
-lámhainní,item_316,CLOTHES,produces; doesn't produce,word,lámhainní_miteogaí,0,clothing,nouns,gloves,gloves
+lámhainní,item_316,CLOTHES,produces; doesn't produce,word,lámhainní_miteogaí,0,clothing,nouns,gloves,glove
 léine,item_318,CLOTHES,produces; doesn't produce,word,léine,0,clothing,nouns,shirt,shirt
 riteoga,item_320,CLOTHES,produces; doesn't produce,word,riteoga,0,clothing,nouns,tights,tights
 scairf,item_322,CLOTHES,produces; doesn't produce,word,scairf_scarf_ie,1,clothing,nouns,scarf,scarf
@@ -165,14 +165,14 @@ sciorta,item_323,CLOTHES,produces; doesn't produce,word,sciorta,0,clothing,nouns
 seaicéad,item_325,CLOTHES,produces; doesn't produce,word,seaicéad_casóg,0,clothing,nouns,skirt,skirt
 slipéir,item_328,CLOTHES,produces; doesn't produce,word,slipéir,0,clothing,nouns,slipper,slipper
 spéaclaí,item_330,CLOTHES,produces; doesn't produce,word,spéaclaí,0,clothing,nouns,slipper,slipper
-stocaí,item_332,CLOTHES,produces; doesn't produce,word,stocaí,0,clothing,nouns,NA,NA
+stocaí,item_332,CLOTHES,produces; doesn't produce,word,stocaí,0,clothing,nouns,socks,sock
 tléine,item_334,CLOTHES,produces; doesn't produce,word,tléine,0,clothing,nouns,NA,NA
-veist,item_336,CLOTHES,produces; doesn't produce,word,veist_cfoléine,0,clothing,nouns,NA,NA
-aghaidh,item_338,BODY PARTS,produces; doesn't produce,word,aghaidh,0,body_parts,nouns,NA,NA
-barraicíní,item_340,BODY PARTS,produces; doesn't produce,word,barraicíní,0,body_parts,nouns,NA,NA
-béal,item_342,BODY PARTS,produces; doesn't produce,word,béal,0,body_parts,nouns,NA,NA
-beola,item_344,BODY PARTS,produces; doesn't produce,word,beola,0,body_parts,nouns,NA,NA
-bolg,item_346,BODY PARTS,produces; doesn't produce,word,bolg,0,body_parts,nouns,NA,NA
+veist,item_336,CLOTHES,produces; doesn't produce,word,veist_cfoléine,0,clothing,nouns,vest,vest
+aghaidh,item_338,BODY PARTS,produces; doesn't produce,word,aghaidh,0,body_parts,nouns,face,face
+barraicíní,item_340,BODY PARTS,produces; doesn't produce,word,barraicíní,0,body_parts,nouns,toes,toe
+béal,item_342,BODY PARTS,produces; doesn't produce,word,béal,0,body_parts,nouns,mouth,mouth
+beola,item_344,BODY PARTS,produces; doesn't produce,word,beola,0,body_parts,nouns,lips,lip
+bolg,item_346,BODY PARTS,produces; doesn't produce,word,bolg,0,body_parts,nouns,tummy,tummy
 ceann,item_348,BODY PARTS,produces; doesn't produce,word,ceann_bpcloigeann,0,body_parts,nouns,head,head
 cluasa,item_350,BODY PARTS,produces; doesn't produce,word,cluasa,0,body_parts,nouns,ears,ear
 cos,item_352,BODY PARTS,produces; doesn't produce,word,cos,0,body_parts,nouns,foot,foot
@@ -202,7 +202,7 @@ bascaed,item_397,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,bascaed_ci
 blaincéad,item_399,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,blaincéad_pluid,0,household,nouns,blanket,blanket
 bord,item_401,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,bord,0,household,nouns,table,table
 bosca,item_403,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,bosca,0,household,nouns,box,box
-boscabruscair,item_405,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,boscabruscair,0,household,nouns,dustbin,bin
+boscabruscair,item_405,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,boscabruscair,0,household,nouns,NA,NA
 bruscar,item_407,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,bruscar,0,household,nouns,rubbish,trash
 buicéad,item_409,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,buicéad,0,household,nouns,bucket,bucket
 buidéal,item_411,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,buidéal,0,household,nouns,bottle,bottle
@@ -335,9 +335,9 @@ siopa,item_663,PLACES TO GO,produces; doesn't produce,word,siopa,0,places,other,
 teach,item_666,PLACES TO GO,produces; doesn't produce,word,teach_tigh,0,places,other,house,house
 trá,item_668,PLACES TO GO,produces; doesn't produce,word,trá_tráigh,0,places,other,beach,beach
 zú,item_670,PLACES TO GO,produces; doesn't produce,word,zú,0,places,other,zoo,zoo
-ainmféinanpháiste,item_672,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmféinanpháiste,0,people,other,child's own name,child's own name
-ainmfeighlípáistí,item_674,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmfeighlípáistí,0,people,other,babysitter's name,babysitter's name
-ainmpeata,item_676,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmpeata,0,people,other,pet's name,pet's name
+ainmféinanpháiste,item_672,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmféinanpháiste,0,people,other,NA,NA
+ainmfeighlípáistí,item_674,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmfeighlípáistí,0,people,other,NA,NA
+ainmpeata,item_676,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmpeata,0,people,other,NA,NA
 aintín,item_678,PEOPLE *or words used in your family,produces; doesn't produce,word,aintín,0,people,other,aunty,aunt
 bean,item_680,PEOPLE *or words used in your family,produces; doesn't produce,word,bean,0,people,other,woman,woman
 buachaill,item_682,PEOPLE *or words used in your family,produces; doesn't produce,word,buachaill_garsún,0,people,other,boy,boy
@@ -436,7 +436,7 @@ ceannaigh,item_860,ACTION WORDS,produces; doesn't produce,word,ceannaigh,0,actio
 ceap,item_862,ACTION WORDS,produces; doesn't produce,word,ceap_meas,0,action_words,verbs,think,think
 ciceáil,item_864,ACTION WORDS,produces; doesn't produce,word,ciceáil,0,action_words,verbs,kick,kick
 cigil,item_866,ACTION WORDS,produces; doesn't produce,word,cigil,0,action_words,verbs,tickle,tickle
-cíor,item_868,ACTION WORDS,produces; doesn't produce,word,cíor,0,action_words,verbs,comb,tickle
+cíor,item_868,ACTION WORDS,produces; doesn't produce,word,cíor,0,action_words,verbs,comb,comb (object)
 clois,item_870,ACTION WORDS,produces; doesn't produce,word,clois,0,action_words,verbs,hear,hear
 clúdaigh,item_872,ACTION WORDS,produces; doesn't produce,word,clúdaigh,0,action_words,verbs,cover,cover (action)
 cnag,item_874,ACTION WORDS,produces; doesn't produce,word,cnag,0,action_words,verbs,knock,knock
@@ -525,7 +525,7 @@ eaglach,item_1038,DESCRIPTIVE WORDS,produces; doesn't produce,word,eaglach_scanr
 fada,item_1040,DESCRIPTIVE WORDS,produces; doesn't produce,word,fada,0,descriptive_words,adjectives,long,long
 feargach,item_1042,DESCRIPTIVE WORDS,produces; doesn't produce,word,feargach_crosta_olc,0,descriptive_words,adjectives,angry,angry
 (is)fearr,item_1044,DESCRIPTIVE WORDS,produces; doesn't produce,word,(is)fearr,0,descriptive_words,adjectives,prefer,best
-fliuch,item_1046,DESCRIPTIVE WORDS,produces; doesn't produce,word,fliuch,0,descriptive_words,adjectives,wet,wet
+fliuch,item_1046,DESCRIPTIVE WORDS,produces; doesn't produce,word,fliuch,0,descriptive_words,adjectives,wet,wet (description)
 folamh,item_1048,DESCRIPTIVE WORDS,produces; doesn't produce,word,folamh,0,descriptive_words,adjectives,empty,empty
 fuar,item_1050,DESCRIPTIVE WORDS,produces; doesn't produce,word,fuar,0,descriptive_words,adjectives,cold,cold
 gaofar,item_1052,DESCRIPTIVE WORDS,produces; doesn't produce,word,gaofar,0,descriptive_words,adjectives,windy,windy
@@ -691,12 +691,11 @@ chomh,item_1346,CONNECTING WORDS,produces; doesn't produce,word,chomh,0,connecti
 dá,item_1348,CONNECTING WORDS,produces; doesn't produce,word,if,0,connecting_words,function_words,if,if
 mar,item_1350,CONNECTING WORDS,produces; doesn't produce,word,because,0,connecting_words,function_words,because,because
 huair,item_1352,CONNECTING WORDS,produces; doesn't produce,word,when,0,connecting_words,function_words,when,when (conjunction)
-druma,item_146,TOYS,produces; doesn't produce,word,druma,0,toys,nouns,drum,drum
-stocaí,item_332,CLOTHES,produces; doesn't produce,word,stocaí,0,clothing,nouns,socks,sock
+míreannamearaí,item_155,TOYS,produces; doesn't produce,word,míreannamearaí,0,toys,nouns,jigsaw,puzzle
+oráíste,item_228,FOOD AND DRINK,produces; doesn't produce,word,oráíste,0,food_drink,nouns,orange,orange (food)
+sútalún,item_255,FOOD AND DRINK,produces; doesn't produce,word,sútalún,0,food_drink,nouns,strawberry,strawberry
 tléine,item_334,CLOTHES,produces; doesn't produce,word,tléine,0,clothing,nouns,tshirt,t-shirt
-veist,item_336,CLOTHES,produces; doesn't produce,word,veist_cfoléine,0,clothing,nouns,vest,vest
-aghaidh,item_338,BODY PARTS,produces; doesn't produce,word,aghaidh,0,body_parts,nouns,face,face
-barraicíní,item_340,BODY PARTS,produces; doesn't produce,word,barraicíní,0,body_parts,nouns,toes,toe
-béal,item_342,BODY PARTS,produces; doesn't produce,word,béal,0,body_parts,nouns,mouth,mouth
-beola,item_344,BODY PARTS,produces; doesn't produce,word,beola,0,body_parts,nouns,lips,lips
-bolg,item_346,BODY PARTS,produces; doesn't produce,word,bolg,0,body_parts,nouns,tummy,tummy
+boscabruscair,item_405,SMALL HOUSEHOLD ITEMS,produces; doesn't produce,word,boscabruscair,0,household,nouns,dustbin,bin
+ainmféinanpháiste,item_672,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmféinanpháiste,0,people,other,child's own name,child's own name
+ainmfeighlípáistí,item_674,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmfeighlípáistí,0,people,other,babysitter's name,babysitter's name
+ainmpeata,item_676,PEOPLE *or words used in your family,produces; doesn't produce,word,ainmpeata,0,people,other,pet's name,pet's name

@@ -78,7 +78,7 @@ item_76,i_04_7,word,toys,produces,bog,NA,book,book,book
 item_77,i_04_8,word,toys,produces,historie,NA,NA,history,NA
 item_78,i_04_9,word,toys,produces,puslespil,NA,NA,puzzles,puzzle
 item_79,i_04_10,word,toys,produces,bold,NA,ball,ball,ball
-item_80,i_04_11,word,toys,produces,klods,NA,block,block,block
+item_80,i_04_11,word,toys,produces,klods,NA,block,block,blocks
 item_81,i_04_12,word,toys,produces,spil,NA,NA,game,game
 item_82,i_04_13,word,toys,produces,dukke,NA,doll,doll,doll
 item_83,i_04_14,word,toys,produces,kridt,NA,NA,chalk,chalk
@@ -159,7 +159,7 @@ item_157,i_06_2,word,clothing,produces,hue,NA,hat,hat,hat
 item_158,i_06_3,word,clothing,produces,strømpebukser,NA,NA,tights,tights
 item_159,i_06_4,word,clothing,produces,bluse,NA,shirt,blouse,shirt
 item_160,i_06_5,word,clothing,produces,jakke,NA,jacket,jacket,jacket
-item_161,i_06_6,word,clothing,produces,strømper,NA,sock,stockings,sock
+item_161,i_06_6,word,clothing,produces,strømper,NA,sock,stockings,tights
 item_162,i_06_7,word,clothing,produces,bukser,NA,pants,pants,pants
 item_163,i_06_8,word,clothing,produces,kjole,NA,dress (object),dress,dress (object)
 item_164,i_06_9,word,clothing,produces,støvler,NA,boots,boots,boots
@@ -183,7 +183,7 @@ item_181,i_06_26,word,clothing,produces,sko,NA,shoe,shoes,shoe
 item_182,i_06_27,word,clothing,produces,underbukser,NA,NA,underpants,underpants
 item_183,i_06_28,word,clothing,produces,hjemmesko/sutsko,NA,NA,slippers / slippers,slipper
 item_184,i_06_29,word,clothing,produces,sokker,NA,sock,socks,sock
-item_185,i_06_30,word,clothing,produces,vanter,NA,NA,mittens,mittens
+item_185,i_06_30,word,clothing,produces,vanter,NA,NA,mittens,mitten
 item_186,i_07_1,word,body_parts,produces,ankel,NA,NA,ankle,ankle
 item_187,i_07_2,word,body_parts,produces,hår,NA,hair,hair,hair
 item_188,i_07_3,word,body_parts,produces,sår,NA,owie,wound,owie
@@ -194,7 +194,7 @@ item_192,i_07_7,word,body_parts,produces,arm,NA,arm,arm,arm
 item_193,i_07_8,word,body_parts,produces,knæ,NA,knee,knee,knee
 item_194,i_07_9,word,body_parts,produces,tissekone,NA,vagina,vagina,vagina
 item_195,i_07_10,word,body_parts,produces,ben,NA,leg,legs,leg
-item_196,i_07_11,word,body_parts,produces,læber,NA,NA,lips,lips
+item_196,i_07_11,word,body_parts,produces,læber,NA,NA,lips,lip
 item_197,i_07_12,word,body_parts,produces,tissemand,NA,penis,willy,penis
 item_198,i_07_13,word,body_parts,produces,bryster,NA,NA,breasts,breast
 item_199,i_07_14,word,body_parts,produces,mave,NA,NA,stomach,tummy

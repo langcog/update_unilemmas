@@ -32,6 +32,13 @@ new_items[which(new_items$uni_lemma=="earrings"),]$uni_lemma = "earring"
 new_items[which(new_items$uni_lemma=="dry"),]$uni_lemma = "dry (description)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="iron"),]$uni_lemma = "iron (object)"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+new_items[which(new_items$uni_lemma=="closed (description)"),]$uni_lemma = "closed"
+new_items[which(new_items$uni_lemma=="wanna"),]$uni_lemma = "want"
+
 # some empty
 new_items[which(new_items$definition=="Oku"),]$uni_lemma = "read"
 new_items[which(new_items$definition=="Pişir"),]$uni_lemma = "cook"

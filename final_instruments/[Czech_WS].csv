@@ -71,7 +71,7 @@ item_69,69_traktor,word,vehicles,produces,traktor,NA,tractor,tractor
 item_70,70_vlak,word,vehicles,produces,vlak,NA,train,train
 item_71,71_vrtulnik,word,vehicles,produces,vrtulník,NA,helicopter,helicopter
 item_72,72_babovicka,word,toys,produces,bábovička,NA,sandcake,NA
-item_73,73_bubinek,word,toys,produces,bubínek,NA,drum,drum
+item_73,73_bubinek,word,toys,produces,bubínek,NA,drum,drum (object)
 item_74,74_darek,word,toys,produces,dárek,NA,gift,present
 item_75,75_fotak,word,toys,produces,foťák,NA,camera,camera
 item_76,76_fotbal,word,toys,produces,fotbal,NA,football,NA
@@ -80,7 +80,7 @@ item_78,78_knizka,word,toys,produces,knížka,NA,book,book
 item_79,79_kostka,word,toys,produces,kostka,NA,dice,NA
 item_80,80_krabice,word,toys,produces,krabice,NA,box,box
 item_81,81_kytara,word,toys,produces,kytara,NA,guitar,guitar
-item_82,82_lepidlo,word,toys,produces,lepidlo,NA,glue,glue
+item_82,82_lepidlo,word,toys,produces,lepidlo,NA,glue,glue (object)
 item_83,83_mic,word,toys,produces,míč,NA,ball,ball
 item_84,84_panenka,word,toys,produces,panenka,NA,doll,doll
 item_85,85_papir,word,toys,produces,papír,NA,paper,paper
@@ -164,7 +164,7 @@ item_162,162_plinka,word,clothing,produces,plínka,NA,diaper,diaper
 item_163,163_ponozky,word,clothing,produces,ponožky,NA,socks,sock
 item_164,164_puncochace,word,clothing,produces,punčocháče,NA,stockings,tights
 item_165,165_pyzamo,word,clothing,produces,pyžamo,NA,pajamas,pajamas
-item_166,166_rukavice,word,clothing,produces,rukavice,NA,gloves,gloves
+item_166,166_rukavice,word,clothing,produces,rukavice,NA,gloves,glove
 item_167,167_sandale,word,clothing,produces,sandále,NA,sandals,sandal
 item_168,168_sukne,word,clothing,produces,sukně,NA,skirt,skirt
 item_169,169_svetr,word,clothing,produces,svetr,NA,sweater,sweater

@@ -6,7 +6,7 @@ occhio,body_parts,occhio,word,produces,NA,item_4,eye,eye,eye
 naso,body_parts,naso,word,produces,NA,item_5,nose,nose,nose
 mano,body_parts,mano,word,produces,NA,item_6,hand,hand,hand
 lingua,body_parts,lingua,word,produces,NA,item_7,tongue,tongue,tongue
-labbra,body_parts,labbra,word,produces,NA,item_8,NA,lips,lips
+labbra,body_parts,labbra,word,produces,NA,item_8,NA,lips,lip
 guance,body_parts,guance,word,produces,NA,item_9,NA,cheek,cheek
 gola,body_parts,gola,word,produces,NA,item_10,NA,throat,throat
 ginocchi,body_parts,ginocchi,word,produces,NA,item_11,NA,knee,knee
@@ -31,7 +31,7 @@ occhiali,clothing,occhiali,word,produces,NA,item_29,glasses,glasses,glasses
 mutande,clothing,mutande,word,produces,NA,item_30,underpants,underpants,underpants
 maglione,clothing,maglione,word,produces,NA,item_31,sweater,sweater,sweater
 jeans,clothing,jeans,word,produces,NA,item_32,NA,jeans,jeans
-guanti,clothing,guanti,word,produces,NA,item_33,gloves,gloves,gloves
+guanti,clothing,guanti,word,produces,NA,item_33,gloves,gloves,glove
 grembiule,clothing,grembiule,word,produces,NA,item_34,NA,pinafore,apron
 gonna,clothing,gonna,word,produces,NA,item_35,skirt,skirt,skirt
 giacca,clothing,giacca,word,produces,NA,item_36,jacket,jacket,jacket
@@ -117,7 +117,7 @@ acqua,food_drink,acqua,word,produces,NA,item_115,water (beverage),water,water (b
 trottola,toys,trottola,word,produces,NA,item_116,top,spinning top,top
 pongo/Didò,toys,pongo/Dido,word,produces,NA,item_117,NA,play dogh,play dough
 tromba,toys,tromba,word,produces,NA,item_118,NA,trumpet,trumpet
-tamburo,toys,tamburo,word,produces,NA,item_119,NA,drum,drum
+tamburo,toys,tamburo,word,produces,NA,item_119,NA,drum,drum (object)
 soldatini,toys,soldatini,word,produces,NA,item_120,NA,toy soldier,NA
 secchiello,toys,secchiello,word,produces,NA,item_121,bucket,bucket,bucket
 pupazzi,toys,pupazzi,word,produces,NA,item_122,NA,puppet,puppet
@@ -127,7 +127,7 @@ palla,toys,palla,word,produces,NA,item_125,ball,ball,ball
 paletta,toys,paletta,word,produces,NA,item_126,spade,spade,spade
 giocattolo,toys,giocattolo,word,produces,NA,item_127,toy (object),toy,toy (object)
 favola/storia,toys,favola/storia,word,produces,NA,item_128,book,book/story,book
-cubi,toys,cubi,word,produces,NA,item_129,block,block,block
+cubi,toys,cubi,word,produces,NA,item_129,block,block,blocks
 costruzioni,toys,costruzioni,word,produces,NA,item_130,NA,building blocks,blocks
 casetta,toys,casetta,word,produces,NA,item_131,NA,playhouse,playhouse
 birilli,toys,birilli,word,produces,NA,item_132,NA,pin,NA
@@ -269,7 +269,7 @@ cucina,furniture_rooms,cucina,word,produces,NA,item_267,kitchen,kitchen,kitchen
 culla,furniture_rooms,culla,word,produces,NA,item_268,crib,crib,crib
 divano,furniture_rooms,divano,word,produces,NA,item_269,couch,couch,couch
 doccia,furniture_rooms,doccia,word,produces,NA,item_270,shower,shower,shower
-ferro da stiro,furniture_rooms,ferro_da_stiro,word,produces,NA,item_271,NA,iron,iron
+ferro da stiro,furniture_rooms,ferro_da_stiro,word,produces,NA,item_271,NA,iron,iron (object)
 finestra,furniture_rooms,finestra,word,produces,NA,item_272,window,window,window
 fon,furniture_rooms,fon,word,produces,NA,item_273,NA,dryer,dryer
 forno,furniture_rooms,forno,word,produces,NA,item_274,NA,oven,oven

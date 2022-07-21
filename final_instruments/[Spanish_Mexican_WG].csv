@@ -132,7 +132,7 @@ item_130,libro,word,toys,understands; produces,libro,NA,book,book
 item_131,muneca,word,toys,understands; produces,muñeca,NA,baby doll,doll
 item_132,osito,word,toys,understands; produces,osito,NA,teddy bear,teddybear
 item_133,pelota,word,toys,understands; produces,pelota,NA,ball,ball
-item_134,tambor,word,toys,understands; produces,tambor,NA,drum,drum
+item_134,tambor,word,toys,understands; produces,tambor,NA,drum,drum (object)
 item_135,almohad,word,household,understands; produces,almohada,NA,pillow,pillow
 item_136,aspirdo,word,household,understands; produces,aspiradora,NA,vacuum cleaner,vacuum
 item_137,basura,word,household,understands; produces,basura,NA,garbage can,trash
@@ -270,7 +270,7 @@ item_268,caer,word,action_words,understands; produces,caer(se),NA,to fall,fall
 item_269,caminar,word,action_words,understands; produces,caminar,NA,walk,walk
 item_270,cantar,word,action_words,understands; produces,cantar,NA,to sing,sing
 item_271,cenar,word,action_words,understands; produces,cenar,NA,to have dinner,dine
-item_272,cerrar,word,action_words,understands; produces,cerrar,NA,to close,close (action)
+item_272,cerrar,word,action_words,understands; produces,cerrar,NA,to close,close
 item_273,comer,word,action_words,understands; produces,comer(se),NA,to eat,eat
 item_274,correr,word,action_words,understands; produces,correr,NA,run,run
 item_275,dar,word,action_words,understands; produces,dar,NA,to give,give
@@ -300,7 +300,7 @@ item_298,pintar,word,action_words,understands; produces,pintar,NA,to paint,paint
 item_299,poder,word,action_words,understands; produces,poder,NA,be able to,can (auxiliary)
 item_300,poner,word,action_words,understands; produces,poner(se),NA,put on,put
 item_301,prender,word,action_words,understands; produces,prender,NA,switch on,turn on
-item_302,querer,word,action_words,understands; produces,querer,NA,want to,wanna
+item_302,querer,word,action_words,understands; produces,querer,NA,want to,want
 item_303,romper,word,action_words,understands; produces,romper,NA,to break,break
 item_304,sacar,word,action_words,understands; produces,sacar,NA,put off,take
 item_305,secarse,word,action_words,understands; produces,secar(se),NA,dry,dry (action)

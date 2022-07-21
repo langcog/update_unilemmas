@@ -221,7 +221,21 @@ new_items[which(new_items$uni_lemma=="puzzle (verb)"),]$uni_lemma = "puzzle (act
 new_items[which(new_items$uni_lemma=="chewing gum"),]$uni_lemma = "gum"
 new_items[which(new_items$uni_lemma=="cornflakes/granola"),]$uni_lemma = "cereal"
 
-
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="ice skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum (noun)"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="close (action)"),]$uni_lemma = "close"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="clean (verb)"),]$uni_lemma = "clean (action)"
+new_items[which(new_items$uni_lemma=="catch (verb)"),]$uni_lemma = "catch"
+new_items[which(new_items$uni_lemma=="measure (verb)"),]$uni_lemma = "measure"
+new_items[which(new_items$uni_lemma=="point to (verb)"),]$uni_lemma = "point"
+new_items[which(new_items$uni_lemma=="promise (verb)"),]$uni_lemma = "promise"
+new_items[which(new_items$definition=="smiddags"),]$uni_lemma = "afternoon"
+new_items[which(new_items$definition=="dicht"),]$uni_lemma = "closed"
 
 
 new_ws <- update_instrument("Dutch", "WS", new_items %>% rename(itemID = WS))

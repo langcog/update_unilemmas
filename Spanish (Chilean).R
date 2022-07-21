@@ -25,7 +25,10 @@ new_items[which(new_items$uni_lemma=="orange (fruit)"),]$uni_lemma = "orange (fo
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
 
-
+new_items[which(new_items$definition=="cierre"),]$uni_lemma = "zipper"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="breakfast"),]$uni_lemma = "breakfast (action)"
+new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (action)"
 
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas
 

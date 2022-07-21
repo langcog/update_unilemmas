@@ -19,9 +19,9 @@ new_items <- update_unilemmas(language, show_conflicts=T)
 
 new_items[which(new_items$WS=="item_126"),]$uni_lemma = "train" # same..
 new_items[which(new_items$WS=="item_132"),]$uni_lemma = "blocks" # plural
-new_items[which(new_items$WS=="item_155"),]$uni_lemma = "puzzle" # generic
+new_items[which(new_items$WS=="item_156"),]$uni_lemma = "puzzle" # generic
 new_items[which(new_items$WS=="item_335"),]$uni_lemma = "t-shirt" 
-new_items[which(new_items$WS=="item_341"),]$uni_lemma = "toe"
+new_items[which(new_items$WS=="item_340"),]$uni_lemma = "toe"
 new_items[which(new_items$WS=="item_356"),]$uni_lemma = "tooth"
 new_items[which(new_items$WS=="item_463"),]$uni_lemma = "light (object)"
 new_items[which(new_items$WS=="item_640"),]$uni_lemma = "forest"
@@ -115,7 +115,11 @@ new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="phone"),]$uni_lemma = "telephone"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
 
-
+new_items[which(new_items$uni_lemma=="runners"),]$uni_lemma = "sneaker"
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

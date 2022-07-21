@@ -47,6 +47,14 @@ new_items[which(new_items$uni_lemma=="back" & new_items$category=="body_parts"),
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+new_items[which(new_items$uni_lemma=="disk"),]$uni_lemma = "CD"
+new_items[which(new_items$uni_lemma=="wanna"),]$uni_lemma = "want"
 
 new_items[which(new_items$uni_lemma==""),]
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

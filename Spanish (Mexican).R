@@ -58,6 +58,16 @@ new_items[which(new_items$uni_lemma=="cassette"),]$uni_lemma = "tape (object)"
 new_items[which(new_items$uni_lemma=="bang"),]$uni_lemma = "bang bang"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="skates"),]$uni_lemma = "skate (object)" 
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="iron"),]$uni_lemma = "iron (object)"
+new_items[which(new_items$uni_lemma=="burn (action)"),]$uni_lemma = "burn"
+new_items[which(new_items$uni_lemma=="close (action)"),]$uni_lemma = "close"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+new_items[which(new_items$uni_lemma=="wanna"),]$uni_lemma = "want"
+
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_Mexican", "WS", new_items %>% rename(itemID = WS))

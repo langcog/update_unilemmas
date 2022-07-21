@@ -78,7 +78,7 @@ item_76,p1_c04_i02,word,understands; produces,toys,בועות,bubbles,bubbles
 item_77,p1_c04_i03,word,understands; produces,toys,בלון,balloon,balloon
 item_78,p1_c04_i04,word,understands; produces,toys,בצק/ פלסטלינה,play dough \ plasticine,play dough
 item_79,p1_c04_i05,word,understands; produces,toys,גיר,chalk,chalk
-item_80,p1_c04_i06,word,understands; produces,toys,דבק,glue,glue
+item_80,p1_c04_i06,word,understands; produces,toys,דבק,glue,glue (object)
 item_81,p1_c04_i07,word,understands; produces,toys,חרוזים,beads,beads
 item_82,p1_c04_i08,word,understands; produces,toys,טוש,marker,marker
 item_83,p1_c04_i09,word,understands; produces,toys,כדור,ball,ball
@@ -93,7 +93,7 @@ item_91,p1_c04_i17,word,understands; produces,toys,עט,pen,pen
 item_92,p1_c04_i18,word,understands; produces,toys,עפרון,pencil,pencil
 item_93,p1_c04_i19,word,understands; produces,toys,פאזל/ הרכבה,puzzle,puzzle
 item_94,p1_c04_i20,word,understands; produces,toys,צעצוע,toy (object),toy (object)
-item_95,p1_c04_i21,word,understands; produces,toys,קוביה,block,block
+item_95,p1_c04_i21,word,understands; produces,toys,קוביה,block,blocks
 item_96,p1_c04_i22,word,understands; produces,toys,רעשן/ קשקשן,noisemaker,NA
 item_97,p1_c05_i01,word,understands; produces,food_drink,אבטיח,watermelon,watermelon
 item_98,p1_c05_i02,word,understands; produces,food_drink,אגוזים,nuts,nut
@@ -175,7 +175,7 @@ item_173,p1_c06_i09,word,understands; produces,clothing,חצאית,skirt,skirt
 item_174,p1_c06_i10,word,understands; produces,clothing,טיטול/ חיתול,diaper,diaper
 item_175,p1_c06_i11,word,understands; produces,clothing,טריינינג,sweatpants,NA
 item_176,p1_c06_i12,word,understands; produces,clothing,כובע,hat,hat
-item_177,p1_c06_i13,word,understands; produces,clothing,כפפות,gloves,gloves
+item_177,p1_c06_i13,word,understands; produces,clothing,כפפות,gloves,glove
 item_178,p1_c06_i14,word,understands; produces,clothing,כפתור,button,button
 item_179,p1_c06_i15,word,understands; produces,clothing,מגפיים,boots,boots
 item_180,p1_c06_i16,word,understands; produces,clothing,מכנסיים,pants,pants
@@ -214,7 +214,7 @@ item_212,p1_c07_i19,word,understands; produces,body_parts,ציפורניים,nai
 item_213,p1_c07_i20,word,understands; produces,body_parts,ראש,head,head
 item_214,p1_c07_i21,word,understands; produces,body_parts,רגל/ רגליים,leg \ legs,leg
 item_215,p1_c07_i22,word,understands; produces,body_parts,שן/ שיניים,tooth \ teeth,tooth
-item_216,p1_c07_i23,word,understands; produces,body_parts,שפתיים,lips,lips
+item_216,p1_c07_i23,word,understands; produces,body_parts,שפתיים,lips,lip
 item_217,p1_c07_i24,word,understands; produces,body_parts,שערות,hairs,hair
 item_218,p1_c08_i01,word,understands; produces,furniture_rooms,אמבטיה,bathtub,bathtub
 item_219,p1_c08_i02,word,understands; produces,furniture_rooms,ארון,closet,closet
@@ -420,7 +420,7 @@ item_418,p1_c14_i31,word,understands; produces,action_words,להתחבא,hide (y
 item_419,p1_c14_i32,word,understands; produces,action_words,להתיז/ להשפריץ,spray (action),spray
 item_420,p1_c14_i33,word,understands; produces,action_words,להתנדנד,swing (action),swing (action)
 item_421,p1_c14_i34,word,understands; produces,action_words,לזרוק,throw (action),throw
-item_422,p1_c14_i35,word,understands; produces,action_words,לחבב,like (action),like (action)
+item_422,p1_c14_i35,word,understands; produces,action_words,לחבב,like (action),like
 item_423,p1_c14_i36,word,understands; produces,action_words,לחבק,hug (action),hug
 item_424,p1_c14_i37,word,understands; produces,action_words,לחייך,smile (action),smile
 item_425,p1_c14_i38,word,understands; produces,action_words,לחכות,wait (action),wait
@@ -451,7 +451,7 @@ item_449,p1_c14_i62,word,understands; produces,action_words,לנשק,kiss (actio
 item_450,p1_c14_i63,word,understands; produces,action_words,לסגור,close,close
 item_451,p1_c14_i64,word,understands; produces,action_words,לסרק,comb,comb (action)
 item_452,p1_c14_i65,word,understands; produces,action_words,לספר (סיפור),tell a story,NA
-item_453,p1_c14_i66,word,understands; produces,action_words,לסתום,shut,close (action)
+item_453,p1_c14_i66,word,understands; produces,action_words,לסתום,shut,close
 item_454,p1_c14_i67,word,understands; produces,action_words,לעבוד,work (action),work (action)
 item_455,p1_c14_i68,word,understands; produces,action_words,לעזור,help (action),help
 item_456,p1_c14_i69,word,understands; produces,action_words,לעמוד,stand,stand
@@ -527,7 +527,7 @@ item_525,p1_c15_i36,word,understands; produces,descriptive_words,קצר,short,sh
 item_526,p1_c15_i37,word,understands; produces,descriptive_words,קר,cold,cold
 item_527,p1_c15_i38,word,understands; produces,descriptive_words,קשה,hard,hard
 item_528,p1_c15_i39,word,understands; produces,descriptive_words,רזה,thin,thin
-item_529,p1_c15_i40,word,understands; produces,descriptive_words,רטוב,wet,wet
+item_529,p1_c15_i40,word,understands; produces,descriptive_words,רטוב,wet,wet (description)
 item_530,p1_c15_i41,word,understands; produces,descriptive_words,ריק,empty,empty
 item_531,p1_c15_i42,word,understands; produces,descriptive_words,רך,soft,soft
 item_532,p1_c15_i43,word,understands; produces,descriptive_words,רע,bad,bad

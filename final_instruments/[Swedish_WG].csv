@@ -56,7 +56,7 @@ ballong,toys,ballong,word,understands; produces,NA,item_54,ballon,balloon
 bok,toys,bok,word,understands; produces,NA,item_55,book,book
 boll,toys,boll,word,understands; produces,NA,item_56,ball,ball
 docka,toys,docka,word,understands; produces,NA,item_57,doll,doll
-kloss,toys,kloss,word,understands; produces,NA,item_58,block,block
+kloss,toys,kloss,word,understands; produces,NA,item_58,block,blocks
 leksak,toys,leksak,word,understands; produces,NA,item_59,toy,toy (object)
 penna,toys,penna,word,understands; produces,NA,item_60,pen,pen/pencil
 såpbubblor,toys,sapbubblor,word,understands; produces,NA,item_61,bubbles,bubbles
@@ -108,7 +108,7 @@ sko,clothing,sko,word,understands; produces,NA,item_106,shoe,shoe
 socka,clothing,socka,word,understands; produces,NA,item_107,sock,sock
 stövel,clothing,stovel,word,understands; produces,NA,item_108,wellington,boots
 tröja,clothing,troja,word,understands; produces,NA,item_109,sweater,sweater
-vantar,clothing,vantar,word,understands; produces,NA,item_110,mittens,mittens
+vantar,clothing,vantar,word,understands; produces,NA,item_110,mittens,mitten
 ansikte,body_parts,ansikte,word,understands; produces,NA,item_111,face,face
 arm,body_parts,arm,word,understands; produces,NA,item_112,arm,arm
 ben,body_parts,ben,word,understands; produces,NA,item_113,leg,leg

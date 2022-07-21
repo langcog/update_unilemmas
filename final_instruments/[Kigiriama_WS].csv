@@ -71,7 +71,7 @@ item_69,c4motpik,word,vehicles,produces,Pikipiki/ Honda,NA,Motorbike,motorcycle
 item_70,d15gunbu,word,toys,produces,Bunduki,NA,Gun,gun
 item_71,d4chacho,word,toys,produces,Choki/Makala,NA,Chalk,chalk
 item_72,d5doldol,word,toys,produces,Doli,NA,Doll,doll
-item_73,d14gluga,word,toys,produces,Gamu/Ulimbo,NA,Glue,glue
+item_73,d14gluga,word,toys,produces,Gamu/Ulimbo,NA,Glue,glue (object)
 item_74,d9penkal,word,toys,produces,Kalamu,NA,Pen,pen
 item_75,d2balkib,word,toys,produces,Kibofu,NA,Balloon,balloon
 item_76,d3bookit,word,toys,produces,Kithabu,NA,Book,book
@@ -457,7 +457,7 @@ item_454,n15drelo,word,action_words,produces,Loha,NA,Dream,dream
 item_455,n32loolo,word,action_words,produces,Lola,NA,Look,look
 item_456,n49taklo,word,action_words,produces,Lorera/Tsunza,NA,take care of,care
 item_457,n2bitlum,word,action_words,produces,Luma,NA,Bite,bite
-item_458,n70getlu,word,action_words,produces,Lumira,NA,Get hurt,hurt
+item_458,n70getlu,word,action_words,produces,Lumira,NA,Get hurt,hurt (action)
 item_459,n105wanm,word,action_words,produces,Mala,NA,Want,want
 item_460,n22finma,word,action_words,produces,Marigiza,NA,Finish,finish
 item_461,n36poumw,word,action_words,produces,Mwaga,NA,Pour,pour
@@ -526,7 +526,7 @@ item_523,o30firkw,word,descriptive_words (adjectives),produces,Kwanza,NA,First,f
 item_524,o49sofla,word,descriptive_words (adjectives),produces,Laini,NA,Soft,soft
 item_525,o7gotlum,word,descriptive_words (adjectives),produces,Lumira,NA,Got hurt,hurt (description)
 item_526,o53winlu,word,descriptive_words (adjectives),produces,Lupeho,NA,Wind,wind
-item_527,o32getlw,word,descriptive_words (adjectives),produces,Lwama,NA,Get wet,wet
+item_527,o32getlw,word,descriptive_words (adjectives),produces,Lwama,NA,Get wet,wet (description)
 item_528,o45quima,word,descriptive_words (adjectives),produces,Malo,NA,Quick,quick
 item_529,o16alema,word,descriptive_words (adjectives),produces,Matso,NA,Alert,alert
 item_530,o33goomb,word,descriptive_words (adjectives),produces,Mbidzo,NA,Good,good

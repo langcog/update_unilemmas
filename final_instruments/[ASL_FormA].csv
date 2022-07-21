@@ -45,7 +45,7 @@ item_67,DIAPER,word,clothing,understands; produces,DIAPER,NA,diaper,diaper
 item_68,DRESS_CLOTHES,word,clothing,understands; produces,DRESS/CLOTHES,NA,dress/clothes,dress (object)
 item_69,EARRING,word,clothing,understands; produces,EARRING,NA,earring,earring
 item_70,GLASSES,word,clothing,understands; produces,GLASSES,NA,glasses,glasses
-item_71,GLOVES,word,clothing,understands; produces,GLOVES,NA,gloves,gloves
+item_71,GLOVES,word,clothing,understands; produces,GLOVES,NA,gloves,glove
 item_72,HAT,word,clothing,understands; produces,HAT,NA,hat,hat
 item_73,HEARING_AID,word,clothing,understands; produces,HEARING AID,NA,hearing aid,
 item_74,NECKLACE,word,clothing,understands; produces,NECKLACE,NA,necklace,necklace
@@ -146,7 +146,7 @@ item_168,SHARE,word,action_words,understands; produces,SHARE,NA,share,share
 item_169,SHOW,word,action_words,understands; produces,SHOW,NA,show,show
 item_170,SIGN,word,action_words,understands; produces,SIGN,NA,sign,sign (action)
 item_171,SIT,word,action_words,understands; produces,SIT,NA,sit,sit
-item_172,SKATE,word,action_words,understands; produces,SKATE,NA,skate,skate
+item_172,SKATE,word,action_words,understands; produces,SKATE,NA,skate,skate (action)
 item_173,SLEEP,word,action_words,understands; produces,SLEEP,NA,sleep,sleep
 item_174,SLIDE,word,action_words,understands; produces,SLIDE,NA,slide,slide (action)
 item_175,SMILE,word,action_words,understands; produces,SMILE,NA,smile,smile
@@ -256,8 +256,8 @@ item_278,CREAM_CHEESE,word,food_drink,understands; produces,CREAM CHEESE,NA,crea
 item_279,DONUT,word,food_drink,understands; produces,DONUT,NA,donut,donut
 item_280,EGG,word,food_drink,understands; produces,EGG,NA,egg,egg
 item_281,FRENCH_FRIES,word,food_drink,understands; produces,FRENCH FRIES,NA,french fries,french fries
-item_282,GRAPES,word,food_drink,understands; produces,GRAPES,NA,grapes,grape
-item_283,GREEN_BEANS,word,food_drink,understands; produces,GREEN BEANS,NA,green beans,green bean
+item_282,GRAPES,word,food_drink,understands; produces,GRAPES,NA,grapes,grapes
+item_283,GREEN_BEANS,word,food_drink,understands; produces,GREEN BEANS,NA,green beans,green beans
 item_284,GUM,word,food_drink,understands; produces,GUM,NA,gum,gum
 item_285,HAMBURGER,word,food_drink,understands; produces,HAMBURGER,NA,hamburger,hamburger
 item_286,HOT_DOG,word,food_drink,understands; produces,HOT DOG,NA,hot dog,hot dog
@@ -275,7 +275,7 @@ item_297,PEANUT_BUTTER,word,food_drink,understands; produces,PEANUT BUTTER,NA,pe
 item_298,PIZZA,word,food_drink,understands; produces,PIZZA,NA,pizza,pizza
 item_299,POPSICLE,word,food_drink,understands; produces,POPSICLE,NA,popsicle,popsicle
 item_300,POTATO,word,food_drink,understands; produces,POTATO,NA,potato,potato
-item_301,POTATO_CHIPS,word,food_drink,understands; produces,POTATO CHIPS,NA,potato chips,potato chips
+item_301,POTATO_CHIPS,word,food_drink,understands; produces,POTATO CHIPS,NA,potato chips,chips
 item_302,PUMPKIN,word,food_drink,understands; produces,PUMPKIN,NA,pumpkin,pumpkin
 item_303,SALAD,word,food_drink,understands; produces,SALAD,NA,salad,salad
 item_304,SALT,word,food_drink,understands; produces,SALT,NA,salt,salt

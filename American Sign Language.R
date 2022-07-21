@@ -20,6 +20,14 @@ new_items[which(new_items$uni_lemma=="sandals"),]$uni_lemma = "sandal"
 new_items[which(new_items$uni_lemma=="tv"),]$uni_lemma = "TV" 
 new_items[which(new_items$uni_lemma=="band-aid"),]$uni_lemma = "bandaid" 
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="cut (action)"),]$uni_lemma = "cut"
+new_items[which(new_items$uni_lemma=="grape"),]$uni_lemma = "grapes"
+new_items[which(new_items$uni_lemma=="potato chips"),]$uni_lemma = "chips"
+new_items[which(new_items$uni_lemma=="green bean"),]$uni_lemma = "green beans"
+
 # now join and re-save in raw_data/instruments format, e.g.
 # https://github.com/langcog/wordbank/blob/master/raw_data/BSL_WG/%5BBSL_WG%5D.csv
 

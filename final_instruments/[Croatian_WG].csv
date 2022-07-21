@@ -117,7 +117,7 @@ pelena,clothing,pelena,word,understands; produces,item_235,NA,diaper,diaper
 haljina,clothing,haljina,word,understands; produces,item_88,NA,dress,dress (object)
 kapa,clothing,kapa,word,understands; produces,item_123,NA,hat,hat
 jakna,clothing,jakna,word,understands; produces,item_107,NA,jacket,jacket
-rukavice,clothing,rukavice,word,understands; produces,item_277,NA,gloves,gloves
+rukavice,clothing,rukavice,word,understands; produces,item_277,NA,gloves,glove
 pidžama,clothing,pidzama,word,understands; produces,item_236,NA,pajamas,pajamas
 hlače,clothing,hlace,word,understands; produces,item_89,NA,pants,pants
 šal,clothing,sal,word,understands; produces,item_280,NA,scarf,scarf
@@ -380,7 +380,7 @@ sutra,time_words,sutra,word,understands; produces,item_318,NA,tomorrow,tomorrow
 večeras,time_words,veceras,word,understands; produces,item_362,NA,tonight,tonight
 lopta,toys,lopta,word,understands; produces,item_171,NA,ball,ball
 balon,toys,balon,word,understands; produces,item_6,NA,balloon,balloon
-kocka,toys,kocka,word,understands; produces,item_131,NA,block,block
+kocka,toys,kocka,word,understands; produces,item_131,NA,block,blocks
 knjiga,toys,knjiga,word,understands; produces,item_130,NA,book,book
 lutka,toys,lutka,word,understands; produces,item_172,NA,doll,doll
 olovka,toys,olovka,word,understands; produces,item_218,NA,pencil,pen/pencil

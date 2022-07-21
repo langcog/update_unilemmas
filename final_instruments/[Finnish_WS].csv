@@ -164,7 +164,7 @@ item_162,clothing,vetoketju,vetoketju,produces,word,zipper,zipper
 item_163,clothing,villatakki,villatakki,produces,word,cardigan,sweater
 item_164,clothing,yöpuku,yöpuku,produces,word,pyjamas,pajamas
 item_165,body_parts,hammas,hammas,produces,word,tooth,tooth
-item_166,body_parts,huulet,huulet,produces,word,lips,lips
+item_166,body_parts,huulet,huulet,produces,word,lips,lip
 item_167,body_parts,kasvot,kasvot,produces,word,face,face
 item_168,body_parts,korva,korva,produces,word,ear,ear
 item_169,body_parts,leuka,leuka,produces,word,chin,chin
@@ -228,7 +228,7 @@ item_226,household,kortti,kortti,produces,word,card,card
 item_227,household,kuppi,kuppi,produces,word,cup,cup
 item_228,household,lamppu,lamppu,produces,word,lamp,lamp
 item_229,household,laukku,laukku,produces,word,bag,bag
-item_230,household,liima,liima,produces,word,glue,glue
+item_230,household,liima,liima,produces,word,glue,glue (object)
 item_231,household,lusikka,lusikka,produces,word,spoon,spoon
 item_232,household,maljakko,maljakko,produces,word,vase,vase
 item_233,household,naula,naula,produces,word,nail,nail (object)
@@ -411,7 +411,7 @@ item_409,action_words,laittaa,laittaa,produces,word,put,put
 item_410,action_words,laskea mäkeä,laskea mäkeä,produces,word,glide,sled (action)
 item_411,action_words,leikata,leikata,produces,word,cut,cut
 item_412,action_words,leipoa,leipoa,produces,word,bake,bake
-item_413,action_words,luistella,luistella,produces,word,skate,skate
+item_413,action_words,luistella,luistella,produces,word,skate,skate (action)
 item_414,action_words,lyödä,lyödä,produces,word,hit,hit
 item_415,action_words,löytää,löytää,produces,word,find,find
 item_416,action_words,mahtua,mahtua,produces,word,fit,fit

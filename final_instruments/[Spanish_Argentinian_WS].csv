@@ -185,7 +185,7 @@ item_183,dedo,dedo,body_parts,word,produces,NA,finger,finger
 item_184,dientes,dientes,body_parts,word,produces,NA,teeth,tooth
 item_185,garganta_cuello,garganta_cuello,body_parts,word,produces,NA,"throat, neck",neck
 item_186,hombro,hombro,body_parts,word,produces,NA,shoulder,shoulder
-item_187,labios,labios,body_parts,word,produces,NA,lips,lips
+item_187,labios,labios,body_parts,word,produces,NA,lips,lip
 item_188,lengua,lengua,body_parts,word,produces,NA,tongue,tongue
 item_189,mano,mano,body_parts,word,produces,NA,hand,hand
 item_190,nariz,nariz,body_parts,word,produces,NA,nose,nose
@@ -214,13 +214,13 @@ item_212,lapiz,lapiz,toys,word,produces,NA,pencil,pen/pencil
 item_213,Libro_cuento,Libro_cuento,toys,word,produces,NA,book,book
 item_214,muñeca,muñeca,toys,word,produces,NA,doll,doll
 item_215,osito,osito,toys,word,produces,NA,teddy bear,teddybear
-item_216,patines,patines,toys,word,produces,NA,roller skates,skates
+item_216,patines,patines,toys,word,produces,NA,roller skates,skate (object)
 item_217,película,película,toys,word,produces,NA,movie,movie
 item_218,pelota,pelota,toys,word,produces,NA,ball,ball
 item_219,peluche,peluche,toys,word,produces,NA,"soft toys, plushy toys",NA
 item_220,pinturitas,pinturitas,toys,word,produces,NA,painting,painting
 item_221,plastilina,plastilina,toys,word,produces,NA,clay,clay
-item_222,tambor,tambor,toys,word,produces,NA,drum,drum
+item_222,tambor,tambor,toys,word,produces,NA,drum,drum (object)
 item_223,alfombra,alfombra,household,word,produces,NA,rug,rug
 item_224,almohada,almohada,household,word,produces,NA,pillow,pillow
 item_225,balde,balde,household,word,produces,NA,bucket,bucket
@@ -259,7 +259,7 @@ item_257,papel,papel,household,word,produces,NA,paper,paper
 item_258,pasta_de_dientes,pasta_de_dientes,household,word,produces,NA,toothpaste,toothpaste
 item_259,peine,peine,household,word,produces,NA,hair comb,comb (object)
 item_260,pelela,pelela,household,word,produces,NA,"potty trainer,  potty seat",potty
-item_261,plancha,plancha,household,word,produces,NA,iron,iron
+item_261,plancha,plancha,household,word,produces,NA,iron,iron (object)
 item_262,plato,plato,household,word,produces,NA,plate,plate
 item_263,reloj,reloj,household,word,produces,NA,watch,watch (object)
 item_264,remedio,remedio,household,word,produces,NA,medicine,medicine
@@ -430,7 +430,7 @@ item_428,bailar,bailar,action_words,word,produces,NA,dance,dance
 item_429,comer_se,comer_se,action_words,word,produces,NA,eat,eat
 item_430,comprar,comprar,action_words,word,produces,NA,buy,buy
 item_431,correr,correr,action_words,word,produces,NA,run,run
-item_432,cortar,cortar,action_words,word,produces,NA,cut (action),cut (action)
+item_432,cortar,cortar,action_words,word,produces,NA,cut (action),cut
 item_433,dar,dar,action_words,word,produces,NA,give,give
 item_434,decir,decir,action_words,word,produces,NA,say,say
 item_435,dejar,dejar,action_words,word,produces,NA,leave,leave
@@ -457,7 +457,7 @@ item_455,mostrar,mostrar,action_words,word,produces,NA,show,show
 item_456,mover,mover,action_words,word,produces,NA,move,move
 item_457,prestar,prestar,action_words,word,produces,NA,lend,lend
 item_458,quedarse,quedarse,action_words,word,produces,NA,stay,stay
-item_459,quemar_se,quemar_se,action_words,word,produces,NA,burn (action),burn (action)
+item_459,quemar_se,quemar_se,action_words,word,produces,NA,burn (action),burn
 item_460,querer,querer,action_words,word,produces,NA,want,want
 item_461,quitar_se,quitar_se,action_words,word,produces,NA,remove,remove
 item_462,regalar,regalar,action_words,word,produces,NA,give,give
@@ -499,7 +499,7 @@ item_497,nadar,nadar,action_words,word,produces,NA,swim,swim
 item_498,oír,oír,action_words,word,produces,NA,hear,hear
 item_499,parar_se,parar_se,action_words,word,produces,NA,"get up, stand up",get up
 item_500,patear,patear,action_words,word,produces,NA,kick,kick
-item_501,patinar,patinar,action_words,word,produces,NA,skate,skate
+item_501,patinar,patinar,action_words,word,produces,NA,skate,skate (action)
 item_502,pegar_se,pegar_se,action_words,word,produces,NA,hit,hit
 item_503,peinar_se,peinar_se,action_words,word,produces,NA,comb (action),comb (action)
 item_504,pensar,pensar,action_words,word,produces,NA,think,think
@@ -557,7 +557,7 @@ item_555,malo,malo,descriptive_words,word,produces,NA,bad,bad
 item_556,mejor,mejor,descriptive_words,word,produces,NA,better off,better
 item_557,mentiroso,mentiroso,descriptive_words,word,produces,NA,liar,liar
 item_558,miedo_susto,miedo_susto,descriptive_words,word,produces,NA,scared_scary,scared
-item_559,mojado,mojado,descriptive_words,word,produces,NA,wet,wet
+item_559,mojado,mojado,descriptive_words,word,produces,NA,wet,wet (description)
 item_560,mugriento,mugriento,descriptive_words,word,produces,NA,grimy,grimy
 item_561,negro,negro,descriptive_words,word,produces,NA,black,black
 item_562,nuevo,nuevo,descriptive_words,word,produces,NA,new,new

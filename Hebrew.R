@@ -41,6 +41,13 @@ new_items[which(new_items$uni_lemma=="flowerpot"),]$uni_lemma = "flower pot"
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="close (action)"),]$uni_lemma = "close"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+new_items[which(new_items$uni_lemma=="like (action)"),]$uni_lemma = "like"
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

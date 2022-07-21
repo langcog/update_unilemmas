@@ -36,15 +36,19 @@ new_items[which(new_items$uni_lemma=="flowerpot"),]$uni_lemma = "flower pot"
 new_items[which(new_items$uni_lemma=="everybody"),]$uni_lemma = "everyone" 
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove" # or undress
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+
 
 # save updated instrument(s)
 
-# ToDo: also WG, but we're missing the old_instruments/[Finnish_WG].csv file!
-#new_wg <- update_instrument("Finnish", "WG", new_items %>% rename(itemID = WG))
-create_new_instrument("Finnish", "WG", new_items %>% rename(itemID = WG))
+# Note: No WG for now, pending updates about data 
+# new_wg <- update_instrument("Finnish", "WG", new_items %>% rename(itemID = WG))
+# create_new_instrument("Finnish", "WG", new_items %>% rename(itemID = WG))
 
 new_ws <- update_instrument("Finnish", "WS", new_items %>% rename(itemID = WS))
 # "37 new uni-lemmas defined for Finnish"
-new_ws_short <- update_instrument("Finnish", "WS_Short", new_items %>% rename(itemID = WS_short))
+new_ws_short <- update_instrument("Finnish", "WSShort", new_items %>% rename(itemID = WSShort))
 # "7 new uni-lemmas defined for Finnish"
 # "boat"    "but"     "few"     "open"    "present" "puzzle"  "then"  

@@ -32,7 +32,10 @@ new_items[which(new_items$uni_lemma=="stomach"),]$uni_lemma = "tummy"
 new_items[which(new_items$uni_lemma=="out of"),]$uni_lemma = "out"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$definition=="strømper"),]$uni_lemma = "tights"
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

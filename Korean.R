@@ -64,9 +64,15 @@ new_items[which(new_items$uni_lemma=="ramen"),]$uni_lemma = "noodles"
 new_items[which(new_items$uni_lemma=="photos"),]$uni_lemma = "photo"
 new_items[which(new_items$uni_lemma=="toenail"),]$uni_lemma = "fingernail" # other forms have fingernail
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
+new_items[which(new_items$uni_lemma=="raise"),]$uni_lemma = "lift (action)"
 
-
-
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="cool"),]$uni_lemma = "cool (description)"
+new_items[which(new_items$uni_lemma=="cut (action)"),]$uni_lemma = "cut"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="fall down"),]$uni_lemma = "fall"
 
 # ToDo: check blanks ("") and "at/in/on"
 subset(new_items, uni_lemma=="")

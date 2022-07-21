@@ -309,7 +309,7 @@ item_307,307_rakstit,word,understands; produces,action_words,rakstīt,NA,write,w
 item_308,308_raudat,word,understands; produces,action_words,raudāt,NA,cry,cry
 item_309,309_redzet,word,understands; produces,action_words,redzēt,NA,see,see
 item_310,310_runat,word,understands; produces,action_words,runāt,NA,speak,speak
-item_311,311_sapet,word,understands; produces,action_words,sāpēt,NA,hurt,hurt
+item_311,311_sapet,word,understands; produces,action_words,sāpēt,NA,hurt,hurt (action)
 item_312,312_sacit_teik,word,understands; produces,action_words,sacīt/teikt,NA,say/tell,say
 item_313,313_sasisties,word,understands; produces,action_words,sasisties,NA,to hurt oneself,NA
 item_314,314_sist,word,understands; produces,action_words,sist,NA,beat,hit
@@ -358,7 +358,7 @@ item_356,356_sarkans,word,understands; produces,descriptive_words,sarkans,NA,red
 item_357,357_sauss,word,understands; produces,descriptive_words,sauss,NA,dry,dry (description)
 item_358,358_skaists_sk,word,understands; produces,descriptive_words,skaists/skaisti,NA,pretty,pretty
 item_359,359_skals_skal,word,understands; produces,descriptive_words,skaļš/skaļi,NA,loud,loud
-item_360,360_slapjs,word,understands; produces,descriptive_words,slapjš,NA,wet,wet
+item_360,360_slapjs,word,understands; produces,descriptive_words,slapjš,NA,wet,wet (description)
 item_361,361_slikts_sl,word,understands; produces,descriptive_words,slikts /slikti,NA,bad,bad
 item_362,362_slims,word,understands; produces,descriptive_words,slims,NA,sick,sick
 item_363,363_smags_smag,word,understands; produces,descriptive_words,smags/smagi,NA,heavy,heavy

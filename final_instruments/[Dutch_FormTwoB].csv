@@ -22,7 +22,7 @@ item_20,vehicles,trein,understands;produces,trein,word,train,train
 item_21,vehicles,ziekenwagen/ambulance/ziekenauto,understands;produces,ziekenwagen/ambulance/ziekenauto,word,ambulance,ambulance
 item_22,toys,bal,understands;produces,bal,word,bal,ball
 item_23,toys,boek,understands;produces,boek,word,book,book
-item_24,toys,lijm,understands;produces,lijm,word,glue,glue
+item_24,toys,lijm,understands;produces,lijm,word,glue,glue (object)
 item_25,toys,schuim/zeepbellen/bellenblaas,understands;produces,schuim/zeepbellen/bellenblaas,word,foam/bubble,foam
 item_26,toys,spel(letje),understands;produces,spel(letje),word,(little) game,game
 item_27,food_drink,appel,understands;produces,appel,word,apple,apple

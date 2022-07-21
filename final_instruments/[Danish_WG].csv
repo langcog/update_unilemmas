@@ -63,7 +63,7 @@ blyant,toys,blyant,word,understands; produces,NA,item_61,pencil,pen/pencil
 dukke,toys,dukke,word,understands; produces,NA,item_62,doll,doll
 sæbebobler,toys,saebebobler,word,understands; produces,NA,item_63,bubble blower,bubbles
 bog,toys,bog,word,understands; produces,NA,item_64,book,book
-klods,toys,klods,word,understands; produces,NA,item_65,block,block
+klods,toys,klods,word,understands; produces,NA,item_65,block,blocks
 appelsin,food_drink,appelsin,word,understands; produces,NA,item_66,orange,orange (food)
 kaffe,food_drink,kaffe,word,understands; produces,NA,item_67,coffee,coffee
 rosiner,food_drink,rosiner,word,understands; produces,NA,item_68,raisins,raisin
@@ -100,7 +100,7 @@ kjole,clothing,kjole,word,understands; produces,NA,item_98,dress,dress (object)
 sokker,clothing,sokker,word,understands; produces,NA,item_99,socks,sock
 t-shirt,clothing,t-shirt,word,understands; produces,NA,item_100,T-shirt,t-shirt
 knap,clothing,knap,word,understands; produces,NA,item_101,button,button
-strømper,clothing,stromper,word,understands; produces,NA,item_102,stockings,sock
+strømper,clothing,stromper,word,understands; produces,NA,item_102,stockings,tights
 bukser,clothing,bukser,word,understands; produces,NA,item_103,pants,pants
 lynlås,clothing,lynlas,word,understands; produces,NA,item_104,zipper,zipper
 støvler,clothing,stovler,word,understands; produces,NA,item_105,boots,boots

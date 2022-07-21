@@ -113,7 +113,7 @@ Item_111,CRAZY,word,understand;produces,CRAZY,descriptive_words,crazy,crazy
 Item_112,CROCODILE,word,understand;produces,CROCODILE,animals,crocodile,crocodile
 Item_113,CRY,word,understand;produces,CRY,action_words,cry,cry
 Item_114,CUTE_1,word,understand;produces,CUTE_1,descriptive_words,cute,cute
-Item_115,CUT_1,word,understand;produces,CUT_1,action_words,cut,cut (action)
+Item_115,CUT_1,word,understand;produces,CUT_1,action_words,cut,cut
 Item_116,DANCE,word,understand;produces,DANCE,action_words,dance,dance
 Item_117,DARK,word,understand;produces,DARK,descriptive_words,dark,dark
 Item_118,DAY,word,understand;produces,DAY,time_words,day,day
@@ -192,14 +192,14 @@ Item_190,GIRL,word,understand;produces,GIRL,people,girl,girl
 Item_191,GIVE,word,understand;produces,GIVE,action_words,give,give
 Item_192,GLASS,word,understand;produces,GLASS,household,glass,glass
 Item_193,GLASSES,word,understand;produces,GLASSES,clothing,glasses,glasses
-Item_194,GLOVES,word,understand;produces,GLOVES,clothing,gloves,gloves
+Item_194,GLOVES,word,understand;produces,GLOVES,clothing,gloves,glove
 Item_195,GO,word,understand;produces,GO,action_words,go,go
 Item_196,GOLF,word,understand;produces,GOLF,games_routines,golf,golf
 Item_197,GONE,word,understand;produces,GONE,descriptive_words,gone,gone
 Item_198,GOOD,word,understand;produces,GOOD,descriptive_words,good,good
 Item_199,GRANDFATHER,word,understand;produces,GRANDFATHER,people,grandfather,grandpa
 Item_200,GRANDMOTHER,word,understand;produces,GRANDMOTHER,people,grandmother,grandma
-Item_201,GRAPES,word,understand;produces,GRAPES,food_drink,grapes,grape
+Item_201,GRAPES,word,understand;produces,GRAPES,food_drink,grapes,grapes
 Item_202,GRASS,word,understand;produces,GRASS,outside,grass,grass
 Item_203,GREEN,word,understand;produces,GREEN,descriptive_words,green,green
 Item_204,GUM,word,understand;produces,GUM,food_drink,gum,gum
@@ -403,7 +403,7 @@ Item_401,SIGN,word,understand;produces,SIGN,action_words,sign,sign (action)
 Item_402,SILLY,word,understand;produces,SILLY,mental,silly,silly
 Item_403,SISTER,word,understand;produces,SISTER,people,sister,sister
 Item_404,SIT,word,understand;produces,SIT,action_words,sit,sit
-Item_405,SKATE,word,understand;produces,SKATE,action_words,skate,skate
+Item_405,SKATE,word,understand;produces,SKATE,action_words,skate,skate (action)
 Item_406,SKUNK,word,understand;produces,SKUNK,animals,skunk,skunk
 Item_407,SLEEP,word,understand;produces,SLEEP,action_words,sleep,sleep
 Item_408,SLIDE,word,understand;produces,SLIDE,action_words,slide,slide (action)

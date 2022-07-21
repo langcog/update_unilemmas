@@ -85,14 +85,14 @@ item_83,vehicles,vrachtwagen/camion/vrachtauto,understands;produces,vrachtwagen/
 item_84,vehicles,ziekenwagen/ambulance/ziekenauto,understands;produces,ziekenwagen/ambulance/ziekenauto,word,ambulance,ambulance
 item_85,toys,bal,understands;produces,bal,word,bal,ball
 item_86,toys,ballon,understands;produces,ballon,word,balloon,balloon
-item_87,toys,blokken,understands;produces,blokken,word,blocks,block
+item_87,toys,blokken,understands;produces,blokken,word,blocks,blocks
 item_88,toys,boek,understands;produces,boek,word,book,book
 item_89,toys,cadeau(tje),understands;produces,cadeau(tje),word,present,present
 item_90,toys,klei/plasticine,understands;produces,klei/plasticine,word,clay,play dough
 item_91,toys,kleurpotloden,understands;produces,kleurpotloden,word,colored pencils,pencil
 item_92,toys,kralen/parels,understands;produces,kralen/parels,word,beads,bead
 item_93,toys,krijt,understands;produces,krijt,word,crayon,crayon
-item_94,toys,lijm,understands;produces,lijm,word,glue,glue
+item_94,toys,lijm,understands;produces,lijm,word,glue,glue (object)
 item_95,toys,pen/stylo,understands;produces,pen/stylo,word,pen,pen
 item_96,toys,pop,understands;produces,pop,word,doll,doll
 item_97,toys,potlood,understands;produces,potlood,word,pencil,pencil
@@ -172,7 +172,7 @@ item_170,food_drink,wortel(tjes),understands;produces,wortel(tjes),word,carrot(s
 item_171,food_drink,yoghurt/plattekaas/kaas,understands;produces,yoghurt/plattekaas/kaas,word,yogurt,yogurt
 item_172,food_drink,zout,understands;produces,zout,word,salt,salt
 item_173,clothing,(hals)ketting,understands;produces,(hals)ketting,word,chain,necklace
-item_174,clothing,handschoenen/wanten,understands;produces,handschoenen/wanten,word,gloves,gloves
+item_174,clothing,handschoenen/wanten,understands;produces,handschoenen/wanten,word,gloves,glove
 item_175,clothing,hemd/bloes,understands;produces,hemd/bloes,word,shirt,shirt
 item_176,clothing,hoed,understands;produces,hoed,word,hat,hat
 item_177,clothing,jas,understands;produces,jas,word,jacket,jacket
@@ -213,7 +213,7 @@ item_211,body_parts,hand,understands;produces,hand,word,hand,hand
 item_212,body_parts,hoofd,understands;produces,hoofd,word,head,head
 item_213,body_parts,kin,understands;produces,kin,word,chin,chin
 item_214,body_parts,knie,understands;produces,knie,word,knee,knee
-item_215,body_parts,lippen,understands;produces,lippen,word,lips,lips
+item_215,body_parts,lippen,understands;produces,lippen,word,lips,lip
 item_216,body_parts,mond,understands;produces,mond,word,mouth,mouth
 item_217,body_parts,nagel(lichaam),understands;produces,nagel(lichaam),word,nail,nail (body part)
 item_218,body_parts,navel,understands;produces,navel,word,navel,belly button
@@ -527,7 +527,7 @@ item_525,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;prod
 item_526,action_words,koken/etenmaken,understands;produces,koken/etenmaken,word,to cook,cook
 item_527,action_words,kopen,understands;produces,kopen,word,to buy,buy
 item_528,action_words,krijgen,understands;produces,krijgen,word,to get,get
-item_529,action_words,kuisen/poetsen/schoonmaken,understands;produces,kuisen/poetsen/schoonmaken,word,to clean,clean (verb)
+item_529,action_words,kuisen/poetsen/schoonmaken,understands;produces,kuisen/poetsen/schoonmaken,word,to clean,clean (action)
 item_530,action_words,kussen/kusjegeven/zoenen,understands;produces,kussen/kusjegeven/zoenen,word,to kiss,kiss
 item_531,action_words,lachen,understands;produces,lachen,word,to smile,smile
 item_532,action_words,latenvallen,understands;produces,latenvallen,word,to drop,drop
@@ -546,7 +546,7 @@ item_544,action_words,praten,understands;produces,praten,word,to talk,talk
 item_545,action_words,proeven,understands;produces,proeven,word,to taste,taste
 item_546,action_words,puzzelen,understands;produces,puzzelen,word,to puzzle,puzzle (action)
 item_547,action_words,rijden,understands;produces,rijden,word,to ride,ride
-item_548,action_words,schaatsen/skeelen,understands;produces,schaatsen/skeelen,word,to ice skate,skate
+item_548,action_words,schaatsen/skeelen,understands;produces,schaatsen/skeelen,word,to ice skate,skate (action)
 item_549,action_words,scheuren,understands;produces,scheuren,word,to tear up,tear
 item_550,action_words,schilderen/verven,understands;produces,schilderen/verven,word,to paint,paint (action)
 item_551,action_words,schoppen/stampen,understands;produces,schoppen/stampen,word,to kick ,kick

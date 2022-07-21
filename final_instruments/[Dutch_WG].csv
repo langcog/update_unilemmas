@@ -58,7 +58,7 @@ item_56,vehicles,vrachtwagen/camion/vrachtauto,understands;produces,vrachtwagen/
 item_57,vehicles,ziekenwagen/ambulance/ziekenauto,understands;produces,ziekenwagen/ambulance/ziekenauto,word,ambulance,ambulance
 item_58,toys,bal,understands;produces,bal,word,bal,ball
 item_59,toys,ballon,understands;produces,ballon,word,balloon,balloon
-item_60,toys,blokken,understands;produces,blokken,word,blocks,block
+item_60,toys,blokken,understands;produces,blokken,word,blocks,blocks
 item_61,toys,boek,understands;produces,boek,word,book,book
 item_62,toys,kralen/parels,understands;produces,kralen/parels,word,beads,bead
 item_63,toys,pen/stylo,understands;produces,pen/stylo,word,pen,pen
@@ -296,7 +296,7 @@ item_294,action_words,houdenvan/graagzien/liefvinden,understands;produces,houden
 item_295,action_words,kijken,understands;produces,kijken,word,to look,look
 item_296,action_words,knuffelen/goedvastpakken/stevigvastpakken,understands;produces,knuffelen/goedvastpakken/stevigvastpakken,word,to hug,hug
 item_297,action_words,krijgen,understands;produces,krijgen,word,to get,get
-item_298,action_words,kuisen/poetsen/schoonmaken,understands;produces,kuisen/poetsen/schoonmaken,word,to clean,clean (verb)
+item_298,action_words,kuisen/poetsen/schoonmaken,understands;produces,kuisen/poetsen/schoonmaken,word,to clean,clean (action)
 item_299,action_words,kussen/kusjegeven/zoenen,understands;produces,kussen/kusjegeven/zoenen,word,to kiss,kiss
 item_300,action_words,lachen,understands;produces,lachen,word,to smile,smile
 item_301,action_words,lezen,understands;produces,lezen,word,to read,read
@@ -422,7 +422,7 @@ item_420,action_words,trommelen,understands;produces,trommelen,word,to drum,drum
 item_421,action_words,vliegen,understands;produces,vliegen,word,to fly,fly (action)
 item_422,action_words,zichhaasten/zichspoeden/opschieten,understands;produces,zichhaasten/zichspoeden/opschieten,word,to hurry up,hurry
 item_423,time_words,savonds,understands;produces,savonds,word,in the evenings,in the evenings
-item_424,time_words,smiddags,understands;produces,smiddags,word,in the afternoons,in the afternoons 
+item_424,time_words,smiddags,understands;produces,smiddags,word,in the afternoons,afternoon
 item_425,time_words,smorgens/sochtends,understands;produces,smorgens/sochtends,word,in the mornings,in the mornings
 item_426,time_words,nacht,understands;produces,nacht,word,night,night
 item_427,descriptive_words,bang,understands;produces,bang,word,afraid,afraid

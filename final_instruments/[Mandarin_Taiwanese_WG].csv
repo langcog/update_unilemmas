@@ -106,7 +106,7 @@ item_104,d05_09,word,clothing,understands; produces,拉鍊,NA,zipper,zipper
 item_105,d05_10,word,clothing,understands; produces,扣子,NA,button,button
 item_106,d05_11,word,clothing,understands; produces,拖鞋,NA,slippers,slipper
 item_107,d05_12,word,clothing,understands; produces,背心,NA,vest,vest
-item_108,d05_13,word,clothing,understands; produces,手套,NA,gloves,mittens
+item_108,d05_13,word,clothing,understands; produces,手套,NA,gloves,mitten
 item_109,d05_14,word,clothing,understands; produces,長褲,NA,trousers,pants
 item_110,d05_15,word,clothing,understands; produces,短褲,NA,shorts,shorts
 item_111,d05_16,word,clothing,understands; produces,裙子,NA,dress,dress (object)
@@ -118,7 +118,7 @@ item_116,d06_05,word,toys,understands; produces,娃娃(洋娃娃),NA,doll,doll
 item_117,d06_06,word,toys,understands; produces,玩具,NA,toy,toy (object)
 item_118,d06_07,word,toys,understands; produces,泡泡,NA,bubbles,bubbles
 item_119,d06_08,word,toys,understands; produces,貼紙,NA,stickers,sticker
-item_120,d06_09,word,toys,understands; produces,積木,NA,block,block
+item_120,d06_09,word,toys,understands; produces,積木,NA,block,blocks
 item_121,d06_10,word,toys,understands; produces,鉛筆,NA,pencil,pencil
 item_122,d06_11,word,toys,understands; produces,彩色筆,NA,crayon,crayon
 item_123,d07_01,word,household,understands; produces,電話,NA,telephone,telephone
@@ -256,7 +256,7 @@ item_254,d13_11,word,locations,understands; produces,在…外面,NA,outside,out
 item_255,d14_01,word,action_words,understands; produces,抱(抱),NA,hug,hug
 item_256,d14_02,word,action_words,understands; produces,吃,NA,eat,eat
 item_257,d14_03,word,action_words,understands; produces,不要,NA,do not,don't
-item_258,d14_04,word,action_words,understands; produces,要,NA,wanna/ want to,wanna
+item_258,d14_04,word,action_words,understands; produces,要,NA,wanna/ want to,want
 item_259,d14_05,word,action_words,understands; produces,是/對/好,NA,yes,yes
 item_260,d14_06,word,action_words,understands; produces,打,NA,hit,hit
 item_261,d14_07,word,action_words,understands; produces,走/散步,NA,walk,walk
@@ -321,7 +321,7 @@ item_319,d15_06,word,descriptive_words,understands; produces,髒髒的/骯髒的
 item_320,d15_07,word,descriptive_words,understands; produces,害怕的(好恐怖),NA,scared,scared
 item_321,d15_08,word,descriptive_words,understands; produces,暗暗的,NA,dark,dark
 item_322,d15_09,word,descriptive_words,understands; produces,亮亮的,NA,bright,bright
-item_323,d15_10,word,descriptive_words,understands; produces,濕濕的,NA,wet,wet
+item_323,d15_10,word,descriptive_words,understands; produces,濕濕的,NA,wet,wet (description)
 item_324,d15_11,word,descriptive_words,understands; produces,破了/破掉了,NA,broken,broken
 item_325,d15_12,word,descriptive_words,understands; produces,好可愛/可愛的,NA,cute,cute
 item_326,d15_13,word,descriptive_words,understands; produces,想睡覺,NA,awake,awake

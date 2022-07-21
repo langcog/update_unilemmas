@@ -34,6 +34,12 @@ new_items[which(new_items$uni_lemma=="hallway"),]$uni_lemma = "corridor"
 new_items[which(new_items$definition=="joli"),]$uni_lemma = "pretty" # better than 'beautiful'
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+
 
 subset(new_items, uni_lemma=="")
 

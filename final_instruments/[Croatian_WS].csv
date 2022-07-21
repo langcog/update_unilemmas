@@ -74,17 +74,17 @@ flomaster,toys,flomaster,word,produces,NA,item_72,NA,felt pen,crayon
 igra,toys,igra,word,produces,NA,item_73,NA,game,game
 igračka,toys,igracka,word,produces,NA,item_74,toy (object),toy,toy (object)
 knjiga,toys,knjiga,word,produces,NA,item_75,book,book,book
-kocka,toys,kocka,word,produces,NA,item_76,block,block,block
+kocka,toys,kocka,word,produces,NA,item_76,block,block,blocks
 kreda,toys,kreda,word,produces,NA,item_77,NA,chalk,chalk
 lopatica,toys,lopatica,word,produces,NA,item_78,shovel,sand shovel,shovel
 lopta,toys,lopta,word,produces,NA,item_79,ball,ball,ball
 lutka,toys,lutka,word,produces,NA,item_80,doll,doll,doll
-ljepilo,toys,ljepilo,word,produces,NA,item_81,NA,glue,glue
+ljepilo,toys,ljepilo,word,produces,NA,item_81,NA,glue,glue (object)
 olovka,toys,olovka,word,produces,NA,item_82,pen/pencil,pencil,pen/pencil
 pikule,toys,pikule,word,produces,NA,item_83,NA,marbles,marbles
 plastelin,toys,plastelin,word,produces,NA,item_84,NA,play dogh,play dough
 poklon,toys,poklon,word,produces,NA,item_85,NA,present,present
-slagalice (puzzle),toys,slagalice_(puzzle),word,produces,NA,item_86,NA,puzzle,jigsaw puzzle
+slagalice (puzzle),toys,slagalice_(puzzle),word,produces,NA,item_86,NA,puzzle,puzzle
 slikovnica,toys,slikovnica,word,produces,NA,item_87,NA,picture book,book
 banana,food_drink,banana,word,produces,NA,item_88,banana,banana,banana
 blitva,food_drink,blitva,word,produces,NA,item_89,NA,chard,kale
@@ -174,7 +174,7 @@ pelena,clothing,pelena,word,produces,NA,item_172,diaper,diaper,diaper
 pidžama,clothing,pidzama,word,produces,NA,item_173,pajamas,pajamas,pajamas
 pojas,clothing,pojas,word,produces,NA,item_174,NA,belt,belt
 rupčić,clothing,rupcic,word,produces,NA,item_175,NA,handkerchief,tissue
-rukavice,clothing,rukavice,word,produces,NA,item_176,gloves,gloves,gloves
+rukavice,clothing,rukavice,word,produces,NA,item_176,gloves,gloves,glove
 suknja,clothing,suknja,word,produces,NA,item_177,skirt,skirt,skirt
 šal,clothing,sal,word,produces,NA,item_178,scarf,scarf,scarf
 štramplice,clothing,stramplice,word,produces,NA,item_179,NA,children`s tights,tights
@@ -204,7 +204,7 @@ stopalo,body_parts,stopalo,word,produces,NA,item_202,NA,feet,foot
 šaka,body_parts,saka,word,produces,NA,item_203,NA,fist,arm
 trbuh,body_parts,trbuh,word,produces,NA,item_204,tummy,tummy,tummy
 uho,body_parts,uho,word,produces,NA,item_205,ear,ear,ear
-usnice,body_parts,usnice,word,produces,NA,item_206,NA,lips,lips
+usnice,body_parts,usnice,word,produces,NA,item_206,NA,lips,lip
 usta,body_parts,usta,word,produces,NA,item_207,mouth,mouth,mouth
 vagina,body_parts,vagina,word,produces,NA,item_208,NA,vagina,vagina
 vrat,body_parts,vrat,word,produces,NA,item_209,NA,neck,neck
@@ -617,7 +617,7 @@ koji,question_words,koji,word,produces,NA,item_615,NA,which,which (question)
 što,question_words,sto,word,produces,NA,item_616,what,what,what
 tko,question_words,tko,word,produces,NA,item_617,who,who,who
 zašto,question_words,zasto,word,produces,NA,item_618,why,why,why
-blizu,locations,blizu,word,produces,NA,item_619,NA,close,close
+blizu,locations,blizu,word,produces,NA,item_619,NA,close,near
 dolje,locations,dolje,word,produces,NA,item_620,down,down,down
 gore,locations,gore,word,produces,NA,item_621,up,up,up
 ispod,locations,ispod,word,produces,NA,item_622,under,under,under

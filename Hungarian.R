@@ -54,6 +54,12 @@ new_items[which(new_items$uni_lemma=="bump (action)"),]$uni_lemma = "bump"
 new_items[which(new_items$uni_lemma=="must not"),]$uni_lemma = "cannot"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (action)"
+
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

@@ -37,6 +37,12 @@ new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 new_items[which(new_items$uni_lemma=="how" & new_items$category=="connecting_words"),]$uni_lemma = "how (connecting"
 
+new_items[which(new_items$uni_lemma=="skis"),]$uni_lemma = "ski (object)"
+new_items[which(new_items$uni_lemma=="skates"),]$uni_lemma = "skate (object)" 
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

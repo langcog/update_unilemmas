@@ -39,7 +39,7 @@ item_37,locations,weg,produces;doesn't produce,weg,word,away,away
 item_38,animals,dino(saurus),produces;doesn't produce,dino(saurus),word,dinosaur,dinosaur
 item_39,animals,hert,produces;doesn't produce,hert,word,deer,deer
 item_40,places,kasteel,produces;doesn't produce,kasteel,word,castle,castle
-item_41,toys,trom(mel),produces;doesn't produce,trom(mel),word,drum,drum (noun)
+item_41,toys,trom(mel),produces;doesn't produce,trom(mel),word,drum,drum (object)
 item_42,toys,voetbal,produces;doesn't produce,voetbal,word,football,football
 item_43,toys,microscoop,produces;doesn't produce,microscoop,word,microscope,microscope
 item_44,toys,driewieler,produces;doesn't produce,driewieler,word,tricycle,bicycle
@@ -68,14 +68,14 @@ item_66,people,verpleegster,produces;doesn't produce,verpleegster,word,nurse,nur
 item_67,other,ongeval,produces;doesn't produce,ongeval,word,accident,accident
 item_68,other,cirkel,produces;doesn't produce,cirkel,word,circle,circle
 item_69,other,idee,produces;doesn't produce,idee,word,idea,idea
-item_70,action_words,(op)vangen,produces;doesn't produce,(op)vangen,word,to catch,catch (verb)
+item_70,action_words,(op)vangen,produces;doesn't produce,(op)vangen,word,to catch,catch
 item_71,action_words,vergeten,produces;doesn't produce,vergeten,word,to forget,forger
 item_72,action_words,haasten,produces;doesn't produce,haasten,word,to hurry up,hurry
 item_73,action_words,verlaten,produces;doesn't produce,verlaten,word,to leave (behind),leave (behind)
-item_74,action_words,meten,produces;doesn't produce,meten,word,to measure,measure (verb)
+item_74,action_words,meten,produces;doesn't produce,meten,word,to measure,measure
 item_75,action_words,schillen,produces;doesn't produce,schillen,word,to peel,peel
-item_76,action_words,beloven,produces;doesn't produce,beloven,word,to promise,promise (verb)
-item_77,action_words,rolschaatsen,produces;doesn't produce,rolschaatsen,word,to ice skate,ice skate
+item_76,action_words,beloven,produces;doesn't produce,beloven,word,to promise,promise
+item_77,action_words,rolschaatsen,produces;doesn't produce,rolschaatsen,word,to ice skate,skate (action)
 item_78,action_words,niezen,produces;doesn't produce,niezen,word,to sneeze,sneeze
 item_79,action_words,tuimelen/koprollen,produces;doesn't produce,tuimelen/koprollen,word,to tumble,"tu,ble"
 item_80,action_words,poetsen/kuisen,produces;doesn't produce,poetsen/kuisen,word,to polish,polish

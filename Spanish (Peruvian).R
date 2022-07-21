@@ -18,6 +18,14 @@ new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 new_items[which(new_items$uni_lemma=="light"),]$uni_lemma = "light (object)"
 new_items[which(new_items$uni_lemma=="rake"),]$uni_lemma = "rake (object)"
 
+new_items[which(new_items$uni_lemma=="stockings"),]$uni_lemma = "tights"
+new_items[which(new_items$uni_lemma=="skates"),]$uni_lemma = "skate (object)" 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="burn (action)"),]$uni_lemma = "burn"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_Peruvian", "WS", new_items %>% rename(itemID = WS))

@@ -25,7 +25,7 @@ item_23,item_023,word,vehicles,understands; produces,트럭,NA,truck,truck
 item_24,item_024,word,vehicles,understands; produces,헬리콥터,NA,helicopter,helicopter
 item_25,item_025,word,toys,understands; produces,공,NA,ball,ball
 item_26,item_026,word,toys,understands; produces,로봇,NA,robot,robot
-item_27,item_027,word,toys,understands; produces,블록,NA,block,block
+item_27,item_027,word,toys,understands; produces,블록,NA,block,blocks
 item_28,item_028,word,toys,understands; produces,비누방울,NA,bubbles,bubbles
 item_29,item_029,word,toys,understands; produces,선물,NA,present,present
 item_30,item_030,word,toys,understands; produces,연필,NA,pencil,pencil
@@ -35,7 +35,7 @@ item_33,item_033,word,toys,understands; produces,종이,NA,paper,paper
 item_34,item_034,word,toys,understands; produces,책,NA,book,book
 item_35,item_035,word,toys,understands; produces,총,NA,gun,gun
 item_36,item_036,word,toys,understands; produces,크레용/크레파스,NA,crayon,crayon
-item_37,item_037,word,toys,understands; produces,풀,NA,glue,glue
+item_37,item_037,word,toys,understands; produces,풀,NA,glue,glue (object)
 item_38,item_038,word,toys,understands; produces,풍선,NA,balloon,balloon
 item_39,item_039,word,animals,understands; produces,개,NA,dog,dog
 item_40,item_040,word,animals,understands; produces,개구리,NA,frog,frog
@@ -92,7 +92,7 @@ item_90,item_090,word,clothing,understands; produces,옷/꼬까,NA,dress,dress (
 item_91,item_091,word,clothing,understands; produces,운동화,NA,sneakers,sneaker
 item_92,item_092,word,clothing,understands; produces,잠바,NA,jacket,jacket
 item_93,item_093,word,clothing,understands; produces,잠옷,NA,pajamas,pajamas
-item_94,item_094,word,clothing,understands; produces,장갑,NA,gloves,gloves
+item_94,item_094,word,clothing,understands; produces,장갑,NA,gloves,glove
 item_95,item_095,word,clothing,understands; produces,주머니,NA,pocket,pocket
 item_96,item_096,word,clothing,understands; produces,치마,NA,skirt,skirt
 item_97,item_097,word,clothing,understands; produces,코트/외투,NA,coat,coat
@@ -201,7 +201,7 @@ item_199,item_199,word,body_parts,understands; produces,얼굴,NA,face,face
 item_200,item_200,word,body_parts,understands; produces,엉덩이,NA,hip,hip
 item_201,item_201,word,body_parts,understands; produces,이/이빨,NA,teeth,tooth
 item_202,item_202,word,body_parts,understands; produces,입,NA,mouth,mouth
-item_203,item_203,word,body_parts,understands; produces,입술,NA,lips,lips
+item_203,item_203,word,body_parts,understands; produces,입술,NA,lips,lip
 item_204,item_204,word,body_parts,understands; produces,코,NA,nose,nose
 item_205,item_205,word,body_parts,understands; produces,턱,NA,chin,chin
 item_206,item_206,word,body_parts,understands; produces,팔,NA,arm,arm
@@ -393,7 +393,7 @@ item_391,item_391,word,action_words,understands; produces,(물건을)날라,NA,c
 item_392,item_392,word,action_words,understands; produces,날라가,NA,fly,fly (action)
 item_393,item_393,word,action_words,understands; produces,(차에서)내려,NA,get out of car,get out
 item_394,item_394,word,action_words,understands; produces,내려가,NA,go down,go down
-item_395,item_395,word,action_words,understands; produces,넘어져,NA,fall,fall down
+item_395,item_395,word,action_words,understands; produces,넘어져,NA,fall,fall
 item_396,item_396,word,action_words,understands; produces,(통에)넣어,NA,put in (the case),put in 
 item_397,item_397,word,action_words,understands; produces,노래 불러,NA,sing,sing
 item_398,item_398,word,action_words,understands; produces,놀아,NA,play,play
@@ -473,7 +473,7 @@ item_471,item_471,word,action_words,understands; produces,(글)써,NA,write,writ
 item_472,item_472,word,action_words,understands; produces,(모자)써,NA,wear a hat,put on
 item_473,item_473,word,action_words,understands; produces,쏟아,NA,spill,spill
 item_474,item_474,word,action_words,understands; produces,(총을)쏴,NA,shoot,shoot
-item_475,item_475,word,action_words,understands; produces,쓰러져,NA,fall down,fall down
+item_475,item_475,word,action_words,understands; produces,쓰러져,NA,fall down,fall
 item_476,item_476,word,action_words,understands; produces,씻어,NA,wash,wash
 item_477,item_477,word,action_words,understands; produces,안아,NA,hug,hug
 item_478,item_478,word,action_words,understands; produces,안해,NA,I won't do it,NA
@@ -481,7 +481,7 @@ item_479,item_479,word,action_words,understands; produces,앉아,NA,sit,sit
 item_480,item_480,word,action_words,understands; produces,알아,NA,know,know
 item_481,item_481,word,action_words,understands; produces,열어,NA,open,open (action)
 item_482,item_482,word,action_words,understands; produces,올라가,NA,go up,climb
-item_483,item_483,word,action_words,understands; produces,올려,NA,raise,raise
+item_483,item_483,word,action_words,understands; produces,올려,NA,raise,lift (action)
 item_484,item_484,word,action_words,understands; produces,와,NA,come,come
 item_485,item_485,word,action_words,understands; produces,요리해,NA,cook,cook
 item_486,item_486,word,action_words,understands; produces,운전해,NA,drive,drive
@@ -495,7 +495,7 @@ item_493,item_493,word,action_words,understands; produces,일해,NA,work,work (a
 item_494,item_494,word,action_words,understands; produces,읽어,NA,read,read
 item_495,item_495,word,action_words,understands; produces,입어,NA,wear,wear
 item_496,item_496,word,action_words,understands; produces,(잠)자,NA,sleep,sleep
-item_497,item_497,word,action_words,understands; produces,잘라,NA,cut out,cut (action)
+item_497,item_497,word,action_words,understands; produces,잘라,NA,cut out,cut
 item_498,item_498,word,action_words,understands; produces,잡아,NA,catch,catch
 item_499,item_499,word,action_words,understands; produces,좋아해,NA,like,like
 item_500,item_500,word,action_words,understands; produces,죽어,NA,die,die
@@ -562,7 +562,7 @@ item_560,item_560,word,descriptive_words,understands; produces,조용해,NA,quie
 item_561,item_561,word,descriptive_words,understands; produces,졸려,NA,sleepy,sleepy
 item_562,item_562,word,descriptive_words,understands; produces,좋아,NA,good,good
 item_563,item_563,word,descriptive_words,understands; produces,(맛이)짜,NA,salty,salty
-item_564,item_564,word,descriptive_words,understands; produces,(촉감이)차,NA,cool,cool
+item_564,item_564,word,descriptive_words,understands; produces,(촉감이)차,NA,cool,cool (description)
 item_565,item_565,word,descriptive_words,understands; produces,착해,NA,nice,nice
 item_566,item_566,word,descriptive_words,understands; produces,추워,NA,cold,cold
 item_567,item_567,word,descriptive_words,understands; produces,커,NA,big,big

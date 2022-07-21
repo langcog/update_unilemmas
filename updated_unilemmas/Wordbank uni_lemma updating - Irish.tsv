@@ -1,721 +1,720 @@
-WS	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes
-item_1	sounds	ahah	ahah	ahah			
-item_2	sounds	baabaa	baa baa	baa baa			
-item_3	sounds	bowwow	bow wow			woof woof	
-item_4	sounds	choochoo	choo choo	choo choo			
-item_5	sounds	cockadoodledoo	cockadoodledoo	cockadoodledoo			
-item_6	sounds	grr	grr	grrr			
-item_7	sounds	meow	meow	meow			
-item_8	sounds	moo	moo	moo			
-item_9	sounds	ouch	ouch	ouch			
-item_10	sounds	quackquack	quack quack	quack quack			
-item_11	sounds	uhoh	uhoh	uh oh			
-item_12	sounds	vroom	vroom	vroom			
-item_13	sounds	yumyum	yum yum	yum yum			
-item_14	animals	ainmhí	animal	animal			
-item_16	animals	asal	donkey	donkey			
-item_18	animals	trá 	beach	beach			
-item_20	animals	béar	bear	bear			
-item_21	animals	bó	cow	cow			
-item_23	animals	bóindé	ladybird		ladybug	ladybug	
-item_25	animals	caora	sheep	sheep			
-item_27	animals	capallín	pony	pony			
-item_29	animals	capall	horse	horse			
-item_31	animals	cat	cat	cat			
-item_32	animals	cearc	hen	hen			
-item_34	animals	coileach	cock	rooster			
-item_36	animals	coileán	puppy	puppy			
-item_38	animals	coinín	rabbit	bunny			
-item_40	animals	cuileog	fly	fly			
-item_42	animals	damhánalla	spider	spider			
-item_44	animals	eala	swan	swan			
-item_46	animals	éan	bird	bird			
-item_48	animals	eilifint	elephant	elephant			
-item_49	animals	faoileán	seagull	seagull			
-item_51	animals	féileacán	butterfly	butterfly			
-item_53	animals	fia	deer	deer			
-item_55	animals	frog	frog	frog			
-item_56	animals	gabhar	goat	goat			
-item_58	animals	gé	goose	goose			
-item_60	animals	iasc	fish	fish (animal)			
-item_62	animals	lacha	duck	duck			
-item_64	animals	lao	calf	calf			
-item_66	animals	leon	lion	lion			
-item_68	animals	luch	mouse	mouse			
-item_70	animals	mactíre	wolf	wolf			
-item_72	animals	madra rua	fox	fox			
-item_74	animals	madra	dog	dog			
-item_76	animals	moncaí	monkey	monkey			
-item_77	animals	muc	pig	pig			
-item_79	animals	nathair nimhe	snake	snake			
-item_81	animals	piongain	penguin	penguin			
-item_83	animals	puisín	kitten	kitten			
-item_85	animals	préachán	crow	crow			
-item_87	animals	séabra	zebra	zebra			
-item_89	animals	seilide	snail			snail	
-item_91	animals	sicín	chicken	chicken			
-item_93	animals	sioráf	giraffe	giraffe			
-item_95	animals	spideog	robin	robin			
-item_97	animals	teidí	bear	bear			
-item_98	animals	tíogar	tiger	tiger			
-item_100	animals	turcaí	turkey	turkey			
-item_101	animals	uan	lamb	lamb			
-item_103	vehicles	bád	boat	boat			
-item_105	vehicles	bus	bus	bus			
-item_106	vehicles	carr	car	car			
-item_108	vehicles	eitleán	aeroplane	airplane			
-item_110	vehicles	gluaisrothar	motorbike	motorbike			
-item_112	vehicles	héileacaptar	helicopter	helicopter			
-item_113	vehicles	jíp	jeep	jeep			
-item_114	vehicles	leoraí	lorry	truck			
-item_116	vehicles	long	ship	ship			
-item_117	vehicles	otharcharr	ambulance	ambulance			
-item_119	vehicles	pram	pram	buggy			
-item_120	vehicles	rothar	bicycle	bike			
-item_122	vehicles	tarracóir	tractor	tractor			
-item_124	vehicles	tochaltóir	digger	digger			
-item_126	vehicles	traein	truck	truck	train	train	
-item_128	vehicles	veain	van	van			
-item_129	toys	bábóg	doll	doll			
-item_131	toys	balún	balloon	balloon			
-item_132	toys	bloic	blocks	block		blocks	
-item_134	toys	boilgeoga	bubbles	bubbles			
-item_136	toys	bréagán	toy	toy			
-item_138	toys	bronntanas	present	present	gift		
-item_140	toys	camán	hurley	hurley			
-item_142	toys	cluiche	game	game			
-item_144	toys	crián	crayon	crayon			
-item_145	toys	dathú	colouring	colouring			
-item_147	toys	druma	drum	drum			
-item_148	toys	gliú	glue	glue			
-item_149	toys	gunna	gun	gun			
-item_151	toys	leabhar	book	book			
-item_153	toys	liathróid	(foot)ball	ball			
-item_155	toys	míreanna mearaí	jigsaw	jigsaw puzzle		puzzle	
-item_157	toys	peann	pen	pen			
-item_159	toys	peannluaidhe	pencil	pencil			
-item_161	toys	scéal	story	story			
-item_163	toys	sliotar	sliotar	sliotar	ball	ball	
-item_164	food_drink	anraith	soup	soup			
-item_166	food_drink	arán	bread	bread			
-item_168	food_drink	bagún	bacon	bacon			
-item_170	food_drink	bainne	milk	milk			
-item_172	food_drink	banana	banana	banana			
-item_173	food_drink	bia	food	food			
-item_175	food_drink	bocaire	muffin			muffin	
-item_177	food_drink	burgar	burger	burger			
-item_178	food_drink	briosca	biscuit	biscuit			
-item_180	food_drink	cabáiste	cabbage	cabbage			
-item_182	food_drink	cáca	cake	cake			
-item_184	food_drink	caife	coffee	coffee			
-item_185	food_drink	cairéid	carrot	carrot			
-item_187	food_drink	cáis	cheese	cheese			
-item_189	food_drink	calóg arbhair	cornflakes	cornflakes			
-item_191	food_drink	caora fínúna	grapes	grapes			
-item_193	food_drink	ceapaire	sandwich	sandwich			
-item_195	food_drink	cnaipíní sicín	chicken nuggets	chicken nuggets			
-item_197	food_drink	cnónna	nuts	nuts			
-item_199	food_drink	coke	coke	soda			
-item_200	food_drink	criospaí	crisps	crisps			
-item_202	food_drink	cucumber	cucumber	cucumber			
-item_203	food_drink	deoch	drink	drink (liquid)			
-item_205	food_drink	taoschnó	donut			pastry	
-item_207	food_drink	feoil	meat	meat			
-item_209	food_drink	glóthach	jelly	jelly			
-item_211	food_drink	iasc	fish	fish (food)			
-item_213	food_drink	im	butter	butter			
-item_215	food_drink	iógart	yoghurt	yogurt			
-item_216	food_drink	ispíní	sausages	sausages			
-item_218	food_drink	leite	porridge	porridge			
-item_220	food_drink	liamhás	ham	ham			
-item_222	food_drink	líreacán	lollipop	lollipop			
-item_224	food_drink	mil	honey	honey			
-item_226	food_drink	milseáin	sweets	sweets			
-item_228	food_drink	oráiste	orange	orange (food)			
-item_230	food_drink	pancóg	pancake	pancake			
-item_232	food_drink	pasta	pasta	pasta			
-item_233	food_drink	piorra	pear	pear			
-item_235	food_drink	pizza	pizza	pizza			
-item_236	food_drink	piseanna	peas	peas			
-item_238	food_drink	pónairí	beans	beans			
-item_240	food_drink	práta	potato	potato			
-item_242	food_drink	reoiteog	icepop	ice pop			
-item_244	food_drink	rísín	raisin	raisin			
-item_246	food_drink	salann	salt	salt			
-item_248	food_drink	sceallóga	chips	chips			
-item_250	food_drink	seacláid	chocolate	chocolate			
-item_252	food_drink	slisíní	rashers	rashers			
-item_254	food_drink	spagetti	spagetti	spagetti			
-item_255	food_drink	sú talún	strawberry	strawberry			
-item_257	food_drink	sú	juice	juice			
-item_259	food_drink	subh	jam	jam			
-item_261	food_drink	tae	tea	tea			
-item_263	food_drink	tornapa	turnip	turnip			
-item_265	food_drink	tósta	toast	toast			
-item_267	food_drink	tráta	tomato	tomato			
-item_269	food_drink	uachtarreoite	icecream	ice cream			
-item_271	food_drink	ubh	egg	egg			
-item_273	food_drink	uisce	water	water (beverage)			
-item_275	food_drink	úll	apple	apple			
-item_277	clothing	bibe	bib	bib			
-item_279	clothing	bríste	trousers	pants			
-item_281	clothing	brístegearra	shorts	shorts			
-item_283	clothing	bróga	shoes	shoes			
-item_285	clothing	brógareatha	runners	runners			
-item_287	clothing	buataisí	boots	boots			
-item_289	clothing	caipín	cap	hat		hat	
-item_291	clothing	cairdigean	cardigan	cardigan			
-item_292	clothing	clúidín	nappy	nappy			
-item_294	clothing	cnaipe	button	button			
-item_296	clothing	cóta	coat	coat			
-item_298	clothing	crios	belt	crios			
-item_300	clothing	culaithleapa	pijamas	pajamas			
-item_302	clothing	culaithsnámha	swimming costume	swimming togs			
-item_304	clothing	éadaí	clothes	clothes			
-item_306	clothing	fáinne	ring	ring			
-item_308	clothing	fobhríste	underpants	underpants			
-item_310	clothing	geansaí	jumper	jumper			
-item_312	clothing	gúna	dress	dress			
-item_314	clothing	hata	hat	hat			
-item_316	clothing	lámhainní	gloves	gloves			
-item_318	clothing	léine	shirt	shirt			
-item_320	clothing	riteoga	tights	tights			
-item_322	clothing	scairf	scarf	scarf			
-item_323	clothing	sciorta	skirt	skirt			
-item_325	clothing	seaicéad	skirt	skirt	jacket	jacket	
-item_326	clothing	jacket	jacket	jacket			
-item_327	clothing	zip	zip	zip			
-item_328	clothing	slipéir	slipper	slipper			
-item_330	clothing	spéaclaí	slipper	slipper	glasses	glasses	
-item_331	clothing	glasses	glasses	glasses			
-item_333	clothing	stocaí	socks	sock			
-item_335	clothing	t-léine	tshirt	shirt		t-shirt	
-item_337	clothing	veist	vest	vest			
-item_339	body_parts	aghaidh	face	face			
-item_341	body_parts	barraicíní	toes	toes		toe	
-item_343	body_parts	béal	mouth	mouth			
-item_345	body_parts	beola	lips	lips			
-item_347	body_parts	bolg	tummy	tummy			
-item_348	body_parts	ceann	head	head			
-item_350	body_parts	cluasa	ears	ear		ear	
-item_352	body_parts	cos	foot	foot			
-item_354	body_parts	droim	back	back			
-item_356	body_parts	fiacla	teeth	tooth		teeth	
-item_358	body_parts	glúin	knee	knee			
-item_360	body_parts	gruaig	hair	hair			
-item_362	body_parts	gualainn	shoulder(s)			shoulder	
-item_364	body_parts	lámh	hand	hand			
-item_366	body_parts	leiceann	cheek	cheek			
-item_368	body_parts	lúidín	little finger				
-item_369	body_parts	mala	eyebrow			eyebrows	
-item_371	body_parts	méar	finger	finger			
-item_373	body_parts	muineál	neck	neck			
-item_375	body_parts	ordóg	thumb	thumb			
-item_377	body_parts	pilibín	willy	penis	penis		
-item_379	body_parts	smig	chin	chin			
-item_381	body_parts	srón	nose	nose			
-item_383	body_parts	scornach	throat	throat			
-item_385	body_parts	súil	eye	eye			
-item_387	body_parts	teanga	tongue	tongue			can be tongue or language 
-item_389	body_parts	tóin	bottom	butt			
-item_391	body_parts	uilinn	elbow	elbow			
-item_393	household	airgead	money	money			
-item_395	household	babhla	bowl	bowl			
-item_397	household	bascaed	basket	basket			would use ciseán
-item_399	household	blaincéad	blanket	blanket			
-item_401	household	bord	table	table			
-item_403	household	bosca	box	box			
-item_405	household	bosca bruscair	dustbin	bin			
-item_407	household	bruscar	rubbish	trash			rubbish
-item_409	household	buicéad	bucket	bucket			
-item_411	household	buidéal	bottle	bottle			
-item_413	household	casúr	hammer	hammer			
-item_415	household	ceamara	camera	camera			
-item_417	household	cíor	comb	comb			
-item_419	household	ciotal	kettle			kettle	
-item_420	household	ciarsúir	tissue	tissue			
-item_422	household	folúsghlantóir	hoover		vacuum cleaner	vacuum	
-item_424	household	guthán póca	mobile phone	phone			
-item_426	household	forc	fork	fork			
-item_427	household	gallúnach	soap	soap			
-item_429	household	gloine	glass	glass			
-item_431	household	lampa	lamp	lamp			
-item_433	household	leigheas	medicine	medicine			
-item_435	household	mála	bag	bag			
-item_437	household	mapa	map	map			
-item_439	household	muga	mug	cup			
-item_441	household	páipéar	paper	paper			
-item_443	household	pingin	penny	penny			
-item_445	household	pictúir	picture	picture			
-item_447	household	radio	radio	radio			
-item_448	household	sáspan	saucepan			pot	
-item_450	household	scáthán	mirror	mirror			
-item_452	household	scian	knife	knife			
-item_454	household	sconna	tap	tap			
-item_456	household	scuab	brush	brush			
-item_458	household	scuab fiacla	toothbrush	toothbrush			
-item_460	household	seampú	shampoo	shampoo			
-item_461	household	siosúr	scissors	scissors			
-item_463	household	solas	light	light		light (object)	
-item_465	household	spúnóg	spoon	spoon			
-item_467	household	taephota	teapot	teapot			
-item_469	household	taos fiacla	toothpaste	toothpaste			
-item_471	household	teileafón	telephone	telephone			
-item_473	household	clog	clock	clock			
-item_475	household	crúiscín	jug	jug			
-item_477	household	cupán	cup	cup			
-item_479	household	eochair	key	key			
-item_481	household	piliúr	pillow	pillow			
-item_483	household	planda	plant	plant			
-item_485	household	pláta	plate	plate			
-item_487	household	pota	pot	pot			
-item_489	household	téip	tape	tape			
-item_490	household	túaille	towel	towel			
-item_492	household	uaireadóir	watch	watch (object)			
-item_494	furniture_rooms	beithilín	cot		crib	crib	
-item_496	furniture_rooms	cathaoir	chair	chair			
-item_498	furniture_rooms	cathaoir ard	highchair	highchair			
-item_500	furniture_rooms	cistin	kitchen	kitchen			
-item_502	furniture_rooms	cith	shower	shower			
-item_504	furniture_rooms	cófra	cupboard	cupboard			
-item_506	furniture_rooms	cuisneoir	fridge	refrigerator	refrigerator		
-item_508	furniture_rooms	doirteal	sink	sink			
-item_510	furniture_rooms	doras	door	door			
-item_512	furniture_rooms	folcadán	bath	bath			
-item_514	furniture_rooms	fuinneog	window	window			
-item_516	furniture_rooms	garáiste	garage	garage			
-item_518	furniture_rooms	leaba	bed	bed			
-item_520	furniture_rooms	leithreas	toilet	toilet			
-item_522	furniture_rooms	meaisín níócháín	washing machine	washing machine			
-item_524	furniture_rooms	oigheann	oven	oven			
-item_526	furniture_rooms	potabeag	potty	potty			
-item_528	furniture_rooms	seomra	room	room			
-item_530	furniture_rooms	seomrafolctha	bathroom	bathroom			
-item_532	furniture_rooms	seomraleapa	bedroom	bedroom			
-item_534	furniture_rooms	seomrasuí	sitting room	living room			
-item_536	furniture_rooms	seomrasúgartha	playroom	playroom			
-item_538	furniture_rooms	sorn	cooker	cooker			
-item_540	furniture_rooms	staighre	stairs	stairs			
-item_542	furniture_rooms	stól	stool	chair			
-item_544	furniture_rooms	tarraicéan	drawer	drawer			
-item_546	furniture_rooms	teilifís	television	telly			
-item_548	furniture_rooms	tine	fire	fire			
-item_550	furniture_rooms	tolg	couch	couch	sofa		
-item_552	furniture_rooms	urlár	floor	floor			
-item_554	outside	báisteach	rain	rain			
-item_556	outside	bata	stick	stick			
-item_558	outside	bláth	flower	flower			
-item_560	outside	bothán	shed	shed			
-item_562	outside	bóthar	road	road			
-item_564	outside	brat(ach)	flag	flag			
-item_566	outside	buicéad	bucket	bucket			
-item_568	outside	carraig	rock	rock			
-item_570	outside	ceo	fog	fog			
-item_572	outside	claí	fence	ditch			
-item_573	outside						
-item_574	outside	cloch	stone	stone			
-item_576	outside	cosán	foot path	footpath			
-item_578	outside	crann	tree	tree			
-item_580	outside	díon	roof	roof			
-item_582	outside	dréimire	ladder	ladder			
-item_584	outside	falla	wall	wall			
-item_586	outside	farraige	sea	sea			
-item_588	outside	féar	grass	grass			
-item_590	outside	fearsneachta	snowman	snowman			
-item_592	outside	gaineamh	sand	sand			
-item_594	outside	gairdín	garden	garden			
-item_596	outside	gaoth	wind	wind			
-item_598	outside	gealach	moon	moon			
-item_600	outside	geata	gate	gate			
-item_602	outside	grian	sun	sun			
-item_604	outside	laí	shovel	shovel	pole		
-item_606	outside	linnsnámha	(swimming) pool	pool			
-item_608	outside	loch	pond		lake	lake	
-item_610	outside	luascán	swings		swing (object)		
-item_612	outside	réalta	stars	star			
-item_614	outside	scamall	cloud	cloud			
-item_616	outside	sceach	bush	bush			
-item_618	outside	simléar	chimney	chimney			
-item_620	outside	sleamhnán	slide	slide			
-item_622	outside	sneachta	snow	snow			
-item_624	outside	spéir	sky	sky			
-item_626	outside	sráid	street	street			
-item_628	outside	uisce	water	water (not beverage)			
-item_630	places	abhaile	home	home			
-item_632	places	aifreann	mass	mass			
-item_634	places	amuigh	outside	outside			
-item_636	places	campáil	camping	camping			
-item_638	places	cathair	city	city			
-item_640	places	coillte	forest	woods		forest	
-item_642	places	cóisir	party	party			
-item_644	places	feirm	farm	farm			
-item_646	places	gort	field	field			
-item_648	places	istigh	inside	inside			
-item_650	places	obair	work	work			
-item_652	places	ospidéal	hospital	hospital			
-item_654	places	páirc	park	field			
-item_656	places	naíonra	playschool	preschool			kindergarten?
-item_658	places	naíolann	creche	creche		nursery	
-item_660	places	picnic	picnic	picnic			
-item_661	places	scoil	school	school			
-item_663	places	siopa	shop	shop			
-item_665	places	sorcas	circus	circus			
-item_666	places	teach	house	house			
-item_668	places	trá	beach	beach			
-item_670	places	zú	zoo	zoo			
-item_672	people	ainm féin an pháiste	child's own name	child's own name			
-item_674	people	ainm feighlí páistí	babysitter's name	babysitter's name			
-item_676	people	ainm peata	pet's name	pet's name			
-item_678	people	aintín	aunty	aunt	aunt	aunty	
-item_680	people	bean	woman	woman			
-item_682	people	buachaill	boy	boy			
-item_684	people	cailín	girl	girl			
-item_686	people	cara	friend	friend			
-item_688	people	colceathrar	cousin	cousin	first cousins	cousin	
-item_690	people	daideo	grandad	grandpa	grandad	grandad	
-item_692	people	daidí	daddy	daddy			
-item_693	people	daoine	people	people			
-item_695	people	deartháir	brother	brother			
-item_697	people	deirfiúr	sister	sister			
-item_699	people	dochtúir	doctor	doctor			
-item_701	people	duine	person	person			
-item_703	people	fear	man	man			
-item_705	people	feardóiteáin	fireman	fireman			
-item_707	people	feargrinn	clown	clown			
-item_709	people	fear an phoist	postman	postman 			
-item_711	people	feirmeoir	farmer	farmer			
-item_713	people	fiaclóir	dentist	dentist			
-item_715	people	garda	policeman	policeman			
-item_717	people	gruagaire	hairdresser	hairdresser			
-item_719	people	leanbh	baby 	baby	infant		
-item_721	people	mamaí	mommy	mommy	mammy	mammy	
-item_722	people	mamó	granny	grandma	grandma	granny	
-item_724	people	múinteoir	teacher	teacher			
-item_726	people	páiste	child	child			
-item_728	people	uncail	uncle	uncle			
-item_729	games_routines	amhrán	song	song			
-item_731	games_routines	an muicín seo	this little pig	this little pig		this littly piggy	
-item_733	games_routines	barróg	hug	hug			
-item_735	games_routines	béarfaidh mé ort	gonna get you	gonna get you			
-item_737	games_routines	bricfeasta	breakfast	breakfast			
-item_739	games_routines	cas timpeall	turn around	turn around			
-item_741	games_routines	chím thú	I see you	i see you			
-item_743	games_routines	chomh mór	so big	so big 			
-item_745	games_routines	dia dhuit	hello	hello			
-item_747	games_routines	dinnéar	dinner	dinner			
-item_749	games_routines	folcadh	bath	bath			
-item_751	games_routines	glaoch(gutháin)	phone call (call)		call (phone)	call on phone	
-item_753	games_routines	go raibh maith agat	thank you	thank you			
-item_755	games_routines	gráin	cuddle	hug	hatred	hate	form error!
-item_757	games_routines	gabh anseo	c'mere		come here	c'mere	
-item_759	games_routines	in aon chor	at all	at all			
-item_761	games_routines	(is) maith liom	I like	i like 			
-item_763	games_routines	(is) breá  liom	I love	i love 			
-item_765	games_routines	(is) liomsa é	mine	mine	its is mine	it's mine 	
-item_767	games_routines	más é do thoil é	please	please			
-item_769	games_routines	lón	lunch	lunch			
-item_771	games_routines	ní maith	don't like	don't like			
-item_773	games_routines	n'fheadar	dunno		I don't know 	dunno	
-item_775	games_routines	no	no	no			
-item_776	games_routines	oíche mhaith	good night	good night			
-item_778	games_routines	póigín	kiss	kiss			
-item_780	games_routines	sea	yea		yes	yes	
-item_781	games_routines	seachain	look out		be careful (of)		
-item_783	games_routines	shh	shh	shh			
-item_784	games_routines	siopadóireacht	shopping	shopping			
-item_786	games_routines	slán	bye	bye	goodbye		
-item_788	games_routines	tabhair dom	gimme		give me	gimme	
-item_790	action_words	abair	say	say			
-item_792	action_words	aithin	know		recognise	know	
-item_794	action_words	ardaigh	lift	lift (action)		lift (action)	
-item_796	action_words	bain	take	take	remove		
-item_798	action_words	beir(ar)	catch	catch			
-item_800	action_words	blais	taste	taste			
-item_802	action_words	bolaigh	smell	smell			
-item_804	action_words	bris	break	break			
-item_806	action_words	cuimil	wipe	wipe			
-item_808	action_words	cuir	put	put			
-item_810	action_words	damhsaigh	dance	dance			
-item_812	action_words	dathaigh	colour	colour			
-item_814	action_words	déan	do	do			
-item_816	action_words	doirt	spill	spill			
-item_818	action_words	dreap	climb	climb			
-item_820	action_words	dúisigh	wake	wake			
-item_822	action_words	oscail	open	open			
-item_824	action_words	péinteáíl	paint	paint			
-item_826	action_words	pioc	pick	pick	choose		
-item_828	action_words	póg	kiss	kiss			
-item_830	action_words	réab	tear	tear		rip	
-item_832	action_words	rith	run	run			
-item_834	action_words	roinn	share	share			
-item_836	action_words	sceamh	bark	bark			
-item_838	action_words	brostaigh	hurry	hurry			
-item_840	action_words	brúigh	push	push			
-item_842	action_words	buaigh	win	win			
-item_844	action_words	buail	hit	hit			
-item_846	action_words	bualadh bos	clap	clap	applause		
-item_848	action_words	cabhraigh	help	help			
-item_850	action_words	labhair	talk	talk			
-item_852	action_words	caith	throw	throw			
-item_854	action_words	can	sing	sing			
-item_856	action_words	caoin	cry	cry			
-item_858	action_words	cas	turn	turn			
-item_860	action_words	ceannaigh	buy	buy			
-item_862	action_words	ceap	think	think			
-item_864	action_words	ciceáil	kick	kick			
-item_866	action_words	cigil	tickle	tickle			
-item_868	action_words	cíor	comb	tickle			
-item_870	action_words	clois	hear	hear			
-item_872	action_words	clúdaigh	cover	cover			
-item_874	action_words	cnag	knock	knock			
-item_876	action_words	cócaráil	cook	cook			
-item_878	action_words	codail	sleep	sleep			
-item_880	action_words	coimeád	keep	keep			
-item_882	action_words	críochnaigh	finish	finish			
-item_884	action_words	croith	wave	wave	shake	shake	
-item_886	action_words	dún	close	close			
-item_888	action_words	éist	listen	listen			
-item_890	action_words	fág	leave	leave			
-item_892	action_words	faigh	find	find			
-item_894	action_words	fan	wait	wait			
-item_896	action_words	féach	look	look			
-item_898	action_words	feic	see	see			
-item_900	action_words	gáir	laugh	laugh			
-item_902	action_words	gearr	cut	cut			
-item_904	action_words	glan	clean	clean			
-item_906	action_words	imir	play	play			
-item_908	action_words	inis	tell	tell			
-item_910	action_words	ith	eat	eat			
-item_912	action_words	léigh	read	read			
-item_914	action_words	léim	jump	jump			
-item_916	action_words	ligh	lick	lick			
-item_918	action_words	línigh	draw	draw	line	line	
-item_920	action_words	luasc	swing	swing			
-item_922	action_words	luigh síos	lie down	lie down			
-item_924	action_words	magadh	joke	joke			
-item_926	action_words	miongháire	smile	smile			
-item_928	action_words	nigh	wash	wash			
-item_930	action_words	oibrigh	work	work			
-item_932	action_words	ól	drink	drink			
-item_934	action_words	sciorr	slide	slip			
-item_936	action_words	scríobh	write	write			
-item_938	action_words	scuab	brush	brush			
-item_940	action_words	seas	stand	stand			
-item_942	action_words	séid	blow	blow			
-item_944	action_words	siúl	walk	walk			
-item_946	action_words	snámh	swim	swim			
-item_948	action_words	socraigh	fix	fix			
-item_950	action_words	stad	stop	stop			
-item_952	action_words	steall	splash	splash			
-item_954	action_words	suigh(síos)	sit (down)	sit			
-item_956	action_words	tabhair	give	give			
-item_958	action_words	taispeáin	show	show			
-item_960	action_words	tar	come	come			
-item_962	action_words	tarraing	pull	pull			
-item_964	action_words	téigh	go	go			
-item_966	action_words	tiomáin	drive	drive			
-item_968	action_words	tit	fall	fall			
-item_970	action_words	tóg	take	take			
-item_972	action_words	tosaigh	start	start			
-item_974	action_words	triomaigh	dry	dry (action)			
-item_976	action_words	troid	fight	fight			
-item_978	action_words	tuig	understand	understand			
-item_980	action_words	ard	high	high			
-item_982	descriptive_words	báistí	rainy		rain	rain	
-item_984	descriptive_words	bán	white	white			
-item_986	descriptive_words	beag	small	small			
-item_988	descriptive_words	bídeach	tiny	tiny			
-item_990	descriptive_words	bocht	poor	poor			
-item_992	descriptive_words	bog	soft	soft			
-item_994	descriptive_words	briste	broken	broken			
-item_996	descriptive_words	brónach	sad	sad			
-item_998	descriptive_words	buí	yellow	yellow			
-item_1000	descriptive_words	céad	first	first			
-item_1002	descriptive_words	ceomhar	foggy	foggy			
-item_1004	descriptive_words	cineálta	kind	kind			
-item_1006	descriptive_words	ciúin	quiet	quiet			
-item_1008	descriptive_words	corcra	purple	purple			
-item_1010	descriptive_words	crua	hard	hard			
-item_1012	descriptive_words	cúramach	careful	careful			
-item_1014	descriptive_words	dána	bold	bold			
-item_1016	descriptive_words	dearg	red	red			
-item_1018	descriptive_words	deireanach	last	last			
-item_1020	descriptive_words	gortaithe	hurt	hurt			
-item_1022	descriptive_words	deas	nice	nice			
-item_1024	descriptive_words	déanta	finished	finished			
-item_1026	descriptive_words	donn	brown	brown			
-item_1028	descriptive_words	dorcha	dark	dark			
-item_1030	descriptive_words	dubh	black	black			
-item_1032	descriptive_words	(ina)codladh	asleep	asleep			
-item_1034	descriptive_words	(ina)dúiseacht	awake	awake			
-item_1036	descriptive_words	éadrom	light	light			
-item_1038	descriptive_words	eaglach	scared	scared	fearful		
-item_1040	descriptive_words	fada	long	long			
-item_1042	descriptive_words	feargach	angry	angry			
-item_1044	descriptive_words	(is)fearr	prefer		preferred	best	
-item_1046	descriptive_words	fliuch	wet	wet			
-item_1048	descriptive_words	folamh	empty	empty			
-item_1050	descriptive_words	fuar	cold	cold			
-item_1052	descriptive_words	gaofar	windy	windy			
-item_1054	descriptive_words	gearr	short	short			
-item_1056	descriptive_words	glan	clean	clean			
-item_1058	descriptive_words	glas	green	green			
-item_1060	descriptive_words	gleoite	pretty	pretty	cute	cute	
-item_1062	descriptive_words	glic	clever	clever			
-item_1064	descriptive_words	imithe	(all) gone	gone			
-item_1066	descriptive_words	mall	slow	slow			
-item_1068	descriptive_words	míshlachtmhar	messy	messy			
-item_1070	descriptive_words	mór	big	big			
-item_1072	descriptive_words	nua	new	new			
-item_1074	descriptive_words	ocrach	hungry	hungry			
-item_1076	descriptive_words	oráiste	orange	orage		orange (description)	
-item_1078	descriptive_words	ramhar	fat	fat			
-item_1080	descriptive_words	salach	dirty	dirty			
-item_1082	descriptive_words	sean	old	old			
-item_1084	descriptive_words	sona	happy	happy			
-item_1086	descriptive_words	tapa	fast	fast			
-item_1088	descriptive_words	tartmhar	thirsty	thirsty			
-item_1090	descriptive_words	te	hot	hot			
-item_1092	descriptive_words	tinn	sick	sick			
-item_1094	descriptive_words	tirim	dry	dry (description)			
-item_1096	descriptive_words	trom	heavy	heavy			
-item_1098	descriptive_words	tuirseach	tired	tired			
-item_1100	descriptive_words	uafásach	yucky	yucky	horrible		
-item_1102	descriptive_words	ullamh	ready	ready			
-item_1104	time_words	am	time	time			
-item_1106	time_words	amárach	tomorrow	tomorrow			
-item_1108	time_words	anocht	tonight	tonight			
-item_1110	time_words	anois	now	now			
-item_1112	time_words	ar ball	later	later			
-item_1114	time_words	inné	yesterday	yesterday			
-item_1116	time_words	inniu	today	today			
-item_1118	time_words	lá	day	day			
-item_1120	time_words	maidin	morning	morning			
-item_1122	time_words	oíche	night	night			
-item_1124	time_words	tar éis	after	after			
-item_1126	time_words	tráthnóna	afternoon			afternoon	
-item_1128	pronouns	a	his/her/their	his/her/their			
-item_1132	pronouns	ár	our	our			
-item_1134	pronouns	ceann	one	one (of)			
-item_1136	pronouns	do	your	your			
-item_1138	pronouns	é	it/he/him	it/he			
-item_1140	pronouns	féin	(my)self	me			
-item_1142	pronouns	í	she/her/it	she/her			
-item_1146	pronouns	iad	they/them	they/them			
-item_1149	pronouns	mé	me	me			
-item_1151	pronouns	mise	me	me			
-item_1152	pronouns	mo	my	my			
-item_1154	pronouns	muid	we	we			
-item_1156	pronouns	sé	he	he			
-item_1158	pronouns	seo	this	this			
-item_1160	pronouns	sí	she	she			
-item_1162	pronouns	siad	they	they			
-item_1164	pronouns	sibh	you (pl)	ye			
-item_1166	pronouns	sin	that	that			
-item_1168	pronouns	tú	you	you			
-item_1170	pronouns	tusa	hey you	you	you		
-item_1171	prepositional_pronouns	agam	at me		i have		
-item_1172	prepositional_pronouns	agat	at you		you have		
-item_1173	prepositional_pronouns	aige	at him		he has		
-item_1174	prepositional_pronouns	aici	at her		she has		
-item_1175	prepositional_pronouns	againn	at us		we have 		
-item_1176	prepositional_pronouns	dom	to me		for/to me		
-item_1177	prepositional_pronouns	duit	to you		for/to you		
-item_1178	prepositional_pronouns	dúinn	to us		for/to us		
-item_1179	prepositional_pronouns	liom	with me		with me		
-item_1180	prepositional_pronouns	leat	with you		with you		
-item_1181	prepositional_pronouns	leis	with him	with him			
-item_1182	prepositional_pronouns	leí	with her	with her			
-item_1183	prepositional_pronouns	linn	with us	with us			
-item_1184	prepositional_pronouns	orm	on me	on me			
-item_1185	prepositional_pronouns	ort	on you	on you			
-item_1186	prepositional_pronouns	air	on him	on him			
-item_1187	prepositional_pronouns	uirthi	on her	on her			
-item_1188	prepositional_pronouns	orainn	on us	on us			
-item_1189	prepositional_pronouns	díom	off me	off me			
-item_1190	prepositional_pronouns	díot	off you	off you			
-item_1191	prepositional_pronouns	uaim	from me	from me			
-item_1192	prepositional_pronouns	uait	from you	from you			
-item_1193	prepositional_pronouns	uaidh	from him	from him			
-item_1194	prepositional_pronouns	uainn	from us	from us			
-item_1195	question_words	cáil	where	where (question)	fame/reputation	fame	cá bhfuil' (colloquially pronounced like cáil) is the question for 'where' - cáil itself means fame
-item_1197	question_words	cad	what	what			
-item_1199	question_words	cathain	when	when (question)			
-item_1201	question_words	cé	who	who			
-item_1203	question_words	cé acu	which	which (question)			
-item_1205	question_words	cén fáth	why	why			
-item_1207	question_words	conas	how	how			
-item_1209	locations	ag	at	at			
-item_1211	locations	áit	place	place			
-item_1213	locations	ann	there	there			
-item_1215	locations	ansin	there (in that place)	there			
-item_1217	locations	anuas	downward	down			
-item_1219	locations	aníos	upward	up			
-item_1221	locations	anseo	here	here			
-item_1223	locations	ar	on	on			
-item_1225	locations	ar barr	on top of	on top 			
-item_1227	locations	amach	out	out			
-item_1229	locations	as	of	of			
-item_1231	locations	barr	top	top			
-item_1233	locations	bun	bottom	bottom			
-item_1235	locations	cúl	behind	back of			
-item_1237	locations	de	off	off			
-item_1239	locations	do	for	for			
-item_1241	locations	faoi	under	under			
-item_1243	locations	chun	to	to			
-item_1245	locations	i bhfad	far	far			
-item_1247	locations	i	in	in			
-item_1249	locations	in aice	beside	next to			
-item_1251	locations	isteach	inside	inside			
-item_1253	locations	lár	middle	middle			
-item_1255	locations	lasmuigh	outside	outside			
-item_1257	locations	le	with	with			
-item_1259	locations	ó	from	from			
-item_1261	locations	síos	down	down			
-item_1263	locations	suas	up	up			
-item_1265	locations	taobh	side	side			
-item_1267	locations	thar	over	over			
-item_1269	locations	timpeall	round	around			
-item_1271	locations	transna	across	across			
-item_1274	quantifiers	a lán	many	a lot			
-item_1276	quantifiers	an	the	the			
-item_1278	quantifiers	ana	very	really			
-item_1280	quantifiers	aon ceann	any(thing)	any			
-item_1282	quantifiers	aon	one	one			
-item_1284	quantifiers	arís	again	again			
-item_1286	quantifiers	breis	more	more	extra/more	more	
-item_1288	quantifiers	céanna	same	same			
-item_1290	quantifiers	eile	another	another			
-item_1292	quantifiers	gach	each		every	every	
-item_1294	quantifiers	gach aon	every		every (one of)	every	
-item_1296	quantifiers	gan	none	none	without	without	
-item_1298	quantifiers	mórán	many	many			
-item_1300	quantifiers	na	na		the (plural)	the	
-item_1301	quantifiers	píosa	piece			piece	
-item_1303	quantifiers	ró	too			too	
-item_1305	quantifiers	roinnt	some	some			
-item_1307	quantifiers	saghas	kind of			sort of	
-item_1309	helping_verbs	(ag)iarraidh	try (to)			try to	
-item_1311	helping_verbs	(is)féidir	can	can			
-item_1313	helping_verbs	beidh	will be			will be	
-item_1315	helping_verbs	bhfuil	is			is	
-item_1316	helping_verbs	bhí	was			was	
-item_1318	helping_verbs	bí	be	be		to be	
-item_1320	helping_verbs	bíonn	am			is	
-item_1322	helping_verbs	caithfidh	have to		has to	has to	
-item_1324	helping_verbs	is	is			is	
-item_1326	helping_verbs	lig(dom)	lemme		let (me)	lemme	
-item_1328	helping_verbs	ná	don't	don't			
-item_1330	helping_verbs	ní(hea)	not	not		not	
-item_1332	helping_verbs	níl	isn't			isn't	
-item_1334	helping_verbs	níor	didn't			did not	
-item_1336	helping_verbs	raibh	thank you	thank you	was	was	
-item_1337	helping_verbs	tá	yes	yes		yes	
-item_1338	helping_verbs	teastaigh	wanna	wanna	wanted/needed	wanna	
-item_1340	connecting_words	ach	but	ach		but	
-item_1342	connecting_words	agus	and	agus		and	
-item_1344	connecting_words	ansin	then			then	
-item_1346	connecting_words	chomh	so			so	
-item_1348	connecting_words	dá	if			if	
-item_1350	connecting_words	mar	because			because	
-item_1352	connecting_words	huair	when	cathain	when/hour	when	
+WS	category	definition	gloss	uni_lemma	new_gloss	new_uni_lemma	notes			
+item_1	sounds	ahah	ahah	ahah						1
+item_2	sounds	baabaa	baa baa	baa baa						2
+item_3	sounds	bowwow	bow wow			woof woof				3
+item_4	sounds	choochoo	choo choo	choo choo						4
+item_5	sounds	cockadoodledoo	cockadoodledoo	cockadoodledoo						5
+item_6	sounds	grr	grr	grrr						6
+item_7	sounds	meow	meow	meow						7
+item_8	sounds	moo	moo	moo						8
+item_9	sounds	ouch	ouch	ouch						9
+item_10	sounds	quackquack	quack quack	quack quack						10
+item_11	sounds	uhoh	uhoh	uh oh						11
+item_12	sounds	vroom	vroom	vroom						12
+item_13	sounds	yumyum	yum yum	yum yum						13
+item_14	animals	ainmhí	animal	animal						14
+item_16	animals	asal	donkey	donkey						16
+item_18	animals	beach	bee	bee						18
+item_20	animals	béar	bear	bear						20
+item_21	animals	bó	cow	cow						21
+item_23	animals	bóindé	ladybird		ladybug	ladybug				23
+item_25	animals	caora	sheep	sheep						25
+item_27	animals	capallín	pony	pony						27
+item_29	animals	capall	horse	horse						29
+item_31	animals	cat	cat	cat						31
+item_32	animals	cearc	hen	hen						32
+item_34	animals	coileach	cock	rooster						34
+item_36	animals	coileán	puppy	puppy						36
+item_38	animals	coinín	rabbit	bunny						38
+item_40	animals	cuileog	fly	fly						40
+item_42	animals	damhánalla	spider	spider						42
+item_44	animals	eala	swan	swan						44
+item_46	animals	éan	bird	bird						46
+item_48	animals	eilifint	elephant	elephant						48
+item_49	animals	faoileán	seagull	seagull						49
+item_51	animals	féileacán	butterfly	butterfly						51
+item_53	animals	fia	deer	deer						53
+item_55	animals	frog	frog	frog						55
+item_56	animals	gabhar	goat	goat						56
+item_58	animals	gé	goose	goose						58
+item_60	animals	iasc	fish	fish (animal)						60
+item_62	animals	lacha	duck	duck						62
+item_64	animals	lao	calf	calf						64
+item_66	animals	leon	lion	lion						66
+item_68	animals	luch	mouse	mouse						68
+item_70	animals	mactíre	wolf	wolf						70
+item_72	animals	madra rua	fox	fox						72
+item_74	animals	madra	dog	dog						74
+item_76	animals	moncaí	monkey	monkey						76
+item_77	animals	muc	pig	pig						77
+item_79	animals	nathair nimhe	snake	snake						79
+item_81	animals	piongain	penguin	penguin						81
+item_83	animals	puisín	kitten	kitten						83
+item_85	animals	préachán	crow	crow						85
+item_87	animals	séabra	zebra	zebra						87
+item_89	animals	seilide	snail			snail				89
+item_91	animals	sicín	chicken	chicken						91
+item_93	animals	sioráf	giraffe	giraffe						93
+item_95	animals	spideog	robin	robin						95
+item_97	animals	teidí	bear	bear						97
+item_98	animals	tíogar	tiger	tiger						98
+item_100	animals	turcaí	turkey	turkey						100
+item_101	animals	uan	lamb	lamb						101
+item_103	vehicles	bád	boat	boat						103
+item_105	vehicles	bus	bus	bus						105
+item_106	vehicles	carr	car	car						106
+item_108	vehicles	eitleán	aeroplane	airplane						108
+item_110	vehicles	gluaisrothar	motorbike	motorbike						110
+item_112	vehicles	héileacaptar	helicopter	helicopter						112
+item_113	vehicles	jíp	jeep	jeep						113
+item_114	vehicles	leoraí	lorry	truck						114
+item_116	vehicles	long	ship	ship						116
+item_117	vehicles	otharcharr	ambulance	ambulance						117
+item_119	vehicles	pram	pram	buggy						119
+item_120	vehicles	rothar	bicycle	bike						120
+item_122	vehicles	tarracóir	tractor	tractor						122
+item_124	vehicles	tochaltóir	digger	digger						124
+item_126	vehicles	traein	truck	truck	train	train				126
+item_128	vehicles	veain	van	van						128
+item_129	toys	bábóg	doll	doll						129
+item_131	toys	balún	balloon	balloon						131
+item_132	toys	bloic	blocks	block		blocks				132
+item_134	toys	boilgeoga	bubbles	bubbles						134
+item_136	toys	bréagán	toy	toy						136
+item_138	toys	bronntanas	present	present	gift					138
+item_140	toys	camán	hurley	hurley						140
+item_142	toys	cluiche	game	game						142
+item_144	toys	crián	crayon	crayon						144
+item_145	toys	dathú	colouring	colouring						145
+item_146	toys	druma	drum	drum						146
+item_148	toys	gliú	glue	glue						148
+item_149	toys	gunna	gun	gun						149
+item_151	toys	leabhar	book	book						151
+item_153	toys	liathróid	(foot)ball	ball						153
+item_156	toys	míreanna mearaí	jigsaw	jigsaw puzzle		puzzle				156
+item_157	toys	peann	pen	pen						157
+item_159	toys	peannluaidhe	pencil	pencil						159
+item_161	toys	scéal	story	story						161
+item_163	toys	sliotar	sliotar	sliotar	ball	ball				163
+item_164	food_drink	anraith	soup	soup						164
+item_166	food_drink	arán	bread	bread						166
+item_168	food_drink	bagún	bacon	bacon						168
+item_170	food_drink	bainne	milk	milk						170
+item_172	food_drink	banana	banana	banana						172
+item_173	food_drink	bia	food	food						173
+item_175	food_drink	bocaire	muffin			muffin				175
+item_177	food_drink	burgar	burger	burger						177
+item_178	food_drink	briosca	biscuit	biscuit						178
+item_180	food_drink	cabáiste	cabbage	cabbage						180
+item_182	food_drink	cáca	cake	cake						182
+item_184	food_drink	caife	coffee	coffee						184
+item_185	food_drink	cairéid	carrot	carrot						185
+item_187	food_drink	cáis	cheese	cheese						187
+item_189	food_drink	calóg arbhair	cornflakes	cornflakes						189
+item_191	food_drink	caora fínúna	grapes	grapes						191
+item_193	food_drink	ceapaire	sandwich	sandwich						193
+item_195	food_drink	cnaipíní sicín	chicken nuggets	chicken nuggets						195
+item_197	food_drink	cnónna	nuts	nuts						197
+item_199	food_drink	coke	coke	soda						199
+item_200	food_drink	criospaí	crisps	crisps						200
+item_202	food_drink	cucumber	cucumber	cucumber						202
+item_203	food_drink	deoch	drink	drink (liquid)						203
+item_205	food_drink	taoschnó	donut			pastry				205
+item_207	food_drink	feoil	meat	meat						207
+item_209	food_drink	glóthach	jelly	jelly						209
+item_211	food_drink	iasc	fish	fish (food)						211
+item_213	food_drink	im	butter	butter						213
+item_215	food_drink	iógart	yoghurt	yogurt						215
+item_216	food_drink	ispíní	sausages	sausages						216
+item_218	food_drink	leite	porridge	porridge						218
+item_220	food_drink	liamhás	ham	ham						220
+item_222	food_drink	líreacán	lollipop	lollipop						222
+item_224	food_drink	mil	honey	honey						224
+item_226	food_drink	milseáin	sweets	sweets						226
+item_229	food_drink	oráiste	orange	orange (food)						229
+item_230	food_drink	pancóg	pancake	pancake						230
+item_232	food_drink	pasta	pasta	pasta						232
+item_233	food_drink	piorra	pear	pear						233
+item_235	food_drink	pizza	pizza	pizza						235
+item_236	food_drink	piseanna	peas	peas						236
+item_238	food_drink	pónairí	beans	beans						238
+item_240	food_drink	práta	potato	potato						240
+item_242	food_drink	reoiteog	icepop	ice pop						242
+item_244	food_drink	rísín	raisin	raisin						244
+item_246	food_drink	salann	salt	salt						246
+item_248	food_drink	sceallóga	chips	chips						248
+item_250	food_drink	seacláid	chocolate	chocolate						250
+item_252	food_drink	slisíní	rashers	rashers						252
+item_254	food_drink	spagetti	spagetti	spagetti						254
+item_256	food_drink	sú talún	strawberry	strawberry						256
+item_257	food_drink	sú	juice	juice						257
+item_259	food_drink	subh	jam	jam						259
+item_261	food_drink	tae	tea	tea						261
+item_263	food_drink	tornapa	turnip	turnip						263
+item_265	food_drink	tósta	toast	toast						265
+item_267	food_drink	tráta	tomato	tomato						267
+item_269	food_drink	uachtarreoite	icecream	ice cream						269
+item_271	food_drink	ubh	egg	egg						271
+item_273	food_drink	uisce	water	water (beverage)						273
+item_275	food_drink	úll	apple	apple						275
+item_277	clothing	bibe	bib	bib						277
+item_279	clothing	bríste	trousers	pants						279
+item_281	clothing	brístegearra	shorts	shorts						281
+item_283	clothing	bróga	shoes	shoes						283
+item_285	clothing	brógareatha	runners	runners						285
+item_287	clothing	buataisí	boots	boots						287
+item_289	clothing	caipín	cap	hat		hat				289
+item_291	clothing	cairdigean	cardigan	cardigan						291
+item_292	clothing	clúidín	nappy	nappy						292
+item_294	clothing	cnaipe	button	button						294
+item_296	clothing	cóta	coat	coat						296
+item_298	clothing	crios	belt	crios						298
+item_300	clothing	culaithleapa	pijamas	pajamas						300
+item_302	clothing	culaithsnámha	swimming costume	swimming togs						302
+item_304	clothing	éadaí	clothes	clothes						304
+item_306	clothing	fáinne	ring	ring						306
+item_308	clothing	fobhríste	underpants	underpants						308
+item_310	clothing	geansaí	jumper	jumper						310
+item_312	clothing	gúna	dress	dress						312
+item_314	clothing	hata	hat	hat						314
+item_316	clothing	lámhainní	gloves	gloves						316
+item_318	clothing	léine	shirt	shirt						318
+item_320	clothing	riteoga	tights	tights						320
+item_322	clothing	scairf	scarf	scarf						322
+item_323	clothing	sciorta	skirt	skirt						323
+item_325	clothing	seaicéad	skirt	skirt	jacket	jacket				325
+item_326	clothing	jacket	jacket	jacket						326
+item_327	clothing	zip	zip	zip						327
+item_328	clothing	slipéir	slipper	slipper						328
+item_330	clothing	spéaclaí	slipper	slipper	glasses	glasses				330
+item_331	clothing	glasses	glasses	glasses						331
+item_332	clothing	stocaí	socks	sock						332
+item_335	clothing	t-léine	tshirt	shirt		t-shirt				335
+item_336	clothing	veist	vest	vest						336
+item_338	body_parts	aghaidh	face	face						338
+item_340	body_parts	barraicíní	toes	toes		toe				340
+item_342	body_parts	béal	mouth	mouth						342
+item_344	body_parts	beola	lips	lips						344
+item_346	body_parts	bolg	tummy	tummy						346
+item_348	body_parts	ceann	head	head						348
+item_350	body_parts	cluasa	ears	ear		ear				350
+item_352	body_parts	cos	foot	foot						352
+item_354	body_parts	droim	back	back						354
+item_356	body_parts	fiacla	teeth	tooth		teeth				356
+item_358	body_parts	glúin	knee	knee						358
+item_360	body_parts	gruaig	hair	hair						360
+item_362	body_parts	gualainn	shoulder(s)			shoulder				362
+item_364	body_parts	lámh	hand	hand						364
+item_366	body_parts	leiceann	cheek	cheek						366
+item_368	body_parts	lúidín	little finger							368
+item_369	body_parts	mala	eyebrow			eyebrows				369
+item_371	body_parts	méar	finger	finger						371
+item_373	body_parts	muineál	neck	neck						373
+item_375	body_parts	ordóg	thumb	thumb						375
+item_377	body_parts	pilibín	willy	penis	penis					377
+item_379	body_parts	smig	chin	chin						379
+item_381	body_parts	srón	nose	nose						381
+item_383	body_parts	scornach	throat	throat						383
+item_385	body_parts	súil	eye	eye						385
+item_387	body_parts	teanga	tongue	tongue			can be tongue or language 			387
+item_389	body_parts	tóin	bottom	butt						389
+item_391	body_parts	uilinn	elbow	elbow						391
+item_393	household	airgead	money	money						393
+item_395	household	babhla	bowl	bowl						395
+item_397	household	bascaed	basket	basket			would use ciseán			397
+item_399	household	blaincéad	blanket	blanket						399
+item_401	household	bord	table	table						401
+item_403	household	bosca	box	box						403
+item_406	household	bosca bruscair	dustbin	bin						406
+item_407	household	bruscar	rubbish	trash			rubbish			407
+item_409	household	buicéad	bucket	bucket						409
+item_411	household	buidéal	bottle	bottle						411
+item_413	household	casúr	hammer	hammer						413
+item_415	household	ceamara	camera	camera						415
+item_417	household	cíor	comb	comb						417
+item_419	household	ciotal	kettle			kettle				419
+item_420	household	ciarsúir	tissue	tissue						420
+item_422	household	folúsghlantóir	hoover		vacuum cleaner	vacuum				422
+item_424	household	guthán póca	mobile phone	phone						424
+item_426	household	forc	fork	fork						426
+item_427	household	gallúnach	soap	soap						427
+item_429	household	gloine	glass	glass						429
+item_431	household	lampa	lamp	lamp						431
+item_433	household	leigheas	medicine	medicine						433
+item_435	household	mála	bag	bag						435
+item_437	household	mapa	map	map						437
+item_439	household	muga	mug	cup						439
+item_441	household	páipéar	paper	paper						441
+item_443	household	pingin	penny	penny						443
+item_445	household	pictúir	picture	picture						445
+item_447	household	radio	radio	radio						447
+item_448	household	sáspan	saucepan			pot				448
+item_450	household	scáthán	mirror	mirror						450
+item_452	household	scian	knife	knife						452
+item_454	household	sconna	tap	tap						454
+item_456	household	scuab	brush	brush						456
+item_458	household	scuab fiacla	toothbrush	toothbrush						458
+item_460	household	seampú	shampoo	shampoo						460
+item_461	household	siosúr	scissors	scissors						461
+item_463	household	solas	light	light		light (object)				463
+item_465	household	spúnóg	spoon	spoon						465
+item_467	household	taephota	teapot	teapot						467
+item_469	household	taos fiacla	toothpaste	toothpaste						469
+item_471	household	teileafón	telephone	telephone						471
+item_473	household	clog	clock	clock						473
+item_475	household	crúiscín	jug	jug						475
+item_477	household	cupán	cup	cup						477
+item_479	household	eochair	key	key						479
+item_481	household	piliúr	pillow	pillow						481
+item_483	household	planda	plant	plant						483
+item_485	household	pláta	plate	plate						485
+item_487	household	pota	pot	pot						487
+item_489	household	téip	tape	tape						489
+item_490	household	túaille	towel	towel						490
+item_492	household	uaireadóir	watch	watch (object)						492
+item_494	furniture_rooms	beithilín	cot		crib	crib				494
+item_496	furniture_rooms	cathaoir	chair	chair						496
+item_498	furniture_rooms	cathaoir ard	highchair	highchair						498
+item_500	furniture_rooms	cistin	kitchen	kitchen						500
+item_502	furniture_rooms	cith	shower	shower						502
+item_504	furniture_rooms	cófra	cupboard	cupboard						504
+item_506	furniture_rooms	cuisneoir	fridge	refrigerator	refrigerator					506
+item_508	furniture_rooms	doirteal	sink	sink						508
+item_510	furniture_rooms	doras	door	door						510
+item_512	furniture_rooms	folcadán	bath	bath						512
+item_514	furniture_rooms	fuinneog	window	window						514
+item_516	furniture_rooms	garáiste	garage	garage						516
+item_518	furniture_rooms	leaba	bed	bed						518
+item_520	furniture_rooms	leithreas	toilet	toilet						520
+item_522	furniture_rooms	meaisín níócháín	washing machine	washing machine						522
+item_524	furniture_rooms	oigheann	oven	oven						524
+item_526	furniture_rooms	potabeag	potty	potty						526
+item_528	furniture_rooms	seomra	room	room						528
+item_530	furniture_rooms	seomrafolctha	bathroom	bathroom						530
+item_532	furniture_rooms	seomraleapa	bedroom	bedroom						532
+item_534	furniture_rooms	seomrasuí	sitting room	living room						534
+item_536	furniture_rooms	seomrasúgartha	playroom	playroom						536
+item_538	furniture_rooms	sorn	cooker	cooker						538
+item_540	furniture_rooms	staighre	stairs	stairs						540
+item_542	furniture_rooms	stól	stool	chair						542
+item_544	furniture_rooms	tarraicéan	drawer	drawer						544
+item_546	furniture_rooms	teilifís	television	telly						546
+item_548	furniture_rooms	tine	fire	fire						548
+item_550	furniture_rooms	tolg	couch	couch	sofa					550
+item_552	furniture_rooms	urlár	floor	floor						552
+item_554	outside	báisteach	rain	rain						554
+item_556	outside	bata	stick	stick						556
+item_558	outside	bláth	flower	flower						558
+item_560	outside	bothán	shed	shed						560
+item_562	outside	bóthar	road	road						562
+item_564	outside	brat(ach)	flag	flag						564
+item_566	outside	buicéad	bucket	bucket						566
+item_568	outside	carraig	rock	rock						568
+item_570	outside	ceo	fog	fog						570
+item_572	outside	claí	fence	ditch						572
+item_574	outside	cloch	stone	stone						574
+item_576	outside	cosán	foot path	footpath						576
+item_578	outside	crann	tree	tree						578
+item_580	outside	díon	roof	roof						580
+item_582	outside	dréimire	ladder	ladder						582
+item_584	outside	falla	wall	wall						584
+item_586	outside	farraige	sea	sea						586
+item_588	outside	féar	grass	grass						588
+item_590	outside	fearsneachta	snowman	snowman						590
+item_592	outside	gaineamh	sand	sand						592
+item_594	outside	gairdín	garden	garden						594
+item_596	outside	gaoth	wind	wind						596
+item_598	outside	gealach	moon	moon						598
+item_600	outside	geata	gate	gate						600
+item_602	outside	grian	sun	sun						602
+item_604	outside	laí	shovel	shovel	pole					604
+item_606	outside	linnsnámha	(swimming) pool	pool						606
+item_608	outside	loch	pond		lake	lake				608
+item_610	outside	luascán	swings		swing (object)					610
+item_612	outside	réalta	stars	star						612
+item_614	outside	scamall	cloud	cloud						614
+item_616	outside	sceach	bush	bush						616
+item_618	outside	simléar	chimney	chimney						618
+item_620	outside	sleamhnán	slide	slide						620
+item_622	outside	sneachta	snow	snow						622
+item_624	outside	spéir	sky	sky						624
+item_626	outside	sráid	street	street						626
+item_628	outside	uisce	water	water (not beverage)						628
+item_630	places	abhaile	home	home						630
+item_632	places	aifreann	mass	mass						632
+item_634	places	amuigh	outside	outside						634
+item_636	places	campáil	camping	camping						636
+item_638	places	cathair	city	city						638
+item_640	places	coillte	forest	woods		forest				640
+item_642	places	cóisir	party	party						642
+item_644	places	feirm	farm	farm						644
+item_646	places	gort	field	field						646
+item_648	places	istigh	inside	inside						648
+item_650	places	obair	work	work						650
+item_652	places	ospidéal	hospital	hospital						652
+item_654	places	páirc	park	field						654
+item_656	places	naíonra	playschool	preschool			kindergarten?			656
+item_658	places	naíolann	creche	creche		nursery				658
+item_660	places	picnic	picnic	picnic						660
+item_661	places	scoil	school	school						661
+item_663	places	siopa	shop	shop						663
+item_665	places	sorcas	circus	circus						665
+item_666	places	teach	house	house						666
+item_668	places	trá	beach	beach						668
+item_670	places	zú	zoo	zoo						670
+item_673	people	ainm féin an pháiste	child's own name	child's own name						673
+item_675	people	ainm feighlí páistí	babysitter's name	babysitter's name						675
+item_677	people	ainm peata	pet's name	pet's name						677
+item_678	people	aintín	aunty	aunt	aunt	aunty				678
+item_680	people	bean	woman	woman						680
+item_682	people	buachaill	boy	boy						682
+item_684	people	cailín	girl	girl						684
+item_686	people	cara	friend	friend						686
+item_688	people	colceathrar	cousin	cousin	first cousins	cousin				688
+item_690	people	daideo	grandad	grandpa	grandad	grandad				690
+item_692	people	daidí	daddy	daddy						692
+item_693	people	daoine	people	people						693
+item_695	people	deartháir	brother	brother						695
+item_697	people	deirfiúr	sister	sister						697
+item_699	people	dochtúir	doctor	doctor						699
+item_701	people	duine	person	person						701
+item_703	people	fear	man	man						703
+item_705	people	feardóiteáin	fireman	fireman						705
+item_707	people	feargrinn	clown	clown						707
+item_709	people	fear an phoist	postman	postman 						709
+item_711	people	feirmeoir	farmer	farmer						711
+item_713	people	fiaclóir	dentist	dentist						713
+item_715	people	garda	policeman	policeman						715
+item_717	people	gruagaire	hairdresser	hairdresser						717
+item_719	people	leanbh	baby 	baby	infant					719
+item_721	people	mamaí	mommy	mommy	mammy	mammy				721
+item_722	people	mamó	granny	grandma	grandma	granny				722
+item_724	people	múinteoir	teacher	teacher						724
+item_726	people	páiste	child	child						726
+item_728	people	uncail	uncle	uncle						728
+item_729	games_routines	amhrán	song	song						729
+item_731	games_routines	an muicín seo	this little pig	this little pig		this littly piggy				731
+item_733	games_routines	barróg	hug	hug						733
+item_735	games_routines	béarfaidh mé ort	gonna get you	gonna get you						735
+item_737	games_routines	bricfeasta	breakfast	breakfast						737
+item_739	games_routines	cas timpeall	turn around	turn around						739
+item_741	games_routines	chím thú	I see you	i see you						741
+item_743	games_routines	chomh mór	so big	so big 						743
+item_745	games_routines	dia dhuit	hello	hello						745
+item_747	games_routines	dinnéar	dinner	dinner						747
+item_749	games_routines	folcadh	bath	bath						749
+item_751	games_routines	glaoch(gutháin)	phone call (call)		call (phone)	call on phone				751
+item_753	games_routines	go raibh maith agat	thank you	thank you						753
+item_755	games_routines	gráin	cuddle	hug	hatred	hate	form error!			755
+item_757	games_routines	gabh anseo	c'mere		come here	c'mere				757
+item_759	games_routines	in aon chor	at all	at all						759
+item_761	games_routines	(is) maith liom	I like	i like 						761
+item_763	games_routines	(is) breá  liom	I love	i love 						763
+item_765	games_routines	(is) liomsa é	mine	mine	its is mine	it's mine 				765
+item_767	games_routines	más é do thoil é	please	please						767
+item_769	games_routines	lón	lunch	lunch						769
+item_771	games_routines	ní maith	don't like	don't like						771
+item_773	games_routines	n'fheadar	dunno		I don't know 	dunno				773
+item_775	games_routines	no	no	no						775
+item_776	games_routines	oíche mhaith	good night	good night						776
+item_778	games_routines	póigín	kiss	kiss						778
+item_780	games_routines	sea	yea		yes	yes				780
+item_781	games_routines	seachain	look out		be careful (of)					781
+item_783	games_routines	shh	shh	shh						783
+item_784	games_routines	siopadóireacht	shopping	shopping						784
+item_786	games_routines	slán	bye	bye	goodbye					786
+item_788	games_routines	tabhair dom	gimme		give me	gimme				788
+item_790	action_words	abair	say	say						790
+item_792	action_words	aithin	know		recognise	know				792
+item_794	action_words	ardaigh	lift	lift (action)		lift (action)				794
+item_796	action_words	bain	take	take	remove					796
+item_798	action_words	beir(ar)	catch	catch						798
+item_800	action_words	blais	taste	taste						800
+item_802	action_words	bolaigh	smell	smell						802
+item_804	action_words	bris	break	break						804
+item_806	action_words	cuimil	wipe	wipe						806
+item_808	action_words	cuir	put	put						808
+item_810	action_words	damhsaigh	dance	dance						810
+item_812	action_words	dathaigh	colour	colour						812
+item_814	action_words	déan	do	do						814
+item_816	action_words	doirt	spill	spill						816
+item_818	action_words	dreap	climb	climb						818
+item_820	action_words	dúisigh	wake	wake						820
+item_822	action_words	oscail	open	open						822
+item_824	action_words	péinteáíl	paint	paint						824
+item_826	action_words	pioc	pick	pick	choose					826
+item_828	action_words	póg	kiss	kiss						828
+item_830	action_words	réab	tear	tear		rip				830
+item_832	action_words	rith	run	run						832
+item_834	action_words	roinn	share	share						834
+item_836	action_words	sceamh	bark	bark						836
+item_838	action_words	brostaigh	hurry	hurry						838
+item_840	action_words	brúigh	push	push						840
+item_842	action_words	buaigh	win	win						842
+item_844	action_words	buail	hit	hit						844
+item_846	action_words	bualadh bos	clap	clap	applause					846
+item_848	action_words	cabhraigh	help	help						848
+item_850	action_words	labhair	talk	talk						850
+item_852	action_words	caith	throw	throw						852
+item_854	action_words	can	sing	sing						854
+item_856	action_words	caoin	cry	cry						856
+item_858	action_words	cas	turn	turn						858
+item_860	action_words	ceannaigh	buy	buy						860
+item_862	action_words	ceap	think	think						862
+item_864	action_words	ciceáil	kick	kick						864
+item_866	action_words	cigil	tickle	tickle						866
+item_868	action_words	cíor	comb	comb						868
+item_870	action_words	clois	hear	hear						870
+item_872	action_words	clúdaigh	cover	cover						872
+item_874	action_words	cnag	knock	knock						874
+item_876	action_words	cócaráil	cook	cook						876
+item_878	action_words	codail	sleep	sleep						878
+item_880	action_words	coimeád	keep	keep						880
+item_882	action_words	críochnaigh	finish	finish						882
+item_884	action_words	croith	wave	wave	shake	shake				884
+item_886	action_words	dún	close	close						886
+item_888	action_words	éist	listen	listen						888
+item_890	action_words	fág	leave	leave						890
+item_892	action_words	faigh	find	find						892
+item_894	action_words	fan	wait	wait						894
+item_896	action_words	féach	look	look						896
+item_898	action_words	feic	see	see						898
+item_900	action_words	gáir	laugh	laugh						900
+item_902	action_words	gearr	cut	cut						902
+item_904	action_words	glan	clean	clean						904
+item_906	action_words	imir	play	play						906
+item_908	action_words	inis	tell	tell						908
+item_910	action_words	ith	eat	eat						910
+item_912	action_words	léigh	read	read						912
+item_914	action_words	léim	jump	jump						914
+item_916	action_words	ligh	lick	lick						916
+item_918	action_words	línigh	draw	draw	line	line				918
+item_920	action_words	luasc	swing	swing						920
+item_922	action_words	luigh síos	lie down	lie down						922
+item_924	action_words	magadh	joke	joke						924
+item_926	action_words	miongháire	smile	smile						926
+item_928	action_words	nigh	wash	wash						928
+item_930	action_words	oibrigh	work	work						930
+item_932	action_words	ól	drink	drink						932
+item_934	action_words	sciorr	slide	slip						934
+item_936	action_words	scríobh	write	write						936
+item_938	action_words	scuab	brush	brush						938
+item_940	action_words	seas	stand	stand						940
+item_942	action_words	séid	blow	blow						942
+item_944	action_words	siúl	walk	walk						944
+item_946	action_words	snámh	swim	swim						946
+item_948	action_words	socraigh	fix	fix						948
+item_950	action_words	stad	stop	stop						950
+item_952	action_words	steall	splash	splash						952
+item_954	action_words	suigh(síos)	sit (down)	sit						954
+item_956	action_words	tabhair	give	give						956
+item_958	action_words	taispeáin	show	show						958
+item_960	action_words	tar	come	come						960
+item_962	action_words	tarraing	pull	pull						962
+item_964	action_words	téigh	go	go						964
+item_966	action_words	tiomáin	drive	drive						966
+item_968	action_words	tit	fall	fall						968
+item_970	action_words	tóg	take	take						970
+item_972	action_words	tosaigh	start	start						972
+item_974	action_words	triomaigh	dry	dry (action)						974
+item_976	action_words	troid	fight	fight						976
+item_978	action_words	tuig	understand	understand						978
+item_980	action_words	ard	high	high						980
+item_982	descriptive_words	báistí	rainy		rain	rain				982
+item_984	descriptive_words	bán	white	white						984
+item_986	descriptive_words	beag	small	small						986
+item_988	descriptive_words	bídeach	tiny	tiny						988
+item_990	descriptive_words	bocht	poor	poor						990
+item_992	descriptive_words	bog	soft	soft						992
+item_994	descriptive_words	briste	broken	broken						994
+item_996	descriptive_words	brónach	sad	sad						996
+item_998	descriptive_words	buí	yellow	yellow						998
+item_1000	descriptive_words	céad	first	first						1000
+item_1002	descriptive_words	ceomhar	foggy	foggy						1002
+item_1004	descriptive_words	cineálta	kind	kind						1004
+item_1006	descriptive_words	ciúin	quiet	quiet						1006
+item_1008	descriptive_words	corcra	purple	purple						1008
+item_1010	descriptive_words	crua	hard	hard						1010
+item_1012	descriptive_words	cúramach	careful	careful						1012
+item_1014	descriptive_words	dána	bold	bold						1014
+item_1016	descriptive_words	dearg	red	red						1016
+item_1018	descriptive_words	deireanach	last	last						1018
+item_1020	descriptive_words	gortaithe	hurt	hurt						1020
+item_1022	descriptive_words	deas	nice	nice						1022
+item_1024	descriptive_words	déanta	finished	finished						1024
+item_1026	descriptive_words	donn	brown	brown						1026
+item_1028	descriptive_words	dorcha	dark	dark						1028
+item_1030	descriptive_words	dubh	black	black						1030
+item_1032	descriptive_words	(ina)codladh	asleep	asleep						1032
+item_1034	descriptive_words	(ina)dúiseacht	awake	awake						1034
+item_1036	descriptive_words	éadrom	light	light						1036
+item_1038	descriptive_words	eaglach	scared	scared	fearful					1038
+item_1040	descriptive_words	fada	long	long						1040
+item_1042	descriptive_words	feargach	angry	angry						1042
+item_1044	descriptive_words	(is)fearr	prefer		preferred	best				1044
+item_1046	descriptive_words	fliuch	wet	wet						1046
+item_1048	descriptive_words	folamh	empty	empty						1048
+item_1050	descriptive_words	fuar	cold	cold						1050
+item_1052	descriptive_words	gaofar	windy	windy						1052
+item_1054	descriptive_words	gearr	short	short						1054
+item_1056	descriptive_words	glan	clean	clean						1056
+item_1058	descriptive_words	glas	green	green						1058
+item_1060	descriptive_words	gleoite	pretty	pretty	cute	cute				1060
+item_1062	descriptive_words	glic	clever	clever						1062
+item_1064	descriptive_words	imithe	(all) gone	gone						1064
+item_1066	descriptive_words	mall	slow	slow						1066
+item_1068	descriptive_words	míshlachtmhar	messy	messy						1068
+item_1070	descriptive_words	mór	big	big						1070
+item_1072	descriptive_words	nua	new	new						1072
+item_1074	descriptive_words	ocrach	hungry	hungry						1074
+item_1076	descriptive_words	oráiste	orange	orage		orange (description)				1076
+item_1078	descriptive_words	ramhar	fat	fat						1078
+item_1080	descriptive_words	salach	dirty	dirty						1080
+item_1082	descriptive_words	sean	old	old						1082
+item_1084	descriptive_words	sona	happy	happy						1084
+item_1086	descriptive_words	tapa	fast	fast						1086
+item_1088	descriptive_words	tartmhar	thirsty	thirsty						1088
+item_1090	descriptive_words	te	hot	hot						1090
+item_1092	descriptive_words	tinn	sick	sick						1092
+item_1094	descriptive_words	tirim	dry	dry (description)						1094
+item_1096	descriptive_words	trom	heavy	heavy						1096
+item_1098	descriptive_words	tuirseach	tired	tired						1098
+item_1100	descriptive_words	uafásach	yucky	yucky	horrible					1100
+item_1102	descriptive_words	ullamh	ready	ready						1102
+item_1104	time_words	am	time	time						1104
+item_1106	time_words	amárach	tomorrow	tomorrow						1106
+item_1108	time_words	anocht	tonight	tonight						1108
+item_1110	time_words	anois	now	now						1110
+item_1112	time_words	ar ball	later	later						1112
+item_1114	time_words	inné	yesterday	yesterday						1114
+item_1116	time_words	inniu	today	today						1116
+item_1118	time_words	lá	day	day						1118
+item_1120	time_words	maidin	morning	morning						1120
+item_1122	time_words	oíche	night	night						1122
+item_1124	time_words	tar éis	after	after						1124
+item_1126	time_words	tráthnóna	afternoon			afternoon				1126
+item_1128	pronouns	a	his/her/their	his/her/their						1128
+item_1132	pronouns	ár	our	our						1132
+item_1134	pronouns	ceann	one	one (of)						1134
+item_1136	pronouns	do	your	your						1136
+item_1138	pronouns	é	it/he/him	it/he						1138
+item_1140	pronouns	féin	(my)self	me						1140
+item_1142	pronouns	í	she/her/it	she/her						1142
+item_1146	pronouns	iad	they/them	they/them						1146
+item_1149	pronouns	mé	me	me						1149
+item_1151	pronouns	mise	me	me						1151
+item_1152	pronouns	mo	my	my						1152
+item_1154	pronouns	muid	we	we						1154
+item_1156	pronouns	sé	he	he						1156
+item_1158	pronouns	seo	this	this						1158
+item_1160	pronouns	sí	she	she						1160
+item_1162	pronouns	siad	they	they						1162
+item_1164	pronouns	sibh	you (pl)	ye						1164
+item_1166	pronouns	sin	that	that						1166
+item_1168	pronouns	tú	you	you						1168
+item_1170	pronouns	tusa	hey you	you	you					1170
+item_1171	prepositional_pronouns	agam	at me		i have					1171
+item_1172	prepositional_pronouns	agat	at you		you have					1172
+item_1173	prepositional_pronouns	aige	at him		he has					1173
+item_1174	prepositional_pronouns	aici	at her		she has					1174
+item_1175	prepositional_pronouns	againn	at us		we have 					1175
+item_1176	prepositional_pronouns	dom	to me		for/to me					1176
+item_1177	prepositional_pronouns	duit	to you		for/to you					1177
+item_1178	prepositional_pronouns	dúinn	to us		for/to us					1178
+item_1179	prepositional_pronouns	liom	with me		with me					1179
+item_1180	prepositional_pronouns	leat	with you		with you					1180
+item_1181	prepositional_pronouns	leis	with him	with him						1181
+item_1182	prepositional_pronouns	leí	with her	with her						1182
+item_1183	prepositional_pronouns	linn	with us	with us						1183
+item_1184	prepositional_pronouns	orm	on me	on me						1184
+item_1185	prepositional_pronouns	ort	on you	on you						1185
+item_1186	prepositional_pronouns	air	on him	on him						1186
+item_1187	prepositional_pronouns	uirthi	on her	on her						1187
+item_1188	prepositional_pronouns	orainn	on us	on us						1188
+item_1189	prepositional_pronouns	díom	off me	off me						1189
+item_1190	prepositional_pronouns	díot	off you	off you						1190
+item_1191	prepositional_pronouns	uaim	from me	from me						1191
+item_1192	prepositional_pronouns	uait	from you	from you						1192
+item_1193	prepositional_pronouns	uaidh	from him	from him						1193
+item_1194	prepositional_pronouns	uainn	from us	from us						1194
+item_1195	question_words	cáil	where	where (question)	fame/reputation	fame	cá bhfuil' (colloquially pronounced like cáil) is the question for 'where' - cáil itself means fame			1195
+item_1197	question_words	cad	what	what						1197
+item_1199	question_words	cathain	when	when (question)						1199
+item_1201	question_words	cé	who	who						1201
+item_1203	question_words	cé acu	which	which (question)						1203
+item_1205	question_words	cén fáth	why	why						1205
+item_1207	question_words	conas	how	how						1207
+item_1209	locations	ag	at	at						1209
+item_1211	locations	áit	place	place						1211
+item_1213	locations	ann	there	there						1213
+item_1215	locations	ansin	there (in that place)	there						1215
+item_1217	locations	anuas	downward	down						1217
+item_1219	locations	aníos	upward	up						1219
+item_1221	locations	anseo	here	here						1221
+item_1223	locations	ar	on	on						1223
+item_1225	locations	ar barr	on top of	on top 						1225
+item_1227	locations	amach	out	out						1227
+item_1229	locations	as	of	of						1229
+item_1231	locations	barr	top	top						1231
+item_1233	locations	bun	bottom	bottom						1233
+item_1235	locations	cúl	behind	back of						1235
+item_1237	locations	de	off	off						1237
+item_1239	locations	do	for	for						1239
+item_1241	locations	faoi	under	under						1241
+item_1243	locations	chun	to	to						1243
+item_1245	locations	i bhfad	far	far						1245
+item_1247	locations	i	in	in						1247
+item_1249	locations	in aice	beside	next to						1249
+item_1251	locations	isteach	inside	inside						1251
+item_1253	locations	lár	middle	middle						1253
+item_1255	locations	lasmuigh	outside	outside						1255
+item_1257	locations	le	with	with						1257
+item_1259	locations	ó	from	from						1259
+item_1261	locations	síos	down	down						1261
+item_1263	locations	suas	up	up						1263
+item_1265	locations	taobh	side	side						1265
+item_1267	locations	thar	over	over						1267
+item_1269	locations	timpeall	round	around						1269
+item_1271	locations	transna	across	across						1271
+item_1274	quantifiers	a lán	many	a lot						1274
+item_1276	quantifiers	an	the	the						1276
+item_1278	quantifiers	ana	very	really						1278
+item_1280	quantifiers	aon ceann	any(thing)	any						1280
+item_1282	quantifiers	aon	one	one						1282
+item_1284	quantifiers	arís	again	again						1284
+item_1286	quantifiers	breis	more	more	extra/more	more				1286
+item_1288	quantifiers	céanna	same	same						1288
+item_1290	quantifiers	eile	another	another						1290
+item_1292	quantifiers	gach	each		every	every				1292
+item_1294	quantifiers	gach aon	every		every (one of)	every				1294
+item_1296	quantifiers	gan	none	none	without	without				1296
+item_1298	quantifiers	mórán	many	many						1298
+item_1300	quantifiers	na	na		the (plural)	the				1300
+item_1301	quantifiers	píosa	piece			piece				1301
+item_1303	quantifiers	ró	too			too				1303
+item_1305	quantifiers	roinnt	some	some						1305
+item_1307	quantifiers	saghas	kind of			sort of				1307
+item_1309	helping_verbs	(ag)iarraidh	try (to)			try to				1309
+item_1311	helping_verbs	(is)féidir	can	can						1311
+item_1313	helping_verbs	beidh	will be			will be				1313
+item_1315	helping_verbs	bhfuil	is			is				1315
+item_1316	helping_verbs	bhí	was			was				1316
+item_1318	helping_verbs	bí	be	be		to be				1318
+item_1320	helping_verbs	bíonn	am			is				1320
+item_1322	helping_verbs	caithfidh	have to		has to	has to				1322
+item_1324	helping_verbs	is	is			is				1324
+item_1326	helping_verbs	lig(dom)	lemme		let (me)	lemme				1326
+item_1328	helping_verbs	ná	don't	don't						1328
+item_1330	helping_verbs	ní(hea)	not	not		not				1330
+item_1332	helping_verbs	níl	isn't			isn't				1332
+item_1334	helping_verbs	níor	didn't			did not				1334
+item_1336	helping_verbs	raibh	thank you	thank you	was	was				1336
+item_1337	helping_verbs	tá	yes	yes		yes				1337
+item_1338	helping_verbs	teastaigh	wanna	wanna	wanted/needed	wanna				1338
+item_1340	connecting_words	ach	but	ach		but				1340
+item_1342	connecting_words	agus	and	agus		and				1342
+item_1344	connecting_words	ansin	then			then				1344
+item_1346	connecting_words	chomh	so			so				1346
+item_1348	connecting_words	dá	if			if				1348
+item_1350	connecting_words	mar	because			because				1350
+item_1352	connecting_words	huair	when	cathain	when/hour	when				1352

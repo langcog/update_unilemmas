@@ -47,6 +47,7 @@ new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (location)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
 
 
 # save updated instrument(s)

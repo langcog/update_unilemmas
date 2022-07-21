@@ -157,6 +157,13 @@ new_items[which(new_items$uni_lemma=="far away"),]$uni_lemma = "far"
 new_items[which(new_items$uni_lemma=="not much"),]$uni_lemma = "a little"
 new_items[which(new_items$uni_lemma=="coo coo"),]$uni_lemma = "coo"
 
+new_items[which(new_items$definition=="tuvu"),]$uni_lemma = "near"
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="iron"),]$uni_lemma = "iron (object)"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (action)"
+
 
 # ToDo: check empty uni-lemmas ("")
 new_items[which(new_items$uni_lemma==""),]

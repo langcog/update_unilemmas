@@ -79,7 +79,7 @@ item_77,d5dol,word,toys,produces,Doli/Kinyago,NA,Doll,doll
 item_78,d3bokita,word,toys,produces,Kitabu,NA,Book,book
 item_79,d7gammch,word,toys,produces,Mchezo,NA,Game/Play,game
 item_80,d1balmpi,word,toys,produces,Mpira/Boli,NA,Ball,ball
-item_81,d14glung,word,toys,produces,Ngamu/Gundi/Gamu,NA,Glue,glue
+item_81,d14glung,word,toys,produces,Ngamu/Gundi/Gamu,NA,Glue,glue (object)
 item_82,d16penpe,word,toys,produces,Penseli,NA,Pencil,pencil
 item_83,d13colpe,word,toys,produces,Penseli rangi/Colour/Rangi,NA,colouring pencil/crayons,NA
 item_84,d6foapov,word,toys,produces,Povu,NA,Foam/bubbles,bubbles
@@ -213,7 +213,7 @@ item_210,g6finkuc,word,body_parts,produces,Kucha,NA,Fingernail,nail (body part)
 item_211,g1butmak,word,body_parts,produces,Makalio/matako,NA,Buttocks,butt
 item_212,g16bacmg,word,body_parts,produces,Mgongo,NA,Back,back (body part)
 item_213,g10legmg,word,body_parts,produces,Mguu,NA,Leg,leg
-item_214,g11moumi,word,body_parts,produces,Midomo,NA,Mouth,lips
+item_214,g11moumi,word,body_parts,produces,Midomo,NA,Mouth,lip
 item_215,g8hanmuk,word,body_parts,produces,Mkono,NA,Hand,hand
 item_216,g19feeny,word,body_parts,produces,Nyayo,NA,Feet,foot
 item_217,g7hainyw,word,body_parts,produces,Nywele,NA,Hair,hair
@@ -532,7 +532,7 @@ item_526,o51thiki,word,descriptive_words (adjectives),produces,kiu,NA,thirsty,th
 item_527,o19bigku,word,descriptive_words (adjectives),produces,Kubwa,NA,Big,big
 item_528,o30firkw,word,descriptive_words (adjectives),produces,kwanza,NA,First,first
 item_529,o49sofla,word,descriptive_words (adjectives),produces,Laini,NA,Soft,soft
-item_530,o32getlo,word,descriptive_words (adjectives),produces,Lovu,NA,Get wet,wet
+item_530,o32getlo,word,descriptive_words (adjectives),produces,Lovu,NA,Get wet,wet (description)
 item_531,o16alema,word,descriptive_words (adjectives),produces,Macho/makini,NA,Alert,alert
 item_532,o18beama,word,descriptive_words (adjectives),produces,Maridadi/Smart,NA,"Beautiful, Smart",smart
 item_533,o9hotmo,word,descriptive_words (adjectives),produces,Moto/Choma,NA,Hot/fire,hot

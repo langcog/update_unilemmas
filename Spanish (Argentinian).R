@@ -42,6 +42,14 @@ new_items[which(new_items$uni_lemma=="dry"),]$uni_lemma = "dry (description)"
 new_items[which(new_items$uni_lemma=="clothing"),]$uni_lemma = "clothes"
 new_items[which(new_items$uni_lemma=="bang"),]$uni_lemma = "bang bang"
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="skates"),]$uni_lemma = "skate (object)" 
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="iron"),]$uni_lemma = "iron (object)"
+new_items[which(new_items$uni_lemma=="cut (action)"),]$uni_lemma = "cut"
+new_items[which(new_items$uni_lemma=="burn (action)"),]$uni_lemma = "burn"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
 
 
 new_items[which(new_items$uni_lemma==""),] # 27 undefined uni-lemmas

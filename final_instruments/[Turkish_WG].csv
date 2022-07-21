@@ -47,7 +47,7 @@ Gül,action_words,Gul,word,understands; produces,NA,item_299,laugh,laugh
 İn,action_words,In,word,understands; produces,NA,item_303,get off/come down,get off
 Isır,action_words,Isir,word,understands; produces,NA,item_300,bite,bite
 Islan,action_words,Islan,word,understands; produces,NA,item_301,get wet,wet (action)
-İste,action_words,Iste,word,understands; produces,NA,item_304,want,wanna
+İste,action_words,Iste,word,understands; produces,NA,item_304,want,want
 İt,action_words,It,word,understands; produces,NA,item_305,push,push
 Kaldır,action_words,Kaldir,word,understands; produces,NA,item_306,lift/pick up,lift (action)
 Kalk,action_words,Kalk,word,understands; produces,NA,item_307,stand,stand
@@ -157,7 +157,7 @@ Güzel,descriptive_words,Guzel,word,understands; produces,NA,item_358,beautiful,
 Hasta,descriptive_words,Hasta,word,understands; produces,NA,item_359,sick/ill,sick
 Islak,descriptive_words,Islak,word,understands; produces,NA,item_360,wet,wet (description)
 İyi,descriptive_words,Iyi,word,understands; produces,NA,item_361,good,good
-Kapalı,descriptive_words,Kapali,word,understands; produces,NA,item_362,closed,closed (description)
+Kapalı,descriptive_words,Kapali,word,understands; produces,NA,item_362,closed,closed
 Karanlık,descriptive_words,Karanlik_,word,understands; produces,NA,item_363,dark,dark
 Kirli,descriptive_words,Kirli,word,understands; produces,NA,item_365,dirty,dirty
 Kırmızı,descriptive_words,Kirmizi,word,understands; produces,NA,item_364,red,red

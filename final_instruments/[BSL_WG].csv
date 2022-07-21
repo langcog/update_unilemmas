@@ -39,7 +39,7 @@ item_58,clothesdress,word,clothing,understands; produces,clothes/dress,clothes/d
 item_59,coatjacket,word,clothing,understands; produces,coat/jacket,coat/jacket,coat
 item_60,nappy,word,clothing,understands; produces,nappy,nappy,diaper
 item_61,earring,word,clothing,understands; produces,earring,earring,earring
-item_62,gloves,word,clothing,understands; produces,gloves,gloves,gloves
+item_62,gloves,word,clothing,understands; produces,gloves,gloves,glove
 item_63,hat,word,clothing,understands; produces,hat,hat,hat
 item_64,hearingaid,word,clothing,understands; produces,hearing aid,hearing aid,
 item_65,necklace,word,clothing,understands; produces,necklace,necklace,necklace
@@ -225,7 +225,7 @@ item_244,hand,word,body_parts,understands; produces,hand,hand,hand
 item_245,head,word,body_parts,understands; produces,head,head,head
 item_246,knee,word,body_parts,understands; produces,knee,knee,knee
 item_247,leg,word,body_parts,understands; produces,leg,leg,leg
-item_248,lips,word,body_parts,understands; produces,lips,lips,lips
+item_248,lips,word,body_parts,understands; produces,lips,lips,lip
 item_249,mouth,word,body_parts,understands; produces,mouth,mouth,mouth
 item_250,nose,word,body_parts,understands; produces,nose,nose,nose
 item_251,cuthurt,word,body_parts,understands; produces,cut/hurt,cut/hurt,hurt (description)
@@ -441,7 +441,7 @@ item_460,share,word,action_words,understands; produces,share,share,share
 item_461,show,word,action_words,understands; produces,show,show,show
 item_462,sign,word,action_words,understands; produces,sign,sign,
 item_463,sit,word,action_words,understands; produces,sit,sit,sit
-item_464,skate,word,action_words,understands; produces,skate,skate,skate
+item_464,skate,word,action_words,understands; produces,skate,skate,skate (action)
 item_465,sleep,word,action_words,understands; produces,sleep,sleep,sleep
 item_466,slideaction,word,action_words,understands; produces,slide (action),slide (action),slide (action)
 item_467,smile,word,action_words,understands; produces,smile,smile,smile

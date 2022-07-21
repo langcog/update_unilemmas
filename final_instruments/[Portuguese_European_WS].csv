@@ -8,7 +8,7 @@ item_6,cu_cu,word,sounds,produces,Cu-cu,NA,Cu_cu,Cu_cu (playing Peekaboo),NA,NA
 item_7,eh,word,sounds,produces,Eh!,NA,Eh,Eh (interjection),oh,NA
 item_8,ena,word,sounds,produces,Ena!,NA,Ena,"Ena (interjection, surprise)",oh,NA
 item_9,hi_hi,word,sounds,produces,Hi-hi (cavalo),NA,Hi_hi,Hi_hi (horse's sound),neigh,NA
-item_10,io_io,word,sounds,produces,I-ó / I-ó (burro),NA,Ió_ió,Ió_ió (donkey's sound),hee haw,NA
+item_10,io_io,word,sounds,produces,I-ó / I-ó (burro),NA,Ió_ió,Mé_mé (sheep's sound),hee haw,NA
 item_11,me_me,word,sounds,produces,Mé mé (ovelha),NA,Mé_mé,Mé_mé (sheep's sound),baa baa,NA
 item_12,miau,word,sounds,produces,Miau miau (gato),NA,Miau,Miau (cat's sound),meow,NA
 item_13,mu_muuu,word,sounds,produces,Mu-Muuu (vaca),NA,Mu_muuu,Mu_muuu (cow's sound),moo,NA
@@ -185,7 +185,7 @@ item_183,gancho,word,clothing,produces,Gancho,NA,Gancho,Hairpin,hair clip,NA
 item_184,gorro,word,clothing,produces,Gorro,NA,Gorro,Beanie,hat,NA
 item_185,guarda_chuva,word,clothing,produces,Guarda-Chuva / Chapéu de chuva,NA,Guarda_chuva,Umbrella,umbrella,NA
 item_186,kispo,word,clothing,produces,Kispo / Blusão,NA,Kispo,Jacket,jacket,NA
-item_187,luvas,word,clothing,produces,Luvas,NA,Luvas,Gloves,gloves,NA
+item_187,luvas,word,clothing,produces,Luvas,NA,Luvas,Gloves,glove,NA
 item_188,meias,word,clothing,produces,Meias,NA,Meias,Socks,sock,NA
 item_189,mochila,word,clothing,produces,Mochila,NA,Mochila,Backpack,bag,NA
 item_190,pantufas,word,clothing,produces,Pantufas,NA,Pantufas,Slipper,slipper,NA
@@ -512,9 +512,9 @@ item_510,doente,word,descriptive_words,produces,Doente,NA,Doente,ill/ sick,sick,
 item_511,duro,word,descriptive_words,produces,Duro,NA,Duro,Hard/ harsh/ tough/ stiff,hard,NA
 item_512,escuro,word,descriptive_words,produces,Escuro,NA,Escuro,Dark,dark,NA
 item_513,estragado,word,descriptive_words,produces,Estragado,NA,Estragado,Damaged/ rotten,bad,NA
-item_514,fechado,word,descriptive_words,produces,Fechado,NA,Fechado,Closed,closed (description),NA
+item_514,fechado,word,descriptive_words,produces,Fechado,NA,Fechado,Closed,closed,NA
 item_515,feio,word,descriptive_words,produces,Feio,NA,Feio,Ugly,ugly,NA
-item_516,fixe,word,descriptive_words,produces,Fixe,NA,Fixe,Cool (as in great! or as in the sentence My friend taught me a cool magic trick.),cool,NA
+item_516,fixe,word,descriptive_words,produces,Fixe,NA,Fixe,Cool (as in great! or as in the sentence My friend taught me a cool magic trick.),cool (description),NA
 item_517,fofo,word,descriptive_words,produces,Fofo,NA,Fofo,Fluffy,fluffy,NA
 item_518,frio,word,descriptive_words,produces,Frio,NA,Frio,Cold,cold,NA
 item_519,giro,word,descriptive_words,produces,Giro,NA,Giro,Cute/ pretty,cute,NA
@@ -607,7 +607,7 @@ item_605,longe,word,prepositions,produces,Longe,NA,Longe,Far,far,NA
 item_606,mal,word,prepositions,produces,Mal,NA,Mal,Badly,bad,NA
 item_607,na,word,prepositions,produces,Na,NA,Na,In/ At/ On the,in,NA
 item_608,no,word,prepositions,produces,No,NA,No,In/ At/ On the,in,NA
-item_609,perto,word,prepositions,produces,Perto,NA,Perto,Near,close,NA
+item_609,perto,word,prepositions,produces,Perto,NA,Perto,Near,near,NA
 item_610,a,word,quantifiers,produces,A / O,NA,A,"The (article before a noun, singular form)",the,NA
 item_611,as,word,quantifiers,produces,As / Os,NA,As,"The (article before a noun, plural)",the,NA
 item_612,cinco,word,quantifiers,produces,Cinco,NA,Cinco,Five,five,NA

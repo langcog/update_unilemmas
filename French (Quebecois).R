@@ -43,6 +43,15 @@ new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$definition=="colle"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$definition=="coller"),]$uni_lemma = "glue (action)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
+
 
 subset(new_items, uni_lemma=="")
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

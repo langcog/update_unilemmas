@@ -35,6 +35,9 @@ new_items[which(new_items$uni_lemma=="tire"),]$uni_lemma = "tire (object)"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (preposition)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+
 
 #subset(new_items, uni_lemma=="")
 
@@ -57,3 +60,5 @@ new_threes <- update_instrument("English_British", "TEDS_Threes", new_items %>% 
 # "nurse"      "nut"        "on top"     "pavement"   "peculiar"   "peel"       "promise"    "reindeer"   "salt"      
 # "sneeze"     "soccer"     "stamp"      "their"      "then"       "think"      "tire"       "tricycle"   "trolley"   
 # "vanilla"    "vegetable"  "week"       "were"       "yourself"  
+
+new_oxfordshort <- update_instrument("EnglishBritish", "OxfordShort", new_items %>% rename(itemID = OxfordShort))

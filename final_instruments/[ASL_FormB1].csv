@@ -39,7 +39,7 @@ item_61,DRESS_CLOTHES,word,clothing,produces,CLOTHES/DRESS,NA,dress/clothes,dres
 item_62,COAT_JACKET,word,clothing,produces,COAT/JACKET,NA,coat/jacket,coat
 item_63,DIAPER,word,clothing,produces,DIAPER,NA,diaper,diaper
 item_64,EARRING,word,clothing,produces,EARRING,NA,earring,earring
-item_65,GLOVES,word,clothing,produces,GLOVES,NA,gloves,gloves
+item_65,GLOVES,word,clothing,produces,GLOVES,NA,gloves,glove
 item_66,HAT,word,clothing,produces,HAT,NA,hat,hat
 item_67,HEARING_AID,word,clothing,produces,HEARING AID,NA,hearing aid,
 item_68,NECKLACE,word,clothing,produces,NECKLACE,NA,necklace,necklace
@@ -148,8 +148,8 @@ item_170,DRINK,word,food_drink,produces,DRINK,NA,drink,drink (action)
 item_171,FISH,word,food_drink,produces,FISH,NA,fish,fish (food)
 item_172,FOOD,word,food_drink,produces,FOOD,NA,food,food
 item_173,FRENCH_FRIES,word,food_drink,produces,FRENCH FRIES,NA,french fries,french fries
-item_174,GRAPES,word,food_drink,produces,GRAPES,NA,grapes,grape
-item_175,GREEN_BEANS,word,food_drink,produces,GREEN BEANS,NA,green beans,green bean
+item_174,GRAPES,word,food_drink,produces,GRAPES,NA,grapes,grapes
+item_175,GREEN_BEANS,word,food_drink,produces,GREEN BEANS,NA,green beans,green beans
 item_176,GUM,word,food_drink,produces,GUM,NA,gum,gum
 item_177,HAMBURGER,word,food_drink,produces,HAMBURGER,NA,hamburger,hamburger
 item_178,ICE,word,food_drink,produces,ICE,NA,ice,ice
@@ -165,7 +165,7 @@ item_187,PEANUT_BUTTER,word,food_drink,produces,PEANUT BUTTER,NA,peanut butter,p
 item_188,PIZZA,word,food_drink,produces,PIZZA,NA,pizza,pizza
 item_189,POPSICLE,word,food_drink,produces,POPSICLE,NA,popsicle,popsicle
 item_190,POTATO,word,food_drink,produces,POTATO,NA,potato,potato
-item_191,POTATO_CHIPS,word,food_drink,produces,POTATO CHIPS,NA,potato chips,potato chips
+item_191,POTATO_CHIPS,word,food_drink,produces,POTATO CHIPS,NA,potato chips,chips
 item_192,PUMPKIN,word,food_drink,produces,PUMPKIN,NA,pumpkin,pumpkin
 item_193,SALAD,word,food_drink,produces,SALAD,NA,salad,salad
 item_194,SALT,word,food_drink,produces,SALT,NA,salt,salt
@@ -225,7 +225,7 @@ item_247,HAND,word,body_parts,produces,HAND,NA,hand,hand
 item_248,HEAD,word,body_parts,produces,HEAD,NA,head,head
 item_249,KNEE,word,body_parts,produces,KNEE,NA,knee,knee
 item_250,LEG,word,body_parts,produces,LEG,NA,leg,leg
-item_251,LIPS,word,body_parts,produces,LIPS,NA,lips,lips
+item_251,LIPS,word,body_parts,produces,LIPS,NA,lips,lip
 item_252,MOUTH,word,body_parts,produces,MOUTH,NA,mouth,mouth
 item_253,NOSE,word,body_parts,produces,NOSE,NA,nose,nose
 item_254,OWIE_BOO_BOO,word,body_parts,produces,OWIE/BOO BOO,NA,owie/boo boo,owie
@@ -492,7 +492,7 @@ item_514,SHARE,word,action_words,produces,SHARE,NA,share,share
 item_515,SHOW,word,action_words,produces,SHOW,NA,show,show
 item_516,SIGN,word,action_words,produces,SIGN,NA,sign,sign (action)
 item_517,SIT,word,action_words,produces,SIT,NA,sit,sit
-item_518,SKATE,word,action_words,produces,SKATE,NA,skate,skate
+item_518,SKATE,word,action_words,produces,SKATE,NA,skate,skate (action)
 item_519,SLEEP,word,action_words,produces,SLEEP,NA,sleep,sleep
 item_520,SLIDE,word,action_words,produces,SLIDE,NA,slide,slide (action)
 item_521,SMILE,word,action_words,produces,SMILE,NA,smile,smile

@@ -80,6 +80,13 @@ new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 new_items[which(new_items$uni_lemma=="chewing gum"),]$uni_lemma = "gum"
 new_items[which(new_items$uni_lemma=="crayon/marker"),]$uni_lemma = "crayon"
 
+new_items[which(new_items$definition=="blizu"),]$uni_lemma = "near"
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="jigsaw puzzle"),]$uni_lemma = "puzzle"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+
 
 new_items[which(new_items$WS=="item_708"),]$uni_lemma = NA
 

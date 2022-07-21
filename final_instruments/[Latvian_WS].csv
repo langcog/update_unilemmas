@@ -200,7 +200,7 @@ item_198,198_elkonis,word,produces,body_parts,elkonis,NA,elbow,elbow
 item_199,199_galva,word,produces,body_parts,galva,NA,head,head
 item_200,200_kaja,word,produces,body_parts,kāja,NA,leg,leg
 item_201,201_kakls,word,produces,body_parts,kakls,NA,neck,neck
-item_202,202_lupas,word,produces,body_parts,lūpas,NA,lip,lips
+item_202,202_lupas,word,produces,body_parts,lūpas,NA,lip,lip
 item_203,203_mati,word,produces,body_parts,mati,NA,hear,hair
 item_204,204_mele,word,produces,body_parts,mēle,NA,tongue,tongue
 item_205,205_mugura,word,produces,body_parts,mugura,NA,back,back (body part)
@@ -234,7 +234,7 @@ item_232,232_dvielis,word,produces,household,dvielis,NA,towel,towel
 item_233,233_fotoaparat,word,produces,household,fotoaparāts,NA,camera,camera
 item_234,234_gaisma,word,produces,household,gaisma,NA,light,light (object)
 item_235,235_glaze,word,produces,household,glāze,NA,class,glass
-item_236,236_gludeklis,word,produces,household,gludeklis,NA,iron,iron
+item_236,236_gludeklis,word,produces,household,gludeklis,NA,iron,iron (object)
 item_237,237_grozs,word,produces,household,grozs,NA,basket,basket
 item_238,238_karote,word,produces,household,karote,NA,spoon,spoon
 item_239,239_kaste,word,produces,household,kaste,NA,box,box
@@ -491,7 +491,7 @@ item_489,489_rapot,word,produces,action_words,rāpot,NA,crawl,crawl
 item_490,490_raudat,word,produces,action_words,raudāt,NA,cry,cry
 item_491,491_redzet,word,produces,action_words,redzēt,NA,see,see
 item_492,492_runat,word,produces,action_words,runāt,NA,speak,speak
-item_493,493_sapet,word,produces,action_words,sāpēt,NA,hurt,hurt
+item_493,493_sapet,word,produces,action_words,sāpēt,NA,hurt,hurt (action)
 item_494,494_saukt,word,produces,action_words,saukt,NA,call,call
 item_495,495_sedet,word,produces,action_words,sēdēt,NA,sit,sit
 item_496,496_segt,word,produces,action_words,segt,NA,cover,cover (action)
@@ -503,7 +503,7 @@ item_501,501_skriet,word,produces,action_words,skriet,NA,run,run
 item_502,502_slaucit,word,produces,action_words,slaucīt,NA,wipe,wipe
 item_503,503_slept_sle,word,produces,action_words,slēpt/ slēpties,NA,hide,hide
 item_504,504_slidet,word,produces,action_words,slīdēt,NA,slide,slide (action)
-item_505,505_slidot,word,produces,action_words,slidot,NA,skate,skate
+item_505,505_slidot,word,produces,action_words,slidot,NA,skate,skate (action)
 item_506,506_smaidit,word,produces,action_words,smaidīt,NA,smile,smile
 item_507,507_smieties,word,produces,action_words,smieties,NA,laugh,laugh
 item_508,508_speleties_,word,produces,action_words,spēlēties,NA,play,play
@@ -574,7 +574,7 @@ item_572,572_skabs,word,produces,descriptive_words,skābs,NA,sour,sour
 item_573,573_skaists_sk,word,produces,descriptive_words,skaists/skaisti,NA,pretty,pretty
 item_574,574_skals_skal,word,produces,descriptive_words,skaļš/skaļi,NA,loud,loud
 item_575,575_skumjs_sku,word,produces,descriptive_words,skumjš/skumji,NA,sad,sad
-item_576,576_slapjs,word,produces,descriptive_words,slapjš,NA,wet,wet
+item_576,576_slapjs,word,produces,descriptive_words,slapjš,NA,wet,wet (description)
 item_577,577_slikts_sli,word,produces,descriptive_words,slikts/slikti,NA,bad,bad
 item_578,578_slims,word,produces,descriptive_words,slims,NA,sick,sick
 item_579,579_smags_smag,word,produces,descriptive_words,smags/smagi,NA,heavy,heavy
@@ -584,7 +584,7 @@ item_582,582_talu,word,produces,descriptive_words,tālu,NA,far away,far
 item_583,583_tirs,word,produces,descriptive_words,tīrs,NA,clean,clean (description)
 item_584,584_tukss,word,produces,descriptive_words,tukšs,NA,empty,empty
 item_585,585_tumss,word,produces,descriptive_words,tumšs,NA,dark,dark
-item_586,586_tuvu,word,produces,descriptive_words,tuvu,NA,close,close
+item_586,586_tuvu,word,produces,descriptive_words,tuvu,NA,close,near
 item_587,587_uzmanigs_,word,produces,descriptive_words,uzmanīgs /uzmanīgi,NA,careful,careful
 item_588,588_vecs,word,produces,descriptive_words,vecs,NA,old,old
 item_589,589_viegls_vie,word,produces,descriptive_words,viegls/viegli,NA,light/easy,light (description)

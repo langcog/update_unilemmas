@@ -49,7 +49,10 @@ new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (body part)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 new_items[which(new_items$uni_lemma=="cards"),]$uni_lemma = "card"
 
-
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="cool"),]$uni_lemma = "cool (description)"
+new_items[which(new_items$uni_lemma=="like (action)"),]$uni_lemma = "like"
 
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA

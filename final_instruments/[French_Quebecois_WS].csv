@@ -69,11 +69,11 @@ item_67,tricycle,word,produces,vehicles,tricycle,NA,tricycle,tricycle
 item_68,balle,word,produces,toys,balle,NA,ball,ball
 item_69,ballon,word,produces,toys,ballon,NA,ball,ball
 item_70,b^aton1,word,produces,toys,bâton,NA,stick,stick
-item_71,bloc,word,produces,toys,bloc,NA,block,block
+item_71,bloc,word,produces,toys,bloc,NA,block,blocks
 item_72,bulles,word,produces,toys,bulles,NA,bubbles,bubbles
 item_73,cadeau,word,produces,toys,cadeau,NA,gift,present
 item_74,casse-t^ete,word,produces,toys,casse-tête,NA,brain teaser,puzzle
-item_75,colle,word,produces,toys,colle,NA,glue,glue
+item_75,colle,word,produces,toys,colle,NA,glue,glue (object)
 item_76,craie,word,produces,toys,craie,NA,chalk,chalk
 item_77,crayon,word,produces,toys,crayon,NA,pencil,pen/pencil
 item_78,crayon_de_coule,word,produces,toys,crayon de couleur,NA,colored pencil,crayon
@@ -163,11 +163,11 @@ item_161,collier,word,produces,clothing,collier,NA,necklace,necklace
 item_162,couche,word,produces,clothing,couche,NA,layer,diaper
 item_163,espadrille,word,produces,clothing,espadrille,NA,sandal,sandal
 item_164,foulard,word,produces,clothing,foulard,NA,scarf,scarf
-item_165,gants,word,produces,clothing,gants,NA,gloves,gloves
+item_165,gants,word,produces,clothing,gants,NA,gloves,glove
 item_166,habit_de_neige,word,produces,clothing,habit de neige,NA,snowsuit,snowsuit
 item_167,jeans,word,produces,clothing,jeans,NA,jeans,jeans
 item_168,manteau,word,produces,clothing,manteau,NA,coat,coat
-item_169,mitaine,word,produces,clothing,mitaine,NA,mitt,mittens
+item_169,mitaine,word,produces,clothing,mitaine,NA,mitt,mitten
 item_170,pantalons,word,produces,clothing,pantalons,NA,pants,pants
 item_171,pantoufle,word,produces,clothing,pantoufle,NA,slipper,slipper
 item_172,perles/boules,word,produces,clothing,perles/boules,NA,beads / balls,beads
@@ -190,7 +190,7 @@ item_188,genou,word,produces,body_parts,genou,NA,knee,knee
 item_189,jambe,word,produces,body_parts,jambe,NA,leg,leg
 item_190,joue,word,produces,body_parts,joue,NA,cheek,cheek
 item_191,langue,word,produces,body_parts,langue,NA,tongue,tongue
-item_192,l`evres,word,produces,body_parts,lèvres,NA,lips,lips
+item_192,l`evres,word,produces,body_parts,lèvres,NA,lips,lip
 item_193,main,word,produces,body_parts,main,NA,hand,hand
 item_194,menton,word,produces,body_parts,menton,NA,chin,chin
 item_195,moustache,word,produces,body_parts,moustache,NA,mustache,mustache
@@ -423,7 +423,7 @@ item_421,chatouiller,word,produces,action_words,chatouiller,NA,tickle,tickle
 item_422,chercher,word,produces,action_words,chercher,NA,look for,look for
 item_423,choisir,word,produces,action_words,choisir,NA,to choose,choose
 item_424,cogner_(`a),word,produces,action_words,cogner (à),NA,knock (at),bang
-item_425,coller,word,produces,action_words,coller,NA,paste,glue
+item_425,coller,word,produces,action_words,coller,NA,paste,glue (action)
 item_426,conduire,word,produces,action_words,conduire,NA,drive,drive
 item_427,construire/b^at,word,produces,action_words,construire/bâtir,NA,construct / build,build
 item_428,couper,word,produces,action_words,couper,NA,cut,cut
@@ -471,7 +471,7 @@ item_469,nettoyer,word,produces,action_words,nettoyer,NA,clean,clean (action)
 item_470,ouvrir,word,produces,action_words,ouvrir,NA,open,open (action)
 item_471,parler,word,produces,action_words,parler,NA,speak,talk
 item_472,partager,word,produces,action_words,partager,NA,share,share
-item_473,patiner,word,produces,action_words,patiner,NA,skate,skate
+item_473,patiner,word,produces,action_words,patiner,NA,skate,skate (action)
 item_474,peinturer,word,produces,action_words,peinturer,NA,painting,paint (action)
 item_475,penser,word,produces,action_words,penser,NA,think,think
 item_476,pleurer,word,produces,action_words,pleurer,NA,cry,cry
@@ -539,7 +539,7 @@ item_537,mal,word,produces,descriptive_words,mal,NA,wrong,bad
 item_538,malade,word,produces,descriptive_words,malade,NA,sick,sick
 item_539,mieux,word,produces,descriptive_words,mieux,NA,better,better
 item_540,mignon/cute,word,produces,descriptive_words,mignon/cute,NA,cute / cute,cute
-item_541,mouill'e,word,produces,descriptive_words,mouillé,NA,wet,wet
+item_541,mouill'e,word,produces,descriptive_words,mouillé,NA,wet,wet (description)
 item_542,noir,word,produces,descriptive_words,noir,NA,black,black
 item_543,nouveau,word,produces,descriptive_words,nouveau,NA,new,new
 item_544,orange2,word,produces,descriptive_words,orange,NA,orange,orange (description)

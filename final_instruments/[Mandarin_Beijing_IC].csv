@@ -176,7 +176,7 @@ item_169,洗,169_xi3,action_words,word,understands; produces,wash,wash
 item_170,擦,170_ca1,action_words,word,understands; produces,wipe,wipe
 item_171,写,171_xie3,action_words,word,understands; produces,write,write
 item_172,拿,172_na2,action_words,word,understands; produces,bring; take,take
-item_173,要,173_yao4,action_words,word,understands; produces,want,want
+item_173,要,173_yao4,action_words,word,understands; produces,want,wanna
 item_173,要,173_yao4,action_words,word,understands; produces,need,need
 item_174,买,174_mai3,action_words,word,understands; produces,buy,buy
 item_175,飞,175_fei1,action_words,word,understands; produces,fly,fly (action)
@@ -236,4 +236,4 @@ item_228,泡泡,228_pao4pao5,toys,word,understands; produces,bubbles,bubbles
 item_229,汽球,229_qi4qiu2,toys,word,understands; produces,balloon,balloon
 item_230,娃娃,230_wa2wa5,toys,word,understands; produces,doll,doll
 item_231,笔,231_bi3,toys,word,understands; produces,pen,pen
-item_232,积木,232_ji1mu4,toys,word,understands; produces,block,block
+item_232,积木,232_ji1mu4,toys,word,understands; produces,block,blocks

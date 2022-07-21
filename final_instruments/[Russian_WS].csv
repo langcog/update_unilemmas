@@ -99,10 +99,10 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 игрушка,toys,NA,word,produces,NA,item_98,toy,toy (object)
 карандаш,toys,NA,word,produces,NA,item_99,pencil,pen/pencil
 кисточка,toys,NA,word,produces,NA,item_100,brush,brush (object)
-клей,toys,NA,word,produces,NA,item_101,glue,glue
+клей,toys,NA,word,produces,NA,item_101,glue,glue (object)
 книга,toys,NA,word,produces,NA,item_102,book,book
 краски,toys,NA,word,produces,NA,item_103,paint,paint (object)
-кубики,toys,NA,word,produces,NA,item_104,block,block
+кубики,toys,NA,word,produces,NA,item_104,block,blocks
 кукла,toys,NA,word,produces,NA,item_105,doll,doll
 лопатка,toys,NA,word,produces,NA,item_106,shovel/scoop,shovel
 мозаика/пазл,toys,NA,word,produces,NA,item_107,puzzle,puzzle
@@ -190,7 +190,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 брюки,clothing,NA,word,produces,NA,item_189,pants,pants
 бусы,clothing,NA,word,produces,NA,item_190,beads,beads
 валенки,clothing,NA,word,produces,NA,item_191,felt boot,boots
-варежки/рукавицы,clothing,NA,word,produces,NA,item_192,mittens,mittens
+варежки/рукавицы,clothing,NA,word,produces,NA,item_192,mittens,mitten
 колготки,clothing,NA,word,produces,NA,item_193,tights,tights
 комбинезон,clothing,NA,word,produces,NA,item_194,bib/snowsuit,snowsuit
 кофта,clothing,NA,word,produces,NA,item_195,jacket,sweater
@@ -201,7 +201,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 обувь,clothing,NA,word,produces,NA,item_200,footwear,shoe
 одежда,clothing,NA,word,produces,NA,item_201,clothes,clothes
 пальто,clothing,NA,word,produces,NA,item_202,coat,coat
-перчатки,clothing,NA,word,produces,NA,item_203,gloves,gloves
+перчатки,clothing,NA,word,produces,NA,item_203,gloves,glove
 пижама,clothing,NA,word,produces,NA,item_204,pyjamas,pajamas
 платье,clothing,NA,word,produces,NA,item_205,dress,dress (object)
 пуговица,clothing,NA,word,produces,NA,item_206,button,button
@@ -219,7 +219,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 волосы,body_parts,NA,word,produces,NA,item_218,hair,hair
 глазки,body_parts,NA,word,produces,NA,item_219,eyes,eye
 голова,body_parts,NA,word,produces,NA,item_220,head,head
-губы,body_parts,NA,word,produces,NA,item_221,lips,lips
+губы,body_parts,NA,word,produces,NA,item_221,lips,lip
 живот,body_parts,NA,word,produces,NA,item_222,tummy,tummy
 зубы,body_parts,NA,word,produces,NA,item_223,teeth,tooth
 колено,body_parts,NA,word,produces,NA,item_224,knee,knee
@@ -288,7 +288,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 телевизор,household,NA,word,produces,NA,item_287,TV,TV
 телефон,household,NA,word,produces,NA,item_288,telephone,telephone
 тряпка,household,NA,word,produces,NA,item_289,cloth,rag
-утюг,household,NA,word,produces,NA,item_290,iron,iron
+утюг,household,NA,word,produces,NA,item_290,iron,iron (object)
 фотоаппарат,household,NA,word,produces,NA,item_291,camera,camera
 холодильник,household,NA,word,produces,NA,item_292,refrigerator,refrigerator
 чайник,household,NA,word,produces,NA,item_293,teapot/kettle,teapot
@@ -476,7 +476,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 мыть/мыться,action_words,NA,word,produces,NA,item_475,wash,wash
 назвать/называться,action_words,NA,word,produces,NA,item_476,call/be called,name
 нести,action_words,NA,word,produces,NA,item_477,carry,bring
-нравиться,action_words,NA,word,produces,NA,item_478,like,like (action)
+нравиться,action_words,NA,word,produces,NA,item_478,like,like
 облить,action_words,NA,word,produces,NA,item_479,pour (sluice),pour
 обнимать,action_words,NA,word,produces,NA,item_480,hug,hug
 одевать,action_words,NA,word,produces,NA,item_481,put on,dress (action)
@@ -522,7 +522,7 @@ cпасибо,games_routines,NA,word,produces,NA,item_414,thank you,thank you
 устать,action_words,NA,word,produces,NA,item_521,get tired,tire (action)
 хватать,action_words,NA,word,produces,NA,item_522,catch,grab
 хлопать,action_words,NA,word,produces,NA,item_523,clap,clap
-хотеть,action_words,NA,word,produces,NA,item_524,want,wanna
+хотеть,action_words,NA,word,produces,NA,item_524,want,want
 ходить,action_words,NA,word,produces,NA,item_525,go/walk,walk
 целовать,action_words,NA,word,produces,NA,item_526,kiss,kiss
 чистить,action_words,NA,word,produces,NA,item_527,clean,clean (action)

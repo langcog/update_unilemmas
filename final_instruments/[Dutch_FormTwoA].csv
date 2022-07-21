@@ -38,7 +38,7 @@ item_36,clothing,T-shirt,understands;produces,T-shirt,word,T-shirt,t-shirt
 item_37,clothing,zwembroek/zwempak/badpak,understands;produces,zwembroek/zwempak/badpak,word,swimming pants/swimming suit,swimsuit
 item_38,body_parts,borst,understands;produces,borst,word,breast,breast
 item_39,body_parts,hand,understands;produces,hand,word,hand,hand
-item_40,body_parts,lippen,understands;produces,lippen,word,lips,lips
+item_40,body_parts,lippen,understands;produces,lippen,word,lips,lip
 item_41,body_parts,neus,understands;produces,neus,word,nose,nose
 item_42,household,bord,understands;produces,bord,word,plate,plate
 item_43,household,camera/fototoestel,understands;produces,camera/fototoestel,word,camera,camera

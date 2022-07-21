@@ -50,7 +50,9 @@ new_items[which(new_items$uni_lemma=="back" & new_items$category=="body_parts"),
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (preposition)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="wet"),]$uni_lemma = "wet (description)"
 
 # ToDo: check empty uni-lemmas ("")
 subset(new_items, uni_lemma=="")

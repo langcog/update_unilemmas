@@ -78,7 +78,7 @@ item_104,NA,word,toys,understands; produces,סביבון,NA,gyroscopes,NA
 item_105,NA,word,toys,understands; produces,ספר,NA,book,book
 item_106,NA,word,toys,understands; produces,עט,NA,pen,pen
 item_107,NA,word,toys,understands; produces,צעצוע,NA,toy (object),toy (object)
-item_108,NA,word,toys,understands; produces,קוביה,NA,block,block
+item_108,NA,word,toys,understands; produces,קוביה,NA,block,blocks
 item_109,NA,word,toys,understands; produces,רעשן,NA,Rattle,rattle (object)
 item_110,NA,word,food_drink,understands; produces,אבטיח,NA,watermelon,watermelon
 item_111,NA,word,food_drink,understands; produces,אגס,NA,pear,pear
@@ -385,7 +385,7 @@ item_410,NA,word,descriptive_words,understands; produces,מקולקל,NA,broken 
 item_411,NA,word,descriptive_words,understands; produces,מתוק,NA,sweet,sweet
 item_412,NA,word,descriptive_words,understands; produces,קשה,NA,hard,hard
 item_413,NA,word,descriptive_words,understands; produces,רזה,NA,thin,thin
-item_414,NA,word,descriptive_words,understands; produces,רטוב,NA,wet,wet
+item_414,NA,word,descriptive_words,understands; produces,רטוב,NA,wet,wet (description)
 item_415,NA,word,descriptive_words,understands; produces,ריק,NA,empty,empty
 item_416,NA,word,descriptive_words,understands; produces,רך,NA,soft,soft
 item_417,NA,word,descriptive_words,understands; produces,חם,NA,hot,hot

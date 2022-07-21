@@ -79,6 +79,14 @@ new_items[which(new_items$uni_lemma=="weee"),]$uni_lemma = "wee woo"
 new_items[which(new_items$uni_lemma=="take off"),]$uni_lemma = "remove"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="iron"),]$uni_lemma = "iron (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="like (action)"),]$uni_lemma = "like"
+new_items[which(new_items$uni_lemma=="wanna"),]$uni_lemma = "want"
 
 
 # save updated instrument(s)

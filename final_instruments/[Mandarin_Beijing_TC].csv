@@ -180,7 +180,7 @@ item_175,比赛,bi3sai4,games_routines,word,produces,match,NA
 item_176,不,bu4,games_routines,word,produces,no,no
 item_177,不要,bu2yao4,games_routines,word,produces,don't,don't
 item_178,吃饭,chi1fan4,games_routines,word,produces,eat,eat
-item_179,搭积木,da1ji1mu1,games_routines,word,produces,building block,block
+item_179,搭积木,da1ji1mu1,games_routines,word,produces,building block,blocks
 item_180,打电话,da3 dian4hua4,games_routines,word,produces,call on phone,call
 item_181,打球,da3qiu2,games_routines,word,produces,play ball,NA
 item_182,等一会儿,deng3 yi2huier4,games_routines,word,produces,wait a minute,wait
@@ -214,7 +214,7 @@ item_209,鼻子,bi2zi5,body_parts,word,produces,nose,nose
 item_210,鼻孔,bi2kong3,body_parts,word,produces,nostril,nostril
 item_211,鼻涕,bi2ti4,body_parts,word,produces,snot,snot
 item_212,嘴,zui3,body_parts,word,produces,mouth,mouth
-item_213,嘴唇,zui3chun2,body_parts,word,produces,lips,lips
+item_213,嘴唇,zui3chun2,body_parts,word,produces,lips,lip
 item_214,牙,ya2,body_parts,word,produces,tooth,tooth
 item_215,舌头,she2tou5,body_parts,word,produces,tongue,tongue
 item_216,下巴,xiaq4ba5,body_parts,word,produces,chin,chin
@@ -272,7 +272,7 @@ item_266,困,kun4,descriptive_words,word,produces,sleepy,sleepy
 item_267,好多,hao3duo1,descriptive_words,word,produces,a good deal; a lot,a lot
 item_268,不好,bu4hao3,descriptive_words,word,produces,bad,bad
 item_269,满,man3,descriptive_words,word,produces,full,full
-item_270,凉,liang2,descriptive_words,word,produces,cool,cool
+item_270,凉,liang2,descriptive_words,word,produces,cool,cool (description)
 item_271,湿,shi1,descriptive_words,word,produces,wet,wet (description)
 item_272,蓝色,lan2se4,descriptive_words,word,produces,blue,blue
 item_273,病,bing4,descriptive_words,word,produces,sick,sick
@@ -376,7 +376,7 @@ item_369,钉子,ding1zi5,household,word,produces,nail,nail (object)
 item_370,肥皂,fei2zao4,household,word,produces,soap,soap
 item_371,罐头,guan4tou5,household,word,produces,can,can (object)
 item_372,光,guang1,household,word,produces,light,light (object)
-item_373,光盘,guang1pan2,household,word,produces,disk,disk
+item_373,光盘,guang1pan2,household,word,produces,disk,CD
 item_374,锅,guo1,household,word,produces,pot,pot
 item_375,盒子,he2zi5,household,word,produces,box,box
 item_376,花瓶,hua1ping2,household,word,produces,vase,vase
@@ -471,8 +471,8 @@ item_463,布娃娃,bu4wa2wa5,toys,word,produces,doll,doll
 item_464,粉笔,fen3bi3,toys,word,produces,chalk,chalk
 item_465,故事,gu4shi5,toys,word,produces,story,story
 item_466,滑梯,hua2ti1,toys,word,produces,slide (object),slide (object)
-item_467,积木,ji1mu4,toys,word,produces,block,block
-item_468,胶水,jiao1shui3,toys,word,produces,glue,glue
+item_467,积木,ji1mu4,toys,word,produces,block,blocks
+item_468,胶水,jiao1shui3,toys,word,produces,glue,glue (object)
 item_469,蜡笔,la4bi3,toys,word,produces,crayon,crayon
 item_470,礼物,li3wu4,toys,word,produces,present,present
 item_471,泡泡,pao4pao5,toys,word,produces,bubbles,bubbles
@@ -532,7 +532,7 @@ item_524,刮风,gua1feng1,action_words,word,produces,blow,blow
 item_525,关(门),guan1(men2),action_words,word,produces,close the door,close
 item_526,喝,he1,action_words,word,produces,drink (action),drink (action)
 item_527,挑(选),tiao1 (xuan3),action_words,word,produces,pick,choose
-item_528,滑冰,hua2bing1,action_words,word,produces,skate,skate
+item_528,滑冰,hua2bing1,action_words,word,produces,skate,skate (action)
 item_529,划(船),hua2 (chuan2),action_words,word,produces,row,row row your boat
 item_530,画画,hua4hua4,action_words,word,produces,draw,draw
 item_531,夹,jia1,action_words,word,produces,pick,pick
@@ -584,8 +584,8 @@ item_576,做完,zuo4wan2,action_words,word,produces,finish,finish
 item_577,玩,wan2,action_words,word,produces,play,play
 item_578,喂,wei4,action_words,word,produces,feed,feed
 item_579,洗,xi3,action_words,word,produces,wash,wash
-item_580,喜欢,xi3huan5,action_words,word,produces,love,like (action)
-item_580,喜欢,xi3huan5,action_words,word,produces,like,like (action)
+item_580,喜欢,xi3huan5,action_words,word,produces,love,like
+item_580,喜欢,xi3huan5,action_words,word,produces,like,like
 item_581,下雨,xia4yu3,action_words,word,produces,rain,rain
 item_582,想,xiang3,action_words,word,produces,think,think
 item_582,想,xiang3,action_words,word,produces,think,think
@@ -595,7 +595,7 @@ item_585,醒,xing3,action_words,word,produces,wake,wake
 item_586,修,xiu1,action_words,word,produces,fix,fix
 item_587,摇,yao2,action_words,word,produces,shake,shake
 item_588,咬,yao3,action_words,word,produces,bite,bite
-item_589,要,yao4,action_words,word,produces,want,want
+item_589,要,yao4,action_words,word,produces,want,wanna
 item_589,要,yao4,action_words,word,produces,need,need
 item_590,游泳,you2yong3,action_words,word,produces,swim,swim
 item_591,有,you3,action_words,word,produces,have,have
@@ -657,7 +657,7 @@ item_646,棉衣,mian2yi1,clothing,word,produces,jacket,jacket
 item_647,睡衣,shui4yi1,clothing,word,produces,pajamas,pajamas
 item_648,大衣,da4yi1,clothing,word,produces,coat,coat
 item_649,西服,xi1fu2,clothing,word,produces,western-style clothes,NA
-item_650,手套,shou3tao4,clothing,word,produces,gloves,gloves
+item_650,手套,shou3tao4,clothing,word,produces,gloves,glove
 item_651,裙子,qun2zi5,clothing,word,produces,skirt,skirt
 item_652,帽子,mao4zi5,clothing,word,produces,hat,hat
 item_653,裤子,ku4zi5,clothing,word,produces,pants,pants

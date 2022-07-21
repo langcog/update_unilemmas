@@ -40,7 +40,9 @@ new_items[which(new_items$uni_lemma=="call on phone"),]$uni_lemma = "call"
 new_items[which(new_items$uni_lemma=="wardrobe"),]$uni_lemma = "closet"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
 
 # save updated instrument(s)
 new_ws <- update_instrument("Australian", "WS", new_items %>% rename(itemID = WS))

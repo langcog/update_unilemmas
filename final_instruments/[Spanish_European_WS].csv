@@ -131,7 +131,7 @@ item_123,cuello,word,body_parts,produces,cuello,NA,neck,neck
 item_124,culo,word,body_parts,produces,culo,NA,butt,butt
 item_125,dedo,word,body_parts,produces,dedo/s,NA,finger,finger
 item_126,dientes,word,body_parts,produces,dientes,NA,teeth,tooth
-item_127,labios,word,body_parts,produces,labios,NA,lips,lips
+item_127,labios,word,body_parts,produces,labios,NA,lips,lip
 item_128,lengua,word,body_parts,produces,lengua,NA,tongue,tongue
 item_129,lunar,word,body_parts,produces,lunar,NA,mole (skin),NA
 item_130,mano,word,body_parts,produces,mano/s,NA,hand,hand
@@ -148,7 +148,7 @@ item_140,balon,word,toys,produces,balón,NA,ball,ball
 item_141,boligraf,word,toys,produces,bolígrafo/boli,NA,pen,pen
 item_142,caja,word,toys,produces,caja,NA,box,box
 item_143,cartas,word,toys,produces,cartas,NA,cards,card
-item_144,cubo,word,toys,produces,cubo,NA,block,block
+item_144,cubo,word,toys,produces,cubo,NA,block,blocks
 item_145,cuento,word,toys,produces,cuento/libro,NA,book,book
 item_146,cocinita,word,toys,produces,cocinitas,NA,kitchen toys?,NA
 item_147,fotos,word,toys,produces,fotos (cámara),NA,photos,photo
@@ -172,7 +172,7 @@ item_164,pulsera,word,toys,produces,pulsera,NA,bracelet,bracelet
 item_165,raqueta,word,toys,produces,raqueta,NA,racket,racket
 item_166,rastrill,word,toys,produces,rastrillo,NA,rake,rake (object)
 item_167,rueda,word,toys,produces,rueda,NA,wheel,wheel
-item_168,tambor,word,toys,produces,tambor,NA,drum,drum
+item_168,tambor,word,toys,produces,tambor,NA,drum,drum (object)
 item_169,ambulanc,word,vehicles,produces,ambulancia,NA,ambulance,ambulance
 item_170,autobus,word,vehicles,produces,autobús/bus,NA,bus,bus
 item_171,avion,word,vehicles,produces,avión,NA,airplane,airplane
@@ -185,7 +185,7 @@ item_177,cochepol,word,vehicles,produces,coche policía,NA,police car,police car
 item_178,grua,word,vehicles,produces,grúa,NA,crane,crane
 item_179,helicopt,word,vehicles,produces,helicóptero,NA,helicopter,helicopter
 item_180,moto,word,vehicles,produces,moto,NA,motorcycle,motorcycle
-item_181,patines,word,vehicles,produces,patines,NA,skates,skates
+item_181,patines,word,vehicles,produces,patines,NA,skates,skate (object)
 item_182,tractor,word,vehicles,produces,tractor,NA,tractor,tractor
 item_183,tren,word,vehicles,produces,tren,NA,train,train
 item_184,triciclo,word,vehicles,produces,triciclo,NA,tricycle,tricycle
@@ -390,7 +390,7 @@ item_382,comprar,word,action_words,produces,comprar,NA,to buy,buy
 item_383,conducir,word,action_words,produces,conducir,NA,to drive,drive
 item_384,jugar,word,action_words,produces,jugar,NA,to play,play
 item_385,correr,word,action_words,produces,correr,NA,run,run
-item_386,cortar,word,action_words,produces,cortar,NA,to cut,cut (action)
+item_386,cortar,word,action_words,produces,cortar,NA,to cut,cut
 item_387,crecer,word,action_words,produces,crecer,NA,to grow up,grow
 item_388,cuidar,word,action_words,produces,cuidar,NA,to look after,care
 item_389,dar,word,action_words,produces,dar,NA,to give,give

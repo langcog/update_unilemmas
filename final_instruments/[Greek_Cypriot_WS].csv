@@ -75,11 +75,11 @@ item_73,A56_FISH,word,animals,produces,ψάρι,NA,fish,fish (animal)
 item_74,T1_TEDDY_B,word,toys,produces,αρκουδάκι,NA,teddy bear,teddybear
 item_75,T2_CAR,word,toys,produces,αυτοκινητάκι,NA,car,car
 item_76,T3_BOOK,word,toys,produces,βιβλίο,NA,book,book
-item_77,T4_GLUE_CG_CG,word,toys,produces,γόμμα,NA,glue CG,glue
+item_77,T4_GLUE_CG_CG,word,toys,produces,γόμμα,NA,glue CG,glue (object)
 item_78,T5_GIFT,word,toys,produces,δώρο,NA,gift,present
-item_79,T6_GLUE,word,toys,produces,κόλλα,NA,glue,glue
+item_79,T6_GLUE,word,toys,produces,κόλλα,NA,glue,glue (object)
 item_80,T7_DOLL,word,toys,produces,κούκλα,NA,doll,doll
-item_81,T8_CUBE,word,toys,produces,κύβος,NA,cube,block
+item_81,T8_CUBE,word,toys,produces,κύβος,NA,cube,blocks
 item_82,T9_BALL_CG_CG,word,toys,produces,μάππα,NA,ball CG,ball
 item_83,T10_MARKER,word,toys,produces,μαρκαδόρος,NA,marker,crayon
 item_84,T11_BALL,word,toys,produces,μπάλα,NA,ball,ball
@@ -94,7 +94,7 @@ item_92,T19_PLAY_D,word,toys,produces,πλαστελίνη,NA,play doh,play doug
 item_93,T20_PLAY_D_CG,word,toys,produces,πλαστισίνη,NA,play doh CG,play dough
 item_94,T21_TOY_SO,word,toys,produces,στρατιωτάκι,NA,toy soldier,NA
 item_95,T22_PEN,word,toys,produces,στυλό,NA,pen,pen
-item_96,T23_BLOCK,word,toys,produces,τούβλο,NA,block,block
+item_96,T23_BLOCK,word,toys,produces,τούβλο,NA,block,blocks
 item_97,T14_BALLOO_CG,word,toys,produces,φούσκα,NA,balloon CG,balloon
 item_98,FD1_SALT,word,food_drink,produces,αλάτι,NA,salt,salt
 item_99,FD2_EGG,word,food_drink,produces,αυγό,NA,egg,egg
@@ -263,7 +263,7 @@ item_261,OH62_COMB,word,household,produces,χτενιά,NA,comb,comb (object)
 item_262,OH63_SCISS,word,household,produces,ψαλίδι,NA,scissors,scissors
 item_263,OH63_SINK__CG,word,household,produces,βούρνα,NA,3 sink CG,sink
 item_264,F2_WARDROB_CG,word,furniture_rooms,produces,ερμάρι,NA,wardrobe CG,closet
-item_265,F3_CUPBOAR_CG,word,furniture_rooms,produces,ερμαράκι,NA,cupboard CG,cabinet
+item_265,F3_CUPBOAR_CG,word,furniture_rooms,produces,ερμαράκι,NA,cupboard CG,cupboard
 item_266,F4_POTTY,word,furniture_rooms,produces,γιογιό,NA,potty,potty
 item_267,F5_GARAGE,word,furniture_rooms,produces,γκαράζ,NA,garage,garage
 item_268,F6_ROOM,word,furniture_rooms,produces,δωμάτιο,NA,room,room
@@ -302,7 +302,7 @@ item_300,F38_TABLE,word,furniture_rooms,produces,τραπέζι,NA,table,table
 item_301,F39_BASEME,word,furniture_rooms,produces,υπόγειο,NA,basement,basement
 item_302,F40_OVEN,word,furniture_rooms,produces,φούρνος,NA,oven,oven
 item_303,C1_PANTIES,word,clothing,produces,βρακί,NA,panties,underpants
-item_304,C2_GLOVES,word,clothing,produces,γάντια,NA,gloves,gloves
+item_304,C2_GLOVES,word,clothing,produces,γάντια,NA,gloves,glove
 item_305,C3_GLASSES,word,clothing,produces,γυαλιά,NA,glasses,glasses
 item_306,C4_CARDIGA,word,clothing,produces,ζακέτα,NA,cardigan,sweater
 item_307,C5_BELT,word,clothing,produces,ζώνη,NA,belt,belt
@@ -435,7 +435,7 @@ item_433,BP24_LEG,word,body_parts,produces,πόδι,NA,leg,leg
 item_434,BP25_VAGIN,word,body_parts,produces,πουλλί/πουλλού*,NA,vagina/penis,penis
 item_435,BP26_FACE,word,body_parts,produces,πρόσωπο,NA,face,face
 item_436,BP27_MOUTH,word,body_parts,produces,στόμα,NA,mouth,mouth
-item_437,BP28_LIPS,word,body_parts,produces,χείλη,NA,lips,lips
+item_437,BP28_LIPS,word,body_parts,produces,χείλη,NA,lips,lip
 item_438,BP29_HAND,word,body_parts,produces,χέρι,NA,hand,arm
 item_439,BP30_SHOUL,word,body_parts,produces,ώμος,NA,shoulder,shoulder
 item_440,GR1_BABIES_CG,word,games_routines,produces,άλλαϊλι,NA,babies' singing game CG,NA

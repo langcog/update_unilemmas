@@ -57,7 +57,7 @@ item_88,motocicletta,word,vehicles,understands; produces,motocicletta,motorcycle
 item_89,passeggino,word,vehicles,understands; produces,passeggino,stroller,stroller
 item_90,treno,word,vehicles,understands; produces,treno,train,train
 item_91,bambola,word,toys,understands; produces,bambola,doll,doll
-item_92,cubi,word,toys,understands; produces,cubi,block,block
+item_92,cubi,word,toys,understands; produces,cubi,block,blocks
 item_93,favola/storia,word,toys,understands; produces,favola/storia,book/story,book
 item_94,giocattolo,word,toys,understands; produces,giocattolo,toy,toy (object)
 item_95,palla,word,toys,understands; produces,palla,ball,ball
@@ -102,7 +102,7 @@ item_133,cappotto,word,clothing,understands; produces,cappotto,coat,coat
 item_134,collana,word,clothing,understands; produces,collana,necklace,necklace
 item_135,giacca,word,clothing,understands; produces,giacca,jacket,jacket
 item_136,gonna,word,clothing,understands; produces,gonna,skirt,skirt
-item_137,guanti,word,clothing,understands; produces,guanti,gloves,gloves
+item_137,guanti,word,clothing,understands; produces,guanti,gloves,glove
 item_138,maglione,word,clothing,understands; produces,maglione,sweater,sweater
 item_139,mutande,word,clothing,understands; produces,mutande,underpants,underpants
 item_140,occhiali,word,clothing,understands; produces,occhiali,glasses,glasses

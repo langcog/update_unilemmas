@@ -169,11 +169,11 @@ item_201,item_201,word,clothing,understands; produces,combinaison de ski,item_18
 item_202,item_202,word,clothing,understands; produces,couche,item_170,Vêtements,diaper,diaper
 item_203,item_203,word,clothing,understands; produces,culotte/slip,item_191,Vêtements,underpants,underpants
 item_204,item_204,word,clothing,understands; produces,écharpe,item_187,Vêtements,scarf,scarf
-item_205,item_205,word,clothing,understands; produces,gants,item_185,Vêtements,gloves,gloves
+item_205,item_205,word,clothing,understands; produces,gants,item_185,Vêtements,gloves,glove
 item_206,item_206,word,clothing,understands; produces,grenouillère,NA,NA,,
 item_207,item_207,word,clothing,understands; produces,jeans,item_180,Vêtements,jeans,jeans
 item_208,item_208,word,clothing,understands; produces,manteau,item_168,Vêtements,coat,coat
-item_209,item_209,word,clothing,understands; produces,moufles,item_186,Vêtements,mittens,mittens
+item_209,item_209,word,clothing,understands; produces,moufles,item_186,Vêtements,mittens,mitten
 item_210,item_210,word,clothing,understands; produces,pantalon,item_166,Vêtements,pants,pants
 item_211,item_211,word,clothing,understands; produces,perles,item_162,Vêtements,beads,beads
 item_212,item_212,word,clothing,understands; produces,pull,item_183,Vêtements,sweater,sweater
@@ -445,7 +445,7 @@ item_525,item_525,word,toys,understands; produces,jouet,item_36,Jouets,toy (obje
 item_526,item_526,word,toys,understands; produces,raquette,item_37,Jouets,racket,bat (object)
 item_527,item_527,word,toys,understands; produces,craie,item_38,Jouets,chalk,chalk
 item_528,item_528,word,toys,understands; produces,jeu,item_39,Jouets,game,game
-item_529,item_529,word,toys,understands; produces,colle,item_40,Jouets,glue,glue
+item_529,item_529,word,toys,understands; produces,colle,item_40,Jouets,glue,glue (object)
 item_530,item_530,word,toys,understands; produces,pâte à modeler,item_41,Jouets,modeling clay,clay
 item_531,item_531,word,toys,understands; produces,cadeau,item_42,Jouets,present,present
 item_532,item_532,word,toys,understands; produces,puzzle,item_43,Jouets,puzzle,puzzle
@@ -502,7 +502,7 @@ item_582,item_582,word,body_parts,understands; produces,bobo,item_208,Parties du
 item_583,item_583,word,body_parts,understands; produces,cheville,item_213,Parties du corps,ankle,ankle
 item_584,item_584,word,body_parts,understands; produces,fesses,item_214,Parties du corps,butt,butt
 item_585,item_585,word,body_parts,understands; produces,menton,item_215,Parties du corps,chin,chin
-item_586,item_586,word,body_parts,understands; produces,lèvre,item_216,Parties du corps,lips,lips
+item_586,item_586,word,body_parts,understands; produces,lèvre,item_216,Parties du corps,lips,lip
 item_587,item_587,word,body_parts,understands; produces,pénis/zizi…,item_217,Parties du corps,penis,penis
 item_588,item_588,word,body_parts,understands; produces,vagin/zezette…,item_219,Parties du corps,,vagina
 item_589,item_589,word,furniture_rooms,understands; produces,cuisine,item_232,Meubles et pièces,kitchen,kitchen
@@ -696,7 +696,7 @@ item_776,item_776,word,action_words,understands; produces,déchirer,item_664,Mot
 item_777,item_777,word,action_words,understands; produces,secouer,item_665,Mots d'action,shake,shake
 item_778,item_778,word,action_words,understands; produces,partager,item_666,Mots d'action,share,share
 item_779,item_779,word,action_words,understands; produces,s'asseoir,item_667,Mots d'action,sit,sit
-item_780,item_780,word,action_words,understands; produces,faire du patin,item_668,Mots d'action,skate,skate
+item_780,item_780,word,action_words,understands; produces,faire du patin,item_668,Mots d'action,skate,skate (action)
 item_781,item_781,word,action_words,understands; produces,glisser,item_669,Mots d'action,slide (action),slide (action)
 item_782,item_782,word,action_words,understands; produces,travailler,item_670,Mots d'action,work (action),work (action)
 item_783,item_783,word,action_words,understands; produces,souhaiter,item_671,Mots d'action,wish,wish

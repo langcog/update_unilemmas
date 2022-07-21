@@ -81,10 +81,10 @@ item_79,i_4_9,word,toys,produces,fargeblyant,NA,NA,crayon,pen/pencil
 item_80,i_4_10,word,toys,produces,presang,NA,NA,gift,present
 item_81,i_4_11,word,toys,produces,kritt,NA,NA,chalk,chalk 
 item_82,i_4_12,word,toys,produces,leke (object),NA,toy (object),play,toy (object)
-item_83,i_4_13,word,toys,produces,lim,NA,NA,glue,glue 
+item_83,i_4_13,word,toys,produces,lim,NA,NA,glue,glue (object)
 item_84,i_4_14,word,toys,produces,penn,NA,NA,pen,pen 
 item_85,i_4_15,word,toys,produces,plastilina,NA,NA,plasticine,play dough
-item_86,i_4_16,word,toys,produces,puslespill,NA,NA,jigsaw puzzle,jigsaw puzzle 
+item_86,i_4_16,word,toys,produces,puslespill,NA,NA,jigsaw puzzle,puzzle
 item_87,i_4_17,word,toys,produces,spill,NA,NA,game,game 
 item_88,i_4_18,word,toys,produces,såpebobler,NA,bubbles,soap bubbles,bubbles
 item_89,i_5_1,word,food_drink,produces,(brød)skive,NA,NA,(Bread) slice,sandwich
@@ -180,7 +180,7 @@ item_178,i_6_22,word,clothing,produces,smokk,NA,pacifier,pacifier,pacifier
 item_179,i_6_23,word,clothing,produces,sokker,NA,sock,socks,sock
 item_180,i_6_24,word,clothing,produces,støvler,NA,boots,boots,boot
 item_181,i_6_25,word,clothing,produces,strømpebukse,NA,tights,tights,tights
-item_182,i_6_26,word,clothing,produces,strømper,NA,NA,stockings,stockings
+item_182,i_6_26,word,clothing,produces,strømper,NA,NA,stockings,tights
 item_183,i_6_27,word,clothing,produces,t-skjorte,NA,t-shirt,T-shirt,t-shirt
 item_184,i_6_28,word,clothing,produces,tøfler,NA,NA,slippers,slipper
 item_185,i_6_29,word,clothing,produces,underbukse,NA,NA,briefs,underpants
@@ -197,7 +197,7 @@ item_195,i_7_9,word,body_parts,produces,hår,NA,hair,hair,hair
 item_196,i_7_10,word,body_parts,produces,hode,NA,head,head,head
 item_197,i_7_11,word,body_parts,produces,kinn,NA,cheek,cheek,cheek
 item_198,i_7_12,word,body_parts,produces,kne,NA,knee,knee,knee
-item_199,i_7_13,word,body_parts,produces,lepper,NA,NA,lips,lips
+item_199,i_7_13,word,body_parts,produces,lepper,NA,NA,lips,lip
 item_200,i_7_14,word,body_parts,produces,mage,NA,tummy,stomach,tummy
 item_201,i_7_15,word,body_parts,produces,munn,NA,mouth,mouth,mouth
 item_202,i_7_16,word,body_parts,produces,navle,NA,belly button,belly button,belly button
@@ -511,7 +511,7 @@ item_509,i_14_96,word,action_words,produces,dra,NA,go,drag,go
 item_510,i_14_97,word,action_words,produces,tørke,NA,dry (action),drought,dry (action)
 item_511,i_14_98,word,action_words,produces,vaske,NA,wash,wash,wash
 item_512,i_14_99,word,action_words,produces,vente,NA,NA,wait,wait 
-item_513,i_14_100,word,action_words,produces,slå seg,NA,NA,settle,hurt
+item_513,i_14_100,word,action_words,produces,slå seg,NA,NA,settle,hurt (action)
 item_514,i_14_101,word,action_words,produces,vise,NA,show,view,show
 item_515,i_14_102,word,action_words,produces,velte,NA,NA,topple,NA
 item_516,i_14_103,word,action_words,produces,være glad i,NA,NA,be fond of,love

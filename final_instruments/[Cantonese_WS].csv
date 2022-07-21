@@ -176,7 +176,7 @@ item_174,V4TURNOF,word,action_words,produces,熄(燈),NA,,turn off
 item_175,V4CLOSE,word,action_words,produces,閂(門),NA,,close
 item_176,V4KNOCK,word,action_words,produces,敲/搉*(門),NA,,knock
 item_177,V4WANTC,word,action_words,produces,愛/要,NA,,want
-item_178,V4LIKEC,word,action_words,produces,鍾意,NA,,like (action)
+item_178,V4LIKEC,word,action_words,produces,鍾意,NA,,like
 item_179,V4HAVE,word,action_words,produces,有,NA,,have
 item_180,V4USE,word,action_words,produces,用,NA,,use
 item_181,V4LAUGH,word,action_words,produces,笑,NA,,laugh
@@ -332,7 +332,7 @@ item_330,T6BOOK,word,toys,produces,書,NA,,book
 item_331,T6PEN,word,toys,produces,筆,NA,,pen
 item_332,T6PENCI,word,toys,produces,鉛筆,NA,,pencil
 item_333,T6CRAYOC,word,toys,produces,顏色筆,NA,,crayon
-item_334,T6GLUE,word,toys,produces,膠水,NA,,glue
+item_334,T6GLUE,word,toys,produces,膠水,NA,,glue (object)
 item_335,T6STICKE,word,toys,produces,貼紙,NA,,sticker
 item_336,T6SONG,word,toys,produces,歌,NA,,song
 item_337,T6MIKE,word,toys,produces,咪,NA,,microphone
@@ -362,7 +362,7 @@ item_360,X7STUPID,word,descriptive_words,produces,蠢,NA,dumb / stupid,dumb
 item_361,X7HOT,word,descriptive_words,produces,熱,NA,,hot
 item_362,X7WARM,word,descriptive_words,produces,暖,NA,,warm
 item_363,X7COLDC,word,descriptive_words,produces,凍,NA,,cold
-item_364,X7COOL,word,descriptive_words,produces,涼,NA,,cool
+item_364,X7COOL,word,descriptive_words,produces,涼,NA,,cool (description)
 item_365,X7FRAGR,word,descriptive_words,produces,香,NA,,fragrant
 item_366,X7STINK,word,descriptive_words,produces,臭,NA,,smelly
 item_367,X7BAO3,word,descriptive_words,produces,飽,NA,,full
@@ -597,7 +597,7 @@ item_595,C12HAT,word,clothing,produces,帽,NA,,hat
 item_596,C12SCARC,word,clothing,produces,頸巾,NA,,scarf
 item_597,C12TIE,word,clothing,produces,(領)呔,NA,,tie (action)
 item_598,C12BELT,word,clothing,produces,皮帶,NA,,belt
-item_599,C12GLOVC,word,clothing,produces,手套/手襪,NA,,gloves
+item_599,C12GLOVC,word,clothing,produces,手套/手襪,NA,,glove
 item_600,C12BUTTC,word,clothing,produces,(衫)鈕/扣,NA,,button
 item_601,C12ZIPPC,word,clothing,produces,拉鍊,NA,,zipper
 item_602,C12NECLC,word,clothing,produces,(頸)鍊,NA,,necklace

@@ -45,7 +45,11 @@ new_items[which(new_items$uni_lemma=="clop clop"),]$uni_lemma = "clip clop"
 new_items[which(new_items$uni_lemma=="cut it out"),]$uni_lemma = "don't"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="iron"),]$uni_lemma = "iron (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
 
 
 # ToDo: check empty uni-lemmas ("")

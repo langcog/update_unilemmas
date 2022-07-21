@@ -71,14 +71,14 @@ item_69,truck,word,vehicles,produces,truck,NA,truck,truck
 item_70,ball,word,toys,produces,ball,NA,ball,ball
 item_71,balloon,word,toys,produces,balloon,NA,balloon,balloon
 item_72,bat,word,toys,produces,bat,NA,bat,bat (object)
-item_73,block,word,toys,produces,block,NA,block,block
+item_73,block,word,toys,produces,block,NA,block,blocks
 item_74,book,word,toys,produces,book,NA,book,book
 item_75,bubbles,word,toys,produces,bubbles,NA,bubbles,bubbles
 item_76,chalk,word,toys,produces,chalk,NA,chalk,chalk
 item_77,crayon,word,toys,produces,crayon,NA,crayon,crayon
 item_78,doll,word,toys,produces,doll,NA,doll,doll
 item_79,game,word,toys,produces,game,NA,game,game
-item_80,glue,word,toys,produces,glue,NA,glue,glue
+item_80,glue,word,toys,produces,glue,NA,glue,glue (object)
 item_81,pen,word,toys,produces,pen,NA,pen,pen
 item_82,pencil,word,toys,produces,pencil,NA,pencil,pencil
 item_83,play_dough,word,toys,produces,play dough,NA,play dough,play dough
@@ -162,11 +162,11 @@ item_160,button,word,clothing,produces,button,NA,button,button
 item_161,coat,word,clothing,produces,coat,NA,coat,coat
 item_162,diaper,word,clothing,produces,diaper,NA,diaper,diaper
 item_163,dress,word,clothing,produces,dress (object),NA,dress (object),dress (object)
-item_164,gloves,word,clothing,produces,gloves,NA,gloves,gloves
+item_164,gloves,word,clothing,produces,gloves,NA,gloves,glove
 item_165,hat,word,clothing,produces,hat,NA,hat,hat
 item_166,jacket,word,clothing,produces,jacket,NA,jacket,jacket
 item_167,jeans,word,clothing,produces,jeans,NA,jeans,jeans
-item_168,mittens,word,clothing,produces,mittens,NA,mittens,mittens
+item_168,mittens,word,clothing,produces,mittens,NA,mittens,mitten
 item_169,necklace,word,clothing,produces,necklace,NA,necklace,necklace
 item_170,pajamas,word,clothing,produces,pajamas,NA,pajamas,pajamas
 item_171,pants,word,clothing,produces,pants,NA,pants,pants
@@ -198,7 +198,7 @@ item_196,hand,word,body_parts,produces,hand,NA,hand,hand
 item_197,head,word,body_parts,produces,head,NA,head,head
 item_198,knee,word,body_parts,produces,knee,NA,knee,knee
 item_199,leg,word,body_parts,produces,leg,NA,leg,leg
-item_200,lips,word,body_parts,produces,lips,NA,lips,lips
+item_200,lips,word,body_parts,produces,lips,NA,lips,lip
 item_201,mouth,word,body_parts,produces,mouth,NA,mouth,mouth
 item_202,nose,word,body_parts,produces,nose,NA,nose,nose
 item_203,owie,word,body_parts,produces,owie/boo boo,NA,owie/boo boo,owie
@@ -448,7 +448,7 @@ item_446,kick,word,action_words,produces,kick,NA,kick,kick
 item_447,kiss,word,action_words,produces,kiss,NA,kiss,kiss
 item_448,knock,word,action_words,produces,knock,NA,knock,knock
 item_449,lick,word,action_words,produces,lick,NA,lick,lick
-item_450,like,word,action_words,produces,like,NA,like,like (action)
+item_450,like,word,action_words,produces,like,NA,like,like
 item_451,listen,word,action_words,produces,listen,NA,listen,listen
 item_452,look,word,action_words,produces,look,NA,look,look
 item_453,love,word,action_words,produces,love,NA,love,love
@@ -473,7 +473,7 @@ item_471,share,word,action_words,produces,share,NA,share,share
 item_472,show,word,action_words,produces,show,NA,show,show
 item_473,sing,word,action_words,produces,sing,NA,sing,sing
 item_474,sit,word,action_words,produces,sit,NA,sit,sit
-item_475,skate,word,action_words,produces,skate,NA,skate,skate
+item_475,skate,word,action_words,produces,skate,NA,skate,skate (action)
 item_476,sleep,word,action_words,produces,sleep,NA,sleep,sleep
 item_477,slide.action,word,action_words,produces,slide (action),NA,slide (action),slide (action)
 item_478,smile,word,action_words,produces,smile,NA,smile,smile

@@ -28,7 +28,9 @@ new_items[which(new_items$uni_lemma=="mushrooms"),]$uni_lemma = "mushroom"
 new_items[which(new_items$uni_lemma=="i"),]$uni_lemma = "I"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

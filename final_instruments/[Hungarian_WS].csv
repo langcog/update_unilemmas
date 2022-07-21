@@ -102,7 +102,7 @@ item_100,item_100,lapát,word,produces,toys,NA,shovel,shovel
 item_101,item_101,lego,word,produces,toys,NA,Lego,blocks
 item_102,item_102,lufi,word,produces,toys,NA,balloon,balloon
 item_103,item_103,mese,word,produces,toys,NA,story,story
-item_104,item_104,ragasztó,word,produces,toys,NA,glue,glue
+item_104,item_104,ragasztó,word,produces,toys,NA,glue,glue (object)
 item_105,item_105,toll,word,produces,toys,NA,pen,pen
 item_106,item_106,vödör,word,produces,toys,NA,bucket,bucket
 item_107,item_107,zsírkréta,word,produces,toys,NA,crayon,crayon
@@ -200,7 +200,7 @@ item_198,item_198,harisnya,word,produces,clothing,NA,tights,tights
 item_199,item_199,ing,word,produces,clothing,NA,shirt,shirt
 item_200,item_200,kabát,word,produces,clothing,NA,coat,coat
 item_201,item_201,kalap,word,produces,clothing,NA,hat,hat
-item_202,item_202,kesztyű,word,produces,clothing,NA,gloves,gloves
+item_202,item_202,kesztyű,word,produces,clothing,NA,gloves,glove
 item_203,item_203,nadrág,word,produces,clothing,NA,trousers,pants
 item_204,item_204,nyaklánc,word,produces,clothing,NA,necklace,necklace
 item_205,item_205,öv,word,produces,clothing,NA,belt,belt
@@ -220,7 +220,7 @@ item_218,item_218,tornacipő,word,produces,clothing,NA,sneaker,shoe
 item_219,item_219,zsepi,word,produces,clothing,NA,handkerchief,tissue
 item_220,item_220,zipzár,word,produces,clothing,NA,zipper,zipper
 item_221,item_221,zokni,word,produces,clothing,NA,sock,sock
-item_222,item_222,ajak,word,produces,body_parts,NA,lips,lips
+item_222,item_222,ajak,word,produces,body_parts,NA,lips,lip
 item_223,item_223,áll,word,produces,body_parts,NA,chin,chin
 item_224,item_224,arc,word,produces,body_parts,NA,face,face
 item_225,item_225,boka,word,produces,body_parts,NA,ankle,ankle
@@ -458,7 +458,7 @@ item_456,item_456,ad,word,produces,action_words,NA,give,give
 item_457,item_457,akar,word,produces,action_words,NA,want,want
 item_458,item_458,áll,word,produces,action_words,NA,stand,stand
 item_459,item_459,alszik,word,produces,action_words,NA,sleep,sleep
-item_460,item_460,bánt,word,produces,action_words,NA,hurt (active),hurt
+item_460,item_460,bánt,word,produces,action_words,NA,hurt (active),hurt (action)
 item_461,item_461,befejez,word,produces,action_words,NA,finish,finish
 item_462,item_462,beszél,word,produces,action_words,NA,talk,talk
 item_463,item_463,bezár,word,produces,action_words,NA,close,close
@@ -485,7 +485,7 @@ item_483,item_483,énekel,word,produces,action_words,NA,sing,sing
 item_484,item_484,épít,word,produces,action_words,NA,build,build
 item_485,item_485,eszik,word,produces,action_words,NA,eat,eat
 item_486,item_486,etet,word,produces,action_words,NA,feed,feed
-item_487,item_487,fáj,word,produces,action_words,NA,hurt (as a feeling),hurt
+item_487,item_487,fáj,word,produces,action_words,NA,hurt (as a feeling),hurt (action)
 item_488,item_488,fázik,word,produces,action_words,NA,feel cold,NA
 item_489,item_489,fél,word,produces,action_words,NA,feel scared,NA
 item_490,item_490,felébred,word,produces,action_words,NA,wake,wake
@@ -676,7 +676,7 @@ item_674,item_674,undorító,word,produces,descriptive_words,NA,yucky,yucky
 item_675,item_675,ügyes,word,produces,descriptive_words,NA,smart (skillful),smart
 item_676,item_676,üres,word,produces,descriptive_words,NA,empty,empty
 item_677,item_677,utolsó,word,produces,descriptive_words,NA,last,last
-item_678,item_678,vizes,word,produces,descriptive_words,NA,wet,wet
+item_678,item_678,vizes,word,produces,descriptive_words,NA,wet,wet (description)
 item_679,item_679,zajos,word,produces,descriptive_words,NA,noisy,noisy
 item_680,item_680,zöld,word,produces,descriptive_words,NA,green,green
 item_681,item_681,egy,word,produces,numbers,NA,one,one

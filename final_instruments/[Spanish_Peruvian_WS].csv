@@ -123,7 +123,7 @@ item_121,ceja,word,body_parts,produces,ceja(s),NA,eyebrow,eyebrow
 item_122,cuello,word,body_parts,produces,cuello,NA,neck,neck
 item_123,dedo,word,body_parts,produces,dedo(s),NA,fingers,finger
 item_124,diente,word,body_parts,produces,diente(s),NA,teeth,tooth
-item_125,labio,word,body_parts,produces,labio(s),NA,lips,lips
+item_125,labio,word,body_parts,produces,labio(s),NA,lips,lip
 item_126,lengua,word,body_parts,produces,lengua,NA,tongue,tongue
 item_127,lunar,word,body_parts,produces,lunar,NA,mole (body part),NA
 item_128,mano,word,body_parts,produces,mano(s),NA,hands,hand
@@ -162,7 +162,7 @@ item_160,raqueta,word,toys,produces,raqueta,NA,racket,racket
 item_161,rastrillo,word,toys,produces,rastrillo,NA,rake,rake (object)
 item_162,rompecabezas,word,toys,produces,rompecabezas,NA,puzzle,puzzle
 item_163,rueda,word,toys,produces,rueda,NA,wheel,wheel
-item_164,tambor,word,toys,produces,tambor,NA,drum,drum
+item_164,tambor,word,toys,produces,tambor,NA,drum,drum (object)
 item_165,ambulancia,word,vehicles,produces,ambulancia,NA,ambulance,ambulance
 item_166,autobus,word,vehicles,produces,autobús/bus,NA,bus,bus
 item_167,avion,word,vehicles,produces,avión,NA,plane,airplane
@@ -176,7 +176,7 @@ item_174,combi,word,vehicles,produces,combi/micro,NA,bus,bus
 item_175,grua,word,vehicles,produces,grúa,NA,crane,crane
 item_176,helicoptero,word,vehicles,produces,helicóptero,NA,helicopter,helicopter
 item_177,moto,word,vehicles,produces,moto,NA,motorcycle,motorcycle
-item_178,skate,word,vehicles,produces,skate/scooter,NA,scooter,skates
+item_178,skate,word,vehicles,produces,skate/scooter,NA,scooter,skate (object)
 item_179,taxi,word,vehicles,produces,taxi,NA,cab,taxi
 item_180,tractor,word,vehicles,produces,tractor,NA,tractor,tractor
 item_181,tren,word,vehicles,produces,tren,NA,train,train
@@ -254,8 +254,8 @@ item_252,correa,word,clothing,produces,correa/cinturón,NA,belt,belt
 item_253,enterizo,word,clothing,produces,enterizo,NA,onesie,onesie
 item_254,falda,word,clothing,produces,falda,NA,skirt,skirt
 item_255,gorro,word,clothing,produces,gorro(a)/sombrero,NA,cap/hat,hat
-item_256,guante,word,clothing,produces,guante(s),NA,gloves,gloves
-item_257,media,word,clothing,produces,media(s),NA,stockings,stockings
+item_256,guante,word,clothing,produces,guante(s),NA,gloves,glove
+item_257,media,word,clothing,produces,media(s),NA,stockings,tights
 item_258,pantalon,word,clothing,produces,pantalón(es),NA,pants,pants
 item_259,panal,word,clothing,produces,pañal,NA,diaper,diaper
 item_260,piyama,word,clothing,produces,piyama,NA,pajamas,pajamas
@@ -434,7 +434,7 @@ item_432,pintar,word,action_words,produces,pintar,NA,paint,paint (action)
 item_433,poder,word,action_words,produces,poder [puedes],NA,can,can (auxiliary)
 item_434,poner,word,action_words,produces,poner(se),NA,put on,put on
 item_435,prender,word,action_words,produces,prender/encender,NA,turn on,turn on
-item_436,quemar,word,action_words,produces,quemar,NA,burn,burn (action)
+item_436,quemar,word,action_words,produces,quemar,NA,burn,burn
 item_437,querer,word,action_words,produces,querer,NA,want,want
 item_438,quitar,word,action_words,produces,quitar(se),NA,take off,remove
 item_439,regalar,word,action_words,produces,regalar,NA,give a present,gift (action)

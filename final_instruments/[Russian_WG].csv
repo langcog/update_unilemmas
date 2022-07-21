@@ -84,7 +84,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 игрушка,toys,NA,word,understands; produces,NA,item_110,toy,toy (object)
 карандаш/ручка,toys,NA,word,understands; produces,NA,item_111,pencil/pen,pen/pencil
 книга,toys,NA,word,understands; produces,NA,item_112,book,book
-кубики,toys,NA,word,understands; produces,NA,item_113,block,block
+кубики,toys,NA,word,understands; produces,NA,item_113,block,blocks
 кукла,toys,NA,word,understands; produces,NA,item_114,doll,doll
 лопатка/совок,toys,NA,word,understands; produces,NA,item_115,shovel/spade,shovel
 мяч,toys,NA,word,understands; produces,NA,item_116,ball,ball
@@ -121,7 +121,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 яйцо,food_drink,NA,word,understands; produces,NA,item_147,egg,egg
 босоножки,clothing,NA,word,understands; produces,NA,item_148,open-toe sandals,sandal
 ботинки,clothing,NA,word,understands; produces,NA,item_149,boots,boots
-варежки/рукавицы,clothing,NA,word,understands; produces,NA,item_150,mittens,mittens
+варежки/рукавицы,clothing,NA,word,understands; produces,NA,item_150,mittens,mitten
 колготки,clothing,NA,word,understands; produces,NA,item_151,tights,tights
 комбинезон,clothing,NA,word,understands; produces,NA,item_152,bib/snowsuit,snowsuit
 кофта,clothing,NA,word,understands; produces,NA,item_153,jacket,sweater
@@ -335,7 +335,7 @@ definition,category,item,type,choices,complexity_category,itemID,gloss,uni_lemma
 стоять,action_words,NA,word,understands; produces,NA,item_361,stand,stand
 танцевать,action_words,NA,word,understands; produces,NA,item_362,dance,dance
 хлопать,action_words,NA,word,understands; produces,NA,item_363,clap,clap
-хотеть,action_words,NA,word,understands; produces,NA,item_364,want,wanna
+хотеть,action_words,NA,word,understands; produces,NA,item_364,want,want
 ходить,action_words,NA,word,understands; produces,NA,item_365,go/walk,walk
 целовать,action_words,NA,word,understands; produces,NA,item_366,kiss,kiss
 читать,action_words,NA,word,understands; produces,NA,item_367,read,read

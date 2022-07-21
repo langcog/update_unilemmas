@@ -56,7 +56,7 @@ item_53,livre,toys,livre,word,understands; produces,book,book
 item_54,jouet,toys,jouet,word,understands; produces,toy,toy (object)
 item_55,crayon/stylo,toys,crayon/stylo,word,understands; produces,pen/pencil,pen/pencil
 item_56,bulles,toys,bulles,word,understands; produces,bubbles,bubbles
-item_57,bloc,toys,bloc,word,understands; produces,block,block
+item_57,bloc,toys,bloc,word,understands; produces,block,blocks
 item_58,ballon,toys,ballon,word,understands; produces,ball,ball
 item_59,balle,toys,balle,word,understands; produces,ball,ball
 item_60,train,vehicles,train,word,understands; produces,train,train

@@ -25,6 +25,13 @@ new_items[which(new_items$uni_lemma=="bat"),]$uni_lemma = "bat (object)"
 new_items[which(new_items$uni_lemma=="sofa"),]$uni_lemma = "couch" # mapping sofa to couch because so similar
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="mittens"),]$uni_lemma = "mitten"
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue"),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
+new_items[which(new_items$uni_lemma=="like (action)"),]$uni_lemma = "like"
 
 # save updated instrument(s)
 new_ws <- update_instrument("English", "WS", new_items %>% rename(itemID = WS))
@@ -37,3 +44,7 @@ new_wg <- update_instrument("English", "WG", new_items %>% rename(itemID = WG))
 # "All definitions accounted for in new file: FALSE"
 # "2 new uni-lemmas defined for English"
 # "I"  "TV"
+
+new_wsshort <- update_instrument("English", "WSShort", new_items %>% rename(itemID = WSShort))
+new_wsshort <- update_instrument("English", "WGShort", new_items %>% rename(itemID = WGShort))
+

@@ -5,8 +5,8 @@ source("update_unilemmas.R")
 language = "British Sign Language"
 outdir = "final_instruments/"
 
-old_items <- get_item_data(language = language) %>%
-  filter(type=="word")
+old_items <- get_item_data(language = language, db_args=db_args) %>%
+  filter(item_kind=="word")
 
 new_items <- update_unilemmas(language, show_conflicts=T)
 # "loaded 548 British Sign Language items"
@@ -25,6 +25,10 @@ new_items[which(new_items$uni_lemma=="pick (action)"),]$uni_lemma = "pick"
 new_items[which(new_items$uni_lemma=="feet"),]$uni_lemma = "foot"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 new_items[which(new_items$uni_lemma=="back"),]$uni_lemma = "back (preposition)"
+
+new_items[which(new_items$uni_lemma=="skate"),]$uni_lemma = "skate (action)" 
+new_items[which(new_items$uni_lemma=="gloves"),]$uni_lemma = "glove"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
 
 # now join and re-save in raw_data/instruments format, e.g.
 # https://github.com/langcog/wordbank/blob/master/raw_data/BSL_WG/%5BBSL_WG%5D.csv

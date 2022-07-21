@@ -66,15 +66,15 @@ tractor,item_123,VEHICLES (Real or toy),produces; doesn't produce,word,tractor,t
 digger,item_125,VEHICLES (Real or toy),produces; doesn't produce,word,digger,digger,digger,0,vehicles,nouns
 truck,item_127,VEHICLES (Real or toy),produces; doesn't produce,word,truck_trucail,truck,truck,0,vehicles,nouns
 doll,item_130,TOYS,produces; doesn't produce,word,doll,doll,doll,0,toys,nouns
-blocks,item_133,TOYS,produces; doesn't produce,word,blocks,blocks,block,0,toys,nouns
+blocks,item_133,TOYS,produces; doesn't produce,word,blocks,blocks,blocks,0,toys,nouns
 bubbles,item_135,TOYS,produces; doesn't produce,word,bubbles,bubbles,bubbles,0,toys,nouns
 toy,item_137,TOYS,produces; doesn't produce,word,toy,toy,toy (object),0,toys,nouns
 present,item_139,TOYS,produces; doesn't produce,word,present,present,present,0,toys,nouns
 hurley,item_141,TOYS,produces; doesn't produce,word,hurley,hurley,,0,toys,nouns
 game,item_143,TOYS,produces; doesn't produce,word,game,game,game,0,toys,nouns
 crayon,item_144,TOYS,produces; doesn't produce,word,crayon_crián,crayon,crayon,1,toys,nouns
-drum,item_147,TOYS,produces; doesn't produce,word,drum,drum,drum,0,toys,nouns
-gliú,item_148,TOYS,produces; doesn't produce,word,gliú_glue_ie,glue,glue,1,toys,nouns
+drum,item_147,TOYS,produces; doesn't produce,word,drum,drum,drum (object),0,toys,nouns
+gliú,item_148,TOYS,produces; doesn't produce,word,gliú_glue_ie,glue,glue (object),1,toys,nouns
 gun,item_150,TOYS,produces; doesn't produce,word,gun,gun,gun,0,toys,nouns
 book,item_152,TOYS,produces; doesn't produce,word,book,book,book,0,toys,nouns
 (foot)ball,item_154,TOYS,produces; doesn't produce,word,(foot)ball,(foot)ball,ball,0,toys,nouns
@@ -96,8 +96,8 @@ cheese,item_188,FOOD AND DRINK,produces; doesn't produce,word,cheese,cheese,chee
 cornflakes,item_190,FOOD AND DRINK,produces; doesn't produce,word,cornflakes,cornflakes,cereal,0,food_drink,nouns
 grapes,item_192,FOOD AND DRINK,produces; doesn't produce,word,grapes,grapes,grapes,0,food_drink,nouns
 sandwich,item_194,FOOD AND DRINK,produces; doesn't produce,word,sandwich,sandwich,sandwich,0,food_drink,nouns
-chickennuggets,item_196,FOOD AND DRINK,produces; doesn't produce,word,chickennuggets,chicken nuggets,nuggets,0,food_drink,nouns
-nuts,item_198,FOOD AND DRINK,produces; doesn't produce,word,nuts,nuts,nuts,0,food_drink,nouns
+chickennuggets,item_196,FOOD AND DRINK,produces; doesn't produce,word,chickennuggets,chicken nuggets,nugget,0,food_drink,nouns
+nuts,item_198,FOOD AND DRINK,produces; doesn't produce,word,nuts,nuts,nut,0,food_drink,nouns
 crisps,item_201,FOOD AND DRINK,produces; doesn't produce,word,crisps_Taytos,crisps,chips,0,food_drink,nouns
 cucumber,item_202,FOOD AND DRINK,produces; doesn't produce,word,cucumber_cúcamar,cucumber,cucumber,1,food_drink,nouns
 drink,item_204,FOOD AND DRINK,produces; doesn't produce,word,drink,drink,drink (beverage),0,food_drink,nouns
@@ -124,7 +124,7 @@ raisin,item_245,FOOD AND DRINK,produces; doesn't produce,word,raisin,raisin,rais
 salt,item_247,FOOD AND DRINK,produces; doesn't produce,word,salt,salt,salt,0,food_drink,nouns
 chips,item_249,FOOD AND DRINK,produces; doesn't produce,word,chips,chips,chips,0,food_drink,nouns
 chocolate,item_251,FOOD AND DRINK,produces; doesn't produce,word,chocolate,chocolate,chocolate,0,food_drink,nouns
-rashers,item_253,FOOD AND DRINK,produces; doesn't produce,word,rashers,rashers,,0,food_drink,nouns
+rashers,item_253,FOOD AND DRINK,produces; doesn't produce,word,rashers,rashers,bacon,0,food_drink,nouns
 strawberry,item_256,FOOD AND DRINK,produces; doesn't produce,word,strawberry,strawberry,strawberry,0,food_drink,nouns
 juice,item_258,FOOD AND DRINK,produces; doesn't produce,word,juice,juice,juice,0,food_drink,nouns
 jam,item_260,FOOD AND DRINK,produces; doesn't produce,word,jam,jam,jam,0,food_drink,nouns
@@ -139,9 +139,9 @@ apple,item_276,FOOD AND DRINK,produces; doesn't produce,word,apple,apple,apple,0
 bib,item_278,CLOTHES,produces; doesn't produce,word,bib,bib,bib,0,clothing,nouns
 trousers,item_280,CLOTHES,produces; doesn't produce,word,trousers,trousers,pants,0,clothing,nouns
 shorts,item_282,CLOTHES,produces; doesn't produce,word,shorts,shorts,shorts,0,clothing,nouns
-shoes,item_284,CLOTHES,produces; doesn't produce,word,shoes,shoes,shoes,0,clothing,nouns
-runners,item_286,CLOTHES,produces; doesn't produce,word,runners,runners,shoes,0,clothing,nouns
-boots,item_288,CLOTHES,produces; doesn't produce,word,boots_wellies,boots,boots,0,clothing,nouns
+shoes,item_284,CLOTHES,produces; doesn't produce,word,shoes,shoes,shoe,0,clothing,nouns
+runners,item_286,CLOTHES,produces; doesn't produce,word,runners,runners,sneaker,0,clothing,nouns
+boots,item_288,CLOTHES,produces; doesn't produce,word,boots_wellies,boots,boot,0,clothing,nouns
 cap,item_290,CLOTHES,produces; doesn't produce,word,cap,cap,hat,0,clothing,nouns
 cardigan,item_291,CLOTHES,produces; doesn't produce,word,cardigan_cairdeagan_ie,cardigan,sweater,1,clothing,nouns
 nappy,item_293,CLOTHES,produces; doesn't produce,word,nappy,nappy,diaper,0,clothing,nouns
@@ -149,14 +149,14 @@ button,item_295,CLOTHES,produces; doesn't produce,word,button,button,button,0,cl
 coat,item_297,CLOTHES,produces; doesn't produce,word,coat,coat,coat,0,clothing,nouns
 belt,item_299,CLOTHES,produces; doesn't produce,word,belt,belt,belt,0,clothing,nouns
 pijamas,item_301,CLOTHES,produces; doesn't produce,word,pijamas,pijamas,pajamas,0,clothing,nouns
-swimmingtogs,item_303,CLOTHES,produces; doesn't produce,word,swimmingtogs,swimming costume,,0,clothing,nouns
+swimmingtogs,item_303,CLOTHES,produces; doesn't produce,word,swimmingtogs,swimming costume,swimsuit,0,clothing,nouns
 clothes,item_305,CLOTHES,produces; doesn't produce,word,clothes,clothes,clothes,0,clothing,nouns
 ring,item_307,CLOTHES,produces; doesn't produce,word,ring,ring,ring (object),0,clothing,nouns
 underpants,item_309,CLOTHES,produces; doesn't produce,word,underpants,underpants,underpants,0,clothing,nouns
 jumper,item_311,CLOTHES,produces; doesn't produce,word,jumper,jumper,sweater,0,clothing,nouns
 dress,item_313,CLOTHES,produces; doesn't produce,word,dress,dress,dress,0,clothing,nouns
 hat,item_315,CLOTHES,produces; doesn't produce,word,hat,hat,hat,0,clothing,nouns
-gloves,item_317,CLOTHES,produces; doesn't produce,word,gloves_mittens,gloves,gloves,0,clothing,nouns
+gloves,item_317,CLOTHES,produces; doesn't produce,word,gloves_mittens,gloves,glove,0,clothing,nouns
 shirt,item_319,CLOTHES,produces; doesn't produce,word,shirt,shirt,shirt,0,clothing,nouns
 tights,item_321,CLOTHES,produces; doesn't produce,word,tights,tights,tights,0,clothing,nouns
 skirt,item_324,CLOTHES,produces; doesn't produce,word,skirt,skirt,skirt,0,clothing,nouns
@@ -270,7 +270,7 @@ cooker,item_539,FURNITURE AND ROOMS,produces; doesn't produce,word,cooker,cooker
 stairs,item_541,FURNITURE AND ROOMS,produces; doesn't produce,word,stairs,stairs,stairs,0,furniture_rooms,nouns
 stool,item_543,FURNITURE AND ROOMS,produces; doesn't produce,word,stool,stool,chair,0,furniture_rooms,nouns
 drawer,item_545,FURNITURE AND ROOMS,produces; doesn't produce,word,drawer,drawer,drawer,0,furniture_rooms,nouns
-television,item_547,FURNITURE AND ROOMS,produces; doesn't produce,word,television,television,tv,0,furniture_rooms,nouns
+television,item_547,FURNITURE AND ROOMS,produces; doesn't produce,word,television,television,TV,0,furniture_rooms,nouns
 fire,item_549,FURNITURE AND ROOMS,produces; doesn't produce,word,fire,fire,fire,0,furniture_rooms,nouns
 couch,item_551,FURNITURE AND ROOMS,produces; doesn't produce,word,couch_sofa,couch,couch,0,furniture_rooms,nouns
 floor,item_553,FURNITURE AND ROOMS,produces; doesn't produce,word,floor,floor,floor,0,furniture_rooms,nouns
@@ -374,7 +374,7 @@ dinner,item_748,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,din
 bath,item_750,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,bath,bath,bath,0,games_routines,other
 phonecall(call),item_752,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,phonecall(call),phone call (call),,0,games_routines,other
 thankyou,item_754,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,thankyou_thanks,thank you,thank you,0,games_routines,other
-cuddle,item_756,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,cuddle,cuddle,,0,games_routines,other
+cuddle,item_756,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,cuddle,cuddle,hug,0,games_routines,other
 cmere,item_758,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,cmere,c'mere,,0,games_routines,other
 atall,item_760,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,atall,at all,,0,games_routines,other
 ilike,item_762,"GAMES, ROUTINES AND PHRASES",produces; doesn't produce,word,ilike,I like,,0,games_routines,other

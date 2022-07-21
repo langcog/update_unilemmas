@@ -108,7 +108,7 @@ item_106,NA,word,understands; produces,vehicles,žeriav,NA,crane,crane
 item_107,NA,word,understands; produces,toys,bábika,NA,doll,doll
 item_108,NA,word,understands; produces,toys,balón,NA,balloon,balloon
 item_109,NA,word,understands; produces,toys,bublina / bublifuk,NA,Bubble / Bubble Blower,bubbles
-item_110,NA,word,understands; produces,toys,bubon,NA,drum,drum
+item_110,NA,word,understands; produces,toys,bubon,NA,drum,drum (object)
 item_111,NA,word,understands; produces,toys,dráčik,NA,dragon,dragon
 item_112,NA,word,understands; produces,toys,guľka,NA,bullet,ball
 item_113,NA,word,understands; produces,toys,kocka,NA,hot girl,blocks
@@ -202,7 +202,7 @@ item_200,NA,word,understands; produces,clothing,podbradník,NA,bib,bib
 item_201,NA,word,understands; produces,clothing,ponožky,NA,socks,sock
 item_202,NA,word,understands; produces,clothing,pršiplášť,NA,raincoat,raincoat
 item_203,NA,word,understands; produces,clothing,pyžamo,NA,pajamas,pajamas
-item_204,NA,word,understands; produces,clothing,rukavice,NA,gloves,gloves
+item_204,NA,word,understands; produces,clothing,rukavice,NA,gloves,glove
 item_205,NA,word,understands; produces,clothing,sandálky,NA,Sandals,sandal
 item_206,NA,word,understands; produces,clothing,sukňa,NA,skirt,skirt
 item_207,NA,word,understands; produces,clothing,svetrík / pulóver,NA,Sweatshirt / pullover,sweater
@@ -280,7 +280,7 @@ item_278,NA,word,understands; produces,household,kosť,NA,bone,bone
 item_279,NA,word,understands; produces,household,košík,NA,basket,basket
 item_280,NA,word,understands; produces,household,krhlička,NA,spout,faucet
 item_281,NA,word,understands; produces,household,kvety,NA,flowers,flower
-item_282,NA,word,understands; produces,household,lepidlo,NA,glue,glue
+item_282,NA,word,understands; produces,household,lepidlo,NA,glue,glue (object)
 item_283,NA,word,understands; produces,household,liek / kvapky / sirup,NA,medication / drops / syrup,medicine
 item_284,NA,word,understands; produces,household,lopata / lopatka,NA,bucket / shovel,shovel
 item_285,NA,word,understands; produces,household,lyžička,NA,spoon,spoon
@@ -415,7 +415,7 @@ item_413,NA,word,understands; produces,action_words,mať,NA,have got,have
 item_414,NA,word,understands; produces,action_words,natáčať / filmovať / kamerovať,NA,shoot / film / cameras,NA
 item_415,NA,word,understands; produces,action_words,stratiť (sa),NA,get lost,NA
 item_416,NA,word,understands; produces,action_words,obuť / vyzuť,NA,take off,remove
-item_417,NA,word,understands; produces,action_words,otvoriť / zatvoriť,NA,Open / Close,close (action)
+item_417,NA,word,understands; produces,action_words,otvoriť / zatvoriť,NA,Open / Close,close
 item_418,NA,word,understands; produces,action_words,páliť,NA,fire,NA
 item_419,NA,word,understands; produces,action_words,piecť,NA,to bake,bake
 item_420,NA,word,understands; produces,action_words,piť,NA,drink,drink (action)

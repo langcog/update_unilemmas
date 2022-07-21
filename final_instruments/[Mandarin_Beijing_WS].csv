@@ -43,7 +43,7 @@ item_41,P2MICKY,word,people,produces,NA,米老鼠,mickey mouse,NA
 item_42,P2SUNWU,word,people,produces,NA,孙悟空,sun wukong,NA
 item_43,P2ZHUBJ,word,people,produces,NA,猪八戒,zhu bajie,NA
 item_44,P2PENGY,word,people,produces,NA,朋友,friend,friend
-item_45,G3WANT,word,games_routines,produces,NA,要,want,want
+item_45,G3WANT,word,games_routines,produces,NA,要,want,wanna
 item_46,G3NOTWA,word,games_routines,produces,NA,不要,don't,don't
 item_47,G3BYE,word,games_routines,produces,NA,再见/Byebye,bye,bye
 item_48,G3THANK,word,games_routines,produces,NA,谢谢,thank you,thank you
@@ -161,7 +161,7 @@ item_159,V4SHAKE,word,action_words,produces,NA,握（手）,shake,shake
 item_160,V4KNOCK,word,action_words,produces,NA,敲,knock,knock
 item_161,V4CLOSE,word,action_words,produces,NA,闭（眼、嘴）,close,close
 item_162,V4LOSE,word,action_words,produces,NA,丢,lose,lose
-item_163,V4LIKE,word,action_words,produces,NA,喜欢,love,like (action)
+item_163,V4LIKE,word,action_words,produces,NA,喜欢,love,like
 item_164,V4DONG,word,action_words,produces,NA,动,move,move
 item_165,V4WAIT,word,action_words,produces,NA,等,wait,wait
 item_166,V4AWAKE,word,action_words,produces,NA,醒,wake,wake
@@ -344,7 +344,7 @@ item_342,B6CHEEK,word,body_parts,produces,NA,脸蛋,cheek,cheek
 item_343,B6EAR,word,body_parts,produces,NA,耳朵,ear,ear
 item_344,B6NOSE,word,body_parts,produces,NA,鼻子,nose,nose
 item_345,B6MOUTH,word,body_parts,produces,NA,嘴（口）,mouth,mouth
-item_346,B6LIPS,word,body_parts,produces,NA,嘴唇,lips,lips
+item_346,B6LIPS,word,body_parts,produces,NA,嘴唇,lips,lip
 item_347,B6TEETH,word,body_parts,produces,NA,牙,tooth,tooth
 item_348,B6TONGUE,word,body_parts,produces,NA,舌头,tongue,tongue
 item_349,B6CHIN,word,body_parts,produces,NA,下巴,chin,chin
@@ -419,7 +419,7 @@ item_417,X8FRAGR,word,descriptive_words,produces,NA,香,fragrant,fragrant
 item_418,X8STINK,word,descriptive_words,produces,NA,臭,smelly,smelly
 item_419,X8BURNI,word,descriptive_words,produces,NA,烫,hot,hot
 item_420,X8HOT,word,descriptive_words,produces,NA,热,hot,hot
-item_421,X8COOL,word,descriptive_words,produces,NA,凉,cool,cool
+item_421,X8COOL,word,descriptive_words,produces,NA,凉,cool,cool (description)
 item_422,X8COLD,word,descriptive_words,produces,NA,冷,cold,cold
 item_423,X8BAO3,word,descriptive_words,produces,NA,饱,full,full
 item_424,X8HUNGR,word,descriptive_words,produces,NA,饿,hungry,hungry
@@ -446,7 +446,7 @@ item_444,X8SLEEP,word,descriptive_words,produces,NA,困了,sleepy,sleepy
 item_445,X8SICK,word,descriptive_words,produces,NA,病,sick,sick
 item_446,X8TALL,word,descriptive_words,produces,NA,高,high,high
 item_447,X8PRETT,word,descriptive_words,produces,NA,漂亮/美,pretty,pretty
-item_448,X8LIKE,word,descriptive_words,produces,NA,喜欢,like,like (action)
+item_448,X8LIKE,word,descriptive_words,produces,NA,喜欢,like,like
 item_449,X8NEW,word,descriptive_words,produces,NA,新,new,new
 item_450,X8OLD,word,descriptive_words,produces,NA,老,old,old
 item_451,X8HAPPY,word,descriptive_words,produces,NA,高兴/乐/开心,happy,happy
@@ -538,7 +538,7 @@ item_536,T10DOLL,word,toys,produces,NA,积木,doll,doll
 item_537,T10PEN,word,toys,produces,NA,玩具,pen,pen
 item_538,T10BALLO,word,toys,produces,NA,汽球,balloon,balloon
 item_539,T10GUN,word,toys,produces,NA,枪,gun,gun
-item_540,T10BLOCK,word,toys,produces,NA,积木,block,block
+item_540,T10BLOCK,word,toys,produces,NA,积木,block,blocks
 item_541,T10TOYS,word,toys,produces,NA,玩具,toy (object),toy (object)
 item_542,T10STORY,word,toys,produces,NA,故事,story,story
 item_543,T10KITE,word,toys,produces,NA,风筝,kite,kite
@@ -551,7 +551,7 @@ item_549,T10GAME,word,toys,produces,NA,游戏,game,game
 item_550,T10CHESS,word,toys,produces,NA,棋子,chess,board game
 item_551,T10GIFT,word,toys,produces,NA,礼物,present,present
 item_552,C11HAT,word,clothing,produces,NA,帽子,hat,hat
-item_553,C11GLOVE,word,clothing,produces,NA,手套,gloves,gloves
+item_553,C11GLOVE,word,clothing,produces,NA,手套,gloves,glove
 item_554,C11SCARF,word,clothing,produces,NA,围巾,scarf,scarf
 item_555,C11KERCH,word,clothing,produces,NA,手绢,handkerchief,handkerchief
 item_556,C11BIB,word,clothing,produces,NA,围嘴,bib,bib

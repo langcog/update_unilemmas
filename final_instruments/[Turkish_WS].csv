@@ -71,7 +71,7 @@ Balon,toys,Balon,word,produces,NA,item_69,balloon,balloon,balloon
 Bebek (object),toys,Bebek,word,produces,NA,item_70,doll,doll,doll
 Blok,toys,Blok,word,produces,NA,item_71,NA,block,blocks
 Boya (object),toys,Boya,word,produces,NA,item_72,crayon,crayon,crayon
-Davul,toys,Davul,word,produces,NA,item_73,NA,drum,drum
+Davul,toys,Davul,word,produces,NA,item_73,NA,drum,drum (object)
 Defter,toys,Defter,word,produces,NA,item_74,NA,notebook,notebook
 Düdük,toys,Duduk,word,produces,NA,item_75,NA,whistle,whistle (object)
 Kalem,toys,Kalem,word,produces,NA,item_76,pen/pencil,pencil,pen/pencil
@@ -164,7 +164,7 @@ Cep,clothing,Cep,word,produces,NA,item_161,NA,pocket,pocket
 Çorap,clothing,Corap,word,produces,NA,item_163,sock,socks,sock
 Don/Külot,clothing,Don/Kulot,word,produces,NA,item_164,NA,underpants,underpants
 Elbise,clothing,Elbise,word,produces,NA,item_165,dress (object),dress,dress (object)
-Eldiven,clothing,Eldiven,word,produces,NA,item_166,NA,gloves,gloves
+Eldiven,clothing,Eldiven,word,produces,NA,item_166,NA,gloves,glove
 Eşofman,clothing,Esofman,word,produces,NA,item_167,NA,tracksuit,tracksuit
 Etek,clothing,Etek,word,produces,NA,item_168,NA,skirt,skirt
 Fanila/Atlet,clothing,Fanila/Atlet,word,produces,NA,item_169,NA,undershirt,NA
@@ -244,7 +244,7 @@ Süpürge,household,Supurge,word,produces,NA,item_241,vacuum,broom/vacuum cleane
 Tabak,household,Tabak,word,produces,NA,item_243,plate,plate,plate
 Tarak,household,Tarak,word,produces,NA,item_244,comb (object),comb,comb (object)
 Telefon,household,Telefon,word,produces,NA,item_245,telephone,telephone,telephone
-Ütü,household,Utu,word,produces,NA,item_246,NA,iron,iron
+Ütü,household,Utu,word,produces,NA,item_246,NA,iron,iron (object)
 Balkon,furniture_rooms,Balkon,word,produces,NA,item_247,porch,balcony,porch
 Banyo (object),furniture_rooms,Banyo,word,produces,NA,item_248,bathroom,bathroom,bathroom
 Bilgisayar,furniture_rooms,Bilgisayar,word,produces,NA,item_249,computer,computer,computer
@@ -472,7 +472,7 @@ Isır,action_words,Isir,word,produces,NA,item_470,bite,bite,bite
 Islan,action_words,Islan,word,produces,NA,item_471,wet (action),get wet,wet (action)
 İç,action_words,Ic,word,produces,NA,item_472,drink (action),drink,drink (action)
 İn,action_words,In,word,produces,NA,item_473,get off,get off/come down,get off
-İste,action_words,Iste,word,produces,NA,item_474,wanna,want,wanna
+İste,action_words,Iste,word,produces,NA,item_474,wanna,want,want
 İt,action_words,It,word,produces,NA,item_475,push,push,push
 Kaç,action_words,Kac,word,produces,NA,item_476,NA,escape,escape
 Kal,action_words,Kal,word,produces,NA,item_477,NA,stay,stay
@@ -577,7 +577,7 @@ Islak,descriptive_words,Islak,word,produces,NA,item_574,wet (description),wet,we
 İki,descriptive_words,Iki,word,produces,NA,item_576,NA,two,NA
 İyi,descriptive_words,Iyi,word,produces,NA,item_577,good,good,good
 Kahverengi,descriptive_words,Kahverengi,word,produces,NA,item_578,NA,brown,brown
-Kapalı,descriptive_words,Kapali,word,produces,NA,item_579,closed,closed,closed (description)
+Kapalı,descriptive_words,Kapali,word,produces,NA,item_579,closed,closed,closed
 Karanlık,descriptive_words,Karanlik,word,produces,NA,item_580,dark,dark,dark
 Katı,descriptive_words,Kati,word,produces,NA,item_581,NA,hard/solid/strict,solid
 Kırık,descriptive_words,Kirik,word,produces,NA,item_582,NA,broken,broken
@@ -611,7 +611,7 @@ Yumuşak,descriptive_words,Yumusak,word,produces,NA,item_609,NA,soft,soft
 Yüksek,descriptive_words,Yuksek,word,produces,NA,item_610,NA,high,high
 Zor,descriptive_words,Zor,word,produces,NA,item_611,NA,difficult,difficult
 Yaramaz,descriptive_words,Yaramaz,word,produces,NA,item_612,naughty,naughty,naughty
-Yaş,descriptive_words,Yas,word,produces,NA,item_613,NA,wet,wet
+Yaş,descriptive_words,Yas,word,produces,NA,item_613,NA,wet,wet (description)
 Yeni,descriptive_words,Yeni,word,produces,NA,item_614,new,new,new
 Akşam,time_words,Aksam,word,produces,NA,item_615,evening,evening,evening
 Bazen,time_words,Bazen,word,produces,NA,item_616,NA,sometimes,sometimes

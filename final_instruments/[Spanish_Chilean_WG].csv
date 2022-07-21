@@ -109,7 +109,7 @@ item_107,botas,word,clothing,understands; produces,botas,NA,boots,boot
 item_108,boton,word,clothing,understands; produces,botón,NA,button,button
 item_109,calcetines,word,clothing,understands; produces,calcetines,NA,socks,sock
 item_110,calzon,word,clothing,understands; produces,calzón,NA,breeches,NA
-item_111,cierre,word,clothing,understands; produces,cierre,NA,close,close
+item_111,cierre,word,clothing,understands; produces,cierre,NA,close,zipper
 item_112,collar,word,clothing,understands; produces,collar,NA,necklace,necklace
 item_113,falda,word,clothing,understands; produces,falda,NA,skirt,skirt
 item_114,lentes,word,clothing,understands; produces,lentes/gafas,NA,lenses/goggles,NA
@@ -151,7 +151,7 @@ item_149,lapiz,word,toys,understands; produces,lápiz,NA,pencil,pen
 item_150,muneca,word,toys,understands; produces,muñeca,NA,doll,doll
 item_151,osito,word,toys,understands; produces,osito,NA,bear,bear
 item_152,pelota,word,toys,understands; produces,pelota,NA,ball,ball
-item_153,tambor,word,toys,understands; produces,tambor,NA,drum,drum
+item_153,tambor,word,toys,understands; produces,tambor,NA,drum,drum (object)
 item_154,almohada,word,household,understands; produces,almohada,NA,pillow,pillow
 item_155,aspiradora,word,household,understands; produces,aspiradora,NA,vacuum cleaner,vacuum
 item_156,basura,word,household,understands; produces,basura,NA,trash,trash
@@ -297,9 +297,9 @@ item_295,comer,word,action_words,understands; produces,comer(se),NA,eat,eat
 item_296,correr,word,action_words,understands; produces,correr,NA,run,run
 item_297,dar,word,action_words,understands; produces,dar,NA,give,give
 item_298,decir,word,action_words,understands; produces,decir,NA,say,say
-item_299,desayunar,word,action_words,understands; produces,desayunar,NA,breakfast,breakfast
+item_299,desayunar,word,action_words,understands; produces,desayunar,NA,breakfast,breakfast (action)
 item_300,dibujar,word,action_words,understands; produces,dibujar,NA,draw,draw
-item_301,doler,word,action_words,understands; produces,doler,NA,hurt,hurt
+item_301,doler,word,action_words,understands; produces,doler,NA,hurt,hurt (action)
 item_302,dormir,word,action_words,understands; produces,dormir(se),NA,go to sleep,sleep
 item_303,empujar,word,action_words,understands; produces,empujar,NA,push,push
 item_304,ensenar,word,action_words,understands; produces,enseñar,NA,teach,teach

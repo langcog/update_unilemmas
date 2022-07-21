@@ -93,7 +93,11 @@ new_items[which(new_items$WS=="item_208"),]$uni_lemma = "back (body part)"
 new_items[which(new_items$WS=="item_671"),]$uni_lemma = "back (location)"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$definition=="strømper"),]$uni_lemma = "tights"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="glue "),]$uni_lemma = "glue (object)"
+new_items[which(new_items$uni_lemma=="jigsaw puzzle "),]$uni_lemma = "puzzle"
+new_items[which(new_items$uni_lemma=="hurt"),]$uni_lemma = "hurt (action)"
 
 new_items[which(new_items$uni_lemma==""),]$uni_lemma = NA
 

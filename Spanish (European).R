@@ -71,7 +71,11 @@ new_items[which(new_items$uni_lemma=="hall"),]$uni_lemma = "corridor"
 new_items[which(new_items$uni_lemma=="cards"),]$uni_lemma = "card"
 new_items[which(new_items$uni_lemma=="keys"),]$uni_lemma = "key"
 
-
+new_items[which(new_items$uni_lemma=="skates"),]$uni_lemma = "skate (object)"
+new_items[which(new_items$uni_lemma=="lips"),]$uni_lemma = "lip"
+new_items[which(new_items$uni_lemma=="drum"),]$uni_lemma = "drum (object)"
+new_items[which(new_items$uni_lemma=="cut (action)"),]$uni_lemma = "cut"
+new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
 
 # save updated instruments
 new_ws <- update_instrument("Spanish_European", "WS", new_items %>% rename(itemID = WS))
