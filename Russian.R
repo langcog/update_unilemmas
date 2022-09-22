@@ -88,6 +88,16 @@ new_items[which(new_items$uni_lemma=="block"),]$uni_lemma = "blocks"
 new_items[which(new_items$uni_lemma=="like (action)"),]$uni_lemma = "like"
 new_items[which(new_items$uni_lemma=="wanna"),]$uni_lemma = "want"
 
+new_items[which(new_items$uni_lemma=="bug"),]$uni_lemma = "beetle"
+new_items[which(new_items$uni_lemma=="stallion"),]$uni_lemma = "horse"
+new_items[which(new_items$uni_lemma=="alligator"),]$uni_lemma = "crocodile"
+new_items[which(new_items$uni_lemma=="cereal"),]$uni_lemma = "porridge"
+new_items[which(new_items$WS=="item_159"),]$uni_lemma = "pie"
+new_items[which(new_items$uni_lemma=="hot dog"),]$uni_lemma = "sausage"
+new_items[which(new_items$uni_lemma=="penny"),]$uni_lemma = "coin"
+new_items[which(new_items$WS=="item_270"),]$uni_lemma = "handkerchief"
+new_items[which(new_items$uni_lemma=="ladder"),]$uni_lemma = "stairs" # more common
+
 
 # save updated instrument(s)
 new_ws <- update_instrument(language, "WS", new_items %>% rename(itemID = WS))
